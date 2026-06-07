@@ -88,7 +88,7 @@ dashboard-tools-10-ap-and-ar/
 |---|---|---|---|
 | 01 | Invoice Aging Dashboard | Power BI | ✅ Completado |
 | 02 | Vendor Payment Tracker | Excel | ✅ Completado |
-| 03 | Dispute Resolution Tracker | Excel | ⬜ Pendiente |
+| 03 | Dispute Resolution Tracker | Excel | ✅ Completado |
 
 ### Fase 2 — Base AR (Cobros y Clientes)
 > Foco: Cuentas por cobrar, eficiencia de cobro y riesgo crediticio.

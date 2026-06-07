@@ -1,0 +1,549 @@
+dispute_id,invoice_id,vendor_id,vendor_name,vendor_category,region,dispute_date,dispute_type,invoice_amount,dispute_amount,priority,assigned_to,status,days_open,resolution_date,resolution_days,resolution_outcome,credit_amount
+DIS-0001,INV-1001,VND-001,Acero Nacional SA,Materials,North,2025-01-11,Contract Terms,28264.73,4371.24,Low,Carlos Mendez,Resolved,141,2025-01-18,7,Full Credit,4371.24
+DIS-0002,INV-1002,VND-001,Acero Nacional SA,Materials,North,2025-02-09,Contract Terms,27102.78,13592.42,Medium,Valeria Moreno,Resolved,112,2025-04-28,78,Full Credit,13592.42
+DIS-0003,INV-1003,VND-001,Acero Nacional SA,Materials,North,2025-05-28,Missing Goods,77086.7,13085.04,Medium,Sofia Ruiz,Open,4,,,Pending,0.0
+DIS-0004,INV-1004,VND-001,Acero Nacional SA,Materials,North,2024-12-10,Missing Goods,14709.98,4927.04,Medium,Marta Lopez,Closed,173,2025-03-16,96,Partial Credit,1354.42
+DIS-0005,INV-1005,VND-001,Acero Nacional SA,Materials,North,2024-11-19,Missing Goods,12486.02,3369.77,Medium,Luis Herrera,Escalated,194,2024-11-27,8,Payment Adjusted,1379.0
+DIS-0006,INV-1006,VND-001,Acero Nacional SA,Materials,North,2025-04-21,Duplicate Invoice,86255.18,60366.79,Medium,Diego Castillo,In Progress,41,,,Pending,0.0
+DIS-0007,INV-1007,VND-001,Acero Nacional SA,Materials,North,2024-12-01,Contract Terms,24903.17,6231.6,Critical,Carlos Mendez,Resolved,182,2024-12-25,24,Partial Credit,2161.66
+DIS-0008,INV-1008,VND-001,Acero Nacional SA,Materials,North,2024-10-07,Service Quality,41048.27,32516.08,Medium,Luis Herrera,Escalated,237,2025-01-25,110,Payment Adjusted,3979.16
+DIS-0009,INV-1009,VND-001,Acero Nacional SA,Materials,North,2025-05-15,Service Quality,81479.35,28588.95,Low,Diego Castillo,Open,17,,,Pending,0.0
+DIS-0010,INV-1010,VND-001,Acero Nacional SA,Materials,North,2024-09-18,Missing Goods,42585.03,31338.78,Medium,Sofia Ruiz,Resolved,256,2024-12-01,74,Partial Credit,20314.06
+DIS-0011,INV-1011,VND-001,Acero Nacional SA,Materials,North,2024-10-24,Damaged Goods,90293.17,31562.01,Low,Juan Vargas,In Progress,220,,,Pending,0.0
+DIS-0012,INV-1012,VND-001,Acero Nacional SA,Materials,North,2025-05-07,Contract Terms,86804.78,14290.76,Low,Valeria Moreno,In Progress,25,,,Pending,0.0
+DIS-0013,INV-1013,VND-001,Acero Nacional SA,Materials,North,2024-11-15,Service Quality,41253.83,32883.06,Medium,Ana Torres,Escalated,198,2024-12-02,17,Payment Adjusted,10351.2
+DIS-0014,INV-1014,VND-001,Acero Nacional SA,Materials,North,2025-01-15,Damaged Goods,78016.88,23805.42,Medium,Juan Vargas,Open,137,,,Pending,0.0
+DIS-0015,INV-1015,VND-001,Acero Nacional SA,Materials,North,2025-01-17,Price Discrepancy,97329.37,60487.44,Medium,Marta Lopez,Closed,135,2025-03-25,67,Partial Credit,17644.4
+DIS-0016,INV-1016,VND-001,Acero Nacional SA,Materials,North,2025-03-10,Price Discrepancy,56241.01,35655.11,Medium,Diego Castillo,Resolved,83,2025-03-27,17,Pending,0.0
+DIS-0017,INV-1017,VND-001,Acero Nacional SA,Materials,North,2024-12-25,Price Discrepancy,27747.97,6400.17,Medium,Carlos Mendez,Escalated,158,2025-04-11,107,Full Credit,6400.17
+DIS-0018,INV-1018,VND-001,Acero Nacional SA,Materials,North,2024-09-01,Service Quality,77754.27,11374.95,Medium,Sofia Ruiz,Resolved,273,2024-12-24,114,Partial Credit,8856.74
+DIS-0019,INV-1019,VND-001,Acero Nacional SA,Materials,North,2024-08-28,Duplicate Invoice,76750.19,43548.11,High,Diego Castillo,Resolved,277,2024-11-05,69,Partial Credit,15187.11
+DIS-0020,INV-1020,VND-001,Acero Nacional SA,Materials,North,2025-04-29,Damaged Goods,37118.13,18233.6,Low,Ana Torres,Open,33,,,Pending,0.0
+DIS-0021,INV-1021,VND-002,TechSupplies Inc,IT,North,2025-04-27,Damaged Goods,91014.9,63230.47,Low,Marta Lopez,Resolved,35,2025-05-13,16,Partial Credit,40088.85
+DIS-0022,INV-1022,VND-002,TechSupplies Inc,IT,North,2024-08-12,Duplicate Invoice,59740.11,13874.52,Medium,Luis Herrera,In Progress,293,,,Pending,0.0
+DIS-0023,INV-1023,VND-002,TechSupplies Inc,IT,North,2024-06-28,Contract Terms,45949.86,16895.03,Medium,Ana Torres,Escalated,338,2024-09-21,85,Full Credit,16895.03
+DIS-0024,INV-1024,VND-002,TechSupplies Inc,IT,North,2024-11-06,Damaged Goods,74180.29,48250.15,Low,Luis Herrera,Resolved,207,2024-11-26,20,Partial Credit,17713.94
+DIS-0025,INV-1025,VND-002,TechSupplies Inc,IT,North,2025-01-24,Service Quality,88076.17,9383.52,High,Carlos Mendez,In Progress,128,,,Pending,0.0
+DIS-0026,INV-1026,VND-002,TechSupplies Inc,IT,North,2024-08-28,Damaged Goods,84422.62,65575.03,Critical,Sofia Ruiz,Resolved,277,2024-10-31,64,Full Credit,65575.03
+DIS-0027,INV-1027,VND-002,TechSupplies Inc,IT,North,2024-11-07,Duplicate Invoice,90732.07,15740.0,Low,Marta Lopez,Closed,206,2025-02-18,103,Partial Credit,7142.88
+DIS-0028,INV-1028,VND-002,TechSupplies Inc,IT,North,2024-08-20,Damaged Goods,67877.77,28169.52,Low,Ana Torres,Resolved,285,2024-10-31,72,Full Credit,28169.52
+DIS-0029,INV-1029,VND-002,TechSupplies Inc,IT,North,2024-12-22,Service Quality,10430.7,5091.57,Medium,Sofia Ruiz,In Progress,161,,,Pending,0.0
+DIS-0030,INV-1030,VND-002,TechSupplies Inc,IT,North,2024-09-13,Contract Terms,12610.59,2388.05,Medium,Luis Herrera,Resolved,261,2025-01-07,116,Partial Credit,1307.1
+DIS-0031,INV-1031,VND-002,TechSupplies Inc,IT,North,2025-05-11,Service Quality,63841.24,23264.94,Medium,Diego Castillo,Closed,21,2025-05-20,9,Payment Adjusted,5250.28
+DIS-0032,INV-1032,VND-002,TechSupplies Inc,IT,North,2025-01-16,Missing Goods,42599.66,23590.31,Medium,Carlos Mendez,Open,136,,,Pending,0.0
+DIS-0033,INV-1033,VND-002,TechSupplies Inc,IT,North,2024-07-17,Damaged Goods,99853.17,79590.2,Low,Marta Lopez,Resolved,319,2024-09-02,47,No Action,0.0
+DIS-0034,INV-1034,VND-002,TechSupplies Inc,IT,North,2025-01-26,Contract Terms,40105.07,6750.09,High,Marta Lopez,Resolved,126,2025-05-12,106,Payment Adjusted,696.13
+DIS-0035,INV-1035,VND-002,TechSupplies Inc,IT,North,2024-08-21,Damaged Goods,33440.98,18310.33,Critical,Marta Lopez,Resolved,284,2024-09-06,16,Payment Adjusted,2969.55
+DIS-0036,INV-1036,VND-002,TechSupplies Inc,IT,North,2025-01-07,Contract Terms,62458.83,36738.85,Low,Marta Lopez,Resolved,145,2025-02-11,35,No Action,0.0
+DIS-0037,INV-1037,VND-002,TechSupplies Inc,IT,North,2025-05-05,Price Discrepancy,13768.35,5062.37,Medium,Diego Castillo,Resolved,27,2025-05-28,23,Pending,0.0
+DIS-0038,INV-1038,VND-002,TechSupplies Inc,IT,North,2025-03-10,Price Discrepancy,75416.94,34975.38,Medium,Carlos Mendez,Open,83,,,Pending,0.0
+DIS-0039,INV-1039,VND-002,TechSupplies Inc,IT,North,2024-06-12,Service Quality,90873.21,41728.32,High,Sofia Ruiz,Resolved,354,2024-06-20,8,Full Credit,41728.32
+DIS-0040,INV-1040,VND-002,TechSupplies Inc,IT,North,2025-05-11,Price Discrepancy,90397.84,18762.74,Low,Diego Castillo,Resolved,21,2025-05-27,16,Pending,0.0
+DIS-0041,INV-1041,VND-002,TechSupplies Inc,IT,North,2025-03-13,Damaged Goods,92947.56,21150.5,Low,Valeria Moreno,Open,80,,,Pending,0.0
+DIS-0042,INV-1042,VND-002,TechSupplies Inc,IT,North,2024-12-12,Contract Terms,79326.72,28461.23,High,Luis Herrera,Resolved,171,2025-03-25,103,Payment Adjusted,7201.17
+DIS-0043,INV-1043,VND-002,TechSupplies Inc,IT,North,2025-05-12,Duplicate Invoice,86566.36,18769.78,High,Diego Castillo,Open,20,,,Pending,0.0
+DIS-0044,INV-1044,VND-002,TechSupplies Inc,IT,North,2025-02-04,Missing Goods,26177.74,14267.52,Medium,Carlos Mendez,Closed,117,2025-03-14,38,Full Credit,14267.52
+DIS-0045,INV-1045,VND-002,TechSupplies Inc,IT,North,2024-09-13,Price Discrepancy,42969.45,33768.07,Medium,Carlos Mendez,Closed,261,2024-10-19,36,Full Credit,33768.07
+DIS-0046,INV-1046,VND-002,TechSupplies Inc,IT,North,2025-01-16,Missing Goods,8634.43,4295.01,Medium,Valeria Moreno,Resolved,136,2025-03-25,68,Full Credit,4295.01
+DIS-0047,INV-1047,VND-002,TechSupplies Inc,IT,North,2024-08-09,Service Quality,23057.48,1920.46,Medium,Luis Herrera,Resolved,296,2024-08-20,11,Pending,0.0
+DIS-0048,INV-1048,VND-003,LogiExpress,Logistics,East,2024-06-26,Missing Goods,85561.45,50465.49,Medium,Valeria Moreno,Resolved,340,2024-09-26,92,Full Credit,50465.49
+DIS-0049,INV-1049,VND-003,LogiExpress,Logistics,East,2025-03-27,Contract Terms,23224.81,12743.39,Medium,Sofia Ruiz,Resolved,66,2025-05-07,41,Partial Credit,8923.37
+DIS-0050,INV-1050,VND-003,LogiExpress,Logistics,East,2024-12-27,Contract Terms,32256.8,12012.95,Medium,Diego Castillo,Resolved,156,2025-02-24,59,Payment Adjusted,3657.58
+DIS-0051,INV-1051,VND-003,LogiExpress,Logistics,East,2025-03-06,Service Quality,67590.82,17765.56,High,Diego Castillo,Open,87,,,Pending,0.0
+DIS-0052,INV-1052,VND-003,LogiExpress,Logistics,East,2025-01-31,Price Discrepancy,68915.59,15056.71,Low,Ana Torres,Resolved,121,2025-04-04,63,Partial Credit,9953.89
+DIS-0053,INV-1053,VND-003,LogiExpress,Logistics,East,2024-10-10,Contract Terms,44371.9,23176.51,Low,Valeria Moreno,Resolved,234,2024-11-13,34,Full Credit,23176.51
+DIS-0054,INV-1054,VND-003,LogiExpress,Logistics,East,2024-06-13,Price Discrepancy,5526.76,3389.14,High,Valeria Moreno,Resolved,353,2024-09-26,105,Pending,0.0
+DIS-0055,INV-1055,VND-003,LogiExpress,Logistics,East,2024-09-08,Price Discrepancy,49132.24,22996.56,Critical,Juan Vargas,Resolved,266,2024-11-09,62,Payment Adjusted,11386.91
+DIS-0056,INV-1056,VND-003,LogiExpress,Logistics,East,2024-07-31,Contract Terms,35143.31,21663.65,Medium,Valeria Moreno,Closed,305,2024-10-12,73,Partial Credit,6401.49
+DIS-0057,INV-1057,VND-003,LogiExpress,Logistics,East,2024-09-30,Missing Goods,47756.63,29314.58,High,Juan Vargas,Resolved,244,2024-11-07,38,Partial Credit,18413.28
+DIS-0058,INV-1058,VND-003,LogiExpress,Logistics,East,2025-01-31,Damaged Goods,30812.94,8929.04,Medium,Sofia Ruiz,Resolved,121,2025-05-02,91,Full Credit,8929.04
+DIS-0059,INV-1059,VND-003,LogiExpress,Logistics,East,2025-02-11,Duplicate Invoice,11101.74,3948.88,Medium,Ana Torres,Resolved,110,2025-04-08,56,Full Credit,3948.88
+DIS-0060,INV-1060,VND-003,LogiExpress,Logistics,East,2024-08-05,Service Quality,94875.89,6133.63,High,Valeria Moreno,Resolved,300,2024-09-22,48,Full Credit,6133.63
+DIS-0061,INV-1061,VND-003,LogiExpress,Logistics,East,2024-11-13,Contract Terms,86077.56,65855.6,Medium,Luis Herrera,Resolved,200,2024-12-20,37,Partial Credit,14317.99
+DIS-0062,INV-1062,VND-003,LogiExpress,Logistics,East,2024-12-10,Duplicate Invoice,68542.99,44457.45,High,Sofia Ruiz,Closed,173,2025-02-19,71,Full Credit,44457.45
+DIS-0063,INV-1063,VND-003,LogiExpress,Logistics,East,2024-11-11,Duplicate Invoice,61229.81,33508.0,Low,Sofia Ruiz,Closed,202,2024-12-07,26,Full Credit,33508.0
+DIS-0064,INV-1064,VND-003,LogiExpress,Logistics,East,2024-11-18,Duplicate Invoice,36098.5,14115.4,Medium,Marta Lopez,Escalated,195,2025-03-07,109,Partial Credit,9894.14
+DIS-0065,INV-1065,VND-003,LogiExpress,Logistics,East,2024-10-03,Missing Goods,6841.41,3109.86,Critical,Luis Herrera,Escalated,241,2025-01-13,102,Pending,0.0
+DIS-0066,INV-1066,VND-003,LogiExpress,Logistics,East,2025-05-11,Price Discrepancy,76652.15,58424.94,Low,Sofia Ruiz,Open,21,,,Pending,0.0
+DIS-0067,INV-1067,VND-003,LogiExpress,Logistics,East,2024-10-01,Contract Terms,68598.59,32445.57,Low,Marta Lopez,Escalated,243,2024-10-25,24,Partial Credit,25250.47
+DIS-0068,INV-1068,VND-003,LogiExpress,Logistics,East,2025-04-03,Service Quality,78890.23,13634.15,Medium,Ana Torres,Closed,59,2025-05-12,39,Payment Adjusted,6588.96
+DIS-0069,INV-1069,VND-003,LogiExpress,Logistics,East,2024-11-09,Contract Terms,94439.71,18769.64,Medium,Luis Herrera,Resolved,204,2025-02-18,101,Full Credit,18769.64
+DIS-0070,INV-1070,VND-003,LogiExpress,Logistics,East,2024-06-15,Price Discrepancy,62039.1,8734.57,Critical,Diego Castillo,Resolved,351,2024-09-10,87,Full Credit,8734.57
+DIS-0071,INV-1071,VND-003,LogiExpress,Logistics,East,2024-09-14,Duplicate Invoice,66516.61,3957.01,Medium,Carlos Mendez,Resolved,260,2024-11-02,49,Partial Credit,2758.92
+DIS-0072,INV-1072,VND-003,LogiExpress,Logistics,East,2024-06-03,Contract Terms,19534.16,3557.22,Medium,Marta Lopez,Resolved,363,2024-10-01,120,Partial Credit,1743.39
+DIS-0073,INV-1073,VND-003,LogiExpress,Logistics,East,2024-10-20,Damaged Goods,83444.79,41251.43,Medium,Carlos Mendez,Resolved,224,2024-12-19,60,Full Credit,41251.43
+DIS-0074,INV-1074,VND-003,LogiExpress,Logistics,East,2024-10-06,Duplicate Invoice,59135.72,32592.14,Medium,Diego Castillo,Resolved,238,2024-11-05,30,Full Credit,32592.14
+DIS-0075,INV-1075,VND-003,LogiExpress,Logistics,East,2025-01-19,Missing Goods,37332.19,26514.81,High,Ana Torres,Resolved,133,2025-02-15,27,Full Credit,26514.81
+DIS-0076,INV-1076,VND-003,LogiExpress,Logistics,East,2024-11-04,Contract Terms,51414.9,31806.46,High,Juan Vargas,Resolved,209,2024-11-09,5,Full Credit,31806.46
+DIS-0077,INV-1077,VND-003,LogiExpress,Logistics,East,2025-02-07,Missing Goods,43418.11,10093.79,High,Juan Vargas,Resolved,114,2025-03-26,47,Partial Credit,6536.35
+DIS-0078,INV-1078,VND-004,Grupo Servicios Pro,Services,East,2024-06-06,Contract Terms,48105.8,13468.05,Low,Luis Herrera,Resolved,360,2024-09-12,98,Partial Credit,8852.73
+DIS-0079,INV-1079,VND-004,Grupo Servicios Pro,Services,East,2025-02-26,Service Quality,23196.39,14009.54,Medium,Marta Lopez,Closed,95,2025-03-25,27,Full Credit,14009.54
+DIS-0080,INV-1080,VND-004,Grupo Servicios Pro,Services,East,2024-11-28,Missing Goods,22046.95,1336.29,Medium,Ana Torres,Closed,185,2025-02-09,73,Full Credit,1336.29
+DIS-0081,INV-1081,VND-004,Grupo Servicios Pro,Services,East,2025-03-28,Price Discrepancy,65597.62,40315.91,Low,Marta Lopez,Resolved,65,2025-04-28,31,Full Credit,40315.91
+DIS-0082,INV-1082,VND-004,Grupo Servicios Pro,Services,East,2025-05-05,Price Discrepancy,28985.45,20182.34,Low,Valeria Moreno,In Progress,27,,,Pending,0.0
+DIS-0083,INV-1083,VND-004,Grupo Servicios Pro,Services,East,2024-08-09,Service Quality,64797.34,5845.16,Low,Marta Lopez,In Progress,296,,,Pending,0.0
+DIS-0084,INV-1084,VND-004,Grupo Servicios Pro,Services,East,2025-01-24,Service Quality,16252.9,10130.96,Medium,Luis Herrera,Escalated,128,2025-03-16,51,Partial Credit,4717.31
+DIS-0085,INV-1085,VND-004,Grupo Servicios Pro,Services,East,2024-08-03,Service Quality,99052.97,27639.26,Medium,Carlos Mendez,Closed,302,2024-09-01,29,Partial Credit,9916.63
+DIS-0086,INV-1086,VND-004,Grupo Servicios Pro,Services,East,2025-04-20,Price Discrepancy,19920.42,3592.85,Low,Valeria Moreno,Resolved,42,2025-05-31,41,Partial Credit,788.93
+DIS-0087,INV-1087,VND-004,Grupo Servicios Pro,Services,East,2025-01-04,Contract Terms,72160.8,41654.15,Medium,Luis Herrera,Closed,148,2025-04-17,103,Payment Adjusted,13992.29
+DIS-0088,INV-1088,VND-004,Grupo Servicios Pro,Services,East,2025-02-19,Missing Goods,45388.2,20806.94,Medium,Sofia Ruiz,In Progress,102,,,Pending,0.0
+DIS-0089,INV-1089,VND-004,Grupo Servicios Pro,Services,East,2025-03-08,Missing Goods,80299.71,39851.38,High,Juan Vargas,Open,85,,,Pending,0.0
+DIS-0090,INV-1090,VND-004,Grupo Servicios Pro,Services,East,2024-06-13,Service Quality,33888.66,11924.79,Medium,Juan Vargas,Resolved,353,2024-08-31,79,Full Credit,11924.79
+DIS-0091,INV-1091,VND-004,Grupo Servicios Pro,Services,East,2024-10-22,Damaged Goods,74780.72,37598.64,Low,Ana Torres,Closed,222,2025-01-19,89,No Action,0.0
+DIS-0092,INV-1092,VND-004,Grupo Servicios Pro,Services,East,2024-08-09,Contract Terms,8822.01,5444.96,Medium,Juan Vargas,Closed,296,2024-09-04,26,Pending,0.0
+DIS-0093,INV-1093,VND-004,Grupo Servicios Pro,Services,East,2024-10-20,Missing Goods,65304.55,27349.18,Low,Valeria Moreno,Resolved,224,2025-01-16,88,Full Credit,27349.18
+DIS-0094,INV-1094,VND-004,Grupo Servicios Pro,Services,East,2025-03-10,Duplicate Invoice,36331.35,20718.14,Medium,Ana Torres,Resolved,83,2025-04-22,43,Full Credit,20718.14
+DIS-0095,INV-1095,VND-004,Grupo Servicios Pro,Services,East,2025-04-02,Price Discrepancy,97167.55,34312.9,Medium,Juan Vargas,Resolved,60,2025-04-17,15,Partial Credit,19681.2
+DIS-0096,INV-1096,VND-004,Grupo Servicios Pro,Services,East,2024-09-18,Service Quality,64413.83,39936.12,Low,Sofia Ruiz,Closed,256,2024-11-16,59,No Action,0.0
+DIS-0097,INV-1097,VND-004,Grupo Servicios Pro,Services,East,2024-09-25,Damaged Goods,16535.48,12895.36,Medium,Sofia Ruiz,Resolved,249,2024-09-29,4,Partial Credit,3300.25
+DIS-0098,INV-1098,VND-004,Grupo Servicios Pro,Services,East,2025-04-03,Duplicate Invoice,48837.55,6744.45,High,Marta Lopez,Resolved,59,2025-04-23,20,Partial Credit,3301.41
+DIS-0099,INV-1099,VND-004,Grupo Servicios Pro,Services,East,2024-10-02,Service Quality,28154.44,13048.14,Medium,Sofia Ruiz,Closed,242,2024-11-09,38,Payment Adjusted,5764.21
+DIS-0100,INV-1100,VND-004,Grupo Servicios Pro,Services,East,2024-12-08,Missing Goods,93753.6,40389.36,High,Marta Lopez,Closed,175,2025-02-23,77,Pending,0.0
+DIS-0101,INV-1101,VND-004,Grupo Servicios Pro,Services,East,2024-09-23,Missing Goods,87199.76,33564.11,Medium,Valeria Moreno,Resolved,251,2024-11-06,44,No Action,0.0
+DIS-0102,INV-1102,VND-004,Grupo Servicios Pro,Services,East,2024-06-08,Duplicate Invoice,27686.53,9336.68,High,Ana Torres,Resolved,358,2024-08-10,63,Payment Adjusted,3964.01
+DIS-0103,INV-1103,VND-004,Grupo Servicios Pro,Services,East,2024-11-15,Damaged Goods,98899.33,63720.37,High,Juan Vargas,Closed,198,2024-12-04,19,Partial Credit,35307.98
+DIS-0104,INV-1104,VND-004,Grupo Servicios Pro,Services,East,2025-04-10,Duplicate Invoice,88048.09,33478.5,Medium,Ana Torres,Escalated,52,2025-05-09,29,No Action,0.0
+DIS-0105,INV-1105,VND-004,Grupo Servicios Pro,Services,East,2025-03-13,Service Quality,12108.68,7702.86,Medium,Valeria Moreno,Resolved,80,2025-04-27,45,No Action,0.0
+DIS-0106,INV-1106,VND-004,Grupo Servicios Pro,Services,East,2024-08-31,Duplicate Invoice,41100.89,11816.34,High,Ana Torres,Resolved,274,2024-10-03,33,Partial Credit,8892.47
+DIS-0107,INV-1107,VND-004,Grupo Servicios Pro,Services,East,2025-02-04,Contract Terms,75942.8,28514.9,Low,Carlos Mendez,Resolved,117,2025-05-06,91,Full Credit,28514.9
+DIS-0108,INV-1108,VND-004,Grupo Servicios Pro,Services,East,2025-05-17,Missing Goods,9369.14,6062.84,Medium,Valeria Moreno,Open,15,,,Pending,0.0
+DIS-0109,INV-1109,VND-005,EnergyPlus Corp,Utilities,Central,2024-08-15,Service Quality,69771.04,12910.62,Low,Valeria Moreno,Resolved,290,2024-09-17,33,Partial Credit,7099.48
+DIS-0110,INV-1110,VND-005,EnergyPlus Corp,Utilities,Central,2025-02-02,Price Discrepancy,48809.24,11737.79,Medium,Juan Vargas,Closed,119,2025-05-02,89,Partial Credit,2867.74
+DIS-0111,INV-1111,VND-005,EnergyPlus Corp,Utilities,Central,2024-12-06,Contract Terms,98826.91,27114.71,Critical,Marta Lopez,Resolved,177,2025-01-16,41,Full Credit,27114.71
+DIS-0112,INV-1112,VND-005,EnergyPlus Corp,Utilities,Central,2024-11-16,Missing Goods,86066.87,11187.83,Medium,Marta Lopez,Closed,197,2024-12-26,40,Full Credit,11187.83
+DIS-0113,INV-1113,VND-005,EnergyPlus Corp,Utilities,Central,2024-06-28,Contract Terms,42601.55,2388.82,High,Ana Torres,Closed,338,2024-10-04,98,Partial Credit,1773.68
+DIS-0114,INV-1114,VND-005,EnergyPlus Corp,Utilities,Central,2025-01-05,Damaged Goods,78695.39,17516.71,High,Luis Herrera,Resolved,147,2025-04-04,89,Payment Adjusted,7129.1
+DIS-0115,INV-1115,VND-005,EnergyPlus Corp,Utilities,Central,2024-06-17,Contract Terms,84642.03,44114.25,Critical,Ana Torres,Resolved,349,2024-08-15,59,Full Credit,44114.25
+DIS-0116,INV-1116,VND-005,EnergyPlus Corp,Utilities,Central,2024-11-26,Contract Terms,74574.18,8769.93,Medium,Valeria Moreno,Resolved,187,2024-12-15,19,Payment Adjusted,3951.59
+DIS-0117,INV-1117,VND-005,EnergyPlus Corp,Utilities,Central,2024-11-25,Missing Goods,55430.98,40748.16,High,Juan Vargas,Closed,188,2025-01-04,40,Payment Adjusted,9595.63
+DIS-0118,INV-1118,VND-005,EnergyPlus Corp,Utilities,Central,2025-04-03,Damaged Goods,49491.48,5269.58,High,Valeria Moreno,Closed,59,2025-05-27,54,Partial Credit,1339.43
+DIS-0119,INV-1119,VND-005,EnergyPlus Corp,Utilities,Central,2024-11-10,Contract Terms,6322.27,2860.38,Medium,Marta Lopez,Resolved,203,2025-02-26,108,Partial Credit,1209.61
+DIS-0120,INV-1120,VND-005,EnergyPlus Corp,Utilities,Central,2024-06-20,Service Quality,27213.08,1871.4,High,Diego Castillo,Closed,346,2024-07-21,31,Partial Credit,1087.74
+DIS-0121,INV-1121,VND-005,EnergyPlus Corp,Utilities,Central,2024-10-06,Damaged Goods,91391.83,25282.88,Medium,Ana Torres,Closed,238,2024-11-16,41,Pending,0.0
+DIS-0122,INV-1122,VND-005,EnergyPlus Corp,Utilities,Central,2025-04-02,Duplicate Invoice,14233.24,10183.09,Low,Diego Castillo,Resolved,60,2025-05-22,50,Payment Adjusted,3218.64
+DIS-0123,INV-1123,VND-005,EnergyPlus Corp,Utilities,Central,2024-08-04,Price Discrepancy,75515.56,12527.44,Medium,Juan Vargas,Resolved,301,2024-09-11,38,Full Credit,12527.44
+DIS-0124,INV-1124,VND-005,EnergyPlus Corp,Utilities,Central,2024-11-23,Missing Goods,25640.62,9833.74,Low,Carlos Mendez,Closed,190,2025-01-12,50,Partial Credit,7736.26
+DIS-0125,INV-1125,VND-005,EnergyPlus Corp,Utilities,Central,2024-11-29,Duplicate Invoice,10752.26,2762.37,Critical,Carlos Mendez,Escalated,184,2025-02-22,85,Partial Credit,2161.99
+DIS-0126,INV-1126,VND-005,EnergyPlus Corp,Utilities,Central,2025-05-06,Service Quality,79745.49,18554.92,Low,Luis Herrera,Open,26,,,Pending,0.0
+DIS-0127,INV-1127,VND-005,EnergyPlus Corp,Utilities,Central,2024-08-21,Missing Goods,24679.95,5231.25,High,Sofia Ruiz,Escalated,284,2024-11-08,79,Full Credit,5231.25
+DIS-0128,INV-1128,VND-005,EnergyPlus Corp,Utilities,Central,2025-03-18,Price Discrepancy,98815.09,44976.83,High,Ana Torres,Open,75,,,Pending,0.0
+DIS-0129,INV-1129,VND-005,EnergyPlus Corp,Utilities,Central,2024-11-29,Damaged Goods,80048.54,18286.99,Medium,Marta Lopez,In Progress,184,,,Pending,0.0
+DIS-0130,INV-1130,VND-005,EnergyPlus Corp,Utilities,Central,2024-10-28,Missing Goods,54978.13,33495.37,Medium,Carlos Mendez,Resolved,216,2024-11-28,31,Pending,0.0
+DIS-0131,INV-1131,VND-005,EnergyPlus Corp,Utilities,Central,2025-05-09,Missing Goods,74088.08,54200.15,High,Juan Vargas,In Progress,23,,,Pending,0.0
+DIS-0132,INV-1132,VND-005,EnergyPlus Corp,Utilities,Central,2025-05-16,Contract Terms,10778.41,4410.92,Medium,Carlos Mendez,In Progress,16,,,Pending,0.0
+DIS-0133,INV-1133,VND-005,EnergyPlus Corp,Utilities,Central,2024-10-16,Price Discrepancy,11981.62,1325.08,Medium,Sofia Ruiz,Resolved,228,2025-01-08,84,Partial Credit,831.21
+DIS-0134,INV-1134,VND-005,EnergyPlus Corp,Utilities,Central,2024-11-17,Service Quality,99489.64,44563.16,Medium,Valeria Moreno,In Progress,196,,,Pending,0.0
+DIS-0135,INV-1135,VND-005,EnergyPlus Corp,Utilities,Central,2024-06-06,Service Quality,15869.34,8585.86,High,Luis Herrera,Resolved,360,2024-09-30,116,Full Credit,8585.86
+DIS-0136,INV-1136,VND-005,EnergyPlus Corp,Utilities,Central,2024-12-09,Missing Goods,83604.83,29182.07,High,Valeria Moreno,Resolved,174,2025-01-13,35,Full Credit,29182.07
+DIS-0137,INV-1137,VND-005,EnergyPlus Corp,Utilities,Central,2025-03-14,Price Discrepancy,70248.0,28499.68,Low,Carlos Mendez,Resolved,79,2025-05-03,50,No Action,0.0
+DIS-0138,INV-1138,VND-005,EnergyPlus Corp,Utilities,Central,2024-08-20,Contract Terms,10698.19,8210.52,Medium,Carlos Mendez,Resolved,285,2024-12-12,114,Payment Adjusted,3285.14
+DIS-0139,INV-1139,VND-005,EnergyPlus Corp,Utilities,Central,2025-05-05,Service Quality,96997.87,48528.77,Medium,Luis Herrera,Open,27,,,Pending,0.0
+DIS-0140,INV-1140,VND-005,EnergyPlus Corp,Utilities,Central,2024-09-27,Missing Goods,26303.26,3450.04,High,Carlos Mendez,Escalated,247,2024-12-12,76,Full Credit,3450.04
+DIS-0141,INV-1141,VND-005,EnergyPlus Corp,Utilities,Central,2024-10-24,Service Quality,85289.74,66603.61,High,Ana Torres,Resolved,220,2025-01-19,87,No Action,0.0
+DIS-0142,INV-1142,VND-006,MegaParts Ltd,Materials,East,2025-02-28,Missing Goods,30960.69,19251.58,Critical,Ana Torres,Resolved,93,2025-03-21,21,Partial Credit,8479.76
+DIS-0143,INV-1143,VND-006,MegaParts Ltd,Materials,East,2025-03-20,Service Quality,75392.06,58719.69,Low,Luis Herrera,Resolved,73,2025-05-20,61,Full Credit,58719.69
+DIS-0144,INV-1144,VND-006,MegaParts Ltd,Materials,East,2024-11-23,Service Quality,34605.55,10149.36,Critical,Carlos Mendez,Closed,190,2024-12-15,22,Full Credit,10149.36
+DIS-0145,INV-1145,VND-006,MegaParts Ltd,Materials,East,2024-07-19,Duplicate Invoice,9727.44,1081.56,Medium,Juan Vargas,Resolved,317,2024-09-13,56,Full Credit,1081.56
+DIS-0146,INV-1146,VND-006,MegaParts Ltd,Materials,East,2024-09-11,Contract Terms,15812.66,5889.19,Medium,Juan Vargas,Resolved,263,2024-10-23,42,Full Credit,5889.19
+DIS-0147,INV-1147,VND-006,MegaParts Ltd,Materials,East,2024-11-10,Damaged Goods,98522.34,8974.05,Low,Sofia Ruiz,Escalated,203,2024-12-20,40,Full Credit,8974.05
+DIS-0148,INV-1148,VND-006,MegaParts Ltd,Materials,East,2025-05-28,Service Quality,52251.61,19489.39,Low,Luis Herrera,Open,4,,,Pending,0.0
+DIS-0149,INV-1149,VND-006,MegaParts Ltd,Materials,East,2024-06-23,Price Discrepancy,81589.02,8489.88,High,Valeria Moreno,Open,343,,,Pending,0.0
+DIS-0150,INV-1150,VND-006,MegaParts Ltd,Materials,East,2025-04-22,Contract Terms,86900.45,41870.32,Medium,Valeria Moreno,In Progress,40,,,Pending,0.0
+DIS-0151,INV-1151,VND-006,MegaParts Ltd,Materials,East,2024-11-05,Service Quality,6981.37,2049.56,High,Juan Vargas,Closed,208,2025-03-05,120,Full Credit,2049.56
+DIS-0152,INV-1152,VND-006,MegaParts Ltd,Materials,East,2024-10-20,Service Quality,85226.01,19813.97,Medium,Carlos Mendez,Resolved,224,2024-12-01,42,Payment Adjusted,3737.49
+DIS-0153,INV-1153,VND-006,MegaParts Ltd,Materials,East,2025-03-06,Damaged Goods,12256.04,6433.42,Medium,Diego Castillo,Resolved,87,2025-05-30,85,No Action,0.0
+DIS-0154,INV-1154,VND-006,MegaParts Ltd,Materials,East,2025-01-31,Damaged Goods,14766.43,3573.12,Low,Carlos Mendez,Resolved,121,2025-05-12,101,Partial Credit,1709.28
+DIS-0155,INV-1155,VND-006,MegaParts Ltd,Materials,East,2024-08-16,Service Quality,77188.33,29847.1,Critical,Diego Castillo,Closed,289,2024-11-07,83,Full Credit,29847.1
+DIS-0156,INV-1156,VND-006,MegaParts Ltd,Materials,East,2024-10-18,Missing Goods,11487.19,4384.16,Medium,Ana Torres,Resolved,226,2024-10-30,12,Full Credit,4384.16
+DIS-0157,INV-1157,VND-006,MegaParts Ltd,Materials,East,2024-10-12,Contract Terms,8572.69,2799.44,Medium,Carlos Mendez,Resolved,232,2024-12-18,67,Full Credit,2799.44
+DIS-0158,INV-1158,VND-006,MegaParts Ltd,Materials,East,2024-08-07,Duplicate Invoice,57660.06,37125.2,High,Luis Herrera,Resolved,298,2024-10-09,63,Partial Credit,28758.42
+DIS-0159,INV-1159,VND-006,MegaParts Ltd,Materials,East,2024-10-13,Contract Terms,14832.68,10743.98,Medium,Carlos Mendez,Resolved,231,2024-11-07,25,Full Credit,10743.98
+DIS-0160,INV-1160,VND-006,MegaParts Ltd,Materials,East,2024-06-03,Damaged Goods,46587.04,17682.87,Medium,Diego Castillo,Resolved,363,2024-07-12,39,Full Credit,17682.87
+DIS-0161,INV-1161,VND-006,MegaParts Ltd,Materials,East,2024-12-09,Missing Goods,69495.28,6204.13,Medium,Carlos Mendez,Resolved,174,2025-02-21,74,Payment Adjusted,1325.57
+DIS-0162,INV-1162,VND-007,CloudSoft Solutions,IT,Central,2024-12-12,Missing Goods,12742.69,6979.29,Critical,Valeria Moreno,Resolved,171,2025-03-15,93,Pending,0.0
+DIS-0163,INV-1163,VND-007,CloudSoft Solutions,IT,Central,2024-12-24,Damaged Goods,58097.6,30943.94,Medium,Carlos Mendez,Resolved,159,2025-02-19,57,Partial Credit,6527.26
+DIS-0164,INV-1164,VND-007,CloudSoft Solutions,IT,Central,2024-12-24,Duplicate Invoice,22124.98,4660.51,Critical,Luis Herrera,Resolved,159,2025-01-13,20,Full Credit,4660.51
+DIS-0165,INV-1165,VND-007,CloudSoft Solutions,IT,Central,2024-12-31,Contract Terms,85220.7,10725.5,High,Ana Torres,Escalated,152,2025-04-25,115,Payment Adjusted,1634.78
+DIS-0166,INV-1166,VND-007,CloudSoft Solutions,IT,Central,2024-11-20,Service Quality,19654.01,3648.46,High,Sofia Ruiz,Escalated,193,2024-11-28,8,Partial Credit,2210.3
+DIS-0167,INV-1167,VND-007,CloudSoft Solutions,IT,Central,2025-01-30,Duplicate Invoice,97110.92,49327.16,High,Luis Herrera,Resolved,122,2025-03-13,42,Pending,0.0
+DIS-0168,INV-1168,VND-007,CloudSoft Solutions,IT,Central,2024-10-03,Service Quality,90877.56,17767.67,High,Juan Vargas,Resolved,241,2024-11-11,39,Payment Adjusted,5350.96
+DIS-0169,INV-1169,VND-007,CloudSoft Solutions,IT,Central,2024-10-29,Damaged Goods,96795.47,64143.3,High,Marta Lopez,In Progress,215,,,Pending,0.0
+DIS-0170,INV-1170,VND-007,CloudSoft Solutions,IT,Central,2024-09-27,Service Quality,88041.11,41018.84,Low,Carlos Mendez,Resolved,247,2025-01-05,100,Full Credit,41018.84
+DIS-0171,INV-1171,VND-007,CloudSoft Solutions,IT,Central,2024-10-13,Damaged Goods,91004.09,14607.2,Medium,Juan Vargas,Closed,231,2024-10-19,6,Partial Credit,6396.09
+DIS-0172,INV-1172,VND-007,CloudSoft Solutions,IT,Central,2024-11-21,Price Discrepancy,27398.92,21806.64,Medium,Diego Castillo,Closed,192,2025-03-11,110,Payment Adjusted,5105.29
+DIS-0173,INV-1173,VND-007,CloudSoft Solutions,IT,Central,2025-03-18,Contract Terms,18071.96,4791.95,High,Sofia Ruiz,Escalated,75,2025-05-20,63,Partial Credit,973.49
+DIS-0174,INV-1174,VND-007,CloudSoft Solutions,IT,Central,2025-04-21,Contract Terms,6805.37,1440.98,Low,Valeria Moreno,Open,41,,,Pending,0.0
+DIS-0175,INV-1175,VND-007,CloudSoft Solutions,IT,Central,2025-01-04,Contract Terms,27575.82,3898.84,Low,Juan Vargas,In Progress,148,,,Pending,0.0
+DIS-0176,INV-1176,VND-007,CloudSoft Solutions,IT,Central,2024-09-18,Damaged Goods,61690.21,3844.94,Medium,Sofia Ruiz,Resolved,256,2024-09-21,3,Partial Credit,1323.96
+DIS-0177,INV-1177,VND-007,CloudSoft Solutions,IT,Central,2024-10-30,Missing Goods,22794.82,12563.62,Medium,Carlos Mendez,Closed,214,2025-01-10,72,Partial Credit,9962.94
+DIS-0178,INV-1178,VND-007,CloudSoft Solutions,IT,Central,2024-08-21,Duplicate Invoice,6931.76,4886.88,Low,Diego Castillo,Resolved,284,2024-08-26,5,Full Credit,4886.88
+DIS-0179,INV-1179,VND-007,CloudSoft Solutions,IT,Central,2025-04-27,Service Quality,37756.24,22642.63,Medium,Diego Castillo,Open,35,,,Pending,0.0
+DIS-0180,INV-1180,VND-007,CloudSoft Solutions,IT,Central,2024-12-02,Contract Terms,56871.31,37542.55,Low,Juan Vargas,Closed,181,2025-02-04,64,Partial Credit,25787.93
+DIS-0181,INV-1181,VND-007,CloudSoft Solutions,IT,Central,2025-04-29,Damaged Goods,73024.28,55330.78,Low,Ana Torres,Escalated,33,2025-05-30,31,Full Credit,55330.78
+DIS-0182,INV-1182,VND-007,CloudSoft Solutions,IT,Central,2024-12-24,Missing Goods,53961.44,42728.94,Medium,Ana Torres,Escalated,159,2025-01-20,27,Full Credit,42728.94
+DIS-0183,INV-1183,VND-007,CloudSoft Solutions,IT,Central,2025-05-07,Missing Goods,87250.84,26083.07,Low,Valeria Moreno,Escalated,25,2025-05-24,17,No Action,0.0
+DIS-0184,INV-1184,VND-007,CloudSoft Solutions,IT,Central,2024-11-15,Missing Goods,37208.48,7073.81,High,Marta Lopez,Closed,198,2025-02-19,96,Partial Credit,3242.38
+DIS-0185,INV-1185,VND-007,CloudSoft Solutions,IT,Central,2025-02-28,Contract Terms,56820.07,16529.45,Low,Marta Lopez,Resolved,93,2025-05-19,80,Payment Adjusted,2754.76
+DIS-0186,INV-1186,VND-008,Rapi Cargo SA,Logistics,West,2024-10-15,Duplicate Invoice,9023.74,6339.43,Medium,Marta Lopez,Resolved,229,2025-01-27,104,Pending,0.0
+DIS-0187,INV-1187,VND-008,Rapi Cargo SA,Logistics,West,2025-04-23,Contract Terms,68762.47,24387.14,Medium,Sofia Ruiz,Closed,39,2025-05-05,12,No Action,0.0
+DIS-0188,INV-1188,VND-008,Rapi Cargo SA,Logistics,West,2024-06-18,Contract Terms,79224.64,6028.93,Low,Diego Castillo,Resolved,348,2024-09-01,75,Full Credit,6028.93
+DIS-0189,INV-1189,VND-008,Rapi Cargo SA,Logistics,West,2025-03-14,Price Discrepancy,69510.9,52940.73,Medium,Sofia Ruiz,Resolved,79,2025-05-06,53,Full Credit,52940.73
+DIS-0190,INV-1190,VND-008,Rapi Cargo SA,Logistics,West,2025-01-09,Duplicate Invoice,28713.11,3878.75,High,Valeria Moreno,Closed,143,2025-01-27,18,Full Credit,3878.75
+DIS-0191,INV-1191,VND-008,Rapi Cargo SA,Logistics,West,2025-01-18,Contract Terms,71883.59,15162.25,Medium,Juan Vargas,Resolved,134,2025-02-07,20,No Action,0.0
+DIS-0192,INV-1192,VND-008,Rapi Cargo SA,Logistics,West,2024-10-12,Contract Terms,21402.35,12520.96,Critical,Diego Castillo,Escalated,232,2025-01-13,93,Full Credit,12520.96
+DIS-0193,INV-1193,VND-008,Rapi Cargo SA,Logistics,West,2024-08-27,Contract Terms,32584.42,8959.66,Low,Sofia Ruiz,Escalated,278,2024-11-03,68,Full Credit,8959.66
+DIS-0194,INV-1194,VND-008,Rapi Cargo SA,Logistics,West,2025-02-18,Missing Goods,80246.24,18260.2,Medium,Diego Castillo,Resolved,103,2025-05-02,73,Full Credit,18260.2
+DIS-0195,INV-1195,VND-008,Rapi Cargo SA,Logistics,West,2025-04-17,Duplicate Invoice,11246.07,3920.6,High,Valeria Moreno,Escalated,45,2025-05-26,39,Full Credit,3920.6
+DIS-0196,INV-1196,VND-008,Rapi Cargo SA,Logistics,West,2024-12-20,Missing Goods,66022.17,25582.33,High,Sofia Ruiz,Closed,163,2025-04-01,102,Partial Credit,14138.63
+DIS-0197,INV-1197,VND-008,Rapi Cargo SA,Logistics,West,2025-03-26,Price Discrepancy,46098.74,33791.95,Low,Sofia Ruiz,Resolved,67,2025-04-18,23,Full Credit,33791.95
+DIS-0198,INV-1198,VND-008,Rapi Cargo SA,Logistics,West,2024-06-02,Missing Goods,26419.68,20095.13,Medium,Carlos Mendez,Resolved,364,2024-08-25,84,Pending,0.0
+DIS-0199,INV-1199,VND-008,Rapi Cargo SA,Logistics,West,2025-01-11,Service Quality,16891.18,4680.86,Medium,Sofia Ruiz,Resolved,141,2025-03-29,77,Full Credit,4680.86
+DIS-0200,INV-1200,VND-008,Rapi Cargo SA,Logistics,West,2024-06-28,Service Quality,64325.52,46732.53,Medium,Ana Torres,Closed,338,2024-07-04,6,Full Credit,46732.53
+DIS-0201,INV-1201,VND-008,Rapi Cargo SA,Logistics,West,2024-07-07,Service Quality,78247.13,19443.78,Low,Valeria Moreno,Resolved,329,2024-07-13,6,Partial Credit,11205.42
+DIS-0202,INV-1202,VND-008,Rapi Cargo SA,Logistics,West,2025-01-03,Contract Terms,65981.19,18248.46,Low,Valeria Moreno,Resolved,149,2025-01-15,12,Payment Adjusted,2978.74
+DIS-0203,INV-1203,VND-008,Rapi Cargo SA,Logistics,West,2024-10-31,Missing Goods,51003.86,10354.66,Medium,Diego Castillo,Escalated,213,2025-02-21,113,Full Credit,10354.66
+DIS-0204,INV-1204,VND-008,Rapi Cargo SA,Logistics,West,2024-11-08,Missing Goods,17422.78,5713.02,Medium,Luis Herrera,Resolved,205,2024-12-15,37,Partial Credit,1625.51
+DIS-0205,INV-1205,VND-008,Rapi Cargo SA,Logistics,West,2025-05-06,Damaged Goods,32570.14,11012.37,Medium,Sofia Ruiz,Escalated,26,2025-05-27,21,Payment Adjusted,1937.45
+DIS-0206,INV-1206,VND-008,Rapi Cargo SA,Logistics,West,2025-03-11,Missing Goods,52335.23,22820.44,Medium,Juan Vargas,Open,82,,,Pending,0.0
+DIS-0207,INV-1207,VND-008,Rapi Cargo SA,Logistics,West,2024-11-11,Missing Goods,53017.22,41089.14,Low,Ana Torres,In Progress,202,,,Pending,0.0
+DIS-0208,INV-1208,VND-008,Rapi Cargo SA,Logistics,West,2024-09-20,Missing Goods,61764.28,42131.72,High,Ana Torres,Closed,254,2024-11-17,58,Full Credit,42131.72
+DIS-0209,INV-1209,VND-008,Rapi Cargo SA,Logistics,West,2025-01-16,Duplicate Invoice,74113.27,46164.61,Medium,Ana Torres,Resolved,136,2025-02-12,27,Full Credit,46164.61
+DIS-0210,INV-1210,VND-008,Rapi Cargo SA,Logistics,West,2025-01-04,Missing Goods,11985.52,5132.1,High,Carlos Mendez,Resolved,148,2025-01-19,15,Full Credit,5132.1
+DIS-0211,INV-1211,VND-008,Rapi Cargo SA,Logistics,West,2024-12-09,Service Quality,57994.02,18801.94,Low,Valeria Moreno,Resolved,174,2024-12-17,8,Full Credit,18801.94
+DIS-0212,INV-1212,VND-008,Rapi Cargo SA,Logistics,West,2024-12-12,Service Quality,81376.76,35765.05,Low,Sofia Ruiz,Resolved,171,2025-03-03,81,Full Credit,35765.05
+DIS-0213,INV-1213,VND-008,Rapi Cargo SA,Logistics,West,2024-11-11,Missing Goods,99108.5,59910.05,Medium,Juan Vargas,Escalated,202,2024-12-22,41,Partial Credit,12580.04
+DIS-0214,INV-1214,VND-008,Rapi Cargo SA,Logistics,West,2024-12-13,Contract Terms,69011.61,54168.84,Medium,Ana Torres,Resolved,170,2025-01-18,36,Pending,0.0
+DIS-0215,INV-1215,VND-008,Rapi Cargo SA,Logistics,West,2024-08-08,Damaged Goods,59875.27,35389.28,Medium,Valeria Moreno,Resolved,297,2024-11-06,90,Full Credit,35389.28
+DIS-0216,INV-1216,VND-008,Rapi Cargo SA,Logistics,West,2024-08-11,Missing Goods,95079.49,12590.58,Low,Valeria Moreno,Resolved,294,2024-11-10,91,Full Credit,12590.58
+DIS-0217,INV-1217,VND-009,Consulting Masters,Services,Central,2025-04-30,Contract Terms,72048.65,31630.25,Medium,Juan Vargas,Resolved,32,2025-05-13,13,Pending,0.0
+DIS-0218,INV-1218,VND-009,Consulting Masters,Services,Central,2024-10-08,Contract Terms,91651.8,28113.76,Medium,Marta Lopez,Resolved,236,2024-11-04,27,Pending,0.0
+DIS-0219,INV-1219,VND-009,Consulting Masters,Services,Central,2025-01-09,Missing Goods,58018.23,12685.7,Critical,Marta Lopez,Escalated,143,2025-04-10,91,Payment Adjusted,2877.32
+DIS-0220,INV-1220,VND-009,Consulting Masters,Services,Central,2024-12-04,Missing Goods,58246.32,43735.07,High,Carlos Mendez,Resolved,179,2025-02-14,72,Full Credit,43735.07
+DIS-0221,INV-1221,VND-009,Consulting Masters,Services,Central,2024-11-10,Missing Goods,82745.86,63379.74,High,Ana Torres,Resolved,203,2025-02-12,94,Full Credit,63379.74
+DIS-0222,INV-1222,VND-009,Consulting Masters,Services,Central,2024-10-17,Service Quality,67317.34,41097.5,Low,Marta Lopez,Closed,227,2025-01-17,92,Full Credit,41097.5
+DIS-0223,INV-1223,VND-009,Consulting Masters,Services,Central,2025-04-06,Contract Terms,63489.32,31117.57,Low,Luis Herrera,Resolved,56,2025-04-12,6,Full Credit,31117.57
+DIS-0224,INV-1224,VND-009,Consulting Masters,Services,Central,2024-12-13,Price Discrepancy,73149.02,9173.52,High,Sofia Ruiz,Resolved,170,2025-04-07,115,No Action,0.0
+DIS-0225,INV-1225,VND-009,Consulting Masters,Services,Central,2024-09-29,Missing Goods,66801.18,41211.87,Medium,Ana Torres,Closed,245,2024-10-13,14,Payment Adjusted,7949.28
+DIS-0226,INV-1226,VND-009,Consulting Masters,Services,Central,2025-05-12,Damaged Goods,91756.82,16635.38,High,Ana Torres,Closed,20,2025-05-27,15,Payment Adjusted,2903.28
+DIS-0227,INV-1227,VND-009,Consulting Masters,Services,Central,2025-01-03,Price Discrepancy,88290.6,5028.18,Medium,Diego Castillo,Resolved,149,2025-03-29,85,Partial Credit,2495.72
+DIS-0228,INV-1228,VND-009,Consulting Masters,Services,Central,2025-03-24,Price Discrepancy,85850.68,34427.46,Low,Diego Castillo,In Progress,69,,,Pending,0.0
+DIS-0229,INV-1229,VND-009,Consulting Masters,Services,Central,2024-10-09,Missing Goods,66587.11,39216.39,Low,Marta Lopez,Resolved,235,2025-01-16,99,Full Credit,39216.39
+DIS-0230,INV-1230,VND-009,Consulting Masters,Services,Central,2024-07-23,Service Quality,86333.92,62400.61,High,Diego Castillo,In Progress,313,,,Pending,0.0
+DIS-0231,INV-1231,VND-009,Consulting Masters,Services,Central,2024-06-23,Damaged Goods,14061.59,11056.12,Medium,Ana Torres,Resolved,343,2024-07-26,33,Partial Credit,3982.38
+DIS-0232,INV-1232,VND-009,Consulting Masters,Services,Central,2024-12-14,Contract Terms,33684.85,19946.88,Low,Diego Castillo,Escalated,169,2024-12-24,10,Payment Adjusted,5707.96
+DIS-0233,INV-1233,VND-009,Consulting Masters,Services,Central,2025-03-11,Contract Terms,43514.58,18575.95,High,Marta Lopez,Resolved,82,2025-04-20,40,Full Credit,18575.95
+DIS-0234,INV-1234,VND-009,Consulting Masters,Services,Central,2025-02-07,Contract Terms,25817.22,3877.14,Low,Diego Castillo,Resolved,114,2025-04-21,73,No Action,0.0
+DIS-0235,INV-1235,VND-009,Consulting Masters,Services,Central,2024-08-29,Contract Terms,81189.52,54332.24,High,Carlos Mendez,Resolved,276,2024-11-07,70,Payment Adjusted,7130.62
+DIS-0236,INV-1236,VND-009,Consulting Masters,Services,Central,2024-08-16,Damaged Goods,15659.84,10516.84,Critical,Sofia Ruiz,Resolved,289,2024-12-06,112,Partial Credit,2836.85
+DIS-0237,INV-1237,VND-009,Consulting Masters,Services,Central,2025-02-15,Duplicate Invoice,73107.21,30458.0,High,Ana Torres,Resolved,106,2025-04-24,68,Partial Credit,16396.96
+DIS-0238,INV-1238,VND-009,Consulting Masters,Services,Central,2024-08-18,Duplicate Invoice,48925.94,32055.62,High,Marta Lopez,Closed,287,2024-11-24,98,Full Credit,32055.62
+DIS-0239,INV-1239,VND-009,Consulting Masters,Services,Central,2025-04-24,Price Discrepancy,9302.53,2868.87,Low,Carlos Mendez,Closed,38,2025-05-27,33,Full Credit,2868.87
+DIS-0240,INV-1240,VND-009,Consulting Masters,Services,Central,2024-11-03,Contract Terms,22098.23,3349.47,Medium,Valeria Moreno,Resolved,210,2025-02-28,117,Full Credit,3349.47
+DIS-0241,INV-1241,VND-009,Consulting Masters,Services,Central,2024-11-19,Service Quality,40686.33,22867.66,High,Sofia Ruiz,Escalated,194,2025-01-05,47,Full Credit,22867.66
+DIS-0242,INV-1242,VND-009,Consulting Masters,Services,Central,2024-08-29,Price Discrepancy,42340.57,6160.99,Critical,Ana Torres,Closed,276,2024-10-30,62,Payment Adjusted,1957.83
+DIS-0243,INV-1243,VND-009,Consulting Masters,Services,Central,2024-09-01,Damaged Goods,41031.26,9119.12,Medium,Marta Lopez,Resolved,273,2024-12-25,115,Payment Adjusted,1323.53
+DIS-0244,INV-1244,VND-009,Consulting Masters,Services,Central,2024-06-27,Price Discrepancy,44827.86,27996.8,High,Luis Herrera,Resolved,339,2024-07-12,15,Partial Credit,13098.71
+DIS-0245,INV-1245,VND-009,Consulting Masters,Services,Central,2024-06-21,Duplicate Invoice,71812.2,6212.28,High,Juan Vargas,Resolved,345,2024-07-21,30,Payment Adjusted,2549.68
+DIS-0246,INV-1246,VND-009,Consulting Masters,Services,Central,2025-03-21,Contract Terms,52870.11,14113.55,High,Diego Castillo,Resolved,72,2025-05-04,44,Full Credit,14113.55
+DIS-0247,INV-1247,VND-009,Consulting Masters,Services,Central,2025-03-19,Missing Goods,98641.08,43494.63,Medium,Ana Torres,Resolved,74,2025-04-13,25,Partial Credit,19847.48
+DIS-0248,INV-1248,VND-009,Consulting Masters,Services,Central,2024-09-20,Duplicate Invoice,9453.99,2914.77,Medium,Diego Castillo,Escalated,254,2024-11-14,55,Full Credit,2914.77
+DIS-0249,INV-1249,VND-009,Consulting Masters,Services,Central,2024-11-20,Damaged Goods,22468.5,10188.26,Low,Marta Lopez,Closed,193,2024-12-11,21,No Action,0.0
+DIS-0250,INV-1250,VND-009,Consulting Masters,Services,Central,2025-05-02,Damaged Goods,58426.67,45329.73,Medium,Valeria Moreno,Open,30,,,Pending,0.0
+DIS-0251,INV-1251,VND-009,Consulting Masters,Services,Central,2025-02-16,Missing Goods,36374.98,3975.89,Medium,Carlos Mendez,Resolved,105,2025-03-15,27,Full Credit,3975.89
+DIS-0252,INV-1252,VND-010,AquaServ,Utilities,West,2025-04-24,Service Quality,22875.51,14211.92,High,Luis Herrera,Resolved,38,2025-05-18,24,Full Credit,14211.92
+DIS-0253,INV-1253,VND-010,AquaServ,Utilities,West,2025-05-24,Contract Terms,25121.74,4836.38,High,Juan Vargas,In Progress,8,,,Pending,0.0
+DIS-0254,INV-1254,VND-010,AquaServ,Utilities,West,2024-06-09,Service Quality,62418.15,12694.91,Critical,Diego Castillo,Escalated,357,2024-07-30,51,Partial Credit,7480.26
+DIS-0255,INV-1255,VND-010,AquaServ,Utilities,West,2024-12-25,Price Discrepancy,29848.35,12972.46,Medium,Juan Vargas,Escalated,158,2025-02-06,43,No Action,0.0
+DIS-0256,INV-1256,VND-010,AquaServ,Utilities,West,2024-11-23,Contract Terms,34727.59,2927.07,High,Sofia Ruiz,Open,190,,,Pending,0.0
+DIS-0257,INV-1257,VND-010,AquaServ,Utilities,West,2024-08-21,Damaged Goods,93802.03,45433.69,Medium,Luis Herrera,Resolved,284,2024-10-11,51,Partial Credit,15785.39
+DIS-0258,INV-1258,VND-010,AquaServ,Utilities,West,2024-08-23,Duplicate Invoice,67187.76,37869.37,Medium,Juan Vargas,Resolved,282,2024-11-27,96,Payment Adjusted,6350.93
+DIS-0259,INV-1259,VND-010,AquaServ,Utilities,West,2024-08-25,Contract Terms,51390.05,37909.13,Medium,Ana Torres,Resolved,280,2024-12-13,110,No Action,0.0
+DIS-0260,INV-1260,VND-010,AquaServ,Utilities,West,2024-06-23,Contract Terms,9608.87,526.45,Low,Luis Herrera,In Progress,343,,,Pending,0.0
+DIS-0261,INV-1261,VND-010,AquaServ,Utilities,West,2025-03-15,Service Quality,5868.44,2519.32,Medium,Juan Vargas,Resolved,78,2025-03-20,5,Full Credit,2519.32
+DIS-0262,INV-1262,VND-010,AquaServ,Utilities,West,2024-08-22,Service Quality,44077.16,2756.79,High,Marta Lopez,Open,283,,,Pending,0.0
+DIS-0263,INV-1263,VND-010,AquaServ,Utilities,West,2024-06-08,Price Discrepancy,69033.13,45190.87,Critical,Carlos Mendez,Resolved,358,2024-07-11,33,Full Credit,45190.87
+DIS-0264,INV-1264,VND-010,AquaServ,Utilities,West,2024-09-04,Price Discrepancy,28979.73,9152.69,High,Diego Castillo,Closed,270,2024-11-04,61,Partial Credit,7268.52
+DIS-0265,INV-1265,VND-010,AquaServ,Utilities,West,2025-02-05,Contract Terms,33497.59,22478.44,Low,Ana Torres,In Progress,116,,,Pending,0.0
+DIS-0266,INV-1266,VND-010,AquaServ,Utilities,West,2024-11-18,Contract Terms,40831.11,16618.42,Medium,Sofia Ruiz,In Progress,195,,,Pending,0.0
+DIS-0267,INV-1267,VND-010,AquaServ,Utilities,West,2024-10-21,Price Discrepancy,66266.19,19777.34,Critical,Ana Torres,Resolved,223,2025-02-16,118,No Action,0.0
+DIS-0268,INV-1268,VND-010,AquaServ,Utilities,West,2024-08-14,Missing Goods,50172.53,4260.73,Low,Ana Torres,Resolved,291,2024-12-03,111,Full Credit,4260.73
+DIS-0269,INV-1269,VND-010,AquaServ,Utilities,West,2025-02-14,Duplicate Invoice,60768.43,37323.41,High,Carlos Mendez,Resolved,107,2025-04-30,75,Full Credit,37323.41
+DIS-0270,INV-1270,VND-010,AquaServ,Utilities,West,2024-11-13,Contract Terms,69318.32,31569.08,Medium,Sofia Ruiz,Escalated,200,2025-02-12,91,Payment Adjusted,9480.74
+DIS-0271,INV-1271,VND-010,AquaServ,Utilities,West,2024-12-05,Missing Goods,10101.16,3816.38,High,Valeria Moreno,Closed,178,2025-01-18,44,Full Credit,3816.38
+DIS-0272,INV-1272,VND-010,AquaServ,Utilities,West,2025-01-12,Service Quality,79437.07,30814.64,Low,Valeria Moreno,Resolved,140,2025-04-12,90,Partial Credit,13190.01
+DIS-0273,INV-1273,VND-011,SteelBuild Co,Materials,Central,2025-01-25,Contract Terms,72745.31,8113.18,Low,Sofia Ruiz,Escalated,127,2025-03-09,43,Full Credit,8113.18
+DIS-0274,INV-1274,VND-011,SteelBuild Co,Materials,Central,2025-04-15,Missing Goods,5493.55,1544.79,Medium,Carlos Mendez,Open,47,,,Pending,0.0
+DIS-0275,INV-1275,VND-011,SteelBuild Co,Materials,Central,2025-02-25,Price Discrepancy,45943.05,21489.35,Medium,Ana Torres,In Progress,96,,,Pending,0.0
+DIS-0276,INV-1276,VND-011,SteelBuild Co,Materials,Central,2024-08-21,Duplicate Invoice,13841.1,6900.24,Medium,Ana Torres,Resolved,284,2024-10-12,52,Payment Adjusted,2690.66
+DIS-0277,INV-1277,VND-011,SteelBuild Co,Materials,Central,2024-08-18,Damaged Goods,90994.72,71306.17,Medium,Valeria Moreno,Resolved,287,2024-09-24,37,Full Credit,71306.17
+DIS-0278,INV-1278,VND-011,SteelBuild Co,Materials,Central,2024-09-21,Missing Goods,18863.81,3308.82,Medium,Juan Vargas,Escalated,253,2024-11-09,49,Full Credit,3308.82
+DIS-0279,INV-1279,VND-011,SteelBuild Co,Materials,Central,2025-01-25,Duplicate Invoice,73485.45,30999.97,Medium,Carlos Mendez,Resolved,127,2025-01-28,3,Pending,0.0
+DIS-0280,INV-1280,VND-011,SteelBuild Co,Materials,Central,2024-12-12,Duplicate Invoice,84953.27,28452.33,High,Diego Castillo,Resolved,171,2025-03-30,108,No Action,0.0
+DIS-0281,INV-1281,VND-011,SteelBuild Co,Materials,Central,2024-07-31,Damaged Goods,17931.82,5209.17,Critical,Juan Vargas,Resolved,305,2024-09-22,53,Pending,0.0
+DIS-0282,INV-1282,VND-011,SteelBuild Co,Materials,Central,2025-01-02,Damaged Goods,74813.06,39252.68,Critical,Diego Castillo,Resolved,150,2025-04-19,107,Payment Adjusted,9656.4
+DIS-0283,INV-1283,VND-011,SteelBuild Co,Materials,Central,2024-08-16,Service Quality,23981.0,19135.61,Low,Ana Torres,Closed,289,2024-10-17,62,Pending,0.0
+DIS-0284,INV-1284,VND-011,SteelBuild Co,Materials,Central,2025-02-13,Duplicate Invoice,46653.22,12526.32,High,Juan Vargas,Resolved,108,2025-03-26,41,Full Credit,12526.32
+DIS-0285,INV-1285,VND-011,SteelBuild Co,Materials,Central,2024-06-28,Duplicate Invoice,19643.61,7216.0,Medium,Juan Vargas,Resolved,338,2024-09-07,71,Partial Credit,5428.13
+DIS-0286,INV-1286,VND-011,SteelBuild Co,Materials,Central,2024-06-11,Contract Terms,44738.57,3470.54,Critical,Carlos Mendez,Resolved,355,2024-07-15,34,Payment Adjusted,839.88
+DIS-0287,INV-1287,VND-011,SteelBuild Co,Materials,Central,2024-07-04,Contract Terms,63204.4,29858.72,Medium,Valeria Moreno,Closed,332,2024-08-18,45,Pending,0.0
+DIS-0288,INV-1288,VND-011,SteelBuild Co,Materials,Central,2024-10-23,Contract Terms,15064.73,1867.35,Low,Luis Herrera,Resolved,221,2024-12-15,53,Partial Credit,1134.85
+DIS-0289,INV-1289,VND-011,SteelBuild Co,Materials,Central,2024-06-12,Price Discrepancy,52544.25,16221.75,Low,Marta Lopez,Resolved,354,2024-06-25,13,Full Credit,16221.75
+DIS-0290,INV-1290,VND-011,SteelBuild Co,Materials,Central,2025-03-20,Service Quality,38091.22,11705.43,High,Juan Vargas,Resolved,73,2025-04-04,15,Partial Credit,7234.63
+DIS-0291,INV-1291,VND-011,SteelBuild Co,Materials,Central,2024-12-19,Price Discrepancy,11381.56,950.5,High,Diego Castillo,Resolved,164,2025-03-18,89,No Action,0.0
+DIS-0292,INV-1292,VND-011,SteelBuild Co,Materials,Central,2025-01-27,Duplicate Invoice,54019.42,25061.38,Medium,Juan Vargas,Resolved,125,2025-03-22,54,Partial Credit,7814.94
+DIS-0293,INV-1293,VND-011,SteelBuild Co,Materials,Central,2024-06-29,Damaged Goods,46052.77,3310.93,Medium,Juan Vargas,Resolved,337,2024-08-20,52,Full Credit,3310.93
+DIS-0294,INV-1294,VND-011,SteelBuild Co,Materials,Central,2025-02-11,Price Discrepancy,24549.53,15079.4,High,Carlos Mendez,Escalated,110,2025-04-23,71,Full Credit,15079.4
+DIS-0295,INV-1295,VND-011,SteelBuild Co,Materials,Central,2024-12-16,Duplicate Invoice,23722.06,3213.54,High,Diego Castillo,Resolved,167,2025-03-07,81,Full Credit,3213.54
+DIS-0296,INV-1296,VND-011,SteelBuild Co,Materials,Central,2025-04-03,Contract Terms,38052.84,26033.41,Medium,Marta Lopez,Closed,59,2025-05-13,40,Full Credit,26033.41
+DIS-0297,INV-1297,VND-011,SteelBuild Co,Materials,Central,2025-03-24,Missing Goods,34752.65,7955.91,Low,Sofia Ruiz,Resolved,69,2025-05-19,56,Partial Credit,4335.05
+DIS-0298,INV-1298,VND-011,SteelBuild Co,Materials,Central,2024-10-27,Contract Terms,22646.6,11926.29,High,Sofia Ruiz,Resolved,217,2024-12-31,65,Full Credit,11926.29
+DIS-0299,INV-1299,VND-011,SteelBuild Co,Materials,Central,2025-02-25,Missing Goods,34885.1,13544.17,Low,Ana Torres,Resolved,96,2025-03-24,27,No Action,0.0
+DIS-0300,INV-1300,VND-011,SteelBuild Co,Materials,Central,2024-08-17,Duplicate Invoice,53016.61,22332.05,High,Juan Vargas,Resolved,288,2024-08-30,13,Partial Credit,15130.6
+DIS-0301,INV-1301,VND-011,SteelBuild Co,Materials,Central,2025-02-08,Damaged Goods,32748.54,8388.2,Medium,Juan Vargas,Resolved,113,2025-05-20,101,Payment Adjusted,2683.31
+DIS-0302,INV-1302,VND-012,DataCenter Pro,IT,North,2025-01-14,Price Discrepancy,78635.74,52486.38,Medium,Juan Vargas,Resolved,138,2025-03-12,57,Full Credit,52486.38
+DIS-0303,INV-1303,VND-012,DataCenter Pro,IT,North,2024-07-01,Duplicate Invoice,76377.82,20872.66,Critical,Marta Lopez,Resolved,335,2024-10-16,107,Full Credit,20872.66
+DIS-0304,INV-1304,VND-012,DataCenter Pro,IT,North,2025-04-01,Service Quality,78685.01,17917.33,High,Diego Castillo,Closed,61,2025-05-13,42,Partial Credit,5367.83
+DIS-0305,INV-1305,VND-012,DataCenter Pro,IT,North,2025-03-21,Service Quality,79560.68,52521.78,High,Diego Castillo,Resolved,72,2025-05-31,71,Full Credit,52521.78
+DIS-0306,INV-1306,VND-012,DataCenter Pro,IT,North,2024-06-05,Service Quality,32800.3,15729.44,Critical,Carlos Mendez,Resolved,361,2024-09-12,99,Payment Adjusted,7353.63
+DIS-0307,INV-1307,VND-012,DataCenter Pro,IT,North,2025-01-10,Damaged Goods,87369.52,12683.09,High,Sofia Ruiz,Escalated,142,2025-04-29,109,Full Credit,12683.09
+DIS-0308,INV-1308,VND-012,DataCenter Pro,IT,North,2024-06-19,Contract Terms,42306.57,6626.42,Medium,Valeria Moreno,Resolved,347,2024-07-01,12,Partial Credit,4824.53
+DIS-0309,INV-1309,VND-012,DataCenter Pro,IT,North,2025-04-14,Missing Goods,43270.82,26496.96,High,Juan Vargas,Closed,48,2025-05-07,23,Partial Credit,19113.44
+DIS-0310,INV-1310,VND-012,DataCenter Pro,IT,North,2025-04-14,Missing Goods,74438.53,29316.64,High,Carlos Mendez,Escalated,48,2025-05-12,28,Full Credit,29316.64
+DIS-0311,INV-1311,VND-012,DataCenter Pro,IT,North,2024-10-24,Missing Goods,83360.53,35097.8,Medium,Diego Castillo,Resolved,220,2024-11-12,19,Partial Credit,17240.14
+DIS-0312,INV-1312,VND-012,DataCenter Pro,IT,North,2024-12-07,Contract Terms,89944.69,55917.76,Low,Juan Vargas,Open,176,,,Pending,0.0
+DIS-0313,INV-1313,VND-012,DataCenter Pro,IT,North,2025-03-12,Damaged Goods,46922.17,2369.9,Critical,Sofia Ruiz,Closed,81,2025-04-22,41,Full Credit,2369.9
+DIS-0314,INV-1314,VND-012,DataCenter Pro,IT,North,2025-01-11,Contract Terms,13867.3,4442.06,Low,Sofia Ruiz,In Progress,141,,,Pending,0.0
+DIS-0315,INV-1315,VND-012,DataCenter Pro,IT,North,2024-07-15,Contract Terms,34023.38,19549.19,Low,Carlos Mendez,Escalated,321,2024-07-18,3,Full Credit,19549.19
+DIS-0316,INV-1316,VND-012,DataCenter Pro,IT,North,2025-04-22,Price Discrepancy,17606.48,3867.14,High,Ana Torres,Resolved,40,2025-05-02,10,Pending,0.0
+DIS-0317,INV-1317,VND-012,DataCenter Pro,IT,North,2024-10-27,Price Discrepancy,70932.95,28960.16,Low,Carlos Mendez,Resolved,217,2024-12-16,50,No Action,0.0
+DIS-0318,INV-1318,VND-012,DataCenter Pro,IT,North,2025-03-22,Contract Terms,41358.5,27297.68,High,Sofia Ruiz,Open,71,,,Pending,0.0
+DIS-0319,INV-1319,VND-012,DataCenter Pro,IT,North,2024-08-16,Contract Terms,5805.1,3120.33,Medium,Luis Herrera,Resolved,289,2024-09-07,22,No Action,0.0
+DIS-0320,INV-1320,VND-012,DataCenter Pro,IT,North,2024-07-20,Price Discrepancy,70223.79,48803.56,Low,Sofia Ruiz,Escalated,316,2024-10-06,78,Payment Adjusted,11742.83
+DIS-0321,INV-1321,VND-012,DataCenter Pro,IT,North,2024-10-24,Price Discrepancy,34877.85,5401.62,Medium,Luis Herrera,Resolved,220,2025-01-11,79,Payment Adjusted,1155.78
+DIS-0322,INV-1322,VND-012,DataCenter Pro,IT,North,2024-06-12,Damaged Goods,7548.32,5172.88,High,Luis Herrera,Escalated,354,2024-07-22,40,Partial Credit,3467.28
+DIS-0323,INV-1323,VND-012,DataCenter Pro,IT,North,2025-01-29,Service Quality,52014.33,6998.93,Medium,Carlos Mendez,Resolved,123,2025-02-02,4,Pending,0.0
+DIS-0324,INV-1324,VND-012,DataCenter Pro,IT,North,2024-12-20,Missing Goods,17538.37,12199.87,Medium,Sofia Ruiz,Escalated,163,2025-03-31,101,Full Credit,12199.87
+DIS-0325,INV-1325,VND-013,FreightKing,Logistics,Central,2025-05-24,Duplicate Invoice,29907.6,2388.72,Low,Marta Lopez,Open,8,,,Pending,0.0
+DIS-0326,INV-1326,VND-013,FreightKing,Logistics,Central,2024-09-17,Contract Terms,77875.45,28633.36,Medium,Sofia Ruiz,Resolved,257,2024-10-29,42,Full Credit,28633.36
+DIS-0327,INV-1327,VND-013,FreightKing,Logistics,Central,2025-02-16,Service Quality,97559.77,16246.91,Medium,Carlos Mendez,Resolved,105,2025-04-15,58,Payment Adjusted,7125.69
+DIS-0328,INV-1328,VND-013,FreightKing,Logistics,Central,2025-05-02,Service Quality,28225.58,20984.89,Low,Ana Torres,Open,30,,,Pending,0.0
+DIS-0329,INV-1329,VND-013,FreightKing,Logistics,Central,2024-06-29,Contract Terms,75362.53,10519.27,High,Ana Torres,Resolved,337,2024-08-15,47,Partial Credit,7045.73
+DIS-0330,INV-1330,VND-013,FreightKing,Logistics,Central,2025-01-19,Missing Goods,20861.48,3029.04,High,Carlos Mendez,Escalated,133,2025-01-25,6,Full Credit,3029.04
+DIS-0331,INV-1331,VND-013,FreightKing,Logistics,Central,2024-10-24,Service Quality,30838.16,3019.18,High,Carlos Mendez,Resolved,220,2024-12-31,68,Full Credit,3019.18
+DIS-0332,INV-1332,VND-013,FreightKing,Logistics,Central,2024-09-18,Price Discrepancy,86639.18,15175.81,Low,Carlos Mendez,Resolved,256,2024-11-25,68,Full Credit,15175.81
+DIS-0333,INV-1333,VND-013,FreightKing,Logistics,Central,2025-05-25,Damaged Goods,28232.39,11400.9,Medium,Sofia Ruiz,In Progress,7,,,Pending,0.0
+DIS-0334,INV-1334,VND-013,FreightKing,Logistics,Central,2025-05-13,Duplicate Invoice,57522.15,42305.28,High,Luis Herrera,Open,19,,,Pending,0.0
+DIS-0335,INV-1335,VND-013,FreightKing,Logistics,Central,2024-10-30,Service Quality,92006.2,26677.32,High,Diego Castillo,Resolved,214,2025-01-27,89,No Action,0.0
+DIS-0336,INV-1336,VND-013,FreightKing,Logistics,Central,2025-03-01,Duplicate Invoice,26202.58,11446.09,Low,Carlos Mendez,Closed,92,2025-04-09,39,Payment Adjusted,2567.12
+DIS-0337,INV-1337,VND-013,FreightKing,Logistics,Central,2025-04-17,Service Quality,57543.68,3221.12,Low,Marta Lopez,Escalated,45,2025-05-05,18,Partial Credit,1787.77
+DIS-0338,INV-1338,VND-013,FreightKing,Logistics,Central,2024-09-21,Service Quality,99789.78,63058.61,High,Luis Herrera,Resolved,253,2024-11-15,55,Full Credit,63058.61
+DIS-0339,INV-1339,VND-013,FreightKing,Logistics,Central,2024-08-27,Missing Goods,37910.25,25766.86,High,Ana Torres,Escalated,278,2024-10-17,51,No Action,0.0
+DIS-0340,INV-1340,VND-013,FreightKing,Logistics,Central,2024-12-25,Duplicate Invoice,14875.16,6654.56,Low,Ana Torres,Closed,158,2025-01-15,21,Payment Adjusted,913.08
+DIS-0341,INV-1341,VND-013,FreightKing,Logistics,Central,2025-02-02,Missing Goods,90242.31,39690.32,High,Juan Vargas,Closed,119,2025-02-15,13,Partial Credit,19974.42
+DIS-0342,INV-1342,VND-013,FreightKing,Logistics,Central,2024-07-09,Duplicate Invoice,82896.47,8797.21,Medium,Sofia Ruiz,Resolved,327,2024-08-14,36,No Action,0.0
+DIS-0343,INV-1343,VND-013,FreightKing,Logistics,Central,2024-11-11,Missing Goods,71568.93,43049.76,Medium,Luis Herrera,In Progress,202,,,Pending,0.0
+DIS-0344,INV-1344,VND-013,FreightKing,Logistics,Central,2025-02-17,Price Discrepancy,17930.63,11253.44,Low,Sofia Ruiz,Resolved,104,2025-04-01,43,Partial Credit,5869.28
+DIS-0345,INV-1345,VND-013,FreightKing,Logistics,Central,2025-02-14,Price Discrepancy,47932.12,19053.49,High,Sofia Ruiz,Closed,107,2025-03-27,41,No Action,0.0
+DIS-0346,INV-1346,VND-013,FreightKing,Logistics,Central,2024-06-09,Damaged Goods,62313.74,13164.75,High,Carlos Mendez,Escalated,357,2024-07-27,48,Full Credit,13164.75
+DIS-0347,INV-1347,VND-014,FacilityPro,Services,North,2025-01-18,Duplicate Invoice,82908.51,14956.76,Critical,Luis Herrera,In Progress,134,,,Pending,0.0
+DIS-0348,INV-1348,VND-014,FacilityPro,Services,North,2025-04-09,Damaged Goods,81370.19,12599.75,Low,Sofia Ruiz,In Progress,53,,,Pending,0.0
+DIS-0349,INV-1349,VND-014,FacilityPro,Services,North,2024-11-07,Service Quality,40362.78,21098.56,Medium,Marta Lopez,Closed,206,2024-11-19,12,Full Credit,21098.56
+DIS-0350,INV-1350,VND-014,FacilityPro,Services,North,2025-04-28,Price Discrepancy,23786.28,12713.53,High,Diego Castillo,Open,34,,,Pending,0.0
+DIS-0351,INV-1351,VND-014,FacilityPro,Services,North,2024-10-07,Contract Terms,9810.58,7290.23,Medium,Valeria Moreno,Resolved,237,2024-11-27,51,Payment Adjusted,1232.94
+DIS-0352,INV-1352,VND-014,FacilityPro,Services,North,2025-02-11,Damaged Goods,91288.9,23391.53,Medium,Ana Torres,Resolved,110,2025-05-03,81,Full Credit,23391.53
+DIS-0353,INV-1353,VND-014,FacilityPro,Services,North,2024-12-31,Price Discrepancy,52394.7,37309.42,Medium,Marta Lopez,Resolved,152,2025-02-25,56,Full Credit,37309.42
+DIS-0354,INV-1354,VND-014,FacilityPro,Services,North,2024-09-04,Price Discrepancy,28669.04,22808.1,Medium,Valeria Moreno,Escalated,270,2024-10-22,48,Partial Credit,15255.45
+DIS-0355,INV-1355,VND-014,FacilityPro,Services,North,2024-12-06,Damaged Goods,91704.32,39138.94,Medium,Ana Torres,Resolved,177,2025-01-06,31,Full Credit,39138.94
+DIS-0356,INV-1356,VND-014,FacilityPro,Services,North,2025-01-08,Service Quality,10566.17,8385.82,Medium,Luis Herrera,Closed,144,2025-01-23,15,Full Credit,8385.82
+DIS-0357,INV-1357,VND-014,FacilityPro,Services,North,2025-01-28,Price Discrepancy,30320.07,20078.37,Critical,Luis Herrera,Resolved,124,2025-05-13,105,Full Credit,20078.37
+DIS-0358,INV-1358,VND-014,FacilityPro,Services,North,2025-03-04,Contract Terms,21729.53,10742.85,High,Diego Castillo,Closed,89,2025-03-10,6,Payment Adjusted,2585.51
+DIS-0359,INV-1359,VND-014,FacilityPro,Services,North,2024-08-14,Duplicate Invoice,58542.62,27651.53,Low,Marta Lopez,Resolved,291,2024-08-21,7,Full Credit,27651.53
+DIS-0360,INV-1360,VND-014,FacilityPro,Services,North,2025-02-01,Missing Goods,62157.96,4036.91,Medium,Luis Herrera,Closed,120,2025-03-19,46,Payment Adjusted,1887.31
+DIS-0361,INV-1361,VND-014,FacilityPro,Services,North,2024-12-17,Damaged Goods,10657.82,1713.61,High,Carlos Mendez,Closed,166,2025-04-09,113,Full Credit,1713.61
+DIS-0362,INV-1362,VND-014,FacilityPro,Services,North,2025-04-24,Price Discrepancy,40491.12,30629.2,Medium,Diego Castillo,Resolved,38,2025-05-05,11,Pending,0.0
+DIS-0363,INV-1363,VND-014,FacilityPro,Services,North,2024-10-20,Damaged Goods,80225.04,61813.12,Medium,Diego Castillo,Resolved,224,2025-01-06,78,No Action,0.0
+DIS-0364,INV-1364,VND-014,FacilityPro,Services,North,2024-11-19,Contract Terms,34148.21,19340.65,Low,Ana Torres,Closed,194,2025-02-03,76,Full Credit,19340.65
+DIS-0365,INV-1365,VND-014,FacilityPro,Services,North,2024-08-14,Service Quality,8076.36,4052.65,Critical,Luis Herrera,Resolved,291,2024-08-30,16,Pending,0.0
+DIS-0366,INV-1366,VND-014,FacilityPro,Services,North,2025-03-20,Missing Goods,36461.0,3950.73,Medium,Sofia Ruiz,Resolved,73,2025-04-03,14,No Action,0.0
+DIS-0367,INV-1367,VND-014,FacilityPro,Services,North,2024-06-22,Missing Goods,65714.76,46985.41,Medium,Luis Herrera,Resolved,344,2024-07-03,11,Full Credit,46985.41
+DIS-0368,INV-1368,VND-014,FacilityPro,Services,North,2025-04-06,Duplicate Invoice,73439.29,6323.9,Medium,Sofia Ruiz,Closed,56,2025-05-10,34,No Action,0.0
+DIS-0369,INV-1369,VND-014,FacilityPro,Services,North,2024-12-03,Service Quality,56872.28,7169.97,Medium,Luis Herrera,Resolved,180,2024-12-15,12,Payment Adjusted,812.82
+DIS-0370,INV-1370,VND-014,FacilityPro,Services,North,2025-05-21,Damaged Goods,35278.11,26943.54,Low,Valeria Moreno,Open,11,,,Pending,0.0
+DIS-0371,INV-1371,VND-014,FacilityPro,Services,North,2025-04-23,Service Quality,56969.39,41222.66,Low,Juan Vargas,Escalated,39,2025-05-23,30,Pending,0.0
+DIS-0372,INV-1372,VND-014,FacilityPro,Services,North,2025-03-08,Missing Goods,62695.17,23551.46,Low,Luis Herrera,Closed,85,2025-05-02,55,Payment Adjusted,9157.17
+DIS-0373,INV-1373,VND-014,FacilityPro,Services,North,2024-08-28,Price Discrepancy,30200.15,7886.54,Low,Valeria Moreno,Resolved,277,2024-12-16,110,Partial Credit,1835.22
+DIS-0374,INV-1374,VND-014,FacilityPro,Services,North,2025-05-30,Service Quality,45622.57,12359.71,High,Juan Vargas,Open,2,,,Pending,0.0
+DIS-0375,INV-1375,VND-014,FacilityPro,Services,North,2025-05-18,Duplicate Invoice,24660.53,13036.62,Critical,Carlos Mendez,Open,14,,,Pending,0.0
+DIS-0376,INV-1376,VND-015,PowerGrid SA,Utilities,West,2024-09-23,Duplicate Invoice,90013.36,22391.12,Medium,Sofia Ruiz,Resolved,251,2024-11-13,51,Full Credit,22391.12
+DIS-0377,INV-1377,VND-015,PowerGrid SA,Utilities,West,2024-10-15,Missing Goods,9238.61,3508.87,Medium,Ana Torres,Resolved,229,2025-01-15,92,Payment Adjusted,471.18
+DIS-0378,INV-1378,VND-015,PowerGrid SA,Utilities,West,2024-12-06,Damaged Goods,81777.11,29479.83,High,Ana Torres,Closed,177,2025-03-23,107,Partial Credit,22975.89
+DIS-0379,INV-1379,VND-015,PowerGrid SA,Utilities,West,2024-06-14,Duplicate Invoice,87354.93,35476.43,High,Marta Lopez,In Progress,352,,,Pending,0.0
+DIS-0380,INV-1380,VND-015,PowerGrid SA,Utilities,West,2025-05-14,Contract Terms,52699.64,38225.23,High,Sofia Ruiz,Open,18,,,Pending,0.0
+DIS-0381,INV-1381,VND-015,PowerGrid SA,Utilities,West,2024-10-14,Damaged Goods,21423.5,16887.63,Critical,Sofia Ruiz,Open,230,,,Pending,0.0
+DIS-0382,INV-1382,VND-015,PowerGrid SA,Utilities,West,2025-04-21,Contract Terms,98886.59,37235.24,Critical,Sofia Ruiz,Escalated,41,2025-05-10,19,Full Credit,37235.24
+DIS-0383,INV-1383,VND-015,PowerGrid SA,Utilities,West,2025-04-27,Missing Goods,13267.61,6199.6,Medium,Juan Vargas,Closed,35,2025-04-30,3,Payment Adjusted,2165.04
+DIS-0384,INV-1384,VND-015,PowerGrid SA,Utilities,West,2024-09-06,Service Quality,79260.14,10651.7,Low,Carlos Mendez,Closed,268,2024-11-20,75,Payment Adjusted,4412.98
+DIS-0385,INV-1385,VND-015,PowerGrid SA,Utilities,West,2024-08-30,Contract Terms,88612.9,62775.17,Medium,Juan Vargas,Resolved,275,2024-11-01,63,Full Credit,62775.17
+DIS-0386,INV-1386,VND-015,PowerGrid SA,Utilities,West,2025-01-10,Duplicate Invoice,43282.53,22233.52,High,Ana Torres,Resolved,142,2025-05-05,115,Full Credit,22233.52
+DIS-0387,INV-1387,VND-015,PowerGrid SA,Utilities,West,2025-01-30,Missing Goods,9682.64,3935.16,Medium,Ana Torres,Resolved,122,2025-05-14,104,Full Credit,3935.16
+DIS-0388,INV-1388,VND-015,PowerGrid SA,Utilities,West,2025-01-08,Damaged Goods,85070.42,59011.32,High,Sofia Ruiz,Resolved,144,2025-04-16,98,Partial Credit,41042.02
+DIS-0389,INV-1389,VND-015,PowerGrid SA,Utilities,West,2025-01-14,Duplicate Invoice,74235.94,37395.19,Low,Luis Herrera,Closed,138,2025-03-10,55,Payment Adjusted,15100.08
+DIS-0390,INV-1390,VND-015,PowerGrid SA,Utilities,West,2024-11-21,Missing Goods,82996.65,36224.08,Low,Valeria Moreno,Resolved,192,2025-03-12,111,Partial Credit,19604.59
+DIS-0391,INV-1391,VND-015,PowerGrid SA,Utilities,West,2025-03-04,Damaged Goods,23312.53,15728.9,High,Ana Torres,Resolved,89,2025-04-22,49,Payment Adjusted,3296.64
+DIS-0392,INV-1392,VND-015,PowerGrid SA,Utilities,West,2024-10-06,Price Discrepancy,52987.01,27900.7,Low,Luis Herrera,Resolved,238,2024-12-24,79,Partial Credit,21659.65
+DIS-0393,INV-1393,VND-015,PowerGrid SA,Utilities,West,2024-10-01,Missing Goods,60753.62,18974.57,Low,Carlos Mendez,Resolved,243,2024-11-22,52,Full Credit,18974.57
+DIS-0394,INV-1394,VND-015,PowerGrid SA,Utilities,West,2024-08-12,Damaged Goods,79083.86,16666.05,Low,Luis Herrera,Resolved,293,2024-10-06,55,Partial Credit,11979.19
+DIS-0395,INV-1395,VND-015,PowerGrid SA,Utilities,West,2024-06-16,Service Quality,5845.31,4288.33,Medium,Ana Torres,Resolved,350,2024-09-04,80,No Action,0.0
+DIS-0396,INV-1396,VND-015,PowerGrid SA,Utilities,West,2024-12-26,Duplicate Invoice,72710.35,42319.32,Medium,Diego Castillo,Resolved,157,2025-01-25,30,Partial Credit,25658.95
+DIS-0397,INV-1397,VND-015,PowerGrid SA,Utilities,West,2024-07-16,Contract Terms,42729.49,5415.28,Medium,Diego Castillo,Resolved,320,2024-10-03,79,Partial Credit,2052.85
+DIS-0398,INV-1398,VND-015,PowerGrid SA,Utilities,West,2025-04-06,Missing Goods,50765.15,15341.88,Medium,Marta Lopez,In Progress,56,,,Pending,0.0
+DIS-0399,INV-1399,VND-015,PowerGrid SA,Utilities,West,2024-06-01,Service Quality,95457.84,51413.58,Low,Luis Herrera,Closed,365,2024-09-15,106,No Action,0.0
+DIS-0400,INV-1400,VND-015,PowerGrid SA,Utilities,West,2024-07-28,Price Discrepancy,43389.35,12569.43,Low,Juan Vargas,Closed,308,2024-09-02,36,No Action,0.0
+DIS-0401,INV-1401,VND-015,PowerGrid SA,Utilities,West,2024-11-05,Service Quality,41886.12,3203.84,High,Luis Herrera,Resolved,208,2025-02-07,94,Full Credit,3203.84
+DIS-0402,INV-1402,VND-015,PowerGrid SA,Utilities,West,2024-08-31,Missing Goods,65639.79,26702.36,Critical,Marta Lopez,Closed,274,2024-12-19,110,Payment Adjusted,8632.85
+DIS-0403,INV-1403,VND-015,PowerGrid SA,Utilities,West,2025-01-01,Service Quality,14272.29,2083.16,Medium,Sofia Ruiz,Closed,151,2025-04-29,118,Full Credit,2083.16
+DIS-0404,INV-1404,VND-015,PowerGrid SA,Utilities,West,2025-04-16,Duplicate Invoice,26114.08,5679.71,High,Diego Castillo,Resolved,46,2025-05-26,40,Full Credit,5679.71
+DIS-0405,INV-1405,VND-015,PowerGrid SA,Utilities,West,2025-04-01,Service Quality,49700.97,34780.49,Medium,Carlos Mendez,Resolved,61,2025-04-16,15,Partial Credit,25059.3
+DIS-0406,INV-1406,VND-015,PowerGrid SA,Utilities,West,2024-11-17,Damaged Goods,55334.66,19911.1,High,Sofia Ruiz,Closed,196,2025-01-02,46,Partial Credit,10784.69
+DIS-0407,INV-1407,VND-015,PowerGrid SA,Utilities,West,2024-10-09,Price Discrepancy,18606.29,12964.78,Low,Juan Vargas,Resolved,235,2024-11-03,25,Full Credit,12964.78
+DIS-0408,INV-1408,VND-015,PowerGrid SA,Utilities,West,2025-05-02,Damaged Goods,5447.78,1389.98,High,Sofia Ruiz,In Progress,30,,,Pending,0.0
+DIS-0409,INV-1409,VND-015,PowerGrid SA,Utilities,West,2025-04-16,Duplicate Invoice,17293.57,6489.99,Medium,Juan Vargas,Resolved,46,2025-04-21,5,Partial Credit,4143.18
+DIS-0410,INV-1410,VND-015,PowerGrid SA,Utilities,West,2025-05-24,Price Discrepancy,89740.61,55427.01,Medium,Ana Torres,Open,8,,,Pending,0.0
+DIS-0411,INV-1411,VND-016,MetalWorks Corp,Materials,South,2024-06-10,Service Quality,88313.59,25087.17,Low,Marta Lopez,Resolved,356,2024-09-26,108,Full Credit,25087.17
+DIS-0412,INV-1412,VND-016,MetalWorks Corp,Materials,South,2025-01-03,Duplicate Invoice,48313.0,21268.17,Medium,Sofia Ruiz,Resolved,149,2025-05-01,118,Partial Credit,13825.79
+DIS-0413,INV-1413,VND-016,MetalWorks Corp,Materials,South,2025-03-08,Damaged Goods,95068.01,70222.37,Medium,Luis Herrera,Escalated,85,2025-03-27,19,Full Credit,70222.37
+DIS-0414,INV-1414,VND-016,MetalWorks Corp,Materials,South,2025-05-20,Contract Terms,61020.82,10784.73,Medium,Ana Torres,In Progress,12,,,Pending,0.0
+DIS-0415,INV-1415,VND-016,MetalWorks Corp,Materials,South,2024-07-08,Price Discrepancy,29299.97,13215.75,Low,Carlos Mendez,Escalated,328,2024-07-13,5,Full Credit,13215.75
+DIS-0416,INV-1416,VND-016,MetalWorks Corp,Materials,South,2025-04-02,Duplicate Invoice,44593.68,14947.37,Medium,Sofia Ruiz,In Progress,60,,,Pending,0.0
+DIS-0417,INV-1417,VND-016,MetalWorks Corp,Materials,South,2024-06-14,Contract Terms,64879.58,17896.21,High,Marta Lopez,Resolved,352,2024-09-14,92,Full Credit,17896.21
+DIS-0418,INV-1418,VND-016,MetalWorks Corp,Materials,South,2025-04-08,Price Discrepancy,53600.55,27511.74,Medium,Juan Vargas,In Progress,54,,,Pending,0.0
+DIS-0419,INV-1419,VND-016,MetalWorks Corp,Materials,South,2025-02-18,Missing Goods,78906.1,53153.05,Critical,Valeria Moreno,Resolved,103,2025-02-26,8,Partial Credit,39663.55
+DIS-0420,INV-1420,VND-016,MetalWorks Corp,Materials,South,2024-06-13,Contract Terms,93646.81,27902.32,Low,Carlos Mendez,Closed,353,2024-09-30,109,Partial Credit,13852.45
+DIS-0421,INV-1421,VND-016,MetalWorks Corp,Materials,South,2025-04-15,Missing Goods,79054.99,8402.45,High,Luis Herrera,Resolved,47,2025-05-06,21,Full Credit,8402.45
+DIS-0422,INV-1422,VND-016,MetalWorks Corp,Materials,South,2025-05-06,Missing Goods,14481.85,2621.6,Low,Diego Castillo,Escalated,26,2025-05-19,13,Partial Credit,706.63
+DIS-0423,INV-1423,VND-016,MetalWorks Corp,Materials,South,2025-05-08,Missing Goods,5918.87,910.3,Medium,Diego Castillo,Escalated,24,2025-05-30,22,Full Credit,910.3
+DIS-0424,INV-1424,VND-016,MetalWorks Corp,Materials,South,2025-04-14,Duplicate Invoice,40399.1,12404.22,Low,Juan Vargas,In Progress,48,,,Pending,0.0
+DIS-0425,INV-1425,VND-016,MetalWorks Corp,Materials,South,2024-11-15,Damaged Goods,70540.73,28828.85,Medium,Carlos Mendez,Resolved,198,2025-02-18,95,Full Credit,28828.85
+DIS-0426,INV-1426,VND-016,MetalWorks Corp,Materials,South,2025-03-11,Service Quality,14852.75,10893.3,Medium,Juan Vargas,In Progress,82,,,Pending,0.0
+DIS-0427,INV-1427,VND-016,MetalWorks Corp,Materials,South,2024-11-18,Contract Terms,79020.61,40183.47,High,Sofia Ruiz,Resolved,195,2025-01-22,65,Full Credit,40183.47
+DIS-0428,INV-1428,VND-016,MetalWorks Corp,Materials,South,2024-11-02,Price Discrepancy,46865.35,4569.47,High,Luis Herrera,Closed,211,2025-01-29,88,No Action,0.0
+DIS-0429,INV-1429,VND-016,MetalWorks Corp,Materials,South,2024-09-08,Contract Terms,54694.8,31473.31,Low,Luis Herrera,Resolved,266,2024-12-04,87,Payment Adjusted,7992.67
+DIS-0430,INV-1430,VND-016,MetalWorks Corp,Materials,South,2024-08-19,Damaged Goods,89745.88,45742.17,Low,Juan Vargas,Closed,286,2024-12-11,114,Full Credit,45742.17
+DIS-0431,INV-1431,VND-016,MetalWorks Corp,Materials,South,2024-09-22,Service Quality,35460.21,10573.21,Medium,Luis Herrera,Resolved,252,2024-11-12,51,Partial Credit,3605.46
+DIS-0432,INV-1432,VND-016,MetalWorks Corp,Materials,South,2024-10-08,Duplicate Invoice,47197.94,22644.45,Low,Juan Vargas,Resolved,236,2024-12-13,66,Payment Adjusted,2425.39
+DIS-0433,INV-1433,VND-016,MetalWorks Corp,Materials,South,2024-11-06,Price Discrepancy,44172.16,20665.87,Low,Marta Lopez,Closed,207,2025-01-19,74,Full Credit,20665.87
+DIS-0434,INV-1434,VND-016,MetalWorks Corp,Materials,South,2024-06-22,Damaged Goods,48339.75,14774.59,High,Juan Vargas,Resolved,344,2024-10-01,101,Partial Credit,7149.13
+DIS-0435,INV-1435,VND-016,MetalWorks Corp,Materials,South,2024-06-29,Contract Terms,39512.98,15386.33,Low,Luis Herrera,Open,337,,,Pending,0.0
+DIS-0436,INV-1436,VND-016,MetalWorks Corp,Materials,South,2024-12-01,Service Quality,83838.97,64834.79,Medium,Diego Castillo,Escalated,182,2024-12-09,8,No Action,0.0
+DIS-0437,INV-1437,VND-016,MetalWorks Corp,Materials,South,2024-09-21,Price Discrepancy,18342.67,10778.92,High,Marta Lopez,Resolved,253,2024-10-18,27,Full Credit,10778.92
+DIS-0438,INV-1438,VND-017,NetSystems Ltd,IT,West,2024-10-09,Duplicate Invoice,83332.64,16077.71,Medium,Ana Torres,Closed,235,2025-01-27,110,Payment Adjusted,2400.2
+DIS-0439,INV-1439,VND-017,NetSystems Ltd,IT,West,2024-10-13,Duplicate Invoice,48451.85,23837.69,Medium,Ana Torres,Resolved,231,2024-10-22,9,Partial Credit,10957.86
+DIS-0440,INV-1440,VND-017,NetSystems Ltd,IT,West,2024-08-05,Damaged Goods,50878.54,21941.35,Critical,Sofia Ruiz,Escalated,300,2024-08-24,19,Full Credit,21941.35
+DIS-0441,INV-1441,VND-017,NetSystems Ltd,IT,West,2024-06-29,Duplicate Invoice,62051.87,44182.29,Medium,Valeria Moreno,Closed,337,2024-10-27,120,Payment Adjusted,8805.33
+DIS-0442,INV-1442,VND-017,NetSystems Ltd,IT,West,2024-11-09,Damaged Goods,96541.39,75096.53,Medium,Sofia Ruiz,Resolved,204,2025-02-09,92,No Action,0.0
+DIS-0443,INV-1443,VND-017,NetSystems Ltd,IT,West,2024-09-11,Contract Terms,33396.75,19240.56,High,Luis Herrera,Resolved,263,2024-12-02,82,Payment Adjusted,7208.37
+DIS-0444,INV-1444,VND-017,NetSystems Ltd,IT,West,2024-06-21,Damaged Goods,17603.81,10259.45,Critical,Diego Castillo,Escalated,345,2024-09-29,100,Full Credit,10259.45
+DIS-0445,INV-1445,VND-017,NetSystems Ltd,IT,West,2024-09-28,Contract Terms,60366.6,45697.83,High,Marta Lopez,Closed,246,2024-11-24,57,No Action,0.0
+DIS-0446,INV-1446,VND-017,NetSystems Ltd,IT,West,2024-09-06,Price Discrepancy,15114.69,5073.29,Low,Luis Herrera,Resolved,268,2024-12-18,103,Full Credit,5073.29
+DIS-0447,INV-1447,VND-017,NetSystems Ltd,IT,West,2025-01-05,Missing Goods,69922.08,11175.04,Low,Luis Herrera,Escalated,147,2025-01-12,7,Full Credit,11175.04
+DIS-0448,INV-1448,VND-017,NetSystems Ltd,IT,West,2024-10-12,Damaged Goods,14735.6,10330.05,High,Valeria Moreno,Resolved,232,2025-01-23,103,Payment Adjusted,3909.42
+DIS-0449,INV-1449,VND-017,NetSystems Ltd,IT,West,2024-06-11,Contract Terms,68126.89,50745.24,Medium,Diego Castillo,Closed,355,2024-06-20,9,Full Credit,50745.24
+DIS-0450,INV-1450,VND-017,NetSystems Ltd,IT,West,2025-01-23,Duplicate Invoice,24293.29,17045.08,High,Luis Herrera,Closed,129,2025-04-26,93,Payment Adjusted,4211.78
+DIS-0451,INV-1451,VND-017,NetSystems Ltd,IT,West,2024-08-03,Damaged Goods,56928.44,28608.83,High,Marta Lopez,Resolved,302,2024-11-01,90,Full Credit,28608.83
+DIS-0452,INV-1452,VND-017,NetSystems Ltd,IT,West,2025-03-04,Missing Goods,74832.55,10440.29,Low,Marta Lopez,Open,89,,,Pending,0.0
+DIS-0453,INV-1453,VND-017,NetSystems Ltd,IT,West,2024-08-05,Damaged Goods,85371.35,4630.02,Medium,Ana Torres,Resolved,300,2024-09-18,44,Partial Credit,3075.24
+DIS-0454,INV-1454,VND-017,NetSystems Ltd,IT,West,2024-07-15,Service Quality,63482.82,34688.13,Medium,Diego Castillo,In Progress,321,,,Pending,0.0
+DIS-0455,INV-1455,VND-017,NetSystems Ltd,IT,West,2024-06-03,Price Discrepancy,35196.61,7566.27,Low,Sofia Ruiz,Resolved,363,2024-08-13,71,Partial Credit,3099.46
+DIS-0456,INV-1456,VND-017,NetSystems Ltd,IT,West,2025-02-11,Service Quality,68016.78,20289.4,Medium,Juan Vargas,Closed,110,2025-05-30,108,Payment Adjusted,7298.5
+DIS-0457,INV-1457,VND-017,NetSystems Ltd,IT,West,2025-04-03,Service Quality,68549.15,26340.04,Critical,Luis Herrera,Closed,59,2025-05-19,46,No Action,0.0
+DIS-0458,INV-1458,VND-017,NetSystems Ltd,IT,West,2024-11-17,Service Quality,92013.58,69814.45,Medium,Marta Lopez,Open,196,,,Pending,0.0
+DIS-0459,INV-1459,VND-017,NetSystems Ltd,IT,West,2024-09-09,Duplicate Invoice,83100.36,27524.38,High,Juan Vargas,Open,265,,,Pending,0.0
+DIS-0460,INV-1460,VND-017,NetSystems Ltd,IT,West,2024-07-02,Damaged Goods,23288.68,10140.38,Critical,Ana Torres,Resolved,334,2024-07-31,29,Payment Adjusted,4151.81
+DIS-0461,INV-1461,VND-017,NetSystems Ltd,IT,West,2024-06-15,Contract Terms,45299.9,5795.9,Medium,Valeria Moreno,Resolved,351,2024-06-27,12,Payment Adjusted,936.05
+DIS-0462,INV-1462,VND-017,NetSystems Ltd,IT,West,2024-10-08,Damaged Goods,73102.49,5732.31,Low,Marta Lopez,Resolved,236,2024-12-23,76,No Action,0.0
+DIS-0463,INV-1463,VND-017,NetSystems Ltd,IT,West,2025-01-19,Missing Goods,43725.11,16980.39,Medium,Ana Torres,Resolved,133,2025-02-06,18,Partial Credit,9931.04
+DIS-0464,INV-1464,VND-018,SwiftShip SA,Logistics,Central,2024-08-05,Service Quality,9324.1,6398.09,Medium,Carlos Mendez,Resolved,300,2024-11-03,90,Full Credit,6398.09
+DIS-0465,INV-1465,VND-018,SwiftShip SA,Logistics,Central,2025-04-17,Contract Terms,31744.16,23649.98,Medium,Ana Torres,Resolved,45,2025-05-24,37,Full Credit,23649.98
+DIS-0466,INV-1466,VND-018,SwiftShip SA,Logistics,Central,2024-11-12,Contract Terms,80693.19,55444.34,Medium,Sofia Ruiz,Resolved,201,2025-03-08,116,No Action,0.0
+DIS-0467,INV-1467,VND-018,SwiftShip SA,Logistics,Central,2024-07-04,Service Quality,40447.4,30824.92,Medium,Sofia Ruiz,Resolved,332,2024-07-07,3,Partial Credit,13453.51
+DIS-0468,INV-1468,VND-018,SwiftShip SA,Logistics,Central,2024-08-24,Contract Terms,94963.04,26448.95,High,Diego Castillo,Resolved,281,2024-12-20,118,Partial Credit,13423.68
+DIS-0469,INV-1469,VND-018,SwiftShip SA,Logistics,Central,2025-03-10,Price Discrepancy,22479.31,11524.33,Medium,Sofia Ruiz,Resolved,83,2025-05-24,75,No Action,0.0
+DIS-0470,INV-1470,VND-018,SwiftShip SA,Logistics,Central,2024-08-23,Price Discrepancy,48820.19,22567.06,Medium,Marta Lopez,In Progress,282,,,Pending,0.0
+DIS-0471,INV-1471,VND-018,SwiftShip SA,Logistics,Central,2024-08-07,Contract Terms,51283.09,15289.45,Low,Luis Herrera,Resolved,298,2024-10-28,82,Full Credit,15289.45
+DIS-0472,INV-1472,VND-018,SwiftShip SA,Logistics,Central,2025-02-21,Missing Goods,35189.66,13653.04,Medium,Sofia Ruiz,Resolved,100,2025-04-11,49,No Action,0.0
+DIS-0473,INV-1473,VND-018,SwiftShip SA,Logistics,Central,2024-10-24,Contract Terms,21020.75,5989.04,High,Valeria Moreno,Resolved,220,2024-12-12,49,Full Credit,5989.04
+DIS-0474,INV-1474,VND-018,SwiftShip SA,Logistics,Central,2024-12-13,Missing Goods,88399.15,35106.51,Medium,Juan Vargas,Resolved,170,2025-01-07,25,Partial Credit,8747.99
+DIS-0475,INV-1475,VND-018,SwiftShip SA,Logistics,Central,2025-01-08,Missing Goods,86577.8,13419.67,Medium,Carlos Mendez,Escalated,144,2025-05-05,117,Full Credit,13419.67
+DIS-0476,INV-1476,VND-018,SwiftShip SA,Logistics,Central,2024-09-14,Service Quality,65004.52,42869.3,Medium,Luis Herrera,Closed,260,2024-11-26,73,Full Credit,42869.3
+DIS-0477,INV-1477,VND-018,SwiftShip SA,Logistics,Central,2024-08-28,Damaged Goods,49849.88,31475.11,Medium,Marta Lopez,Resolved,277,2024-11-03,67,Partial Credit,13788.34
+DIS-0478,INV-1478,VND-018,SwiftShip SA,Logistics,Central,2024-09-16,Service Quality,6006.21,1376.39,Critical,Sofia Ruiz,Escalated,258,2024-10-06,20,Partial Credit,423.22
+DIS-0479,INV-1479,VND-018,SwiftShip SA,Logistics,Central,2024-08-15,Duplicate Invoice,67644.26,52478.53,High,Diego Castillo,Open,290,,,Pending,0.0
+DIS-0480,INV-1480,VND-018,SwiftShip SA,Logistics,Central,2024-09-24,Contract Terms,27016.24,6707.26,Low,Luis Herrera,Resolved,250,2025-01-06,104,Full Credit,6707.26
+DIS-0481,INV-1481,VND-018,SwiftShip SA,Logistics,Central,2024-10-03,Contract Terms,92200.68,65569.8,Low,Diego Castillo,Resolved,241,2024-12-11,69,Partial Credit,23873.78
+DIS-0482,INV-1482,VND-018,SwiftShip SA,Logistics,Central,2025-01-17,Duplicate Invoice,59969.99,28642.87,Medium,Diego Castillo,Resolved,135,2025-05-14,117,No Action,0.0
+DIS-0483,INV-1483,VND-018,SwiftShip SA,Logistics,Central,2024-09-09,Duplicate Invoice,28900.71,22528.26,Low,Diego Castillo,Closed,265,2024-10-26,47,Partial Credit,11022.31
+DIS-0484,INV-1484,VND-018,SwiftShip SA,Logistics,Central,2024-07-26,Damaged Goods,5626.78,4003.6,Medium,Carlos Mendez,Resolved,310,2024-09-02,38,Full Credit,4003.6
+DIS-0485,INV-1485,VND-018,SwiftShip SA,Logistics,Central,2025-02-25,Contract Terms,19948.95,10004.7,High,Luis Herrera,Resolved,96,2025-04-11,45,Payment Adjusted,2927.44
+DIS-0486,INV-1486,VND-019,CleanOffice Services,Services,West,2025-02-13,Damaged Goods,61125.14,32729.12,Medium,Ana Torres,Resolved,108,2025-05-02,78,Full Credit,32729.12
+DIS-0487,INV-1487,VND-019,CleanOffice Services,Services,West,2024-07-13,Damaged Goods,53701.07,38562.64,Low,Marta Lopez,Closed,323,2024-09-20,69,Pending,0.0
+DIS-0488,INV-1488,VND-019,CleanOffice Services,Services,West,2024-07-29,Contract Terms,97078.15,51278.33,High,Marta Lopez,Closed,307,2024-08-28,30,Partial Credit,40800.4
+DIS-0489,INV-1489,VND-019,CleanOffice Services,Services,West,2024-09-27,Service Quality,21203.84,14265.36,Medium,Sofia Ruiz,Resolved,247,2024-12-04,68,Full Credit,14265.36
+DIS-0490,INV-1490,VND-019,CleanOffice Services,Services,West,2024-06-14,Damaged Goods,37553.77,14649.82,Medium,Valeria Moreno,Resolved,352,2024-06-30,16,Full Credit,14649.82
+DIS-0491,INV-1491,VND-019,CleanOffice Services,Services,West,2024-09-06,Damaged Goods,86661.21,37114.37,Medium,Carlos Mendez,Resolved,268,2025-01-02,118,Partial Credit,8292.16
+DIS-0492,INV-1492,VND-019,CleanOffice Services,Services,West,2024-09-01,Damaged Goods,52816.27,7295.9,Medium,Ana Torres,Closed,273,2024-12-12,102,Payment Adjusted,1988.85
+DIS-0493,INV-1493,VND-019,CleanOffice Services,Services,West,2024-10-28,Damaged Goods,40185.86,3318.5,Medium,Juan Vargas,Escalated,216,2024-12-18,51,Full Credit,3318.5
+DIS-0494,INV-1494,VND-019,CleanOffice Services,Services,West,2024-06-09,Damaged Goods,59731.48,22047.91,Medium,Carlos Mendez,Resolved,357,2024-10-02,115,Partial Credit,7820.02
+DIS-0495,INV-1495,VND-019,CleanOffice Services,Services,West,2025-05-29,Price Discrepancy,72369.14,46465.83,Medium,Ana Torres,Open,3,,,Pending,0.0
+DIS-0496,INV-1496,VND-019,CleanOffice Services,Services,West,2025-02-15,Damaged Goods,70337.84,20181.78,Medium,Valeria Moreno,Escalated,106,2025-03-22,35,Full Credit,20181.78
+DIS-0497,INV-1497,VND-019,CleanOffice Services,Services,West,2024-08-30,Contract Terms,45238.35,14667.77,Medium,Valeria Moreno,Escalated,275,2024-10-24,55,Partial Credit,7840.47
+DIS-0498,INV-1498,VND-019,CleanOffice Services,Services,West,2025-03-01,Missing Goods,40170.23,18726.7,Medium,Diego Castillo,Escalated,92,2025-04-23,53,Payment Adjusted,8277.19
+DIS-0499,INV-1499,VND-019,CleanOffice Services,Services,West,2024-06-28,Damaged Goods,16313.15,3626.88,High,Carlos Mendez,Resolved,338,2024-08-21,54,Payment Adjusted,1524.53
+DIS-0500,INV-1500,VND-019,CleanOffice Services,Services,West,2024-07-21,Contract Terms,71220.45,41314.45,Low,Ana Torres,Closed,315,2024-11-06,108,Full Credit,41314.45
+DIS-0501,INV-1501,VND-019,CleanOffice Services,Services,West,2024-07-28,Price Discrepancy,46360.86,4546.16,Low,Ana Torres,Escalated,308,2024-09-20,54,Partial Credit,2330.38
+DIS-0502,INV-1502,VND-019,CleanOffice Services,Services,West,2024-06-01,Damaged Goods,96535.33,8987.18,High,Juan Vargas,Resolved,365,2024-06-29,28,No Action,0.0
+DIS-0503,INV-1503,VND-019,CleanOffice Services,Services,West,2024-09-08,Service Quality,32170.62,2419.46,Medium,Luis Herrera,Resolved,266,2024-12-06,89,Full Credit,2419.46
+DIS-0504,INV-1504,VND-019,CleanOffice Services,Services,West,2025-01-29,Missing Goods,67226.82,52553.52,Low,Valeria Moreno,Resolved,123,2025-03-23,53,Partial Credit,16826.91
+DIS-0505,INV-1505,VND-019,CleanOffice Services,Services,West,2025-05-24,Missing Goods,75007.93,7610.52,Low,Diego Castillo,Open,8,,,Pending,0.0
+DIS-0506,INV-1506,VND-019,CleanOffice Services,Services,West,2025-01-10,Duplicate Invoice,26498.07,20464.27,Medium,Ana Torres,Resolved,142,2025-03-06,55,Partial Credit,10952.04
+DIS-0507,INV-1507,VND-019,CleanOffice Services,Services,West,2024-09-16,Missing Goods,32953.92,25053.6,High,Marta Lopez,Escalated,258,2024-11-06,51,Partial Credit,16584.99
+DIS-0508,INV-1508,VND-019,CleanOffice Services,Services,West,2024-12-09,Service Quality,96317.68,37962.3,Medium,Ana Torres,Resolved,174,2025-01-14,36,Full Credit,37962.3
+DIS-0509,INV-1509,VND-019,CleanOffice Services,Services,West,2024-07-11,Missing Goods,79922.32,17206.22,High,Valeria Moreno,Closed,325,2024-09-18,69,Partial Credit,10676.31
+DIS-0510,INV-1510,VND-019,CleanOffice Services,Services,West,2025-01-17,Missing Goods,28584.47,3423.19,High,Carlos Mendez,Resolved,135,2025-02-11,25,Partial Credit,1410.77
+DIS-0511,INV-1511,VND-019,CleanOffice Services,Services,West,2024-08-11,Damaged Goods,30562.2,23237.62,High,Juan Vargas,Escalated,294,2024-09-13,33,Payment Adjusted,10435.95
+DIS-0512,INV-1512,VND-019,CleanOffice Services,Services,West,2025-02-15,Missing Goods,26774.72,18105.21,High,Sofia Ruiz,Escalated,106,2025-03-05,18,Pending,0.0
+DIS-0513,INV-1513,VND-019,CleanOffice Services,Services,West,2024-06-19,Service Quality,95799.07,40187.58,Low,Ana Torres,Closed,347,2024-08-08,50,Partial Credit,19909.1
+DIS-0514,INV-1514,VND-019,CleanOffice Services,Services,West,2024-08-10,Service Quality,87533.04,36597.92,Critical,Marta Lopez,Resolved,295,2024-11-17,99,Partial Credit,8508.61
+DIS-0515,INV-1515,VND-019,CleanOffice Services,Services,West,2024-10-27,Duplicate Invoice,50440.41,22979.44,Medium,Sofia Ruiz,Resolved,217,2024-11-14,18,Payment Adjusted,6526.81
+DIS-0516,INV-1516,VND-019,CleanOffice Services,Services,West,2024-06-13,Price Discrepancy,5799.77,3222.22,Medium,Diego Castillo,Resolved,353,2024-10-04,113,Full Credit,3222.22
+DIS-0517,INV-1517,VND-019,CleanOffice Services,Services,West,2024-08-24,Missing Goods,29970.66,7554.29,Critical,Diego Castillo,Resolved,281,2024-10-20,57,Full Credit,7554.29
+DIS-0518,INV-1518,VND-019,CleanOffice Services,Services,West,2024-06-07,Duplicate Invoice,76458.6,24757.94,Medium,Sofia Ruiz,Resolved,359,2024-08-22,76,Payment Adjusted,10538.87
+DIS-0519,INV-1519,VND-019,CleanOffice Services,Services,West,2025-01-13,Damaged Goods,81388.32,37968.06,High,Sofia Ruiz,Closed,139,2025-04-20,97,Full Credit,37968.06
+DIS-0520,INV-1520,VND-019,CleanOffice Services,Services,West,2025-05-27,Contract Terms,21777.69,9248.95,Critical,Diego Castillo,In Progress,5,,,Pending,0.0
+DIS-0521,INV-1521,VND-020,GasNetwork,Utilities,East,2024-08-17,Damaged Goods,86557.69,7425.09,Low,Ana Torres,Resolved,288,2024-09-21,35,Partial Credit,4291.09
+DIS-0522,INV-1522,VND-020,GasNetwork,Utilities,East,2024-10-13,Service Quality,75736.36,18542.29,Medium,Marta Lopez,Resolved,231,2024-12-07,55,Full Credit,18542.29
+DIS-0523,INV-1523,VND-020,GasNetwork,Utilities,East,2024-06-18,Contract Terms,96496.07,19223.81,Medium,Sofia Ruiz,Closed,348,2024-07-27,39,Full Credit,19223.81
+DIS-0524,INV-1524,VND-020,GasNetwork,Utilities,East,2024-06-21,Price Discrepancy,53492.23,33756.71,Medium,Valeria Moreno,Resolved,345,2024-08-22,62,Partial Credit,9685.1
+DIS-0525,INV-1525,VND-020,GasNetwork,Utilities,East,2025-03-07,Service Quality,65855.16,49155.94,Medium,Valeria Moreno,Escalated,86,2025-03-19,12,Full Credit,49155.94
+DIS-0526,INV-1526,VND-020,GasNetwork,Utilities,East,2024-12-07,Missing Goods,26680.7,7674.93,Medium,Valeria Moreno,Resolved,176,2025-02-04,59,Payment Adjusted,3649.49
+DIS-0527,INV-1527,VND-020,GasNetwork,Utilities,East,2024-08-04,Price Discrepancy,54488.89,21126.24,Low,Sofia Ruiz,Escalated,301,2024-10-30,87,Full Credit,21126.24
+DIS-0528,INV-1528,VND-020,GasNetwork,Utilities,East,2024-06-07,Price Discrepancy,76225.28,15849.42,Medium,Carlos Mendez,Closed,359,2024-08-09,63,Partial Credit,3420.61
+DIS-0529,INV-1529,VND-020,GasNetwork,Utilities,East,2024-11-09,Service Quality,54778.37,43658.93,Low,Sofia Ruiz,In Progress,204,,,Pending,0.0
+DIS-0530,INV-1530,VND-020,GasNetwork,Utilities,East,2024-11-13,Contract Terms,34390.21,8100.52,Medium,Sofia Ruiz,Resolved,200,2025-03-03,110,Full Credit,8100.52
+DIS-0531,INV-1531,VND-020,GasNetwork,Utilities,East,2025-05-14,Duplicate Invoice,68037.17,47304.65,Medium,Juan Vargas,Closed,18,2025-05-25,11,Partial Credit,13295.87
+DIS-0532,INV-1532,VND-020,GasNetwork,Utilities,East,2024-06-08,Contract Terms,56232.32,27729.46,Medium,Valeria Moreno,Resolved,358,2024-08-31,84,Partial Credit,20668.26
+DIS-0533,INV-1533,VND-020,GasNetwork,Utilities,East,2024-09-27,Missing Goods,56268.47,36773.18,Medium,Valeria Moreno,Resolved,247,2024-11-07,41,Full Credit,36773.18
+DIS-0534,INV-1534,VND-020,GasNetwork,Utilities,East,2024-09-06,Duplicate Invoice,82461.08,56564.99,Medium,Ana Torres,Escalated,268,2024-11-10,65,Pending,0.0
+DIS-0535,INV-1535,VND-020,GasNetwork,Utilities,East,2024-09-29,Service Quality,33463.0,20894.36,High,Luis Herrera,Escalated,245,2024-12-11,73,Full Credit,20894.36
+DIS-0536,INV-1536,VND-020,GasNetwork,Utilities,East,2024-11-02,Contract Terms,88805.4,33553.32,Low,Valeria Moreno,Closed,211,2024-12-03,31,Full Credit,33553.32
+DIS-0537,INV-1537,VND-020,GasNetwork,Utilities,East,2024-10-27,Service Quality,64405.69,28174.76,High,Marta Lopez,Resolved,217,2025-02-02,98,Partial Credit,10179.35
+DIS-0538,INV-1538,VND-020,GasNetwork,Utilities,East,2025-02-24,Contract Terms,86080.79,16080.36,Medium,Juan Vargas,Resolved,97,2025-04-02,37,Payment Adjusted,4772.63
+DIS-0539,INV-1539,VND-020,GasNetwork,Utilities,East,2024-12-18,Damaged Goods,6842.56,596.84,Medium,Carlos Mendez,Resolved,165,2025-01-06,19,Payment Adjusted,233.27
+DIS-0540,INV-1540,VND-020,GasNetwork,Utilities,East,2025-02-01,Duplicate Invoice,13568.71,828.28,Low,Marta Lopez,Escalated,120,2025-04-08,66,Pending,0.0
+DIS-0541,INV-1541,VND-020,GasNetwork,Utilities,East,2024-10-06,Damaged Goods,71208.81,5255.41,Low,Ana Torres,Resolved,238,2024-11-28,53,Full Credit,5255.41
+DIS-0542,INV-1542,VND-020,GasNetwork,Utilities,East,2024-10-03,Duplicate Invoice,22252.36,16061.18,Medium,Ana Torres,Resolved,241,2025-01-12,101,Payment Adjusted,4078.24
+DIS-0543,INV-1543,VND-020,GasNetwork,Utilities,East,2024-10-17,Contract Terms,28480.41,22667.6,Low,Carlos Mendez,Resolved,227,2024-11-15,29,Partial Credit,13801.52
+DIS-0544,INV-1544,VND-020,GasNetwork,Utilities,East,2024-12-23,Contract Terms,93940.45,15872.04,High,Carlos Mendez,Resolved,160,2025-03-17,84,Full Credit,15872.04
+DIS-0545,INV-1545,VND-020,GasNetwork,Utilities,East,2024-11-28,Price Discrepancy,89314.36,62318.49,Low,Luis Herrera,Resolved,185,2025-01-11,44,Full Credit,62318.49
+DIS-0546,INV-1546,VND-020,GasNetwork,Utilities,East,2025-01-10,Price Discrepancy,60546.2,21000.83,Low,Juan Vargas,Escalated,142,2025-02-01,22,Full Credit,21000.83
+DIS-0547,INV-1547,VND-020,GasNetwork,Utilities,East,2025-04-16,Missing Goods,28628.61,12165.42,High,Ana Torres,Open,46,,,Pending,0.0
+DIS-0548,INV-1548,VND-020,GasNetwork,Utilities,East,2024-07-05,Duplicate Invoice,19622.25,8874.46,Low,Luis Herrera,Resolved,331,2024-09-17,74,Payment Adjusted,3573.56
