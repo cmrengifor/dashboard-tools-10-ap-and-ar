@@ -1,0 +1,1 @@
+[["=SUM(VendorData[outstanding_balance])", "", "", "", "=SUMIF(VendorData[payment_status],\"Overdue\",VendorData[outstanding_balance])+SUMIF(VendorData[payment_status],\"Partial\",VendorData[outstanding_balance])", "", "", "", "=AVERAGEIF(VendorData[payment_status],\"<>Paid\",VendorData[days_outstanding])", "", "", "", "=SUM(VendorData[discount_captured])"]]
