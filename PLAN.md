@@ -86,7 +86,7 @@ dashboard-tools-10-ap-and-ar/
 
 | # | Dashboard | Herramienta | Estado |
 |---|---|---|---|
-| 01 | Invoice Aging Dashboard | Power BI | ⬜ Pendiente |
+| 01 | Invoice Aging Dashboard | Power BI | ✅ Completado |
 | 02 | Vendor Payment Tracker | Excel | ⬜ Pendiente |
 | 03 | Dispute Resolution Tracker | Excel | ⬜ Pendiente |
 
