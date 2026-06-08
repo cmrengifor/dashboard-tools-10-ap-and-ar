@@ -112,7 +112,7 @@ dashboard-tools-10-ap-and-ar/
 
 | # | Dashboard | Herramienta | Estado |
 |---|---|---|---|
-| 09 | Customer Credit Risk Dashboard | Power BI | ⬜ Pendiente |
+| 09 | Customer Credit Risk Dashboard | Power BI | ✅ Completado |
 | 10 | AP/AR Consolidated Dashboard | Power BI | ⬜ Pendiente |
 
 ---
