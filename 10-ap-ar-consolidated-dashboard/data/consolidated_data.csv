@@ -1,0 +1,701 @@
+record_id,period,year,month,quarter,transaction_type,entity_name,entity_segment,region,invoice_amount,paid_amount,outstanding_balance,overdue_amount,days_overdue,aging_bucket,status,payment_terms
+643,2026-02,2026,2,Q1,AP,InfoSys Partners,Consulting,West,69056.79,6025.08,63031.71,63031.71,111,90+,Overdue,2/10 Net 30
+102,2026-01,2026,1,Q1,AR,River Trade,Retail,East,69792.35,0.0,69792.35,0.0,0,Current,Current,Net 30
+462,2025-03,2025,3,Q1,AP,Master Builders,Manufacturing,East,81439.4,17451.29,63988.11,0.0,0,Current,Partial,Net 45
+642,2026-02,2026,2,Q1,AP,FirmBase Infra,Technology,West,8034.34,700.27,7334.07,7334.07,80,61-90,Overdue,Net 60
+111,2025-11,2025,11,Q4,AR,Apex Corp,Enterprise,South,108135.34,0.0,108135.34,0.0,0,Current,Current,Net 30
+658,2026-03,2026,3,Q1,AP,Java Components,Manufacturing,West,177338.33,0.0,177338.33,0.0,0,Current,Current,Net 90
+21,2025-06,2025,6,Q2,AR,IronClad Stores,Retail,West,113567.03,70185.99,43381.04,0.0,0,Current,Partial,2/10 Net 30
+150,2025-03,2025,3,Q1,AR,Apex Corp,Enterprise,East,235355.36,0.0,235355.36,0.0,0,Current,Current,2/10 Net 30
+199,2025-05,2025,5,Q2,AR,Quantum Ltd,SMB,West,86017.6,17809.26,68208.34,0.0,0,Current,Partial,Net 90
+277,2025-01,2025,1,Q1,AR,Kite Ventures,Startup,North,37382.91,578.7,36804.21,36804.21,104,90+,Overdue,Net 30
+418,2026-01,2026,1,Q1,AP,Prime Vendors,Consulting,West,117788.88,14750.8,103038.08,103038.08,81,61-90,Overdue,Net 30
+381,2026-01,2026,1,Q1,AP,General Utilities,Utilities,West,62814.24,31055.71,31758.53,31758.53,60,31-60,Partial,Net 90
+395,2026-06,2026,6,Q2,AP,LightHouse Media,Marketing,North,41933.28,11728.12,30205.16,30205.16,33,31-60,Partial,Net 45
+474,2025-02,2025,2,Q1,AP,General Utilities,Utilities,West,120883.4,80763.12,40120.28,40120.28,43,31-60,Partial,Net 45
+91,2025-03,2025,3,Q1,AR,Kite Ventures,Startup,Central,181085.77,42412.17,138673.6,138673.6,28,1-30,Partial,Net 90
+23,2026-03,2026,3,Q1,AR,Jupiter Startup,Startup,West,196923.57,28614.26,168309.31,168309.31,37,31-60,Overdue,Net 90
+365,2026-05,2026,5,Q2,AP,General Utilities,Utilities,East,9974.81,3643.82,6330.99,6330.99,37,31-60,Partial,Net 90
+499,2026-02,2026,2,Q1,AP,Java Components,Manufacturing,West,87226.27,0.0,87226.27,0.0,0,Current,Current,Net 30
+227,2025-02,2025,2,Q1,AR,Apex Corp,Enterprise,West,21652.15,0.0,21652.15,0.0,0,Current,Current,Net 45
+129,2026-02,2026,2,Q1,AR,Jupiter Startup,Startup,North,47108.93,47108.93,0.0,0.0,15,1-30,Paid,2/10 Net 30
+160,2025-06,2025,6,Q2,AR,River Trade,Retail,East,166925.21,0.0,166925.21,0.0,0,Current,Current,Net 60
+494,2025-12,2025,12,Q4,AP,HarbourFreight,Logistics,South,103976.23,0.0,103976.23,0.0,0,Current,Current,2/10 Net 30
+144,2025-12,2025,12,Q4,AR,Harbor Shops,Retail,West,197031.09,26716.66,170314.43,170314.43,38,31-60,Overdue,Net 45
+616,2025-03,2025,3,Q1,AP,Acme Supplies,Office,West,84293.06,36404.51,47888.55,47888.55,24,1-30,Partial,2/10 Net 30
+35,2025-06,2025,6,Q2,AR,National Agency,Government,North,196684.69,65575.24,131109.45,0.0,0,Current,Partial,Net 90
+20,2025-02,2025,2,Q1,AR,Delta Inc,SMB,North,216109.77,58369.34,157740.43,157740.43,7,1-30,Partial,Net 45
+4,2025-12,2025,12,Q4,AR,IronClad Stores,Retail,North,243413.36,22583.4,220829.96,220829.96,48,31-60,Overdue,Net 90
+71,2026-04,2026,4,Q2,AR,Oak Institute,Government,East,235560.58,0.0,235560.58,0.0,0,Current,Current,Net 90
+662,2025-12,2025,12,Q4,AP,Prime Vendors,Consulting,Central,93520.37,30426.38,63093.99,63093.99,106,90+,Partial,Net 45
+132,2025-05,2025,5,Q2,AR,Harbor Shops,Retail,North,152587.75,0.0,152587.75,0.0,0,Current,Current,Net 30
+611,2025-11,2025,11,Q4,AP,HarbourFreight,Logistics,East,115925.86,14867.56,101058.3,101058.3,29,1-30,Overdue,2/10 Net 30
+172,2025-03,2025,3,Q1,AR,IronClad Stores,Retail,South,35666.72,3429.29,32237.43,32237.43,48,31-60,Overdue,Net 60
+554,2025-05,2025,5,Q2,AP,Crown Logistics,Logistics,West,117062.09,0.0,117062.09,0.0,0,Current,Current,Net 90
+349,2025-01,2025,1,Q1,AR,Peak Analytics,Enterprise,East,100127.36,0.0,100127.36,0.0,0,Current,Current,Net 30
+307,2026-02,2026,2,Q1,AR,Metro Bank,Government,West,47337.77,0.0,47337.77,0.0,0,Current,Current,Net 45
+408,2025-02,2025,2,Q1,AP,Reliant Power,Utilities,West,121888.29,54069.06,67819.23,67819.23,4,1-30,Partial,Net 60
+493,2025-01,2025,1,Q1,AP,InfoSys Partners,Consulting,Central,104175.29,2162.81,102012.48,102012.48,2,1-30,Overdue,Net 30
+524,2026-05,2026,5,Q2,AP,Dura Materials,Manufacturing,South,126212.2,126212.2,0.0,0.0,44,31-60,Paid,Net 45
+285,2026-01,2026,1,Q1,AR,Quantum Ltd,SMB,East,106780.84,9867.3,96913.54,96913.54,51,31-60,Overdue,Net 90
+123,2025-07,2025,7,Q3,AR,Metro Bank,Government,West,81351.16,52200.69,29150.47,29150.47,25,1-30,Partial,Net 60
+244,2025-04,2025,4,Q2,AR,Echo Solutions,SMB,East,211195.28,0.0,211195.28,0.0,0,Current,Current,Net 90
+588,2025-04,2025,4,Q2,AP,OmniSource,Office,East,104127.99,0.0,104127.99,0.0,0,Current,Current,Net 60
+143,2025-11,2025,11,Q4,AR,Echo Solutions,SMB,Central,208679.54,46294.77,162384.77,162384.77,26,1-30,Partial,2/10 Net 30
+64,2026-01,2026,1,Q1,AR,Kite Ventures,Startup,North,124449.73,79667.74,44781.99,44781.99,26,1-30,Partial,Net 60
+461,2026-04,2026,4,Q2,AP,Reliant Power,Utilities,North,138404.36,0.0,138404.36,0.0,0,Current,Current,Net 30
+367,2025-04,2025,4,Q2,AP,InfoSys Partners,Consulting,South,49750.13,49750.13,0.0,0.0,4,1-30,Paid,Net 30
+232,2025-03,2025,3,Q1,AR,Metro Bank,Government,West,161003.28,15574.83,145428.45,145428.45,3,1-30,Overdue,Net 45
+614,2025-02,2025,2,Q1,AP,BrightTech Parts,Technology,West,78348.48,9652.04,68696.44,68696.44,56,31-60,Overdue,Net 90
+29,2026-05,2026,5,Q2,AR,Apex Corp,Enterprise,Central,235037.85,0.0,235037.85,0.0,0,Current,Current,Net 45
+510,2025-01,2025,1,Q1,AP,LightHouse Media,Marketing,East,179291.01,0.0,179291.01,0.0,0,Current,Current,2/10 Net 30
+334,2026-05,2026,5,Q2,AR,National Agency,Government,North,149043.86,88364.05,60679.81,60679.81,30,1-30,Partial,Net 30
+181,2025-12,2025,12,Q4,AR,BlueSky Ltd,Enterprise,West,93818.33,0.0,93818.33,0.0,0,Current,Current,Net 60
+692,2026-06,2026,6,Q2,AP,Keystone Energy,Utilities,West,116522.99,2378.68,114144.31,114144.31,45,31-60,Overdue,Net 45
+313,2025-06,2025,6,Q2,AR,Harbor Shops,Retail,Central,92901.87,62595.36,30306.51,0.0,0,Current,Partial,2/10 Net 30
+396,2026-06,2026,6,Q2,AP,Reliant Power,Utilities,West,40763.62,0.0,40763.62,0.0,0,Current,Current,Net 60
+639,2026-01,2026,1,Q1,AP,Crown Logistics,Logistics,North,76368.98,76368.98,0.0,0.0,15,1-30,Paid,2/10 Net 30
+564,2026-06,2026,6,Q2,AP,BrightTech Parts,Technology,North,66586.3,66586.3,0.0,0.0,31,31-60,Paid,Net 60
+543,2025-12,2025,12,Q4,AP,Crown Logistics,Logistics,South,177100.52,0.0,177100.52,0.0,0,Current,Current,2/10 Net 30
+550,2025-11,2025,11,Q4,AP,OmniSource,Office,North,23259.49,0.0,23259.49,0.0,0,Current,Current,2/10 Net 30
+689,2025-08,2025,8,Q3,AP,OmniSource,Office,West,167168.81,58293.68,108875.13,0.0,0,Current,Partial,Net 60
+454,2025-05,2025,5,Q2,AP,Quality Goods,Office,Central,56106.05,832.96,55273.09,55273.09,49,31-60,Overdue,2/10 Net 30
+312,2025-09,2025,9,Q3,AR,River Trade,Retail,North,146044.57,146044.57,0.0,0.0,60,31-60,Paid,Net 90
+660,2026-01,2026,1,Q1,AP,Master Builders,Manufacturing,Central,160959.69,4835.15,156124.54,156124.54,134,90+,Overdue,Net 45
+147,2025-10,2025,10,Q4,AR,Cedar Group,Enterprise,South,41100.42,26399.41,14701.01,0.0,0,Current,Partial,Net 90
+311,2025-08,2025,8,Q3,AR,Apex Corp,Enterprise,East,134710.91,71185.58,63525.33,0.0,0,Current,Partial,2/10 Net 30
+28,2025-09,2025,9,Q3,AR,Echo Solutions,SMB,East,95534.14,48324.88,47209.26,47209.26,78,61-90,Partial,Net 45
+256,2025-06,2025,6,Q2,AR,National Agency,Government,West,53344.49,0.0,53344.49,0.0,0,Current,Current,2/10 Net 30
+282,2026-05,2026,5,Q2,AR,Global Retail,Retail,West,224988.58,0.0,224988.58,0.0,0,Current,Current,Net 45
+538,2026-03,2026,3,Q1,AP,Dura Materials,Manufacturing,South,76285.28,76285.28,0.0,0.0,48,31-60,Paid,Net 60
+513,2026-06,2026,6,Q2,AP,Elite Services,Consulting,South,124076.61,13123.64,110952.97,110952.97,28,1-30,Overdue,Net 45
+384,2026-05,2026,5,Q2,AP,Master Builders,Manufacturing,West,137940.31,83095.02,54845.29,54845.29,148,90+,Partial,Net 60
+327,2025-07,2025,7,Q3,AR,Falcon Tech,SMB,East,33299.69,1323.68,31976.01,31976.01,175,90+,Overdue,Net 90
+389,2025-10,2025,10,Q4,AP,InfoSys Partners,Consulting,South,55239.88,849.15,54390.73,54390.73,42,31-60,Overdue,2/10 Net 30
+126,2025-02,2025,2,Q1,AR,Harbor Shops,Retail,West,55083.67,2391.57,52692.1,52692.1,123,90+,Overdue,Net 45
+428,2025-05,2025,5,Q2,AP,Reliant Power,Utilities,North,117914.02,12339.28,105574.74,105574.74,88,61-90,Overdue,2/10 Net 30
+13,2025-04,2025,4,Q2,AR,Jupiter Startup,Startup,Central,191815.15,95806.35,96008.8,96008.8,60,31-60,Partial,2/10 Net 30
+198,2025-01,2025,1,Q1,AR,Jupiter Startup,Startup,Central,87085.32,87085.32,0.0,0.0,48,31-60,Paid,Net 90
+685,2025-08,2025,8,Q3,AP,Network Pro,Technology,South,174676.46,0.0,174676.46,0.0,0,Current,Current,Net 90
+569,2026-04,2026,4,Q2,AP,HarbourFreight,Logistics,Central,105014.37,26944.82,78069.55,0.0,0,Current,Partial,Net 30
+179,2025-03,2025,3,Q1,AR,Metro Bank,Government,Central,147919.31,94841.39,53077.92,53077.92,2,1-30,Partial,Net 30
+85,2025-10,2025,10,Q4,AR,Quantum Ltd,SMB,East,120693.85,16689.57,104004.28,104004.28,18,1-30,Overdue,Net 90
+682,2025-02,2025,2,Q1,AP,Prime Vendors,Consulting,North,58561.15,37970.27,20590.88,0.0,0,Current,Partial,Net 60
+401,2026-02,2026,2,Q1,AP,Crown Logistics,Logistics,South,9705.88,4649.53,5056.35,0.0,0,Current,Partial,Net 30
+295,2025-10,2025,10,Q4,AR,Kite Ventures,Startup,North,54164.43,17402.6,36761.83,36761.83,26,1-30,Partial,2/10 Net 30
+220,2025-03,2025,3,Q1,AR,Global Retail,Retail,Central,122451.58,17213.5,105238.08,105238.08,60,31-60,Overdue,Net 60
+514,2026-05,2026,5,Q2,AP,Elite Services,Consulting,West,28691.97,13733.99,14957.98,14957.98,99,90+,Partial,2/10 Net 30
+438,2025-08,2025,8,Q3,AP,FirmBase Infra,Technology,North,175689.32,93964.1,81725.22,0.0,0,Current,Partial,Net 30
+315,2025-01,2025,1,Q1,AR,Kite Ventures,Startup,Central,180649.72,0.0,180649.72,0.0,0,Current,Current,Net 60
+293,2026-02,2026,2,Q1,AR,Harbor Shops,Retail,East,83384.11,44749.15,38634.96,0.0,0,Current,Partial,Net 30
+374,2026-01,2026,1,Q1,AP,Elite Services,Consulting,Central,5061.14,660.04,4401.1,4401.1,76,61-90,Overdue,Net 45
+631,2025-12,2025,12,Q4,AP,OmniSource,Office,Central,24503.73,3483.66,21020.07,21020.07,109,90+,Overdue,Net 30
+450,2025-01,2025,1,Q1,AP,Acme Supplies,Office,South,67003.61,0.0,67003.61,0.0,0,Current,Current,Net 60
+304,2025-06,2025,6,Q2,AR,Apex Corp,Enterprise,West,139779.62,2546.5,137233.12,137233.12,86,61-90,Overdue,Net 30
+583,2025-01,2025,1,Q1,AP,Network Pro,Technology,North,65218.41,6059.42,59158.99,59158.99,9,1-30,Overdue,Net 60
+77,2025-10,2025,10,Q4,AR,Oak Institute,Government,North,103614.59,24890.39,78724.2,78724.2,17,1-30,Partial,Net 60
+342,2025-04,2025,4,Q2,AR,Apex Corp,Enterprise,South,48508.01,1189.76,47318.25,47318.25,19,1-30,Overdue,Net 90
+305,2025-02,2025,2,Q1,AR,Harbor Shops,Retail,South,173139.89,0.0,173139.89,0.0,0,Current,Current,Net 30
+646,2025-11,2025,11,Q4,AP,Java Components,Manufacturing,East,19962.51,410.08,19552.43,19552.43,57,31-60,Overdue,2/10 Net 30
+581,2025-11,2025,11,Q4,AP,InfoSys Partners,Consulting,East,106399.3,60345.08,46054.22,46054.22,52,31-60,Partial,Net 90
+624,2026-01,2026,1,Q1,AP,FirmBase Infra,Technology,East,32163.62,4221.44,27942.18,27942.18,110,90+,Overdue,Net 30
+352,2025-11,2025,11,Q4,AP,Crown Logistics,Logistics,South,57354.09,24770.1,32583.99,0.0,0,Current,Partial,Net 60
+216,2025-06,2025,6,Q2,AR,National Agency,Government,Central,235688.67,235688.67,0.0,0.0,26,1-30,Paid,Net 90
+31,2025-03,2025,3,Q1,AR,National Agency,Government,East,37050.82,0.0,37050.82,0.0,0,Current,Current,Net 60
+547,2025-10,2025,10,Q4,AP,Keystone Energy,Utilities,South,176862.4,75994.98,100867.42,100867.42,35,31-60,Partial,2/10 Net 30
+412,2025-04,2025,4,Q2,AP,FirmBase Infra,Technology,Central,149280.53,0.0,149280.53,0.0,0,Current,Current,2/10 Net 30
+1,2025-04,2025,4,Q2,AR,Apex Corp,Enterprise,East,30111.32,0.0,30111.32,0.0,0,Current,Current,2/10 Net 30
+446,2025-09,2025,9,Q3,AP,General Utilities,Utilities,South,112491.65,0.0,112491.65,0.0,0,Current,Current,Net 45
+279,2025-06,2025,6,Q2,AR,Oak Institute,Government,East,42086.66,547.26,41539.4,41539.4,52,31-60,Overdue,Net 90
+195,2025-11,2025,11,Q4,AR,Peak Analytics,Enterprise,North,241307.1,105867.28,135439.82,135439.82,51,31-60,Partial,Net 45
+678,2026-06,2026,6,Q2,AP,Network Pro,Technology,Central,38514.7,22445.02,16069.68,16069.68,38,31-60,Partial,Net 90
+294,2025-02,2025,2,Q1,AR,Falcon Tech,SMB,South,238749.45,140089.52,98659.93,98659.93,88,61-90,Partial,Net 30
+582,2025-07,2025,7,Q3,AP,Quality Goods,Office,East,58448.76,58448.76,0.0,0.0,22,1-30,Paid,Net 30
+402,2025-08,2025,8,Q3,AP,InfoSys Partners,Consulting,West,79645.43,0.0,79645.43,0.0,0,Current,Current,Net 30
+531,2026-06,2026,6,Q2,AP,General Utilities,Utilities,North,64776.51,0.0,64776.51,0.0,0,Current,Current,Net 45
+180,2026-04,2026,4,Q2,AR,Jupiter Startup,Startup,Central,37814.06,0.0,37814.06,0.0,0,Current,Current,Net 60
+656,2025-04,2025,4,Q2,AP,FirmBase Infra,Technology,East,94022.43,6570.78,87451.65,87451.65,106,90+,Overdue,Net 90
+423,2025-06,2025,6,Q2,AP,Elite Services,Consulting,Central,12896.42,0.0,12896.42,0.0,0,Current,Current,Net 60
+164,2026-03,2026,3,Q1,AR,Cedar Group,Enterprise,Central,82024.43,0.0,82024.43,0.0,0,Current,Current,Net 60
+34,2025-08,2025,8,Q3,AR,Delta Inc,SMB,East,104562.46,66115.14,38447.32,38447.32,90,61-90,Partial,2/10 Net 30
+48,2026-02,2026,2,Q1,AR,River Trade,Retail,West,121295.24,5045.48,116249.76,116249.76,87,61-90,Overdue,Net 60
+648,2026-06,2026,6,Q2,AP,Quality Goods,Office,Central,145056.71,17816.84,127239.87,127239.87,60,31-60,Overdue,Net 90
+269,2025-09,2025,9,Q3,AR,Echo Solutions,SMB,South,207978.04,69539.24,138438.8,0.0,0,Current,Partial,Net 90
+537,2026-05,2026,5,Q2,AP,Prime Vendors,Consulting,West,44191.73,44191.73,0.0,0.0,31,31-60,Paid,Net 60
+606,2025-02,2025,2,Q1,AP,LightHouse Media,Marketing,East,112177.03,0.0,112177.03,0.0,0,Current,Current,Net 90
+558,2025-06,2025,6,Q2,AP,Prime Vendors,Consulting,West,125848.6,0.0,125848.6,0.0,0,Current,Current,Net 90
+141,2026-05,2026,5,Q2,AR,Cedar Group,Enterprise,West,80672.19,25272.3,55399.89,55399.89,11,1-30,Partial,Net 45
+629,2025-06,2025,6,Q2,AP,Reliant Power,Utilities,East,128335.67,0.0,128335.67,0.0,0,Current,Current,Net 45
+356,2025-07,2025,7,Q3,AP,FirmBase Infra,Technology,Central,138151.74,8898.56,129253.18,129253.18,50,31-60,Overdue,Net 30
+392,2025-12,2025,12,Q4,AP,Reliant Power,Utilities,Central,37249.1,25375.49,11873.61,0.0,0,Current,Partial,Net 90
+302,2025-12,2025,12,Q4,AR,Global Retail,Retail,West,34378.82,0.0,34378.82,0.0,0,Current,Current,Net 45
+206,2026-06,2026,6,Q2,AR,Echo Solutions,SMB,South,33478.81,0.0,33478.81,0.0,0,Current,Current,Net 45
+605,2025-02,2025,2,Q1,AP,General Utilities,Utilities,North,174437.57,24142.33,150295.24,150295.24,36,31-60,Overdue,Net 90
+251,2025-11,2025,11,Q4,AR,National Agency,Government,North,130115.68,0.0,130115.68,0.0,0,Current,Current,2/10 Net 30
+362,2025-02,2025,2,Q1,AP,BrightTech Parts,Technology,North,125085.71,40824.12,84261.59,84261.59,15,1-30,Partial,Net 90
+239,2025-05,2025,5,Q2,AR,Metro Bank,Government,East,236025.26,62842.55,173182.71,173182.71,12,1-30,Partial,Net 90
+80,2026-04,2026,4,Q2,AR,Lumen Digital,Startup,West,215144.61,0.0,215144.61,0.0,0,Current,Current,Net 60
+630,2025-11,2025,11,Q4,AP,Elite Services,Consulting,West,102560.24,0.0,102560.24,0.0,0,Current,Current,Net 30
+649,2025-01,2025,1,Q1,AP,Prime Vendors,Consulting,East,147615.85,0.0,147615.85,0.0,0,Current,Current,2/10 Net 30
+261,2025-11,2025,11,Q4,AR,Oak Institute,Government,Central,7347.94,0.0,7347.94,0.0,0,Current,Current,Net 45
+566,2025-12,2025,12,Q4,AP,Network Pro,Technology,South,25222.2,14141.32,11080.88,0.0,0,Current,Partial,Net 30
+139,2025-10,2025,10,Q4,AR,IronClad Stores,Retail,Central,147771.18,15482.28,132288.9,132288.9,70,61-90,Overdue,Net 45
+429,2026-02,2026,2,Q1,AP,HarbourFreight,Logistics,West,107261.51,7676.83,99584.68,99584.68,44,31-60,Overdue,2/10 Net 30
+281,2025-08,2025,8,Q3,AR,River Trade,Retail,Central,195847.56,6035.41,189812.15,189812.15,58,31-60,Overdue,Net 30
+100,2026-02,2026,2,Q1,AR,Falcon Tech,SMB,South,243014.95,0.0,243014.95,0.0,0,Current,Current,2/10 Net 30
+473,2025-06,2025,6,Q2,AP,General Utilities,Utilities,East,24587.2,24587.2,0.0,0.0,55,31-60,Paid,Net 45
+426,2026-01,2026,1,Q1,AP,Master Builders,Manufacturing,South,155147.73,0.0,155147.73,0.0,0,Current,Current,2/10 Net 30
+330,2025-02,2025,2,Q1,AR,Metro Bank,Government,Central,217389.03,9745.08,207643.95,207643.95,19,1-30,Overdue,Net 90
+186,2025-10,2025,10,Q4,AR,Apex Corp,Enterprise,Central,196811.48,196811.48,0.0,0.0,19,1-30,Paid,2/10 Net 30
+176,2025-05,2025,5,Q2,AR,Kite Ventures,Startup,East,243966.66,243966.66,0.0,0.0,42,31-60,Paid,Net 45
+51,2026-03,2026,3,Q1,AR,National Agency,Government,North,226685.43,0.0,226685.43,0.0,0,Current,Current,2/10 Net 30
+607,2026-06,2026,6,Q2,AP,FirmBase Infra,Technology,South,23543.52,1151.18,22392.34,22392.34,45,31-60,Overdue,Net 45
+163,2025-03,2025,3,Q1,AR,Harbor Shops,Retail,East,12934.4,12934.4,0.0,0.0,22,1-30,Paid,Net 45
+192,2025-09,2025,9,Q3,AR,Jupiter Startup,Startup,North,224461.31,9779.31,214682.0,214682.0,27,1-30,Overdue,Net 90
+140,2026-01,2026,1,Q1,AR,Echo Solutions,SMB,Central,141935.91,87216.71,54719.2,54719.2,35,31-60,Partial,Net 60
+506,2025-05,2025,5,Q2,AP,Acme Supplies,Office,West,10696.32,991.49,9704.83,9704.83,2,1-30,Overdue,Net 45
+534,2026-02,2026,2,Q1,AP,Reliant Power,Utilities,North,125947.64,0.0,125947.64,0.0,0,Current,Current,Net 60
+459,2025-10,2025,10,Q4,AP,InfoSys Partners,Consulting,Central,81747.01,33270.59,48476.42,48476.42,24,1-30,Partial,Net 60
+529,2025-07,2025,7,Q3,AP,Acme Supplies,Office,Central,91080.09,58414.35,32665.74,32665.74,56,31-60,Partial,Net 90
+157,2025-11,2025,11,Q4,AR,Jupiter Startup,Startup,Central,120982.94,120982.94,0.0,0.0,25,1-30,Paid,Net 30
+353,2025-04,2025,4,Q2,AP,Prime Vendors,Consulting,North,170141.27,3057.85,167083.42,167083.42,67,61-90,Overdue,Net 30
+72,2026-04,2026,4,Q2,AR,Cedar Group,Enterprise,Central,41553.41,19905.6,21647.81,21647.81,33,31-60,Partial,2/10 Net 30
+190,2026-06,2026,6,Q2,AR,Kite Ventures,Startup,Central,181626.52,7601.24,174025.28,174025.28,20,1-30,Overdue,Net 60
+420,2025-12,2025,12,Q4,AP,LightHouse Media,Marketing,West,4167.79,4167.79,0.0,0.0,36,31-60,Paid,Net 45
+189,2025-02,2025,2,Q1,AR,Echo Solutions,SMB,Central,167245.57,0.0,167245.57,0.0,0,Current,Current,2/10 Net 30
+594,2026-01,2026,1,Q1,AP,Crown Logistics,Logistics,Central,173796.83,8804.16,164992.67,164992.67,1,1-30,Overdue,Net 90
+142,2025-05,2025,5,Q2,AR,Echo Solutions,SMB,North,129383.98,28318.76,101065.22,0.0,0,Current,Partial,2/10 Net 30
+610,2025-09,2025,9,Q3,AP,General Utilities,Utilities,East,13558.35,5546.88,8011.47,0.0,0,Current,Partial,Net 45
+204,2026-03,2026,3,Q1,AR,Lumen Digital,Startup,West,190550.88,190550.88,0.0,0.0,38,31-60,Paid,Net 45
+387,2025-11,2025,11,Q4,AP,Dura Materials,Manufacturing,East,169853.24,7284.87,162568.37,162568.37,22,1-30,Overdue,Net 90
+287,2025-03,2025,3,Q1,AR,Jupiter Startup,Startup,West,19186.96,19186.96,0.0,0.0,44,31-60,Paid,Net 30
+322,2026-01,2026,1,Q1,AR,Delta Inc,SMB,West,190769.67,8438.94,182330.73,182330.73,63,61-90,Overdue,Net 45
+211,2025-08,2025,8,Q3,AR,Apex Corp,Enterprise,North,181178.02,6726.56,174451.46,174451.46,120,90+,Overdue,Net 90
+15,2025-03,2025,3,Q1,AR,Peak Analytics,Enterprise,North,35811.33,4686.45,31124.88,31124.88,158,90+,Overdue,Net 90
+663,2026-04,2026,4,Q2,AP,HarbourFreight,Logistics,South,149965.31,75326.37,74638.94,0.0,0,Current,Partial,Net 90
+328,2026-06,2026,6,Q2,AR,Metro Bank,Government,South,50712.82,15879.26,34833.56,34833.56,9,1-30,Partial,Net 30
+165,2026-04,2026,4,Q2,AR,Quantum Ltd,SMB,West,194866.3,26788.63,168077.67,168077.67,179,90+,Overdue,Net 90
+170,2025-11,2025,11,Q4,AR,Cedar Group,Enterprise,West,36441.98,2364.82,34077.16,34077.16,21,1-30,Overdue,2/10 Net 30
+289,2025-09,2025,9,Q3,AR,Falcon Tech,SMB,East,70847.3,42760.17,28087.13,0.0,0,Current,Partial,Net 30
+101,2025-09,2025,9,Q3,AR,Peak Analytics,Enterprise,East,33216.58,18671.32,14545.26,14545.26,55,31-60,Partial,Net 30
+16,2026-02,2026,2,Q1,AR,Global Retail,Retail,Central,179672.5,24245.39,155427.11,155427.11,51,31-60,Overdue,Net 90
+112,2025-12,2025,12,Q4,AR,Quantum Ltd,SMB,Central,236626.83,0.0,236626.83,0.0,0,Current,Current,Net 30
+466,2025-01,2025,1,Q1,AP,Prime Vendors,Consulting,West,144239.77,55795.11,88444.66,0.0,0,Current,Partial,2/10 Net 30
+373,2026-05,2026,5,Q2,AP,HarbourFreight,Logistics,East,112428.31,5830.8,106597.51,106597.51,22,1-30,Overdue,Net 90
+299,2025-12,2025,12,Q4,AR,Oak Institute,Government,North,161117.84,10512.53,150605.31,150605.31,3,1-30,Overdue,Net 90
+87,2026-04,2026,4,Q2,AR,Echo Solutions,SMB,West,140219.77,89011.63,51208.14,51208.14,13,1-30,Partial,2/10 Net 30
+458,2025-05,2025,5,Q2,AP,FirmBase Infra,Technology,East,74644.77,3509.97,71134.8,71134.8,3,1-30,Overdue,Net 30
+18,2025-02,2025,2,Q1,AR,Harbor Shops,Retail,North,22360.05,10500.66,11859.39,11859.39,118,90+,Partial,Net 45
+559,2026-06,2026,6,Q2,AP,HarbourFreight,Logistics,South,167762.8,83552.21,84210.59,84210.59,27,1-30,Partial,2/10 Net 30
+215,2025-11,2025,11,Q4,AR,Harbor Shops,Retail,East,132706.51,89478.71,43227.8,43227.8,62,61-90,Partial,Net 90
+436,2025-09,2025,9,Q3,AP,HarbourFreight,Logistics,East,71025.7,0.0,71025.7,0.0,0,Current,Current,Net 90
+38,2026-06,2026,6,Q2,AR,Kite Ventures,Startup,North,48749.11,18175.79,30573.32,0.0,0,Current,Partial,Net 60
+399,2025-12,2025,12,Q4,AP,Quality Goods,Office,Central,161995.84,45957.8,116038.04,116038.04,11,1-30,Partial,Net 45
+407,2026-05,2026,5,Q2,AP,Elite Services,Consulting,South,47735.29,0.0,47735.29,0.0,0,Current,Current,Net 30
+491,2025-08,2025,8,Q3,AP,Reliant Power,Utilities,South,134790.37,0.0,134790.37,0.0,0,Current,Current,Net 60
+272,2025-12,2025,12,Q4,AR,Cedar Group,Enterprise,Central,207087.67,207087.67,0.0,0.0,9,1-30,Paid,Net 90
+273,2025-11,2025,11,Q4,AR,River Trade,Retail,Central,198134.4,41239.83,156894.57,0.0,0,Current,Partial,Net 30
+118,2026-06,2026,6,Q2,AR,BlueSky Ltd,Enterprise,Central,169153.25,22026.09,147127.16,147127.16,145,90+,Overdue,Net 90
+105,2026-06,2026,6,Q2,AR,Echo Solutions,SMB,West,187069.33,24845.06,162224.27,162224.27,14,1-30,Overdue,2/10 Net 30
+106,2025-04,2025,4,Q2,AR,Peak Analytics,Enterprise,Central,13015.49,13015.49,0.0,0.0,7,1-30,Paid,Net 60
+110,2025-05,2025,5,Q2,AR,Echo Solutions,SMB,Central,166959.12,0.0,166959.12,0.0,0,Current,Current,Net 30
+509,2026-05,2026,5,Q2,AP,OmniSource,Office,Central,46788.41,5224.33,41564.08,41564.08,76,61-90,Overdue,2/10 Net 30
+278,2025-12,2025,12,Q4,AR,Jupiter Startup,Startup,South,219251.84,219251.84,0.0,0.0,3,1-30,Paid,Net 45
+468,2025-03,2025,3,Q1,AP,Network Pro,Technology,South,111539.27,13532.09,98007.18,98007.18,10,1-30,Overdue,Net 60
+487,2025-02,2025,2,Q1,AP,Crown Logistics,Logistics,East,94948.89,0.0,94948.89,0.0,0,Current,Current,Net 30
+452,2026-01,2026,1,Q1,AP,InfoSys Partners,Consulting,West,104933.01,0.0,104933.01,0.0,0,Current,Current,Net 45
+207,2026-05,2026,5,Q2,AR,Oak Institute,Government,North,116915.63,12684.41,104231.22,104231.22,18,1-30,Overdue,Net 30
+193,2025-10,2025,10,Q4,AR,Cedar Group,Enterprise,East,188097.93,26324.98,161772.95,161772.95,125,90+,Overdue,Net 45
+39,2025-11,2025,11,Q4,AR,National Agency,Government,Central,225378.66,57.18,225321.48,225321.48,146,90+,Overdue,Net 45
+226,2026-06,2026,6,Q2,AR,Peak Analytics,Enterprise,South,162243.32,23002.57,139240.75,139240.75,100,90+,Overdue,Net 30
+688,2025-02,2025,2,Q1,AP,HarbourFreight,Logistics,East,172651.6,80706.91,91944.69,91944.69,29,1-30,Partial,Net 60
+340,2026-05,2026,5,Q2,AR,Metro Bank,Government,South,144324.71,18119.46,126205.25,126205.25,87,61-90,Overdue,Net 45
+518,2025-12,2025,12,Q4,AP,FirmBase Infra,Technology,West,37206.99,25118.4,12088.59,12088.59,14,1-30,Partial,Net 30
+329,2025-09,2025,9,Q3,AR,BlueSky Ltd,Enterprise,South,25998.29,887.24,25111.05,25111.05,48,31-60,Overdue,Net 60
+636,2026-05,2026,5,Q2,AP,BrightTech Parts,Technology,East,78692.36,29562.95,49129.41,0.0,0,Current,Partial,Net 90
+653,2025-07,2025,7,Q3,AP,General Utilities,Utilities,South,28763.59,18051.14,10712.45,10712.45,19,1-30,Partial,Net 60
+669,2025-10,2025,10,Q4,AP,Keystone Energy,Utilities,North,151137.34,0.0,151137.34,0.0,0,Current,Current,Net 60
+69,2026-05,2026,5,Q2,AR,Jupiter Startup,Startup,North,93415.86,3843.75,89572.11,89572.11,78,61-90,Overdue,Net 60
+259,2025-10,2025,10,Q4,AR,Cedar Group,Enterprise,South,33652.48,0.0,33652.48,0.0,0,Current,Current,Net 60
+44,2025-11,2025,11,Q4,AR,Cedar Group,Enterprise,South,53786.83,33609.71,20177.12,20177.12,38,31-60,Partial,Net 30
+430,2025-08,2025,8,Q3,AP,Crown Logistics,Logistics,East,48631.48,4216.26,44415.22,44415.22,23,1-30,Overdue,Net 30
+74,2025-02,2025,2,Q1,AR,Delta Inc,SMB,South,24890.93,5011.49,19879.44,19879.44,48,31-60,Partial,Net 45
+618,2025-11,2025,11,Q4,AP,Quality Goods,Office,North,126555.73,75154.6,51401.13,0.0,0,Current,Partial,2/10 Net 30
+122,2025-12,2025,12,Q4,AR,Apex Corp,Enterprise,South,103192.16,11548.93,91643.23,91643.23,61,61-90,Overdue,Net 45
+597,2025-02,2025,2,Q1,AP,Java Components,Manufacturing,North,107614.52,33391.31,74223.21,74223.21,4,1-30,Partial,Net 30
+546,2025-03,2025,3,Q1,AP,OmniSource,Office,Central,91509.61,0.0,91509.61,0.0,0,Current,Current,Net 45
+63,2026-03,2026,3,Q1,AR,National Agency,Government,Central,208529.1,119953.89,88575.21,0.0,0,Current,Partial,Net 30
+2,2025-01,2025,1,Q1,AR,Cedar Group,Enterprise,South,142505.04,0.0,142505.04,0.0,0,Current,Current,2/10 Net 30
+229,2026-02,2026,2,Q1,AR,Apex Corp,Enterprise,North,244482.44,101530.28,142952.16,142952.16,17,1-30,Partial,Net 30
+197,2025-06,2025,6,Q2,AR,National Agency,Government,South,209869.78,27600.28,182269.5,182269.5,128,90+,Overdue,Net 90
+686,2025-02,2025,2,Q1,AP,Prime Vendors,Consulting,Central,59018.72,37755.26,21263.46,0.0,0,Current,Partial,Net 90
+545,2025-08,2025,8,Q3,AP,LightHouse Media,Marketing,West,95942.77,56500.24,39442.53,39442.53,42,31-60,Partial,Net 45
+359,2025-10,2025,10,Q4,AP,FirmBase Infra,Technology,North,54476.52,35082.17,19394.35,19394.35,47,31-60,Partial,2/10 Net 30
+580,2025-11,2025,11,Q4,AP,Quality Goods,Office,North,65627.57,0.0,65627.57,0.0,0,Current,Current,Net 90
+574,2025-01,2025,1,Q1,AP,Java Components,Manufacturing,West,153705.81,0.0,153705.81,0.0,0,Current,Current,Net 60
+36,2025-04,2025,4,Q2,AR,Metro Bank,Government,North,205063.72,6857.03,198206.69,198206.69,87,61-90,Overdue,Net 90
+210,2026-01,2026,1,Q1,AR,Metro Bank,Government,North,137128.56,10877.91,126250.65,126250.65,36,31-60,Overdue,Net 60
+257,2025-07,2025,7,Q3,AR,IronClad Stores,Retail,North,136537.81,5373.17,131164.64,131164.64,11,1-30,Overdue,Net 60
+619,2025-03,2025,3,Q1,AP,Keystone Energy,Utilities,North,67426.32,67426.32,0.0,0.0,4,1-30,Paid,Net 30
+166,2026-04,2026,4,Q2,AR,Global Retail,Retail,North,47300.81,0.0,47300.81,0.0,0,Current,Current,Net 90
+498,2025-08,2025,8,Q3,AP,Elite Services,Consulting,North,174874.12,174874.12,0.0,0.0,19,1-30,Paid,2/10 Net 30
+265,2026-03,2026,3,Q1,AR,River Trade,Retail,South,208367.33,8214.32,200153.01,200153.01,148,90+,Overdue,Net 45
+255,2025-04,2025,4,Q2,AR,Falcon Tech,SMB,South,86092.47,8132.64,77959.83,77959.83,15,1-30,Overdue,Net 90
+632,2025-11,2025,11,Q4,AP,Elite Services,Consulting,North,92811.4,9284.22,83527.18,83527.18,164,90+,Overdue,Net 60
+617,2025-05,2025,5,Q2,AP,Master Builders,Manufacturing,South,85180.35,11415.46,73764.89,73764.89,51,31-60,Overdue,Net 30
+484,2025-05,2025,5,Q2,AP,FirmBase Infra,Technology,North,20479.38,0.0,20479.38,0.0,0,Current,Current,2/10 Net 30
+196,2025-07,2025,7,Q3,AR,Jupiter Startup,Startup,East,193337.62,0.0,193337.62,0.0,0,Current,Current,2/10 Net 30
+114,2026-03,2026,3,Q1,AR,Cedar Group,Enterprise,North,35916.94,0.0,35916.94,0.0,0,Current,Current,2/10 Net 30
+456,2026-06,2026,6,Q2,AP,InfoSys Partners,Consulting,East,156524.24,0.0,156524.24,0.0,0,Current,Current,2/10 Net 30
+397,2026-05,2026,5,Q2,AP,Prime Vendors,Consulting,Central,4558.25,4558.25,0.0,0.0,38,31-60,Paid,Net 60
+187,2026-04,2026,4,Q2,AR,Falcon Tech,SMB,Central,211085.95,18129.23,192956.72,192956.72,52,31-60,Overdue,Net 45
+528,2025-05,2025,5,Q2,AP,FirmBase Infra,Technology,North,139047.58,90279.56,48768.02,48768.02,10,1-30,Partial,Net 90
+532,2025-10,2025,10,Q4,AP,Keystone Energy,Utilities,North,34549.97,0.0,34549.97,0.0,0,Current,Current,Net 60
+234,2025-09,2025,9,Q3,AR,River Trade,Retail,Central,213354.76,141760.9,71593.86,71593.86,49,31-60,Partial,Net 30
+568,2026-02,2026,2,Q1,AP,FirmBase Infra,Technology,West,82658.1,92.12,82565.98,82565.98,8,1-30,Overdue,Net 60
+439,2026-01,2026,1,Q1,AP,General Utilities,Utilities,Central,165694.4,108944.81,56749.59,0.0,0,Current,Partial,2/10 Net 30
+694,2025-05,2025,5,Q2,AP,Network Pro,Technology,East,26631.23,26631.23,0.0,0.0,22,1-30,Paid,Net 45
+425,2025-05,2025,5,Q2,AP,FirmBase Infra,Technology,Central,131181.06,30751.65,100429.41,100429.41,30,1-30,Partial,Net 60
+266,2025-03,2025,3,Q1,AR,Oak Institute,Government,North,203622.17,105147.5,98474.67,98474.67,42,31-60,Partial,2/10 Net 30
+556,2025-12,2025,12,Q4,AP,Prime Vendors,Consulting,West,64704.93,7934.96,56769.97,56769.97,64,61-90,Overdue,2/10 Net 30
+364,2025-04,2025,4,Q2,AP,Quality Goods,Office,Central,21808.68,0.0,21808.68,0.0,0,Current,Current,Net 45
+440,2025-12,2025,12,Q4,AP,LightHouse Media,Marketing,East,83492.34,33694.78,49797.56,0.0,0,Current,Partial,Net 90
+567,2026-04,2026,4,Q2,AP,Network Pro,Technology,South,76606.42,0.0,76606.42,0.0,0,Current,Current,Net 90
+235,2025-10,2025,10,Q4,AR,Falcon Tech,SMB,Central,100343.37,59729.29,40614.08,0.0,0,Current,Partial,2/10 Net 30
+393,2026-05,2026,5,Q2,AP,Dura Materials,Manufacturing,West,49770.41,0.0,49770.41,0.0,0,Current,Current,Net 45
+26,2026-02,2026,2,Q1,AR,Quantum Ltd,SMB,East,180466.99,17473.74,162993.25,162993.25,176,90+,Overdue,Net 45
+693,2026-01,2026,1,Q1,AP,General Utilities,Utilities,East,30934.57,0.0,30934.57,0.0,0,Current,Current,2/10 Net 30
+264,2026-06,2026,6,Q2,AR,Quantum Ltd,SMB,North,138061.01,80075.67,57985.34,57985.34,18,1-30,Partial,Net 60
+78,2025-02,2025,2,Q1,AR,National Agency,Government,East,61086.48,37306.16,23780.32,23780.32,31,31-60,Partial,2/10 Net 30
+137,2025-06,2025,6,Q2,AR,BlueSky Ltd,Enterprise,South,133396.8,133396.8,0.0,0.0,42,31-60,Paid,2/10 Net 30
+467,2026-02,2026,2,Q1,AP,Reliant Power,Utilities,West,133469.86,0.0,133469.86,0.0,0,Current,Current,Net 90
+690,2025-06,2025,6,Q2,AP,OmniSource,Office,East,74913.12,5293.64,69619.48,69619.48,63,61-90,Overdue,Net 30
+638,2026-02,2026,2,Q1,AP,Network Pro,Technology,South,28424.15,281.89,28142.26,28142.26,58,31-60,Overdue,Net 60
+442,2026-03,2026,3,Q1,AP,Master Builders,Manufacturing,Central,63119.96,39829.43,23290.53,23290.53,22,1-30,Partial,Net 90
+347,2026-06,2026,6,Q2,AR,Jupiter Startup,Startup,East,87389.5,3423.22,83966.28,83966.28,41,31-60,Overdue,Net 60
+115,2026-01,2026,1,Q1,AR,Quantum Ltd,SMB,East,29298.72,3167.95,26130.77,26130.77,28,1-30,Overdue,Net 30
+62,2026-03,2026,3,Q1,AR,Echo Solutions,SMB,West,164362.07,0.0,164362.07,0.0,0,Current,Current,2/10 Net 30
+117,2025-09,2025,9,Q3,AR,Lumen Digital,Startup,South,27350.07,3330.29,24019.78,24019.78,44,31-60,Overdue,Net 30
+476,2025-04,2025,4,Q2,AP,HarbourFreight,Logistics,West,51869.71,0.0,51869.71,0.0,0,Current,Current,Net 30
+221,2025-04,2025,4,Q2,AR,Peak Analytics,Enterprise,South,102174.85,5834.11,96340.74,96340.74,41,31-60,Overdue,Net 45
+608,2025-07,2025,7,Q3,AP,Keystone Energy,Utilities,South,20357.35,4819.91,15537.44,15537.44,37,31-60,Partial,Net 90
+576,2025-08,2025,8,Q3,AP,Prime Vendors,Consulting,South,63684.1,63684.1,0.0,0.0,50,31-60,Paid,Net 30
+17,2026-03,2026,3,Q1,AR,Delta Inc,SMB,South,149135.64,0.0,149135.64,0.0,0,Current,Current,Net 45
+478,2025-02,2025,2,Q1,AP,BrightTech Parts,Technology,East,143089.53,16925.24,126164.29,126164.29,16,1-30,Overdue,Net 45
+90,2026-03,2026,3,Q1,AR,Apex Corp,Enterprise,South,42818.5,4449.09,38369.41,38369.41,26,1-30,Overdue,Net 90
+515,2025-04,2025,4,Q2,AP,FirmBase Infra,Technology,East,8218.55,3464.14,4754.41,4754.41,44,31-60,Partial,Net 60
+560,2025-11,2025,11,Q4,AP,Reliant Power,Utilities,North,172191.37,100847.61,71343.76,71343.76,34,31-60,Partial,Net 30
+134,2026-03,2026,3,Q1,AR,Jupiter Startup,Startup,East,23176.71,14273.34,8903.37,8903.37,15,1-30,Partial,Net 90
+672,2026-05,2026,5,Q2,AP,Network Pro,Technology,East,6935.85,0.0,6935.85,0.0,0,Current,Current,Net 60
+343,2025-09,2025,9,Q3,AR,Cedar Group,Enterprise,East,214186.23,0.0,214186.23,0.0,0,Current,Current,Net 45
+500,2026-01,2026,1,Q1,AP,Quality Goods,Office,West,26872.13,13050.86,13821.27,13821.27,46,31-60,Partial,2/10 Net 30
+286,2025-09,2025,9,Q3,AR,Cedar Group,Enterprise,East,243706.78,126032.26,117674.52,0.0,0,Current,Partial,Net 45
+400,2026-06,2026,6,Q2,AP,Reliant Power,Utilities,North,114424.06,34646.44,79777.62,79777.62,28,1-30,Partial,Net 45
+121,2026-06,2026,6,Q2,AR,Apex Corp,Enterprise,Central,70524.69,46600.51,23924.18,23924.18,130,90+,Partial,Net 45
+421,2026-05,2026,5,Q2,AP,InfoSys Partners,Consulting,South,109557.59,0.0,109557.59,0.0,0,Current,Current,Net 30
+673,2025-04,2025,4,Q2,AP,Prime Vendors,Consulting,North,90921.46,62255.19,28666.27,28666.27,50,31-60,Partial,Net 60
+520,2026-02,2026,2,Q1,AP,Master Builders,Manufacturing,North,130475.56,130475.56,0.0,0.0,20,1-30,Paid,Net 90
+52,2026-01,2026,1,Q1,AR,Peak Analytics,Enterprise,North,100546.73,12063.62,88483.11,88483.11,160,90+,Overdue,Net 90
+252,2025-08,2025,8,Q3,AR,Oak Institute,Government,East,149204.54,2339.89,146864.65,146864.65,5,1-30,Overdue,2/10 Net 30
+81,2026-01,2026,1,Q1,AR,River Trade,Retail,North,84202.08,44528.6,39673.48,39673.48,28,1-30,Partial,Net 90
+103,2025-09,2025,9,Q3,AR,Metro Bank,Government,East,11131.04,0.0,11131.04,0.0,0,Current,Current,2/10 Net 30
+89,2025-05,2025,5,Q2,AR,Peak Analytics,Enterprise,North,86338.7,39972.71,46365.99,0.0,0,Current,Partial,Net 30
+67,2026-06,2026,6,Q2,AR,Quantum Ltd,SMB,East,86043.87,1557.25,84486.62,84486.62,9,1-30,Overdue,Net 90
+248,2025-03,2025,3,Q1,AR,National Agency,Government,West,66907.01,0.0,66907.01,0.0,0,Current,Current,Net 45
+390,2026-06,2026,6,Q2,AP,HarbourFreight,Logistics,Central,144039.56,0.0,144039.56,0.0,0,Current,Current,Net 60
+145,2025-07,2025,7,Q3,AR,Lumen Digital,Startup,Central,74034.07,9071.67,64962.4,64962.4,111,90+,Overdue,Net 90
+107,2025-12,2025,12,Q4,AR,Delta Inc,SMB,East,92875.09,92875.09,0.0,0.0,9,1-30,Paid,Net 90
+326,2025-05,2025,5,Q2,AR,BlueSky Ltd,Enterprise,East,206854.84,0.0,206854.84,0.0,0,Current,Current,2/10 Net 30
+376,2025-03,2025,3,Q1,AP,OmniSource,Office,West,154616.29,412.11,154204.18,154204.18,34,31-60,Overdue,Net 90
+419,2025-09,2025,9,Q3,AP,Reliant Power,Utilities,Central,67657.53,30999.73,36657.8,0.0,0,Current,Partial,Net 30
+335,2026-06,2026,6,Q2,AR,Lumen Digital,Startup,West,145145.69,0.0,145145.69,0.0,0,Current,Current,Net 90
+200,2025-11,2025,11,Q4,AR,Jupiter Startup,Startup,Central,154683.85,37645.24,117038.61,117038.61,44,31-60,Partial,Net 90
+652,2026-05,2026,5,Q2,AP,BrightTech Parts,Technology,West,14725.78,0.0,14725.78,0.0,0,Current,Current,Net 30
+68,2025-07,2025,7,Q3,AR,Kite Ventures,Startup,North,174090.07,174090.07,0.0,0.0,54,31-60,Paid,Net 45
+240,2025-06,2025,6,Q2,AR,National Agency,Government,West,30306.77,2718.72,27588.05,27588.05,12,1-30,Overdue,Net 30
+424,2025-01,2025,1,Q1,AP,Java Components,Manufacturing,North,86440.18,0.0,86440.18,0.0,0,Current,Current,Net 90
+670,2025-11,2025,11,Q4,AP,Master Builders,Manufacturing,North,75911.54,75911.54,0.0,0.0,22,1-30,Paid,Net 30
+460,2025-06,2025,6,Q2,AP,Acme Supplies,Office,South,169457.41,2428.84,167028.57,167028.57,36,31-60,Overdue,Net 30
+113,2026-05,2026,5,Q2,AR,Jupiter Startup,Startup,West,249653.75,138857.58,110796.17,110796.17,52,31-60,Partial,Net 90
+683,2025-03,2025,3,Q1,AP,Master Builders,Manufacturing,South,91543.99,0.0,91543.99,0.0,0,Current,Current,Net 30
+552,2025-10,2025,10,Q4,AP,Keystone Energy,Utilities,Central,86320.2,35670.34,50649.86,50649.86,4,1-30,Partial,Net 30
+225,2025-11,2025,11,Q4,AR,IronClad Stores,Retail,West,125195.92,2628.34,122567.58,122567.58,112,90+,Overdue,Net 45
+177,2025-04,2025,4,Q2,AR,Kite Ventures,Startup,South,65740.13,26892.14,38847.99,38847.99,2,1-30,Partial,Net 30
+691,2026-02,2026,2,Q1,AP,Keystone Energy,Utilities,West,148918.95,13449.97,135468.98,135468.98,72,61-90,Overdue,Net 60
+542,2025-02,2025,2,Q1,AP,Quality Goods,Office,East,101266.37,12144.91,89121.46,89121.46,7,1-30,Overdue,Net 30
+148,2025-01,2025,1,Q1,AR,National Agency,Government,North,99610.7,66282.25,33328.45,33328.45,12,1-30,Partial,Net 30
+83,2025-07,2025,7,Q3,AR,IronClad Stores,Retail,Central,220807.42,0.0,220807.42,0.0,0,Current,Current,Net 90
+375,2025-03,2025,3,Q1,AP,Prime Vendors,Consulting,East,11912.08,7249.12,4662.96,0.0,0,Current,Partial,Net 45
+627,2025-11,2025,11,Q4,AP,Prime Vendors,Consulting,Central,100078.96,2578.09,97500.87,97500.87,10,1-30,Overdue,Net 90
+522,2025-02,2025,2,Q1,AP,Reliant Power,Utilities,West,11725.29,1360.74,10364.55,10364.55,15,1-30,Overdue,Net 60
+178,2025-06,2025,6,Q2,AR,Kite Ventures,Startup,Central,44038.89,19759.6,24279.29,24279.29,46,31-60,Partial,2/10 Net 30
+319,2025-11,2025,11,Q4,AR,Harbor Shops,Retail,Central,86136.26,0.0,86136.26,0.0,0,Current,Current,Net 30
+523,2025-10,2025,10,Q4,AP,OmniSource,Office,South,12654.76,857.42,11797.34,11797.34,29,1-30,Overdue,2/10 Net 30
+661,2026-01,2026,1,Q1,AP,Dura Materials,Manufacturing,South,52297.74,7399.28,44898.46,44898.46,39,31-60,Overdue,2/10 Net 30
+386,2025-07,2025,7,Q3,AP,General Utilities,Utilities,Central,166050.94,13512.18,152538.76,152538.76,51,31-60,Overdue,Net 45
+579,2025-08,2025,8,Q3,AP,Master Builders,Manufacturing,West,157039.16,61402.63,95636.53,95636.53,10,1-30,Partial,Net 30
+599,2025-05,2025,5,Q2,AP,Keystone Energy,Utilities,South,62384.16,1572.56,60811.6,60811.6,35,31-60,Overdue,Net 30
+138,2026-01,2026,1,Q1,AR,National Agency,Government,East,159567.21,86036.99,73530.22,73530.22,41,31-60,Partial,Net 60
+33,2025-05,2025,5,Q2,AR,National Agency,Government,South,233606.56,0.0,233606.56,0.0,0,Current,Current,Net 30
+471,2026-03,2026,3,Q1,AP,Acme Supplies,Office,South,41442.29,0.0,41442.29,0.0,0,Current,Current,Net 90
+162,2026-01,2026,1,Q1,AR,Lumen Digital,Startup,Central,238433.4,1244.59,237188.81,237188.81,82,61-90,Overdue,Net 45
+296,2025-12,2025,12,Q4,AR,Peak Analytics,Enterprise,South,200013.52,6990.4,193023.12,193023.12,60,31-60,Overdue,Net 45
+385,2025-05,2025,5,Q2,AP,Network Pro,Technology,Central,55907.62,5304.93,50602.69,50602.69,41,31-60,Overdue,2/10 Net 30
+527,2025-06,2025,6,Q2,AP,Master Builders,Manufacturing,Central,164468.74,46225.92,118242.82,0.0,0,Current,Partial,2/10 Net 30
+647,2025-10,2025,10,Q4,AP,LightHouse Media,Marketing,West,31856.16,31856.16,0.0,0.0,5,1-30,Paid,Net 45
+32,2026-02,2026,2,Q1,AR,River Trade,Retail,North,174299.81,85625.62,88674.19,0.0,0,Current,Partial,Net 45
+625,2026-05,2026,5,Q2,AP,Acme Supplies,Office,East,167914.7,541.08,167373.62,167373.62,12,1-30,Overdue,Net 90
+622,2026-02,2026,2,Q1,AP,InfoSys Partners,Consulting,North,89062.16,0.0,89062.16,0.0,0,Current,Current,2/10 Net 30
+667,2025-06,2025,6,Q2,AP,Prime Vendors,Consulting,West,89279.52,42576.68,46702.84,0.0,0,Current,Partial,Net 30
+314,2025-05,2025,5,Q2,AR,Global Retail,Retail,West,14301.12,6624.63,7676.49,7676.49,8,1-30,Partial,Net 30
+303,2025-02,2025,2,Q1,AR,Global Retail,Retail,East,242258.0,79965.34,162292.66,0.0,0,Current,Partial,Net 90
+495,2025-11,2025,11,Q4,AP,Prime Vendors,Consulting,South,127404.08,127404.08,0.0,0.0,20,1-30,Paid,Net 30
+541,2026-04,2026,4,Q2,AP,Prime Vendors,Consulting,North,114014.49,15867.23,98147.26,98147.26,29,1-30,Overdue,2/10 Net 30
+604,2026-05,2026,5,Q2,AP,Dura Materials,Manufacturing,Central,98530.94,29958.76,68572.18,0.0,0,Current,Partial,Net 45
+422,2025-04,2025,4,Q2,AP,Prime Vendors,Consulting,West,117564.88,10113.28,107451.6,107451.6,1,1-30,Overdue,Net 90
+19,2026-04,2026,4,Q2,AR,Harbor Shops,Retail,West,28748.05,3725.04,25023.01,25023.01,74,61-90,Overdue,Net 90
+149,2025-11,2025,11,Q4,AR,Echo Solutions,SMB,South,120751.46,61302.39,59449.07,0.0,0,Current,Partial,Net 45
+284,2026-06,2026,6,Q2,AR,Falcon Tech,SMB,West,9088.9,1257.78,7831.12,7831.12,96,90+,Overdue,Net 30
+548,2026-05,2026,5,Q2,AP,Dura Materials,Manufacturing,North,153117.95,0.0,153117.95,0.0,0,Current,Current,Net 30
+297,2025-12,2025,12,Q4,AR,Apex Corp,Enterprise,East,213006.47,0.0,213006.47,0.0,0,Current,Current,Net 60
+254,2026-04,2026,4,Q2,AR,Delta Inc,SMB,West,21457.71,2733.22,18724.49,18724.49,53,31-60,Overdue,Net 30
+213,2025-01,2025,1,Q1,AR,Harbor Shops,Retail,South,114378.06,0.0,114378.06,0.0,0,Current,Current,Net 30
+222,2026-06,2026,6,Q2,AR,Lumen Digital,Startup,East,126832.94,0.0,126832.94,0.0,0,Current,Current,Net 30
+323,2025-11,2025,11,Q4,AR,IronClad Stores,Retail,North,96987.18,0.0,96987.18,0.0,0,Current,Current,Net 30
+53,2025-08,2025,8,Q3,AR,Peak Analytics,Enterprise,South,100270.01,0.0,100270.01,0.0,0,Current,Current,Net 90
+601,2026-01,2026,1,Q1,AP,FirmBase Infra,Technology,North,4278.65,267.13,4011.52,4011.52,79,61-90,Overdue,Net 30
+171,2025-02,2025,2,Q1,AR,Delta Inc,SMB,Central,84051.88,0.0,84051.88,0.0,0,Current,Current,Net 45
+591,2025-11,2025,11,Q4,AP,Java Components,Manufacturing,West,117532.17,72939.38,44592.79,0.0,0,Current,Partial,Net 60
+201,2025-04,2025,4,Q2,AR,Falcon Tech,SMB,South,6673.38,6673.38,0.0,0.0,8,1-30,Paid,Net 90
+486,2025-03,2025,3,Q1,AP,OmniSource,Office,North,160606.22,53467.07,107139.15,0.0,0,Current,Partial,Net 60
+151,2025-08,2025,8,Q3,AR,Jupiter Startup,Startup,North,199505.28,0.0,199505.28,0.0,0,Current,Current,Net 90
+104,2025-03,2025,3,Q1,AR,Oak Institute,Government,East,16109.97,5113.3,10996.67,10996.67,46,31-60,Partial,Net 30
+589,2025-05,2025,5,Q2,AP,Acme Supplies,Office,North,126909.77,55722.24,71187.53,71187.53,19,1-30,Partial,Net 90
+481,2026-06,2026,6,Q2,AP,FirmBase Infra,Technology,North,148037.08,11235.08,136802.0,136802.0,12,1-30,Overdue,2/10 Net 30
+455,2025-06,2025,6,Q2,AP,BrightTech Parts,Technology,South,114485.61,6187.49,108298.12,108298.12,41,31-60,Overdue,Net 90
+11,2026-02,2026,2,Q1,AR,Cedar Group,Enterprise,West,134633.01,134633.01,0.0,0.0,28,1-30,Paid,2/10 Net 30
+242,2025-06,2025,6,Q2,AR,Metro Bank,Government,South,125815.37,0.0,125815.37,0.0,0,Current,Current,Net 30
+249,2025-03,2025,3,Q1,AR,Oak Institute,Government,Central,129120.1,13589.26,115530.84,115530.84,18,1-30,Overdue,Net 90
+228,2025-12,2025,12,Q4,AR,BlueSky Ltd,Enterprise,Central,228624.11,228624.11,0.0,0.0,31,31-60,Paid,Net 90
+360,2025-05,2025,5,Q2,AP,Keystone Energy,Utilities,West,170810.93,0.0,170810.93,0.0,0,Current,Current,Net 90
+379,2026-04,2026,4,Q2,AP,LightHouse Media,Marketing,West,42249.24,20019.6,22229.64,0.0,0,Current,Partial,Net 60
+596,2025-02,2025,2,Q1,AP,Elite Services,Consulting,West,165489.38,356.59,165132.79,165132.79,8,1-30,Overdue,Net 30
+519,2025-08,2025,8,Q3,AP,General Utilities,Utilities,South,177456.09,114245.07,63211.02,0.0,0,Current,Partial,2/10 Net 30
+533,2026-06,2026,6,Q2,AP,FirmBase Infra,Technology,West,9343.69,1149.64,8194.05,8194.05,42,31-60,Overdue,Net 60
+12,2026-06,2026,6,Q2,AR,IronClad Stores,Retail,East,116162.31,0.0,116162.31,0.0,0,Current,Current,Net 60
+695,2025-10,2025,10,Q4,AP,General Utilities,Utilities,North,158121.03,82784.79,75336.24,75336.24,8,1-30,Partial,2/10 Net 30
+243,2025-10,2025,10,Q4,AR,Peak Analytics,Enterprise,North,181620.37,181620.37,0.0,0.0,20,1-30,Paid,Net 90
+76,2025-07,2025,7,Q3,AR,National Agency,Government,North,227560.8,20311.3,207249.5,207249.5,3,1-30,Overdue,Net 45
+489,2025-12,2025,12,Q4,AP,OmniSource,Office,West,34930.19,2797.39,32132.8,32132.8,82,61-90,Overdue,Net 90
+411,2026-02,2026,2,Q1,AP,InfoSys Partners,Consulting,East,158385.79,70241.83,88143.96,0.0,0,Current,Partial,Net 90
+410,2025-10,2025,10,Q4,AP,Elite Services,Consulting,Central,172682.63,172682.63,0.0,0.0,1,1-30,Paid,Net 45
+406,2025-02,2025,2,Q1,AP,Acme Supplies,Office,Central,170615.35,5418.84,165196.51,165196.51,7,1-30,Overdue,Net 60
+578,2025-02,2025,2,Q1,AP,InfoSys Partners,Consulting,North,87293.05,0.0,87293.05,0.0,0,Current,Current,Net 90
+645,2025-10,2025,10,Q4,AP,Quality Goods,Office,North,35434.81,1714.73,33720.08,33720.08,20,1-30,Overdue,Net 30
+224,2026-02,2026,2,Q1,AR,Jupiter Startup,Startup,South,144598.43,0.0,144598.43,0.0,0,Current,Current,Net 45
+549,2025-04,2025,4,Q2,AP,Quality Goods,Office,East,116076.6,39271.59,76805.01,0.0,0,Current,Partial,Net 45
+536,2025-10,2025,10,Q4,AP,Network Pro,Technology,Central,104800.26,8844.63,95955.63,95955.63,65,61-90,Overdue,2/10 Net 30
+697,2025-12,2025,12,Q4,AP,FirmBase Infra,Technology,Central,80023.1,24986.57,55036.53,0.0,0,Current,Partial,Net 90
+675,2025-03,2025,3,Q1,AP,Dura Materials,Manufacturing,Central,144809.86,0.0,144809.86,0.0,0,Current,Current,Net 90
+247,2025-07,2025,7,Q3,AR,River Trade,Retail,South,238486.13,29737.38,208748.75,208748.75,37,31-60,Overdue,Net 90
+108,2025-03,2025,3,Q1,AR,Global Retail,Retail,Central,86709.74,10792.99,75916.75,75916.75,99,90+,Overdue,Net 45
+14,2026-04,2026,4,Q2,AR,Apex Corp,Enterprise,North,208758.05,140593.27,68164.78,68164.78,163,90+,Partial,Net 60
+593,2025-12,2025,12,Q4,AP,Prime Vendors,Consulting,North,36535.22,1306.97,35228.25,35228.25,84,61-90,Overdue,Net 30
+357,2026-02,2026,2,Q1,AP,Prime Vendors,Consulting,West,132326.66,0.0,132326.66,0.0,0,Current,Current,Net 30
+477,2025-02,2025,2,Q1,AP,Prime Vendors,Consulting,Central,47023.84,31290.81,15733.03,0.0,0,Current,Partial,Net 90
+58,2025-07,2025,7,Q3,AR,Oak Institute,Government,East,153775.64,39066.61,114709.03,114709.03,57,31-60,Partial,Net 30
+696,2025-08,2025,8,Q3,AP,Crown Logistics,Logistics,West,32869.8,9026.89,23842.91,0.0,0,Current,Partial,Net 90
+8,2025-08,2025,8,Q3,AR,BlueSky Ltd,Enterprise,East,228718.35,120699.1,108019.25,108019.25,29,1-30,Partial,2/10 Net 30
+70,2025-02,2025,2,Q1,AR,River Trade,Retail,East,217772.99,74515.31,143257.68,143257.68,58,31-60,Partial,Net 90
+65,2025-09,2025,9,Q3,AR,River Trade,Retail,North,64132.23,34971.6,29160.63,29160.63,16,1-30,Partial,Net 90
+620,2025-02,2025,2,Q1,AP,LightHouse Media,Marketing,East,14860.05,0.0,14860.05,0.0,0,Current,Current,Net 45
+640,2025-07,2025,7,Q3,AP,FirmBase Infra,Technology,West,148635.46,0.0,148635.46,0.0,0,Current,Current,Net 60
+435,2025-02,2025,2,Q1,AP,FirmBase Infra,Technology,West,19122.68,252.82,18869.86,18869.86,146,90+,Overdue,Net 45
+346,2025-07,2025,7,Q3,AR,Oak Institute,Government,East,102302.37,102302.37,0.0,0.0,47,31-60,Paid,Net 30
+416,2026-05,2026,5,Q2,AP,Elite Services,Consulting,West,103148.82,0.0,103148.82,0.0,0,Current,Current,Net 45
+651,2026-02,2026,2,Q1,AP,Dura Materials,Manufacturing,North,79330.8,0.0,79330.8,0.0,0,Current,Current,Net 45
+354,2026-01,2026,1,Q1,AP,Quality Goods,Office,East,29687.79,29687.79,0.0,0.0,11,1-30,Paid,Net 45
+602,2026-04,2026,4,Q2,AP,Elite Services,Consulting,South,82724.19,0.0,82724.19,0.0,0,Current,Current,Net 45
+316,2025-05,2025,5,Q2,AR,Delta Inc,SMB,Central,96529.74,34876.35,61653.39,61653.39,71,61-90,Partial,Net 90
+485,2026-04,2026,4,Q2,AP,Quality Goods,Office,Central,67844.66,35813.48,32031.18,32031.18,33,31-60,Partial,2/10 Net 30
+317,2025-06,2025,6,Q2,AR,National Agency,Government,West,242342.01,119832.08,122509.93,122509.93,42,31-60,Partial,2/10 Net 30
+156,2026-04,2026,4,Q2,AR,Falcon Tech,SMB,South,117131.5,75303.28,41828.22,0.0,0,Current,Partial,Net 60
+250,2026-06,2026,6,Q2,AR,Cedar Group,Enterprise,North,91977.16,8922.85,83054.31,83054.31,49,31-60,Overdue,2/10 Net 30
+372,2025-05,2025,5,Q2,AP,Prime Vendors,Consulting,West,11137.1,0.0,11137.1,0.0,0,Current,Current,Net 60
+309,2025-09,2025,9,Q3,AR,Metro Bank,Government,South,200313.5,29728.64,170584.86,170584.86,21,1-30,Overdue,Net 45
+382,2026-03,2026,3,Q1,AP,OmniSource,Office,Central,91292.67,11486.66,79806.01,79806.01,146,90+,Overdue,2/10 Net 30
+592,2025-10,2025,10,Q4,AP,General Utilities,Utilities,South,119949.93,119949.93,0.0,0.0,23,1-30,Paid,Net 60
+208,2026-01,2026,1,Q1,AR,IronClad Stores,Retail,North,16096.0,2256.46,13839.54,13839.54,33,31-60,Overdue,Net 60
+355,2025-05,2025,5,Q2,AP,Keystone Energy,Utilities,South,114692.8,7777.09,106915.71,106915.71,51,31-60,Overdue,Net 45
+633,2026-03,2026,3,Q1,AP,Keystone Energy,Utilities,North,27677.92,27677.92,0.0,0.0,40,31-60,Paid,2/10 Net 30
+245,2025-11,2025,11,Q4,AR,National Agency,Government,Central,237083.34,0.0,237083.34,0.0,0,Current,Current,Net 45
+336,2025-05,2025,5,Q2,AR,Metro Bank,Government,North,174175.87,174175.87,0.0,0.0,24,1-30,Paid,Net 30
+88,2025-08,2025,8,Q3,AR,Metro Bank,Government,South,82953.2,4803.97,78149.23,78149.23,86,61-90,Overdue,Net 90
+7,2025-06,2025,6,Q2,AR,River Trade,Retail,South,247433.22,0.0,247433.22,0.0,0,Current,Current,2/10 Net 30
+60,2025-08,2025,8,Q3,AR,Delta Inc,SMB,East,34658.49,2227.04,32431.45,32431.45,72,61-90,Overdue,2/10 Net 30
+203,2026-01,2026,1,Q1,AR,Quantum Ltd,SMB,East,235455.73,16888.6,218567.13,218567.13,38,31-60,Overdue,Net 60
+3,2025-09,2025,9,Q3,AR,Apex Corp,Enterprise,South,43092.48,16353.15,26739.33,26739.33,33,31-60,Partial,Net 60
+10,2026-01,2026,1,Q1,AR,Lumen Digital,Startup,South,125911.38,3021.53,122889.85,122889.85,171,90+,Overdue,Net 30
+274,2025-06,2025,6,Q2,AR,Oak Institute,Government,West,54567.96,34771.34,19796.62,0.0,0,Current,Partial,Net 45
+223,2025-07,2025,7,Q3,AR,Lumen Digital,Startup,East,59212.15,5143.84,54068.31,54068.31,1,1-30,Overdue,Net 45
+637,2026-03,2026,3,Q1,AP,Reliant Power,Utilities,North,134250.4,80931.03,53319.37,0.0,0,Current,Partial,Net 90
+345,2025-06,2025,6,Q2,AR,Apex Corp,Enterprise,South,79837.63,34290.18,45547.45,0.0,0,Current,Partial,Net 60
+572,2025-11,2025,11,Q4,AP,Reliant Power,Utilities,North,86054.13,3733.14,82320.99,82320.99,14,1-30,Overdue,Net 60
+679,2026-02,2026,2,Q1,AP,Network Pro,Technology,East,115205.17,32291.11,82914.06,82914.06,70,61-90,Partial,Net 90
+587,2025-03,2025,3,Q1,AP,Prime Vendors,Consulting,South,90094.14,45676.21,44417.93,44417.93,18,1-30,Partial,Net 45
+41,2025-10,2025,10,Q4,AR,Quantum Ltd,SMB,East,175816.06,117828.73,57987.33,57987.33,37,31-60,Partial,2/10 Net 30
+563,2025-10,2025,10,Q4,AP,Network Pro,Technology,East,111233.86,1041.33,110192.53,110192.53,128,90+,Overdue,2/10 Net 30
+586,2025-11,2025,11,Q4,AP,InfoSys Partners,Consulting,South,14042.57,4057.81,9984.76,9984.76,32,31-60,Partial,Net 90
+526,2025-06,2025,6,Q2,AP,Dura Materials,Manufacturing,North,67240.98,0.0,67240.98,0.0,0,Current,Current,2/10 Net 30
+415,2025-10,2025,10,Q4,AP,Elite Services,Consulting,West,67404.2,36538.52,30865.68,30865.68,22,1-30,Partial,Net 30
+626,2025-07,2025,7,Q3,AP,Crown Logistics,Logistics,North,170698.42,16541.99,154156.43,154156.43,71,61-90,Overdue,Net 60
+175,2026-01,2026,1,Q1,AR,Jupiter Startup,Startup,West,112703.35,0.0,112703.35,0.0,0,Current,Current,Net 90
+665,2026-04,2026,4,Q2,AP,Prime Vendors,Consulting,Central,155162.0,0.0,155162.0,0.0,0,Current,Current,2/10 Net 30
+414,2026-06,2026,6,Q2,AP,InfoSys Partners,Consulting,Central,118741.74,13059.69,105682.05,105682.05,68,61-90,Overdue,Net 45
+320,2025-03,2025,3,Q1,AR,Kite Ventures,Startup,West,174828.14,0.0,174828.14,0.0,0,Current,Current,Net 60
+231,2026-01,2026,1,Q1,AR,Oak Institute,Government,Central,78493.79,0.0,78493.79,0.0,0,Current,Current,Net 30
+344,2025-07,2025,7,Q3,AR,IronClad Stores,Retail,West,241948.9,241948.9,0.0,0.0,16,1-30,Paid,Net 30
+388,2026-02,2026,2,Q1,AP,Acme Supplies,Office,Central,12392.5,0.0,12392.5,0.0,0,Current,Current,Net 30
+233,2025-11,2025,11,Q4,AR,Delta Inc,SMB,Central,225811.87,23182.82,202629.05,202629.05,100,90+,Overdue,2/10 Net 30
+371,2025-06,2025,6,Q2,AP,Dura Materials,Manufacturing,West,103702.99,9509.95,94193.04,94193.04,73,61-90,Overdue,Net 90
+301,2025-03,2025,3,Q1,AR,Global Retail,Retail,South,43075.59,780.12,42295.47,42295.47,45,31-60,Overdue,Net 45
+161,2025-06,2025,6,Q2,AR,Oak Institute,Government,East,228343.77,2570.28,225773.49,225773.49,14,1-30,Overdue,2/10 Net 30
+654,2025-08,2025,8,Q3,AP,Quality Goods,Office,Central,138094.19,39479.3,98614.89,0.0,0,Current,Partial,2/10 Net 30
+361,2025-07,2025,7,Q3,AP,Acme Supplies,Office,Central,128866.49,75467.42,53399.07,53399.07,13,1-30,Partial,Net 30
+449,2026-06,2026,6,Q2,AP,BrightTech Parts,Technology,Central,140335.0,50215.46,90119.54,0.0,0,Current,Partial,Net 90
+555,2025-09,2025,9,Q3,AP,LightHouse Media,Marketing,West,61468.05,26902.55,34565.5,0.0,0,Current,Partial,Net 60
+674,2025-07,2025,7,Q3,AP,Prime Vendors,Consulting,North,53861.93,5046.1,48815.83,48815.83,73,61-90,Overdue,Net 30
+496,2026-01,2026,1,Q1,AP,Crown Logistics,Logistics,North,158723.27,20708.3,138014.97,138014.97,88,61-90,Overdue,Net 90
+202,2025-11,2025,11,Q4,AR,Jupiter Startup,Startup,Central,165152.42,58365.39,106787.03,106787.03,52,31-60,Partial,Net 45
+432,2025-09,2025,9,Q3,AP,InfoSys Partners,Consulting,Central,51774.22,6087.01,45687.21,45687.21,25,1-30,Overdue,Net 90
+94,2025-06,2025,6,Q2,AR,Falcon Tech,SMB,North,172367.97,74217.33,98150.64,98150.64,49,31-60,Partial,Net 90
+403,2025-01,2025,1,Q1,AP,Crown Logistics,Logistics,Central,66312.92,23254.31,43058.61,0.0,0,Current,Partial,2/10 Net 30
+557,2025-04,2025,4,Q2,AP,Keystone Energy,Utilities,Central,97295.97,3556.52,93739.45,93739.45,19,1-30,Overdue,Net 90
+237,2026-01,2026,1,Q1,AR,Kite Ventures,Startup,North,115384.8,3214.7,112170.1,112170.1,48,31-60,Overdue,Net 45
+535,2025-07,2025,7,Q3,AP,General Utilities,Utilities,Central,176344.94,0.0,176344.94,0.0,0,Current,Current,2/10 Net 30
+677,2026-06,2026,6,Q2,AP,FirmBase Infra,Technology,North,36017.39,1447.55,34569.84,34569.84,7,1-30,Overdue,Net 90
+59,2025-01,2025,1,Q1,AR,Jupiter Startup,Startup,Central,102180.34,102180.34,0.0,0.0,49,31-60,Paid,Net 45
+9,2026-01,2026,1,Q1,AR,Oak Institute,Government,South,142535.19,0.0,142535.19,0.0,0,Current,Current,Net 60
+258,2026-04,2026,4,Q2,AR,Quantum Ltd,SMB,East,148816.16,3851.23,144964.93,144964.93,12,1-30,Overdue,Net 60
+394,2025-11,2025,11,Q4,AP,OmniSource,Office,South,108647.82,64640.47,44007.35,0.0,0,Current,Partial,2/10 Net 30
+540,2025-11,2025,11,Q4,AP,Keystone Energy,Utilities,West,8153.78,1128.01,7025.77,7025.77,41,31-60,Overdue,Net 45
+300,2025-05,2025,5,Q2,AR,Harbor Shops,Retail,East,201200.12,0.0,201200.12,0.0,0,Current,Current,Net 60
+655,2026-06,2026,6,Q2,AP,Acme Supplies,Office,North,153679.54,64519.73,89159.81,89159.81,79,61-90,Partial,Net 90
+182,2026-06,2026,6,Q2,AR,IronClad Stores,Retail,Central,243895.29,163281.62,80613.67,80613.67,56,31-60,Partial,Net 90
+130,2025-03,2025,3,Q1,AR,National Agency,Government,North,133370.82,0.0,133370.82,0.0,0,Current,Current,Net 90
+417,2025-02,2025,2,Q1,AP,HarbourFreight,Logistics,West,44421.3,0.0,44421.3,0.0,0,Current,Current,Net 45
+501,2026-06,2026,6,Q2,AP,Quality Goods,Office,South,79121.63,0.0,79121.63,0.0,0,Current,Current,2/10 Net 30
+369,2025-11,2025,11,Q4,AP,LightHouse Media,Marketing,West,132753.03,7980.66,124772.37,124772.37,105,90+,Overdue,Net 60
+339,2026-03,2026,3,Q1,AR,Global Retail,Retail,West,217461.3,10148.58,207312.72,207312.72,56,31-60,Overdue,Net 30
+238,2026-01,2026,1,Q1,AR,Cedar Group,Enterprise,Central,23009.14,0.0,23009.14,0.0,0,Current,Current,Net 60
+49,2026-05,2026,5,Q2,AR,Peak Analytics,Enterprise,South,75003.4,0.0,75003.4,0.0,0,Current,Current,Net 60
+212,2025-12,2025,12,Q4,AR,Echo Solutions,SMB,East,192545.03,112258.9,80286.13,0.0,0,Current,Partial,Net 30
+603,2025-06,2025,6,Q2,AP,Prime Vendors,Consulting,Central,141517.2,4073.63,137443.57,137443.57,121,90+,Overdue,Net 60
+565,2026-01,2026,1,Q1,AP,Keystone Energy,Utilities,West,40385.25,2329.8,38055.45,38055.45,16,1-30,Overdue,Net 45
+634,2025-08,2025,8,Q3,AP,OmniSource,Office,East,116512.34,0.0,116512.34,0.0,0,Current,Current,2/10 Net 30
+698,2025-07,2025,7,Q3,AP,General Utilities,Utilities,East,26045.28,0.0,26045.28,0.0,0,Current,Current,Net 45
+24,2026-06,2026,6,Q2,AR,BlueSky Ltd,Enterprise,East,128198.34,0.0,128198.34,0.0,0,Current,Current,2/10 Net 30
+470,2026-04,2026,4,Q2,AP,General Utilities,Utilities,East,97689.82,0.0,97689.82,0.0,0,Current,Current,Net 45
+40,2026-06,2026,6,Q2,AR,Global Retail,Retail,East,230588.86,230588.86,0.0,0.0,11,1-30,Paid,2/10 Net 30
+283,2026-04,2026,4,Q2,AR,Cedar Group,Enterprise,Central,93469.06,5900.66,87568.4,87568.4,88,61-90,Overdue,Net 60
+25,2025-06,2025,6,Q2,AR,Cedar Group,Enterprise,Central,103925.01,52969.62,50955.39,0.0,0,Current,Partial,2/10 Net 30
+551,2026-06,2026,6,Q2,AP,LightHouse Media,Marketing,Central,127670.6,0.0,127670.6,0.0,0,Current,Current,Net 60
+615,2026-03,2026,3,Q1,AP,Prime Vendors,Consulting,South,125689.29,40161.65,85527.64,0.0,0,Current,Partial,Net 90
+219,2026-03,2026,3,Q1,AR,Lumen Digital,Startup,North,17626.47,17626.47,0.0,0.0,22,1-30,Paid,Net 90
+268,2025-10,2025,10,Q4,AR,Jupiter Startup,Startup,Central,246444.63,162501.73,83942.9,0.0,0,Current,Partial,Net 30
+128,2025-03,2025,3,Q1,AR,Metro Bank,Government,North,24076.34,2562.32,21514.02,21514.02,19,1-30,Overdue,Net 60
+431,2025-04,2025,4,Q2,AP,Quality Goods,Office,North,145358.83,0.0,145358.83,0.0,0,Current,Current,Net 90
+154,2025-02,2025,2,Q1,AR,Metro Bank,Government,East,198187.4,0.0,198187.4,0.0,0,Current,Current,Net 60
+463,2025-12,2025,12,Q4,AP,Keystone Energy,Utilities,West,168469.79,168469.79,0.0,0.0,15,1-30,Paid,2/10 Net 30
+351,2026-06,2026,6,Q2,AP,FirmBase Infra,Technology,East,48781.38,0.0,48781.38,0.0,0,Current,Current,2/10 Net 30
+66,2026-04,2026,4,Q2,AR,Oak Institute,Government,North,174487.85,0.0,174487.85,0.0,0,Current,Current,Net 60
+641,2026-06,2026,6,Q2,AP,OmniSource,Office,South,49493.83,0.0,49493.83,0.0,0,Current,Current,Net 90
+681,2026-02,2026,2,Q1,AP,BrightTech Parts,Technology,South,48736.24,0.0,48736.24,0.0,0,Current,Current,Net 60
+308,2026-03,2026,3,Q1,AR,Echo Solutions,SMB,North,163583.21,1496.27,162086.94,162086.94,59,31-60,Overdue,Net 90
+490,2026-03,2026,3,Q1,AP,LightHouse Media,Marketing,East,152539.16,152539.16,0.0,0.0,25,1-30,Paid,Net 90
+82,2026-06,2026,6,Q2,AR,Oak Institute,Government,West,157545.3,0.0,157545.3,0.0,0,Current,Current,Net 90
+448,2026-04,2026,4,Q2,AP,FirmBase Infra,Technology,Central,105069.74,0.0,105069.74,0.0,0,Current,Current,Net 30
+666,2025-04,2025,4,Q2,AP,Master Builders,Manufacturing,West,84359.15,0.0,84359.15,0.0,0,Current,Current,Net 30
+298,2026-02,2026,2,Q1,AR,Peak Analytics,Enterprise,North,73557.19,4557.49,68999.7,68999.7,157,90+,Overdue,Net 30
+86,2026-05,2026,5,Q2,AR,Echo Solutions,SMB,North,106660.89,60052.8,46608.09,0.0,0,Current,Partial,2/10 Net 30
+508,2026-01,2026,1,Q1,AP,HarbourFreight,Logistics,West,162985.35,4557.5,158427.85,158427.85,28,1-30,Overdue,Net 90
+159,2025-06,2025,6,Q2,AR,Peak Analytics,Enterprise,West,70346.57,6357.08,63989.49,63989.49,24,1-30,Overdue,Net 30
+230,2025-06,2025,6,Q2,AR,Delta Inc,SMB,North,156846.31,37566.2,119280.11,119280.11,27,1-30,Partial,Net 60
+475,2025-06,2025,6,Q2,AP,BrightTech Parts,Technology,Central,116018.04,35837.29,80180.75,80180.75,12,1-30,Partial,Net 45
+350,2025-11,2025,11,Q4,AR,Harbor Shops,Retail,Central,235463.65,29690.98,205772.67,205772.67,40,31-60,Overdue,Net 60
+623,2026-06,2026,6,Q2,AP,Java Components,Manufacturing,West,170329.66,2230.69,168098.97,168098.97,7,1-30,Overdue,Net 30
+699,2025-07,2025,7,Q3,AP,Network Pro,Technology,South,54364.15,20920.35,33443.8,33443.8,8,1-30,Partial,Net 60
+437,2025-02,2025,2,Q1,AP,FirmBase Infra,Technology,West,119268.51,54299.84,64968.67,64968.67,10,1-30,Partial,2/10 Net 30
+445,2025-06,2025,6,Q2,AP,Prime Vendors,Consulting,East,50626.41,28741.35,21885.06,0.0,0,Current,Partial,Net 45
+191,2025-10,2025,10,Q4,AR,Harbor Shops,Retail,East,174108.78,24384.81,149723.97,149723.97,46,31-60,Overdue,Net 90
+378,2026-03,2026,3,Q1,AP,Keystone Energy,Utilities,East,152444.19,152444.19,0.0,0.0,55,31-60,Paid,Net 60
+433,2026-04,2026,4,Q2,AP,FirmBase Infra,Technology,East,177965.96,19641.63,158324.33,158324.33,12,1-30,Overdue,2/10 Net 30
+93,2025-02,2025,2,Q1,AR,Kite Ventures,Startup,North,40664.6,0.0,40664.6,0.0,0,Current,Current,2/10 Net 30
+700,2026-03,2026,3,Q1,AP,Crown Logistics,Logistics,North,175468.65,175468.65,0.0,0.0,22,1-30,Paid,Net 90
+275,2025-09,2025,9,Q3,AR,Cedar Group,Enterprise,East,226431.07,0.0,226431.07,0.0,0,Current,Current,Net 45
+488,2025-07,2025,7,Q3,AP,General Utilities,Utilities,Central,170708.09,19621.62,151086.47,151086.47,24,1-30,Overdue,2/10 Net 30
+553,2025-06,2025,6,Q2,AP,OmniSource,Office,Central,38072.04,0.0,38072.04,0.0,0,Current,Current,2/10 Net 30
+457,2026-06,2026,6,Q2,AP,FirmBase Infra,Technology,East,89286.39,30648.61,58637.78,0.0,0,Current,Partial,Net 90
+502,2026-02,2026,2,Q1,AP,LightHouse Media,Marketing,East,119007.54,0.0,119007.54,0.0,0,Current,Current,Net 60
+205,2025-03,2025,3,Q1,AR,Quantum Ltd,SMB,West,229724.95,69165.22,160559.73,160559.73,2,1-30,Partial,Net 30
+525,2025-01,2025,1,Q1,AP,FirmBase Infra,Technology,West,38741.96,3769.07,34972.89,34972.89,3,1-30,Overdue,Net 90
+377,2026-01,2026,1,Q1,AP,Network Pro,Technology,North,19088.51,9184.75,9903.76,9903.76,20,1-30,Partial,2/10 Net 30
+99,2025-05,2025,5,Q2,AR,Delta Inc,SMB,North,146995.58,0.0,146995.58,0.0,0,Current,Current,Net 45
+368,2025-10,2025,10,Q4,AP,LightHouse Media,Marketing,East,153670.52,80461.78,73208.74,73208.74,1,1-30,Partial,Net 30
+135,2025-03,2025,3,Q1,AR,Cedar Group,Enterprise,Central,147180.7,77405.09,69775.61,69775.61,15,1-30,Partial,Net 30
+318,2025-06,2025,6,Q2,AR,Metro Bank,Government,East,48538.53,10493.61,38044.92,38044.92,49,31-60,Partial,Net 30
+443,2026-04,2026,4,Q2,AP,Dura Materials,Manufacturing,East,178973.05,0.0,178973.05,0.0,0,Current,Current,Net 45
+503,2025-05,2025,5,Q2,AP,OmniSource,Office,North,124308.58,2095.32,122213.26,122213.26,88,61-90,Overdue,Net 45
+306,2025-01,2025,1,Q1,AR,Cedar Group,Enterprise,South,36553.93,921.1,35632.83,35632.83,97,90+,Overdue,Net 60
+124,2025-05,2025,5,Q2,AR,Falcon Tech,SMB,Central,113562.68,0.0,113562.68,0.0,0,Current,Current,Net 90
+584,2025-02,2025,2,Q1,AP,General Utilities,Utilities,Central,24235.95,2057.88,22178.07,22178.07,5,1-30,Overdue,2/10 Net 30
+590,2026-01,2026,1,Q1,AP,Crown Logistics,Logistics,Central,124999.25,0.0,124999.25,0.0,0,Current,Current,Net 90
+413,2025-03,2025,3,Q1,AP,Crown Logistics,Logistics,North,146837.7,19961.93,126875.77,126875.77,79,61-90,Overdue,2/10 Net 30
+398,2025-08,2025,8,Q3,AP,BrightTech Parts,Technology,East,23067.2,15124.42,7942.78,0.0,0,Current,Partial,Net 60
+167,2025-12,2025,12,Q4,AR,Cedar Group,Enterprise,Central,213583.7,213583.7,0.0,0.0,26,1-30,Paid,Net 45
+214,2026-03,2026,3,Q1,AR,Harbor Shops,Retail,Central,18828.79,6768.04,12060.75,0.0,0,Current,Partial,2/10 Net 30
+22,2025-03,2025,3,Q1,AR,Harbor Shops,Retail,South,216839.35,8625.97,208213.38,208213.38,6,1-30,Overdue,Net 30
+664,2025-11,2025,11,Q4,AP,Elite Services,Consulting,East,16543.55,4979.04,11564.51,11564.51,25,1-30,Partial,2/10 Net 30
+562,2025-05,2025,5,Q2,AP,Elite Services,Consulting,West,105293.86,4734.04,100559.82,100559.82,7,1-30,Overdue,Net 45
+246,2025-11,2025,11,Q4,AR,Jupiter Startup,Startup,West,84842.13,1449.37,83392.76,83392.76,137,90+,Overdue,Net 60
+183,2025-05,2025,5,Q2,AR,Global Retail,Retail,Central,16099.32,1254.14,14845.18,14845.18,23,1-30,Overdue,Net 45
+262,2026-05,2026,5,Q2,AR,Peak Analytics,Enterprise,West,210773.49,25162.59,185610.9,185610.9,33,31-60,Overdue,Net 90
+409,2025-11,2025,11,Q4,AP,LightHouse Media,Marketing,South,53469.27,22741.71,30727.56,30727.56,29,1-30,Partial,Net 30
+95,2025-09,2025,9,Q3,AR,Oak Institute,Government,East,118987.05,118987.05,0.0,0.0,48,31-60,Paid,Net 60
+680,2025-08,2025,8,Q3,AP,Master Builders,Manufacturing,South,46468.83,0.0,46468.83,0.0,0,Current,Current,Net 60
+561,2026-01,2026,1,Q1,AP,Keystone Energy,Utilities,West,41517.28,25114.62,16402.66,16402.66,29,1-30,Partial,Net 45
+73,2026-02,2026,2,Q1,AR,Harbor Shops,Retail,Central,77851.52,77851.52,0.0,0.0,14,1-30,Paid,2/10 Net 30
+57,2025-02,2025,2,Q1,AR,Apex Corp,Enterprise,South,42333.67,0.0,42333.67,0.0,0,Current,Current,Net 45
+331,2026-01,2026,1,Q1,AR,BlueSky Ltd,Enterprise,Central,145013.92,3760.48,141253.44,141253.44,5,1-30,Overdue,2/10 Net 30
+650,2025-10,2025,10,Q4,AP,Acme Supplies,Office,North,28197.6,19471.99,8725.61,0.0,0,Current,Partial,Net 45
+50,2025-03,2025,3,Q1,AR,Echo Solutions,SMB,South,178072.69,0.0,178072.69,0.0,0,Current,Current,Net 30
+217,2026-02,2026,2,Q1,AR,National Agency,Government,South,136792.42,0.0,136792.42,0.0,0,Current,Current,Net 45
+133,2026-03,2026,3,Q1,AR,Oak Institute,Government,Central,84186.02,84186.02,0.0,0.0,45,31-60,Paid,Net 60
+333,2025-09,2025,9,Q3,AR,Kite Ventures,Startup,North,140253.28,0.0,140253.28,0.0,0,Current,Current,Net 60
+464,2025-06,2025,6,Q2,AP,OmniSource,Office,Central,97479.79,6460.87,91018.92,91018.92,16,1-30,Overdue,Net 60
+45,2025-03,2025,3,Q1,AR,Oak Institute,Government,West,180994.75,17811.46,163183.29,163183.29,68,61-90,Overdue,Net 90
+338,2025-08,2025,8,Q3,AR,Echo Solutions,SMB,East,207326.72,2776.73,204549.99,204549.99,173,90+,Overdue,Net 60
+684,2026-05,2026,5,Q2,AP,InfoSys Partners,Consulting,West,24643.0,2978.75,21664.25,21664.25,79,61-90,Overdue,Net 60
+276,2025-08,2025,8,Q3,AR,National Agency,Government,North,121817.64,51472.03,70345.61,70345.61,38,31-60,Partial,Net 45
+465,2025-12,2025,12,Q4,AP,Network Pro,Technology,East,95626.97,0.0,95626.97,0.0,0,Current,Current,Net 45
+492,2025-02,2025,2,Q1,AP,Java Components,Manufacturing,Central,160587.45,0.0,160587.45,0.0,0,Current,Current,Net 30
+472,2025-12,2025,12,Q4,AP,OmniSource,Office,North,171441.0,80850.89,90590.11,0.0,0,Current,Partial,Net 30
+84,2025-08,2025,8,Q3,AR,Falcon Tech,SMB,East,27836.25,2080.94,25755.31,25755.31,15,1-30,Overdue,Net 30
+30,2026-06,2026,6,Q2,AR,Echo Solutions,SMB,East,89005.67,0.0,89005.67,0.0,0,Current,Current,Net 60
+158,2025-12,2025,12,Q4,AR,BlueSky Ltd,Enterprise,East,112053.09,41405.67,70647.42,0.0,0,Current,Partial,Net 90
+332,2025-06,2025,6,Q2,AR,Global Retail,Retail,South,247128.58,0.0,247128.58,0.0,0,Current,Current,Net 90
+109,2026-06,2026,6,Q2,AR,Global Retail,Retail,Central,85497.09,28952.51,56544.58,0.0,0,Current,Partial,Net 45
+383,2026-04,2026,4,Q2,AP,Quality Goods,Office,South,147298.22,94469.41,52828.81,52828.81,52,31-60,Partial,Net 30
+404,2025-03,2025,3,Q1,AP,Java Components,Manufacturing,West,8454.99,5059.34,3395.65,0.0,0,Current,Partial,Net 45
+125,2025-09,2025,9,Q3,AR,Global Retail,Retail,Central,74395.39,0.0,74395.39,0.0,0,Current,Current,2/10 Net 30
+292,2025-02,2025,2,Q1,AR,Apex Corp,Enterprise,South,230455.5,0.0,230455.5,0.0,0,Current,Current,Net 45
+27,2026-03,2026,3,Q1,AR,Kite Ventures,Startup,North,142933.44,0.0,142933.44,0.0,0,Current,Current,Net 30
+337,2025-12,2025,12,Q4,AR,Apex Corp,Enterprise,East,73684.93,10748.75,62936.18,62936.18,82,61-90,Overdue,Net 90
+97,2025-04,2025,4,Q2,AR,Harbor Shops,Retail,West,248209.55,10219.3,237990.25,237990.25,1,1-30,Overdue,Net 60
+511,2025-09,2025,9,Q3,AP,Master Builders,Manufacturing,North,42928.14,10470.07,32458.07,32458.07,108,90+,Partial,Net 60
+253,2026-02,2026,2,Q1,AR,Cedar Group,Enterprise,North,90340.52,6544.17,83796.35,83796.35,67,61-90,Overdue,Net 60
+79,2025-02,2025,2,Q1,AR,Falcon Tech,SMB,West,73148.36,10632.72,62515.64,62515.64,14,1-30,Overdue,2/10 Net 30
+427,2025-04,2025,4,Q2,AP,FirmBase Infra,Technology,West,158362.22,11455.31,146906.91,146906.91,64,61-90,Overdue,2/10 Net 30
+609,2026-04,2026,4,Q2,AP,BrightTech Parts,Technology,West,83533.38,43104.11,40429.27,0.0,0,Current,Partial,Net 90
+585,2025-06,2025,6,Q2,AP,Dura Materials,Manufacturing,South,168704.22,0.0,168704.22,0.0,0,Current,Current,Net 90
+539,2025-07,2025,7,Q3,AP,Acme Supplies,Office,South,15006.98,3855.57,11151.41,11151.41,48,31-60,Partial,Net 60
+5,2025-12,2025,12,Q4,AR,Global Retail,Retail,North,75900.05,0.0,75900.05,0.0,0,Current,Current,Net 30
+598,2025-07,2025,7,Q3,AP,Network Pro,Technology,East,123076.42,123076.42,0.0,0.0,52,31-60,Paid,Net 60
+218,2026-03,2026,3,Q1,AR,BlueSky Ltd,Enterprise,Central,134847.99,13081.05,121766.94,121766.94,8,1-30,Overdue,Net 90
+600,2025-12,2025,12,Q4,AP,Reliant Power,Utilities,South,10203.7,10203.7,0.0,0.0,26,1-30,Paid,Net 30
+577,2026-04,2026,4,Q2,AP,Network Pro,Technology,West,115850.72,0.0,115850.72,0.0,0,Current,Current,Net 45
+280,2025-04,2025,4,Q2,AR,Echo Solutions,SMB,North,240995.93,125874.65,115121.28,115121.28,26,1-30,Partial,Net 60
+521,2026-06,2026,6,Q2,AP,Quality Goods,Office,North,149380.79,8864.51,140516.28,140516.28,29,1-30,Overdue,Net 30
+173,2025-05,2025,5,Q2,AR,Falcon Tech,SMB,Central,211419.85,2575.82,208844.03,208844.03,57,31-60,Overdue,2/10 Net 30
+185,2025-11,2025,11,Q4,AR,Quantum Ltd,SMB,Central,78448.69,11530.76,66917.93,66917.93,12,1-30,Overdue,Net 30
+291,2025-06,2025,6,Q2,AR,Lumen Digital,Startup,South,145608.51,0.0,145608.51,0.0,0,Current,Current,Net 30
+209,2025-03,2025,3,Q1,AR,Peak Analytics,Enterprise,North,38180.07,0.0,38180.07,0.0,0,Current,Current,Net 90
+96,2026-03,2026,3,Q1,AR,Lumen Digital,Startup,Central,174126.81,109119.65,65007.16,0.0,0,Current,Partial,Net 90
+358,2025-07,2025,7,Q3,AP,Acme Supplies,Office,North,125753.88,56799.03,68954.85,68954.85,10,1-30,Partial,Net 60
+127,2025-04,2025,4,Q2,AR,Apex Corp,Enterprise,West,98150.82,59194.77,38956.05,38956.05,48,31-60,Partial,Net 45
+152,2026-06,2026,6,Q2,AR,Apex Corp,Enterprise,Central,76361.64,4771.47,71590.17,71590.17,20,1-30,Overdue,Net 30
+116,2025-07,2025,7,Q3,AR,National Agency,Government,West,207717.71,13296.97,194420.74,194420.74,64,61-90,Overdue,Net 90
+668,2026-06,2026,6,Q2,AP,Prime Vendors,Consulting,West,12865.47,6924.76,5940.71,5940.71,16,1-30,Partial,Net 60
+469,2026-02,2026,2,Q1,AP,General Utilities,Utilities,North,115730.01,0.0,115730.01,0.0,0,Current,Current,2/10 Net 30
+497,2025-08,2025,8,Q3,AP,Acme Supplies,Office,West,59519.03,0.0,59519.03,0.0,0,Current,Current,2/10 Net 30
+575,2025-09,2025,9,Q3,AP,InfoSys Partners,Consulting,North,164093.27,6430.47,157662.8,157662.8,45,31-60,Overdue,Net 45
+366,2025-01,2025,1,Q1,AP,Acme Supplies,Office,North,121416.88,13177.93,108238.95,108238.95,77,61-90,Overdue,Net 45
+453,2025-08,2025,8,Q3,AP,Reliant Power,Utilities,West,144606.63,9143.2,135463.43,135463.43,61,61-90,Overdue,Net 45
+42,2025-06,2025,6,Q2,AR,Jupiter Startup,Startup,West,75293.86,27190.47,48103.39,48103.39,26,1-30,Partial,Net 90
+507,2025-02,2025,2,Q1,AP,OmniSource,Office,North,120347.75,76265.0,44082.75,0.0,0,Current,Partial,Net 60
+119,2025-02,2025,2,Q1,AR,Jupiter Startup,Startup,Central,129316.07,0.0,129316.07,0.0,0,Current,Current,Net 45
+644,2025-05,2025,5,Q2,AP,Keystone Energy,Utilities,West,31905.67,233.14,31672.53,31672.53,81,61-90,Overdue,Net 60
+479,2025-12,2025,12,Q4,AP,OmniSource,Office,South,131218.65,0.0,131218.65,0.0,0,Current,Current,Net 60
+168,2025-04,2025,4,Q2,AR,Global Retail,Retail,South,93419.65,0.0,93419.65,0.0,0,Current,Current,2/10 Net 30
+659,2025-12,2025,12,Q4,AP,FirmBase Infra,Technology,North,21615.42,386.54,21228.88,21228.88,101,90+,Overdue,Net 90
+482,2025-06,2025,6,Q2,AP,Acme Supplies,Office,Central,45265.22,1289.17,43976.05,43976.05,87,61-90,Overdue,Net 30
+37,2025-07,2025,7,Q3,AR,Metro Bank,Government,East,194465.03,0.0,194465.03,0.0,0,Current,Current,Net 60
+188,2025-04,2025,4,Q2,AR,Global Retail,Retail,North,106175.23,14660.48,91514.75,91514.75,14,1-30,Overdue,Net 45
+236,2025-03,2025,3,Q1,AR,Quantum Ltd,SMB,East,210475.29,0.0,210475.29,0.0,0,Current,Current,Net 60
+56,2025-09,2025,9,Q3,AR,Cedar Group,Enterprise,West,249977.42,0.0,249977.42,0.0,0,Current,Current,Net 60
+153,2025-03,2025,3,Q1,AR,Quantum Ltd,SMB,East,129295.29,0.0,129295.29,0.0,0,Current,Current,2/10 Net 30
+194,2025-09,2025,9,Q3,AR,Echo Solutions,SMB,North,64402.22,967.95,63434.27,63434.27,51,31-60,Overdue,2/10 Net 30
+55,2025-09,2025,9,Q3,AR,Metro Bank,Government,East,191501.28,0.0,191501.28,0.0,0,Current,Current,Net 90
+451,2025-09,2025,9,Q3,AP,Prime Vendors,Consulting,Central,78037.89,0.0,78037.89,0.0,0,Current,Current,Net 90
+570,2026-04,2026,4,Q2,AP,Crown Logistics,Logistics,South,155105.07,20704.56,134400.51,134400.51,47,31-60,Overdue,Net 60
+155,2025-04,2025,4,Q2,AR,Kite Ventures,Startup,South,204309.67,0.0,204309.67,0.0,0,Current,Current,Net 45
+504,2025-02,2025,2,Q1,AP,HarbourFreight,Logistics,Central,148163.71,52236.45,95927.26,95927.26,86,61-90,Partial,Net 30
+324,2026-04,2026,4,Q2,AR,Apex Corp,Enterprise,West,222989.55,32592.1,190397.45,190397.45,117,90+,Overdue,Net 45
+169,2025-05,2025,5,Q2,AR,Cedar Group,Enterprise,North,181123.07,42903.59,138219.48,0.0,0,Current,Partial,2/10 Net 30
+447,2026-04,2026,4,Q2,AP,Acme Supplies,Office,Central,68701.79,8952.9,59748.89,59748.89,164,90+,Overdue,Net 60
+657,2026-05,2026,5,Q2,AP,Elite Services,Consulting,West,101612.39,5864.78,95747.61,95747.61,41,31-60,Overdue,Net 30
+530,2025-08,2025,8,Q3,AP,General Utilities,Utilities,Central,81211.94,3387.91,77824.03,77824.03,20,1-30,Overdue,2/10 Net 30
+271,2025-12,2025,12,Q4,AR,Oak Institute,Government,West,194663.15,0.0,194663.15,0.0,0,Current,Current,Net 30
+628,2025-09,2025,9,Q3,AP,HarbourFreight,Logistics,West,152655.93,0.0,152655.93,0.0,0,Current,Current,Net 45
+270,2026-02,2026,2,Q1,AR,Metro Bank,Government,West,193376.64,129208.09,64168.55,0.0,0,Current,Partial,Net 90
+290,2025-09,2025,9,Q3,AR,Quantum Ltd,SMB,North,158745.54,71404.54,87341.0,0.0,0,Current,Partial,Net 90
+441,2025-04,2025,4,Q2,AP,Reliant Power,Utilities,North,23710.59,7707.62,16002.97,16002.97,9,1-30,Partial,2/10 Net 30
+370,2026-03,2026,3,Q1,AP,InfoSys Partners,Consulting,West,77647.95,11432.53,66215.42,66215.42,35,31-60,Overdue,Net 45
+288,2025-02,2025,2,Q1,AR,Jupiter Startup,Startup,South,176867.4,104615.93,72251.47,0.0,0,Current,Partial,Net 45
+512,2026-01,2026,1,Q1,AP,Quality Goods,Office,Central,76868.0,3796.72,73071.28,73071.28,70,61-90,Overdue,2/10 Net 30
+131,2025-08,2025,8,Q3,AR,Kite Ventures,Startup,South,134998.18,0.0,134998.18,0.0,0,Current,Current,Net 45
+46,2025-01,2025,1,Q1,AR,Delta Inc,SMB,West,175498.39,75153.84,100344.55,0.0,0,Current,Partial,Net 90
+321,2025-02,2025,2,Q1,AR,Metro Bank,Government,West,221715.24,221715.24,0.0,0.0,43,31-60,Paid,Net 90
+120,2025-12,2025,12,Q4,AR,River Trade,Retail,East,60408.98,0.0,60408.98,0.0,0,Current,Current,Net 90
+671,2025-10,2025,10,Q4,AP,Crown Logistics,Logistics,North,33050.93,4280.27,28770.66,28770.66,75,61-90,Overdue,2/10 Net 30
+146,2025-05,2025,5,Q2,AR,IronClad Stores,Retail,North,140862.48,140862.48,0.0,0.0,58,31-60,Paid,Net 30
+444,2026-05,2026,5,Q2,AP,Reliant Power,Utilities,North,53850.26,12817.14,41033.12,41033.12,54,31-60,Partial,Net 90
+544,2026-01,2026,1,Q1,AP,FirmBase Infra,Technology,Central,57565.81,14011.45,43554.36,0.0,0,Current,Partial,Net 60
+325,2026-02,2026,2,Q1,AR,River Trade,Retail,Central,63199.33,0.0,63199.33,0.0,0,Current,Current,Net 30
+92,2025-10,2025,10,Q4,AR,Harbor Shops,Retail,North,160268.22,104448.73,55819.49,55819.49,15,1-30,Partial,Net 30
+676,2025-10,2025,10,Q4,AP,Quality Goods,Office,East,38413.63,3869.56,34544.07,34544.07,9,1-30,Overdue,Net 90
+480,2026-06,2026,6,Q2,AP,Java Components,Manufacturing,Central,36032.93,22838.79,13194.14,13194.14,54,31-60,Partial,Net 60
+348,2025-10,2025,10,Q4,AR,Global Retail,Retail,South,18909.8,5104.98,13804.82,13804.82,13,1-30,Partial,2/10 Net 30
+505,2026-04,2026,4,Q2,AP,Acme Supplies,Office,East,39072.84,0.0,39072.84,0.0,0,Current,Current,2/10 Net 30
+516,2025-09,2025,9,Q3,AP,Elite Services,Consulting,South,137953.2,0.0,137953.2,0.0,0,Current,Current,2/10 Net 30
+174,2025-09,2025,9,Q3,AR,Global Retail,Retail,Central,127019.32,4665.63,122353.69,122353.69,10,1-30,Overdue,2/10 Net 30
+267,2025-06,2025,6,Q2,AR,Echo Solutions,SMB,South,144668.21,52344.84,92323.37,92323.37,78,61-90,Partial,2/10 Net 30
+184,2025-05,2025,5,Q2,AR,Quantum Ltd,SMB,South,44813.0,0.0,44813.0,0.0,0,Current,Current,2/10 Net 30
+595,2025-02,2025,2,Q1,AP,Master Builders,Manufacturing,North,95592.18,63321.02,32271.16,0.0,0,Current,Partial,2/10 Net 30
+43,2026-03,2026,3,Q1,AR,Oak Institute,Government,South,240158.84,23914.56,216244.28,216244.28,22,1-30,Overdue,Net 45
+573,2025-02,2025,2,Q1,AP,Java Components,Manufacturing,Central,105330.97,0.0,105330.97,0.0,0,Current,Current,2/10 Net 30
+136,2025-11,2025,11,Q4,AR,Peak Analytics,Enterprise,Central,30357.96,0.0,30357.96,0.0,0,Current,Current,Net 60
+380,2025-12,2025,12,Q4,AP,Dura Materials,Manufacturing,North,148465.44,4176.56,144288.88,144288.88,80,61-90,Overdue,Net 90
+405,2026-06,2026,6,Q2,AP,Java Components,Manufacturing,South,173869.67,47064.25,126805.42,0.0,0,Current,Partial,Net 60
+310,2025-12,2025,12,Q4,AR,Peak Analytics,Enterprise,Central,143584.52,6867.88,136716.64,136716.64,66,61-90,Overdue,Net 60
+391,2026-01,2026,1,Q1,AP,Network Pro,Technology,East,134629.58,16761.05,117868.53,117868.53,147,90+,Overdue,Net 45
+635,2025-07,2025,7,Q3,AP,Acme Supplies,Office,North,121865.73,5808.57,116057.16,116057.16,17,1-30,Overdue,Net 30
+517,2025-08,2025,8,Q3,AP,HarbourFreight,Logistics,South,124801.01,8775.32,116025.69,116025.69,47,31-60,Overdue,Net 90
+260,2026-02,2026,2,Q1,AR,Echo Solutions,SMB,Central,160697.9,43412.26,117285.64,117285.64,18,1-30,Partial,Net 45
+6,2026-01,2026,1,Q1,AR,IronClad Stores,Retail,West,95694.34,50145.53,45548.81,45548.81,39,31-60,Partial,Net 45
+47,2026-03,2026,3,Q1,AR,Quantum Ltd,SMB,Central,223399.35,223399.35,0.0,0.0,27,1-30,Paid,2/10 Net 30
+613,2025-08,2025,8,Q3,AP,HarbourFreight,Logistics,East,167163.9,68350.97,98812.93,98812.93,30,1-30,Partial,Net 45
+687,2025-05,2025,5,Q2,AP,LightHouse Media,Marketing,West,6730.14,6730.14,0.0,0.0,57,31-60,Paid,2/10 Net 30
+621,2025-04,2025,4,Q2,AP,Prime Vendors,Consulting,Central,136311.71,10296.29,126015.42,126015.42,89,61-90,Overdue,Net 45
+363,2025-05,2025,5,Q2,AP,General Utilities,Utilities,North,120259.48,49235.78,71023.7,0.0,0,Current,Partial,Net 60
+483,2026-04,2026,4,Q2,AP,Reliant Power,Utilities,South,116440.0,25836.71,90603.29,90603.29,4,1-30,Partial,Net 30
+241,2025-11,2025,11,Q4,AR,Metro Bank,Government,North,25751.38,0.0,25751.38,0.0,0,Current,Current,2/10 Net 30
+341,2025-08,2025,8,Q3,AR,BlueSky Ltd,Enterprise,West,53781.89,0.0,53781.89,0.0,0,Current,Current,Net 60
+54,2025-05,2025,5,Q2,AR,River Trade,Retail,North,167434.94,4564.17,162870.77,162870.77,150,90+,Overdue,Net 30
+61,2025-12,2025,12,Q4,AR,Cedar Group,Enterprise,Central,107914.39,69689.76,38224.63,38224.63,44,31-60,Partial,Net 90
+571,2025-03,2025,3,Q1,AP,HarbourFreight,Logistics,West,121362.93,960.73,120402.2,120402.2,26,1-30,Overdue,2/10 Net 30
+98,2025-02,2025,2,Q1,AR,Peak Analytics,Enterprise,East,201473.33,108570.4,92902.93,92902.93,37,31-60,Partial,Net 45
+75,2026-03,2026,3,Q1,AR,Peak Analytics,Enterprise,East,74266.0,0.0,74266.0,0.0,0,Current,Current,Net 90
+263,2025-08,2025,8,Q3,AR,Jupiter Startup,Startup,North,46211.2,0.0,46211.2,0.0,0,Current,Current,Net 90
+612,2025-03,2025,3,Q1,AP,Network Pro,Technology,Central,107709.81,107709.81,0.0,0.0,9,1-30,Paid,Net 90
+434,2025-04,2025,4,Q2,AP,HarbourFreight,Logistics,West,20749.32,20749.32,0.0,0.0,56,31-60,Paid,2/10 Net 30
