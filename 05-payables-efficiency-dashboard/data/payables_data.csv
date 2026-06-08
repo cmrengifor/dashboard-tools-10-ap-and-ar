@@ -1,0 +1,751 @@
+invoice_id,vendor_id,vendor_name,vendor_category,region,approver,invoice_date,due_date,payment_terms,invoice_amount,paid_amount,outstanding_balance,payment_date,payment_status,payment_method,days_to_pay,days_early_late,is_on_time,has_discount_terms,discount_rate,discount_captured,discount_amount
+AP-0001,VND-021,PrimePack Logistics,Logistics,North,Sofia Reyes,2025-08-17,2025-09-16,30,3651.22,3651.22,0.0,2025-09-06,Paid,Check,20,10,Yes,Yes,0.01,No,0.0
+AP-0002,VND-002,TechCore Solutions,IT,North,Sofia Reyes,2025-01-28,2025-02-27,30,47093.38,47093.38,0.0,2025-02-24,Paid,Wire,27,3,Yes,No,0.0,No,0.0
+AP-0003,VND-014,NetConnect Systems,IT,South,Pedro Alvarez,2025-06-13,2025-06-28,15,57360.45,57360.45,0.0,2025-07-04,Paid,Check,21,-6,No,Yes,0.02,No,0.0
+AP-0004,VND-003,FastShip Logistics,Logistics,West,Sofia Reyes,2025-09-28,2025-11-27,60,16335.44,16335.44,0.0,2025-11-26,Paid,Check,59,1,Yes,No,0.0,No,0.0
+AP-0005,VND-013,SafetyFirst Supplies,Materials,North,Ana Torres,2025-07-16,2025-09-14,60,35819.45,35819.45,0.0,2025-09-14,Paid,Check,60,0,Yes,Yes,0.01,No,0.0
+AP-0006,VND-008,GreenEnergy Corp.,Utilities,North,Pedro Alvarez,2026-01-09,2026-04-09,90,2858.48,2858.48,0.0,2026-04-12,Paid,Check,93,-3,No,Yes,0.005,No,0.0
+AP-0007,VND-022,Apex Consulting,Services,North,Ana Torres,2025-06-17,2025-07-17,30,20103.63,0.0,20103.63,,Overdue,Wire,,-318,No,Yes,0.01,No,0.0
+AP-0008,VND-023,CoolTech Systems,IT,Central,Marco Diaz,2025-08-23,2025-09-07,15,66635.19,66635.19,0.0,2025-09-23,Paid,Check,31,-16,No,No,0.0,No,0.0
+AP-0009,VND-019,SkyNet IT Solutions,IT,East,Marco Diaz,2026-04-15,2026-06-14,60,15715.37,15715.37,0.0,2026-05-31,Paid,Credit Card,46,14,Yes,Yes,0.01,No,0.0
+AP-0010,VND-024,EliteFacilities Corp.,Facilities,Central,Pedro Alvarez,2025-08-13,2025-10-12,60,34911.75,34911.75,0.0,2025-10-12,Paid,Credit Card,60,0,Yes,Yes,0.01,No,0.0
+AP-0011,VND-005,CloudSys Inc.,IT,South,Pedro Alvarez,2026-01-26,2026-03-27,60,49691.63,49691.63,0.0,2026-03-12,Paid,ACH,45,15,Yes,Yes,0.01,No,0.0
+AP-0012,VND-018,BuildFast Materials,Materials,North,Sofia Reyes,2025-04-25,2025-06-24,60,16088.01,16088.01,0.0,2025-06-22,Paid,Check,58,2,Yes,Yes,0.01,No,0.0
+AP-0013,VND-017,OfficePro Services,Services,South,Ana Torres,2025-07-23,2025-09-06,45,8655.05,8655.05,0.0,2025-08-25,Paid,ACH,33,12,Yes,No,0.0,No,0.0
+AP-0014,VND-025,RapidShip Co.,Logistics,Central,Sofia Reyes,2025-01-20,2025-04-20,90,3125.49,0.0,3125.49,,Overdue,Check,,-406,No,Yes,0.005,No,0.0
+AP-0015,VND-010,DataBridge IT,IT,South,Sofia Reyes,2025-03-29,2025-04-28,30,59893.07,0.0,59893.07,,Overdue,Wire,,-398,No,No,0.0,No,0.0
+AP-0016,VND-018,BuildFast Materials,Materials,South,Marco Diaz,2025-09-29,2025-10-29,30,27328.34,0.0,27328.34,,Overdue,Credit Card,,-214,No,Yes,0.01,No,0.0
+AP-0017,VND-018,BuildFast Materials,Materials,South,Laura Chen,2026-03-25,2026-05-24,60,45181.48,0.0,45181.48,,Pending,Credit Card,,,,Yes,0.01,No,0.0
+AP-0018,VND-001,Acme Supplies Co.,Materials,Central,Ana Torres,2025-01-08,2025-02-07,30,5407.67,5407.67,0.0,2025-02-20,Paid,Wire,43,-13,No,Yes,0.01,No,0.0
+AP-0019,VND-003,FastShip Logistics,Logistics,Central,Marco Diaz,2025-08-08,2025-11-06,90,11245.44,6613.51,4631.93,2025-11-08,Partial,Check,92,-2,No,No,0.0,No,0.0
+AP-0020,VND-016,CleanWater Utilities,Utilities,West,Marco Diaz,2026-03-18,2026-04-17,30,5637.31,0.0,5637.31,,Pending,ACH,,,,Yes,0.01,No,0.0
+AP-0021,VND-021,PrimePack Logistics,Logistics,North,Sofia Reyes,2025-04-22,2025-06-21,60,5724.47,5724.47,0.0,2025-06-13,Paid,Credit Card,52,8,Yes,Yes,0.01,No,0.0
+AP-0022,VND-014,NetConnect Systems,IT,South,Laura Chen,2025-03-19,2025-04-18,30,38234.81,38234.81,0.0,2025-05-16,Paid,Credit Card,58,-28,No,No,0.0,No,0.0
+AP-0023,VND-001,Acme Supplies Co.,Materials,North,Marco Diaz,2026-05-13,2026-07-12,60,25105.2,0.0,25105.2,,Pending,Wire,,,,No,0.0,No,0.0
+AP-0024,VND-001,Acme Supplies Co.,Materials,West,Laura Chen,2026-03-10,2026-04-24,45,35436.39,19253.86,16182.53,2026-04-25,Partial,Credit Card,46,-1,No,No,0.0,No,0.0
+AP-0025,VND-010,DataBridge IT,IT,South,Sofia Reyes,2025-02-28,2025-04-29,60,8760.68,0.0,8760.68,,Overdue,ACH,,-397,No,Yes,0.01,No,0.0
+AP-0026,VND-017,OfficePro Services,Services,South,Sofia Reyes,2025-03-12,2025-04-11,30,25016.3,25016.3,0.0,2025-04-20,Paid,ACH,39,-9,No,Yes,0.01,No,0.0
+AP-0027,VND-004,BuildRight Materials,Materials,Central,Marco Diaz,2026-03-06,2026-04-05,30,33553.91,0.0,33553.91,,Pending,ACH,,,,Yes,0.01,No,0.0
+AP-0028,VND-022,Apex Consulting,Services,East,Marco Diaz,2025-05-15,2025-07-14,60,27852.54,27852.54,0.0,2025-07-14,Paid,Check,60,0,Yes,Yes,0.01,No,0.0
+AP-0029,VND-015,ExpressRoute Logistics,Logistics,Central,Ana Torres,2025-08-07,2025-09-06,30,10611.81,10611.81,0.0,2025-09-03,Paid,ACH,27,3,Yes,Yes,0.01,No,0.0
+AP-0030,VND-003,FastShip Logistics,Logistics,South,Laura Chen,2026-03-25,2026-04-24,30,16841.15,16841.15,0.0,2026-04-24,Paid,Check,30,0,Yes,No,0.0,No,0.0
+AP-0031,VND-018,BuildFast Materials,Materials,East,Sofia Reyes,2025-04-29,2025-06-13,45,44706.21,44706.21,0.0,2025-06-13,Paid,Wire,45,0,Yes,No,0.0,No,0.0
+AP-0032,VND-010,DataBridge IT,IT,Central,Marco Diaz,2025-09-28,2025-10-28,30,42905.68,0.0,42905.68,,Overdue,Check,,-215,No,Yes,0.01,No,0.0
+AP-0033,VND-002,TechCore Solutions,IT,North,Pedro Alvarez,2025-01-04,2025-01-19,15,30016.74,0.0,30016.74,,Overdue,Check,,-497,No,Yes,0.02,No,0.0
+AP-0034,VND-006,PowerGrid Utilities,Utilities,West,Ana Torres,2025-04-25,2025-05-10,15,1591.04,0.0,1591.04,,Overdue,Credit Card,,-386,No,No,0.0,No,0.0
+AP-0035,VND-018,BuildFast Materials,Materials,North,Laura Chen,2025-05-11,2025-07-10,60,4007.79,0.0,4007.79,,Overdue,Wire,,-325,No,Yes,0.01,No,0.0
+AP-0036,VND-002,TechCore Solutions,IT,East,Marco Diaz,2025-12-29,2026-01-28,30,63508.72,63508.72,0.0,2026-01-25,Paid,Wire,27,3,Yes,No,0.0,No,0.0
+AP-0037,VND-008,GreenEnergy Corp.,Utilities,South,Marco Diaz,2025-07-03,2025-07-18,15,11180.18,0.0,11180.18,,Overdue,Credit Card,,-317,No,Yes,0.02,No,0.0
+AP-0038,VND-022,Apex Consulting,Services,South,Laura Chen,2026-01-27,2026-02-26,30,35270.17,35270.17,0.0,2026-02-23,Paid,Wire,27,3,Yes,No,0.0,No,0.0
+AP-0039,VND-015,ExpressRoute Logistics,Logistics,East,Laura Chen,2025-01-25,2025-02-24,30,13540.63,13540.63,0.0,2025-03-08,Paid,Wire,42,-12,No,Yes,0.01,No,0.0
+AP-0040,VND-012,FacilityPro Services,Facilities,Central,Pedro Alvarez,2025-04-29,2025-05-14,15,30942.27,30942.27,0.0,2025-05-19,Paid,Check,20,-5,No,Yes,0.02,No,0.0
+AP-0041,VND-009,MetalWorks Ltd.,Materials,North,Sofia Reyes,2025-11-18,2026-01-17,60,22946.91,22946.91,0.0,2026-01-21,Paid,Credit Card,64,-4,No,No,0.0,No,0.0
+AP-0042,VND-002,TechCore Solutions,IT,West,Sofia Reyes,2026-03-18,2026-05-17,60,10248.04,0.0,10248.04,,Pending,Wire,,,,Yes,0.01,No,0.0
+AP-0043,VND-004,BuildRight Materials,Materials,East,Ana Torres,2025-12-01,2026-01-30,60,21315.22,21315.22,0.0,2026-01-27,Paid,Check,57,3,Yes,Yes,0.01,No,0.0
+AP-0044,VND-014,NetConnect Systems,IT,West,Marco Diaz,2025-01-01,2025-03-02,60,27790.62,16766.94,11023.68,2025-03-07,Partial,Check,65,-5,No,Yes,0.01,No,0.0
+AP-0045,VND-015,ExpressRoute Logistics,Logistics,West,Pedro Alvarez,2025-06-23,2025-09-21,90,13518.16,13518.16,0.0,2025-09-19,Paid,Wire,88,2,Yes,Yes,0.005,No,0.0
+AP-0046,VND-025,RapidShip Co.,Logistics,South,Laura Chen,2025-05-31,2025-06-30,30,1464.08,1464.08,0.0,2025-06-28,Paid,Wire,28,2,Yes,Yes,0.01,No,0.0
+AP-0047,VND-025,RapidShip Co.,Logistics,North,Pedro Alvarez,2026-01-29,2026-02-28,30,10393.17,10393.17,0.0,2026-03-13,Paid,Credit Card,43,-13,No,Yes,0.01,No,0.0
+AP-0048,VND-025,RapidShip Co.,Logistics,North,Pedro Alvarez,2026-04-21,2026-05-21,30,1954.15,1369.29,584.86,2026-05-31,Partial,Wire,40,-10,No,Yes,0.01,No,0.0
+AP-0049,VND-017,OfficePro Services,Services,Central,Ana Torres,2026-03-13,2026-06-11,90,33731.06,18124.95,15606.11,2026-05-31,Partial,Check,79,11,Yes,Yes,0.005,No,0.0
+AP-0050,VND-025,RapidShip Co.,Logistics,South,Laura Chen,2025-10-09,2025-11-08,30,9357.58,9357.58,0.0,2025-11-08,Paid,Credit Card,30,0,Yes,No,0.0,No,0.0
+AP-0051,VND-011,QuickFreight Inc.,Logistics,East,Ana Torres,2025-06-04,2025-07-04,30,5393.97,5393.97,0.0,2025-07-11,Paid,ACH,37,-7,No,Yes,0.01,No,0.0
+AP-0052,VND-018,BuildFast Materials,Materials,West,Pedro Alvarez,2026-03-07,2026-04-06,30,20694.89,0.0,20694.89,,Pending,ACH,,,,No,0.0,No,0.0
+AP-0053,VND-025,RapidShip Co.,Logistics,Central,Pedro Alvarez,2025-12-27,2026-01-11,15,6673.64,4790.77,1882.87,2026-01-23,Partial,Credit Card,27,-12,No,Yes,0.02,No,0.0
+AP-0054,VND-024,EliteFacilities Corp.,Facilities,Central,Ana Torres,2025-08-13,2025-11-11,90,11006.87,11006.87,0.0,2025-11-14,Paid,Wire,93,-3,No,Yes,0.005,No,0.0
+AP-0055,VND-022,Apex Consulting,Services,West,Marco Diaz,2025-01-28,2025-02-27,30,36556.37,36556.37,0.0,2025-03-06,Paid,Credit Card,37,-7,No,Yes,0.01,No,0.0
+AP-0056,VND-015,ExpressRoute Logistics,Logistics,South,Sofia Reyes,2025-12-02,2026-01-31,60,5021.55,5021.55,0.0,2026-02-04,Paid,Check,64,-4,No,Yes,0.01,No,0.0
+AP-0057,VND-013,SafetyFirst Supplies,Materials,East,Pedro Alvarez,2026-04-27,2026-05-27,30,2930.4,0.0,2930.4,,Pending,Check,,,,Yes,0.01,No,0.0
+AP-0058,VND-021,PrimePack Logistics,Logistics,North,Sofia Reyes,2025-07-24,2025-08-23,30,16945.35,16945.35,0.0,2025-08-20,Paid,ACH,27,3,Yes,Yes,0.01,No,0.0
+AP-0059,VND-007,ProStaff Services,Services,West,Laura Chen,2025-04-28,2025-05-28,30,31778.3,31778.3,0.0,2025-05-28,Paid,Check,30,0,Yes,Yes,0.01,No,0.0
+AP-0060,VND-019,SkyNet IT Solutions,IT,North,Laura Chen,2025-07-23,2025-09-21,60,10699.74,10699.74,0.0,2025-10-02,Paid,Credit Card,71,-11,No,Yes,0.01,No,0.0
+AP-0061,VND-022,Apex Consulting,Services,Central,Sofia Reyes,2026-03-15,2026-05-14,60,27476.29,0.0,27476.29,,Pending,ACH,,,,Yes,0.01,No,0.0
+AP-0062,VND-014,NetConnect Systems,IT,West,Sofia Reyes,2026-04-16,2026-06-15,60,58048.15,58048.15,0.0,2026-05-31,Paid,Credit Card,45,15,Yes,Yes,0.01,No,0.0
+AP-0063,VND-009,MetalWorks Ltd.,Materials,Central,Ana Torres,2026-03-23,2026-06-21,90,41635.26,0.0,41635.26,,Pending,Credit Card,,,,Yes,0.005,No,0.0
+AP-0064,VND-003,FastShip Logistics,Logistics,East,Pedro Alvarez,2026-01-24,2026-04-24,90,7391.54,7391.54,0.0,2026-04-21,Paid,Wire,87,3,Yes,Yes,0.005,No,0.0
+AP-0065,VND-009,MetalWorks Ltd.,Materials,Central,Laura Chen,2025-03-29,2025-04-28,30,13585.09,13585.09,0.0,2025-05-02,Paid,ACH,34,-4,No,Yes,0.01,No,0.0
+AP-0066,VND-008,GreenEnergy Corp.,Utilities,West,Pedro Alvarez,2025-04-06,2025-04-21,15,4766.42,4766.42,0.0,2025-04-18,Paid,Credit Card,12,3,Yes,Yes,0.02,No,0.0
+AP-0067,VND-018,BuildFast Materials,Materials,Central,Laura Chen,2025-12-27,2026-02-25,60,35737.04,35737.04,0.0,2026-02-19,Paid,Credit Card,54,6,Yes,Yes,0.01,No,0.0
+AP-0068,VND-004,BuildRight Materials,Materials,South,Laura Chen,2025-07-16,2025-08-15,30,12386.46,12386.46,0.0,2025-08-24,Paid,ACH,39,-9,No,Yes,0.01,No,0.0
+AP-0069,VND-010,DataBridge IT,IT,North,Marco Diaz,2026-01-05,2026-02-04,30,18458.12,18458.12,0.0,2026-02-03,Paid,Check,29,1,Yes,Yes,0.01,No,0.0
+AP-0070,VND-009,MetalWorks Ltd.,Materials,North,Sofia Reyes,2026-05-18,2026-06-17,30,6924.21,6924.21,0.0,2026-05-31,Paid,Check,13,17,Yes,Yes,0.01,No,0.0
+AP-0071,VND-009,MetalWorks Ltd.,Materials,West,Sofia Reyes,2026-05-19,2026-07-18,60,5555.94,0.0,5555.94,,Pending,ACH,,,,Yes,0.01,No,0.0
+AP-0072,VND-019,SkyNet IT Solutions,IT,East,Sofia Reyes,2026-03-03,2026-04-02,30,50473.82,50473.82,0.0,2026-04-19,Paid,Wire,47,-17,No,No,0.0,No,0.0
+AP-0073,VND-015,ExpressRoute Logistics,Logistics,West,Laura Chen,2025-03-03,2025-04-17,45,12582.99,0.0,12582.99,,Overdue,Credit Card,,-409,No,No,0.0,No,0.0
+AP-0074,VND-007,ProStaff Services,Services,South,Laura Chen,2025-09-03,2025-10-03,30,9431.1,9431.1,0.0,2025-09-23,Paid,ACH,20,10,Yes,Yes,0.01,No,0.0
+AP-0075,VND-010,DataBridge IT,IT,North,Marco Diaz,2026-04-10,2026-05-25,45,10338.48,10338.48,0.0,2026-05-28,Paid,Check,48,-3,No,Yes,0.015,No,0.0
+AP-0076,VND-019,SkyNet IT Solutions,IT,South,Pedro Alvarez,2025-06-02,2025-07-02,30,73130.86,73130.86,0.0,2025-07-05,Paid,ACH,33,-3,No,No,0.0,No,0.0
+AP-0077,VND-024,EliteFacilities Corp.,Facilities,Central,Laura Chen,2026-04-25,2026-05-25,30,24726.37,0.0,24726.37,,Overdue,Credit Card,,-6,No,Yes,0.01,No,0.0
+AP-0078,VND-016,CleanWater Utilities,Utilities,West,Sofia Reyes,2025-11-27,2026-01-26,60,9253.85,9253.85,0.0,2026-01-31,Paid,ACH,65,-5,No,Yes,0.01,No,0.0
+AP-0079,VND-022,Apex Consulting,Services,Central,Ana Torres,2025-02-11,2025-03-28,45,31235.03,31235.03,0.0,2025-03-22,Paid,ACH,39,6,Yes,Yes,0.015,No,0.0
+AP-0080,VND-019,SkyNet IT Solutions,IT,West,Pedro Alvarez,2025-12-23,2026-03-23,90,35626.11,35626.11,0.0,2026-03-25,Paid,ACH,92,-2,No,Yes,0.005,No,0.0
+AP-0081,VND-006,PowerGrid Utilities,Utilities,East,Pedro Alvarez,2026-02-15,2026-04-01,45,12296.71,12296.71,0.0,2026-03-30,Paid,Credit Card,43,2,Yes,Yes,0.015,No,0.0
+AP-0082,VND-025,RapidShip Co.,Logistics,West,Ana Torres,2026-02-28,2026-05-29,90,2029.88,2029.88,0.0,2026-05-31,Paid,ACH,92,-2,No,Yes,0.005,No,0.0
+AP-0083,VND-015,ExpressRoute Logistics,Logistics,North,Marco Diaz,2025-10-22,2025-11-21,30,9324.21,9324.21,0.0,2025-12-01,Paid,Check,40,-10,No,Yes,0.01,No,0.0
+AP-0084,VND-008,GreenEnergy Corp.,Utilities,South,Laura Chen,2025-04-06,2025-06-05,60,3758.16,3758.16,0.0,2025-06-04,Paid,ACH,59,1,Yes,No,0.0,No,0.0
+AP-0085,VND-004,BuildRight Materials,Materials,South,Pedro Alvarez,2026-03-02,2026-04-16,45,42066.75,42066.75,0.0,2026-04-03,Paid,Check,32,13,Yes,No,0.0,No,0.0
+AP-0086,VND-017,OfficePro Services,Services,South,Sofia Reyes,2025-12-15,2026-02-13,60,37567.19,16582.89,20984.3,2026-02-17,Partial,Check,64,-4,No,Yes,0.01,No,0.0
+AP-0087,VND-019,SkyNet IT Solutions,IT,Central,Pedro Alvarez,2026-05-11,2026-08-09,90,30884.3,30884.3,0.0,2026-05-31,Paid,Wire,20,70,Yes,Yes,0.005,Yes,154.42
+AP-0088,VND-011,QuickFreight Inc.,Logistics,South,Marco Diaz,2026-02-25,2026-03-27,30,1829.3,1829.3,0.0,2026-03-29,Paid,Credit Card,32,-2,No,No,0.0,No,0.0
+AP-0089,VND-022,Apex Consulting,Services,South,Pedro Alvarez,2026-05-30,2026-06-29,30,38718.08,38718.08,0.0,2026-05-31,Paid,ACH,1,29,Yes,Yes,0.01,Yes,387.18
+AP-0090,VND-004,BuildRight Materials,Materials,Central,Pedro Alvarez,2026-02-24,2026-03-26,30,43804.78,43804.78,0.0,2026-03-27,Paid,ACH,31,-1,No,No,0.0,No,0.0
+AP-0091,VND-020,TrustBuild Facilities,Facilities,West,Sofia Reyes,2025-11-21,2026-01-20,60,22684.37,22684.37,0.0,2026-01-14,Paid,Check,54,6,Yes,No,0.0,No,0.0
+AP-0092,VND-018,BuildFast Materials,Materials,North,Ana Torres,2025-10-22,2025-11-21,30,49876.44,49876.44,0.0,2025-11-30,Paid,ACH,39,-9,No,No,0.0,No,0.0
+AP-0093,VND-004,BuildRight Materials,Materials,West,Marco Diaz,2025-02-17,2025-03-04,15,17569.98,17569.98,0.0,2025-03-10,Paid,Check,21,-6,No,Yes,0.02,No,0.0
+AP-0094,VND-014,NetConnect Systems,IT,South,Marco Diaz,2025-06-24,2025-07-24,30,18130.2,18130.2,0.0,2025-07-21,Paid,Credit Card,27,3,Yes,Yes,0.01,No,0.0
+AP-0095,VND-019,SkyNet IT Solutions,IT,South,Marco Diaz,2026-04-16,2026-05-31,45,24149.5,15426.83,8722.67,2026-05-31,Partial,Credit Card,45,0,Yes,Yes,0.015,No,0.0
+AP-0096,VND-003,FastShip Logistics,Logistics,West,Laura Chen,2025-09-14,2025-11-13,60,9679.88,0.0,9679.88,,Overdue,Check,,-199,No,Yes,0.01,No,0.0
+AP-0097,VND-016,CleanWater Utilities,Utilities,North,Marco Diaz,2025-10-30,2025-12-29,60,14894.03,0.0,14894.03,,Overdue,Credit Card,,-153,No,Yes,0.01,No,0.0
+AP-0098,VND-022,Apex Consulting,Services,West,Laura Chen,2026-05-24,2026-06-08,15,33815.04,0.0,33815.04,,Pending,ACH,,,,No,0.0,No,0.0
+AP-0099,VND-012,FacilityPro Services,Facilities,South,Marco Diaz,2025-04-10,2025-05-10,30,31812.32,31812.32,0.0,2025-05-02,Paid,Check,22,8,Yes,Yes,0.01,No,0.0
+AP-0100,VND-015,ExpressRoute Logistics,Logistics,North,Ana Torres,2025-04-03,2025-05-03,30,18282.93,18282.93,0.0,2025-05-07,Paid,Check,34,-4,No,Yes,0.01,No,0.0
+AP-0101,VND-012,FacilityPro Services,Facilities,Central,Ana Torres,2025-09-21,2025-10-21,30,32163.62,0.0,32163.62,,Overdue,Check,,-222,No,No,0.0,No,0.0
+AP-0102,VND-010,DataBridge IT,IT,East,Sofia Reyes,2025-05-25,2025-06-24,30,61561.36,61561.36,0.0,2025-07-07,Paid,Credit Card,43,-13,No,Yes,0.01,No,0.0
+AP-0103,VND-022,Apex Consulting,Services,West,Ana Torres,2026-02-09,2026-03-11,30,3514.99,3514.99,0.0,2026-03-06,Paid,Check,25,5,Yes,Yes,0.01,No,0.0
+AP-0104,VND-019,SkyNet IT Solutions,IT,West,Laura Chen,2026-04-28,2026-05-28,30,6876.85,6876.85,0.0,2026-05-18,Paid,ACH,20,10,Yes,No,0.0,No,0.0
+AP-0105,VND-008,GreenEnergy Corp.,Utilities,North,Pedro Alvarez,2025-04-30,2025-06-29,60,2526.77,2526.77,0.0,2025-06-26,Paid,Check,57,3,Yes,No,0.0,No,0.0
+AP-0106,VND-018,BuildFast Materials,Materials,South,Pedro Alvarez,2026-03-06,2026-05-05,60,30192.34,21643.27,8549.07,2026-05-19,Partial,Credit Card,74,-14,No,No,0.0,No,0.0
+AP-0107,VND-014,NetConnect Systems,IT,East,Sofia Reyes,2026-03-31,2026-04-30,30,38352.19,38352.19,0.0,2026-04-30,Paid,Check,30,0,Yes,Yes,0.01,No,0.0
+AP-0108,VND-012,FacilityPro Services,Facilities,Central,Laura Chen,2025-10-10,2025-12-09,60,8263.68,4357.92,3905.76,2025-12-25,Partial,ACH,76,-16,No,Yes,0.01,No,0.0
+AP-0109,VND-007,ProStaff Services,Services,Central,Sofia Reyes,2025-09-07,2025-11-06,60,39586.37,39586.37,0.0,2025-11-10,Paid,ACH,64,-4,No,No,0.0,No,0.0
+AP-0110,VND-019,SkyNet IT Solutions,IT,South,Marco Diaz,2025-01-03,2025-02-02,30,25795.61,0.0,25795.61,,Overdue,Check,,-483,No,No,0.0,No,0.0
+AP-0111,VND-018,BuildFast Materials,Materials,East,Marco Diaz,2025-05-15,2025-05-30,15,2713.3,2713.3,0.0,2025-05-22,Paid,ACH,7,8,Yes,No,0.0,No,0.0
+AP-0112,VND-011,QuickFreight Inc.,Logistics,North,Marco Diaz,2025-05-10,2025-05-25,15,15092.64,15092.64,0.0,2025-05-12,Paid,Check,2,13,Yes,Yes,0.02,Yes,301.85
+AP-0113,VND-017,OfficePro Services,Services,Central,Sofia Reyes,2025-02-14,2025-03-16,30,29907.99,29907.99,0.0,2025-03-18,Paid,Credit Card,32,-2,No,No,0.0,No,0.0
+AP-0114,VND-010,DataBridge IT,IT,West,Sofia Reyes,2026-02-16,2026-05-17,90,36970.52,36970.52,0.0,2026-05-22,Paid,ACH,95,-5,No,Yes,0.005,No,0.0
+AP-0115,VND-005,CloudSys Inc.,IT,North,Marco Diaz,2026-01-26,2026-03-27,60,79597.08,79597.08,0.0,2026-03-23,Paid,Check,56,4,Yes,Yes,0.01,No,0.0
+AP-0116,VND-020,TrustBuild Facilities,Facilities,West,Sofia Reyes,2026-03-17,2026-04-16,30,16901.31,16901.31,0.0,2026-04-13,Paid,ACH,27,3,Yes,Yes,0.01,No,0.0
+AP-0117,VND-014,NetConnect Systems,IT,East,Laura Chen,2026-05-01,2026-05-31,30,10035.0,0.0,10035.0,,Pending,Check,,,,No,0.0,No,0.0
+AP-0118,VND-024,EliteFacilities Corp.,Facilities,East,Marco Diaz,2025-05-06,2025-07-05,60,15556.68,0.0,15556.68,,Overdue,ACH,,-330,No,No,0.0,No,0.0
+AP-0119,VND-014,NetConnect Systems,IT,North,Laura Chen,2025-04-17,2025-06-16,60,48343.89,48343.89,0.0,2025-06-17,Paid,Check,61,-1,No,Yes,0.01,No,0.0
+AP-0120,VND-008,GreenEnergy Corp.,Utilities,North,Laura Chen,2025-10-13,2025-11-12,30,8824.45,6947.25,1877.2,2025-11-26,Partial,Check,44,-14,No,No,0.0,No,0.0
+AP-0121,VND-020,TrustBuild Facilities,Facilities,Central,Sofia Reyes,2025-07-04,2025-07-19,15,11017.92,0.0,11017.92,,Overdue,Check,,-316,No,No,0.0,No,0.0
+AP-0122,VND-012,FacilityPro Services,Facilities,North,Marco Diaz,2025-03-13,2025-05-12,60,6681.86,6681.86,0.0,2025-05-12,Paid,Wire,60,0,Yes,Yes,0.01,No,0.0
+AP-0123,VND-014,NetConnect Systems,IT,West,Laura Chen,2025-11-16,2026-01-15,60,59119.7,59119.7,0.0,2026-01-10,Paid,Wire,55,5,Yes,No,0.0,No,0.0
+AP-0124,VND-003,FastShip Logistics,Logistics,North,Marco Diaz,2025-03-25,2025-04-09,15,6169.95,6169.95,0.0,2025-04-04,Paid,Wire,10,5,Yes,Yes,0.02,No,0.0
+AP-0125,VND-025,RapidShip Co.,Logistics,Central,Sofia Reyes,2025-04-24,2025-06-23,60,6381.68,6381.68,0.0,2025-06-25,Paid,Check,62,-2,No,Yes,0.01,No,0.0
+AP-0126,VND-022,Apex Consulting,Services,East,Sofia Reyes,2025-02-26,2025-04-27,60,3284.42,3284.42,0.0,2025-04-30,Paid,Wire,63,-3,No,Yes,0.01,No,0.0
+AP-0127,VND-011,QuickFreight Inc.,Logistics,North,Sofia Reyes,2025-06-29,2025-08-28,60,3454.53,3454.53,0.0,2025-09-01,Paid,Credit Card,64,-4,No,Yes,0.01,No,0.0
+AP-0128,VND-018,BuildFast Materials,Materials,East,Sofia Reyes,2026-03-23,2026-04-07,15,2899.59,1701.19,1198.4,2026-04-24,Partial,Credit Card,32,-17,No,No,0.0,No,0.0
+AP-0129,VND-021,PrimePack Logistics,Logistics,West,Laura Chen,2025-01-22,2025-03-23,60,19357.79,0.0,19357.79,,Overdue,ACH,,-434,No,Yes,0.01,No,0.0
+AP-0130,VND-015,ExpressRoute Logistics,Logistics,East,Sofia Reyes,2025-09-07,2025-10-07,30,9277.85,9277.85,0.0,2025-10-16,Paid,Credit Card,39,-9,No,Yes,0.01,No,0.0
+AP-0131,VND-008,GreenEnergy Corp.,Utilities,East,Marco Diaz,2025-07-18,2025-08-17,30,13635.88,13635.88,0.0,2025-08-08,Paid,ACH,21,9,Yes,Yes,0.01,No,0.0
+AP-0132,VND-021,PrimePack Logistics,Logistics,South,Marco Diaz,2025-09-20,2025-10-20,30,4748.16,4748.16,0.0,2025-10-18,Paid,ACH,28,2,Yes,Yes,0.01,No,0.0
+AP-0133,VND-025,RapidShip Co.,Logistics,West,Pedro Alvarez,2025-11-20,2026-01-19,60,3868.19,3868.19,0.0,2026-01-15,Paid,Credit Card,56,4,Yes,Yes,0.01,No,0.0
+AP-0134,VND-010,DataBridge IT,IT,East,Ana Torres,2025-03-17,2025-05-16,60,28280.59,28280.59,0.0,2025-05-17,Paid,ACH,61,-1,No,Yes,0.01,No,0.0
+AP-0135,VND-003,FastShip Logistics,Logistics,Central,Ana Torres,2025-02-12,2025-05-13,90,9544.94,9544.94,0.0,2025-05-11,Paid,Credit Card,88,2,Yes,No,0.0,No,0.0
+AP-0136,VND-011,QuickFreight Inc.,Logistics,Central,Pedro Alvarez,2026-04-07,2026-04-22,15,2966.54,2966.54,0.0,2026-04-18,Paid,Wire,11,4,Yes,No,0.0,No,0.0
+AP-0137,VND-008,GreenEnergy Corp.,Utilities,West,Pedro Alvarez,2026-01-17,2026-03-18,60,13810.08,13810.08,0.0,2026-03-18,Paid,Wire,60,0,Yes,Yes,0.01,No,0.0
+AP-0138,VND-022,Apex Consulting,Services,Central,Sofia Reyes,2025-12-04,2026-01-03,30,6496.72,6496.72,0.0,2026-01-02,Paid,Check,29,1,Yes,Yes,0.01,No,0.0
+AP-0139,VND-020,TrustBuild Facilities,Facilities,South,Laura Chen,2025-12-25,2026-01-24,30,12237.65,12237.65,0.0,2026-01-13,Paid,ACH,19,11,Yes,Yes,0.01,No,0.0
+AP-0140,VND-005,CloudSys Inc.,IT,Central,Sofia Reyes,2025-12-03,2026-02-01,60,65988.86,44172.11,21816.75,2026-02-17,Partial,Check,76,-16,No,Yes,0.01,No,0.0
+AP-0141,VND-017,OfficePro Services,Services,North,Pedro Alvarez,2026-01-07,2026-01-22,15,14428.04,14428.04,0.0,2026-01-22,Paid,Check,15,0,Yes,No,0.0,No,0.0
+AP-0142,VND-005,CloudSys Inc.,IT,South,Sofia Reyes,2025-02-08,2025-03-10,30,54644.69,54644.69,0.0,2025-03-05,Paid,Check,25,5,Yes,No,0.0,No,0.0
+AP-0143,VND-020,TrustBuild Facilities,Facilities,West,Marco Diaz,2025-06-19,2025-07-19,30,25799.04,25799.04,0.0,2025-07-15,Paid,Wire,26,4,Yes,Yes,0.01,No,0.0
+AP-0144,VND-020,TrustBuild Facilities,Facilities,East,Pedro Alvarez,2025-11-13,2025-12-13,30,33864.69,0.0,33864.69,,Overdue,Wire,,-169,No,No,0.0,No,0.0
+AP-0145,VND-007,ProStaff Services,Services,East,Ana Torres,2025-10-16,2026-01-14,90,31790.59,31790.59,0.0,2025-12-25,Paid,Credit Card,70,20,Yes,Yes,0.005,No,0.0
+AP-0146,VND-006,PowerGrid Utilities,Utilities,South,Ana Torres,2025-02-23,2025-04-09,45,9797.1,9797.1,0.0,2025-04-21,Paid,Wire,57,-12,No,No,0.0,No,0.0
+AP-0147,VND-004,BuildRight Materials,Materials,East,Sofia Reyes,2026-04-06,2026-05-21,45,45454.7,45454.7,0.0,2026-05-30,Paid,Wire,54,-9,No,Yes,0.015,No,0.0
+AP-0148,VND-008,GreenEnergy Corp.,Utilities,West,Laura Chen,2025-02-24,2025-04-25,60,6248.58,6248.58,0.0,2025-04-29,Paid,ACH,64,-4,No,Yes,0.01,No,0.0
+AP-0149,VND-011,QuickFreight Inc.,Logistics,North,Laura Chen,2025-02-09,2025-03-11,30,6450.71,6450.71,0.0,2025-03-13,Paid,Wire,32,-2,No,No,0.0,No,0.0
+AP-0150,VND-005,CloudSys Inc.,IT,West,Pedro Alvarez,2025-01-20,2025-02-19,30,24194.29,24194.29,0.0,2025-02-18,Paid,ACH,29,1,Yes,No,0.0,No,0.0
+AP-0151,VND-004,BuildRight Materials,Materials,East,Marco Diaz,2025-02-18,2025-03-20,30,13445.1,13445.1,0.0,2025-03-11,Paid,Check,21,9,Yes,Yes,0.01,No,0.0
+AP-0152,VND-003,FastShip Logistics,Logistics,North,Pedro Alvarez,2025-05-28,2025-06-27,30,6534.17,6534.17,0.0,2025-06-23,Paid,ACH,26,4,Yes,Yes,0.01,No,0.0
+AP-0153,VND-022,Apex Consulting,Services,North,Ana Torres,2025-01-21,2025-02-20,30,17446.79,17446.79,0.0,2025-02-18,Paid,Check,28,2,Yes,Yes,0.01,No,0.0
+AP-0154,VND-012,FacilityPro Services,Facilities,East,Sofia Reyes,2025-12-20,2026-01-19,30,9957.16,9957.16,0.0,2026-01-08,Paid,Check,19,11,Yes,Yes,0.01,No,0.0
+AP-0155,VND-005,CloudSys Inc.,IT,North,Laura Chen,2026-04-21,2026-05-21,30,78561.44,0.0,78561.44,,Pending,Check,,,,Yes,0.01,No,0.0
+AP-0156,VND-023,CoolTech Systems,IT,West,Sofia Reyes,2025-02-14,2025-03-16,30,64333.19,64333.19,0.0,2025-03-10,Paid,Check,24,6,Yes,No,0.0,No,0.0
+AP-0157,VND-010,DataBridge IT,IT,Central,Pedro Alvarez,2025-02-07,2025-03-24,45,61496.82,61496.82,0.0,2025-03-27,Paid,Credit Card,48,-3,No,Yes,0.015,No,0.0
+AP-0158,VND-011,QuickFreight Inc.,Logistics,East,Sofia Reyes,2026-02-14,2026-04-15,60,15122.85,15122.85,0.0,2026-03-31,Paid,Check,45,15,Yes,No,0.0,No,0.0
+AP-0159,VND-016,CleanWater Utilities,Utilities,West,Laura Chen,2026-03-11,2026-04-10,30,1644.44,757.44,887.0,2026-04-07,Partial,Check,27,3,Yes,Yes,0.01,No,0.0
+AP-0160,VND-011,QuickFreight Inc.,Logistics,East,Laura Chen,2025-06-20,2025-08-19,60,14105.53,14105.53,0.0,2025-08-24,Paid,Credit Card,65,-5,No,Yes,0.01,No,0.0
+AP-0161,VND-014,NetConnect Systems,IT,East,Sofia Reyes,2026-01-08,2026-03-09,60,43481.45,43481.45,0.0,2026-03-04,Paid,ACH,55,5,Yes,No,0.0,No,0.0
+AP-0162,VND-001,Acme Supplies Co.,Materials,South,Ana Torres,2025-05-10,2025-05-25,15,5227.2,5227.2,0.0,2025-05-18,Paid,Credit Card,8,7,Yes,No,0.0,No,0.0
+AP-0163,VND-020,TrustBuild Facilities,Facilities,South,Pedro Alvarez,2026-03-31,2026-05-30,60,27181.79,0.0,27181.79,,Pending,Check,,,,Yes,0.01,No,0.0
+AP-0164,VND-021,PrimePack Logistics,Logistics,East,Marco Diaz,2025-07-10,2025-07-25,15,10481.84,10481.84,0.0,2025-07-31,Paid,ACH,21,-6,No,Yes,0.02,No,0.0
+AP-0165,VND-009,MetalWorks Ltd.,Materials,East,Pedro Alvarez,2026-05-18,2026-07-02,45,11608.56,0.0,11608.56,,Pending,Wire,,,,Yes,0.015,No,0.0
+AP-0166,VND-023,CoolTech Systems,IT,West,Sofia Reyes,2025-03-08,2025-05-07,60,46249.79,46249.79,0.0,2025-05-13,Paid,Check,66,-6,No,Yes,0.01,No,0.0
+AP-0167,VND-023,CoolTech Systems,IT,South,Laura Chen,2025-07-25,2025-08-24,30,64404.93,64404.93,0.0,2025-09-03,Paid,Wire,40,-10,No,Yes,0.01,No,0.0
+AP-0168,VND-012,FacilityPro Services,Facilities,Central,Ana Torres,2025-05-13,2025-08-11,90,22194.3,22194.3,0.0,2025-08-23,Paid,Check,102,-12,No,Yes,0.005,No,0.0
+AP-0169,VND-017,OfficePro Services,Services,West,Pedro Alvarez,2025-11-21,2025-12-21,30,26766.53,26766.53,0.0,2025-12-21,Paid,ACH,30,0,Yes,Yes,0.01,No,0.0
+AP-0170,VND-012,FacilityPro Services,Facilities,South,Ana Torres,2026-03-20,2026-04-19,30,18594.5,8405.87,10188.63,2026-04-19,Partial,Wire,30,0,Yes,No,0.0,No,0.0
+AP-0171,VND-011,QuickFreight Inc.,Logistics,South,Laura Chen,2025-09-14,2025-10-14,30,4729.74,4729.74,0.0,2025-10-07,Paid,Check,23,7,Yes,No,0.0,No,0.0
+AP-0172,VND-003,FastShip Logistics,Logistics,Central,Marco Diaz,2025-12-12,2026-01-11,30,17008.07,5343.71,11664.36,2026-01-07,Partial,Wire,26,4,Yes,Yes,0.01,No,0.0
+AP-0173,VND-021,PrimePack Logistics,Logistics,Central,Laura Chen,2025-02-01,2025-04-02,60,10462.72,10462.72,0.0,2025-03-26,Paid,Wire,53,7,Yes,Yes,0.01,No,0.0
+AP-0174,VND-010,DataBridge IT,IT,West,Marco Diaz,2026-04-10,2026-05-25,45,10472.98,10472.98,0.0,2026-05-28,Paid,Credit Card,48,-3,No,Yes,0.015,No,0.0
+AP-0175,VND-011,QuickFreight Inc.,Logistics,East,Laura Chen,2026-01-15,2026-02-14,30,10784.62,10784.62,0.0,2026-02-24,Paid,Credit Card,40,-10,No,Yes,0.01,No,0.0
+AP-0176,VND-004,BuildRight Materials,Materials,East,Pedro Alvarez,2025-04-10,2025-05-10,30,4429.05,2254.68,2174.37,2025-05-10,Partial,Wire,30,0,Yes,No,0.0,No,0.0
+AP-0177,VND-011,QuickFreight Inc.,Logistics,Central,Laura Chen,2026-05-26,2026-06-25,30,19923.42,6874.07,13049.35,2026-05-31,Partial,Wire,5,25,Yes,Yes,0.01,No,0.0
+AP-0178,VND-017,OfficePro Services,Services,West,Marco Diaz,2025-02-19,2025-04-20,60,4869.99,3054.12,1815.87,2025-04-30,Partial,Wire,70,-10,No,Yes,0.01,No,0.0
+AP-0179,VND-010,DataBridge IT,IT,Central,Sofia Reyes,2025-05-18,2025-07-17,60,71184.18,71184.18,0.0,2025-07-12,Paid,ACH,55,5,Yes,No,0.0,No,0.0
+AP-0180,VND-019,SkyNet IT Solutions,IT,Central,Marco Diaz,2025-03-17,2025-05-01,45,33976.16,33976.16,0.0,2025-05-07,Paid,Check,51,-6,No,Yes,0.015,No,0.0
+AP-0181,VND-020,TrustBuild Facilities,Facilities,Central,Sofia Reyes,2026-02-08,2026-03-10,30,14315.55,14315.55,0.0,2026-03-08,Paid,Wire,28,2,Yes,No,0.0,No,0.0
+AP-0182,VND-020,TrustBuild Facilities,Facilities,Central,Pedro Alvarez,2025-02-09,2025-02-24,15,6522.2,6522.2,0.0,2025-02-27,Paid,ACH,18,-3,No,Yes,0.02,No,0.0
+AP-0183,VND-015,ExpressRoute Logistics,Logistics,South,Ana Torres,2025-11-23,2026-01-22,60,4087.54,4087.54,0.0,2026-01-20,Paid,Wire,58,2,Yes,No,0.0,No,0.0
+AP-0184,VND-017,OfficePro Services,Services,Central,Pedro Alvarez,2025-01-18,2025-04-18,90,16629.24,0.0,16629.24,,Overdue,Check,,-408,No,Yes,0.005,No,0.0
+AP-0185,VND-019,SkyNet IT Solutions,IT,East,Sofia Reyes,2025-08-22,2025-10-06,45,59105.01,59105.01,0.0,2025-10-12,Paid,Credit Card,51,-6,No,Yes,0.015,No,0.0
+AP-0186,VND-021,PrimePack Logistics,Logistics,Central,Pedro Alvarez,2025-02-02,2025-03-04,30,11878.84,11878.84,0.0,2025-02-25,Paid,Wire,23,7,Yes,No,0.0,No,0.0
+AP-0187,VND-014,NetConnect Systems,IT,South,Pedro Alvarez,2025-05-22,2025-06-06,15,43901.24,0.0,43901.24,,Overdue,Credit Card,,-359,No,Yes,0.02,No,0.0
+AP-0188,VND-016,CleanWater Utilities,Utilities,Central,Pedro Alvarez,2026-04-16,2026-05-16,30,13725.8,13725.8,0.0,2026-05-19,Paid,Check,33,-3,No,Yes,0.01,No,0.0
+AP-0189,VND-024,EliteFacilities Corp.,Facilities,East,Ana Torres,2025-09-10,2025-10-10,30,11207.21,0.0,11207.21,,Overdue,Credit Card,,-233,No,Yes,0.01,No,0.0
+AP-0190,VND-010,DataBridge IT,IT,East,Marco Diaz,2026-05-07,2026-07-06,60,31160.24,0.0,31160.24,,Pending,Credit Card,,,,No,0.0,No,0.0
+AP-0191,VND-004,BuildRight Materials,Materials,Central,Ana Torres,2025-12-20,2026-02-18,60,47821.23,47821.23,0.0,2026-02-16,Paid,Credit Card,58,2,Yes,No,0.0,No,0.0
+AP-0192,VND-012,FacilityPro Services,Facilities,West,Laura Chen,2025-07-26,2025-08-25,30,29322.41,29322.41,0.0,2025-09-06,Paid,Credit Card,42,-12,No,Yes,0.01,No,0.0
+AP-0193,VND-009,MetalWorks Ltd.,Materials,South,Sofia Reyes,2025-02-21,2025-03-23,30,34152.03,34152.03,0.0,2025-03-30,Paid,Wire,37,-7,No,Yes,0.01,No,0.0
+AP-0194,VND-023,CoolTech Systems,IT,West,Sofia Reyes,2025-06-11,2025-06-26,15,35518.06,19134.44,16383.62,2025-06-27,Partial,Wire,16,-1,No,No,0.0,No,0.0
+AP-0195,VND-025,RapidShip Co.,Logistics,East,Laura Chen,2025-04-02,2025-04-17,15,13393.68,13393.68,0.0,2025-04-19,Paid,Check,17,-2,No,Yes,0.02,No,0.0
+AP-0196,VND-002,TechCore Solutions,IT,South,Pedro Alvarez,2026-02-11,2026-02-26,15,64097.05,64097.05,0.0,2026-03-02,Paid,Wire,19,-4,No,Yes,0.02,No,0.0
+AP-0197,VND-002,TechCore Solutions,IT,North,Laura Chen,2025-10-19,2025-12-18,60,39076.18,39076.18,0.0,2025-12-14,Paid,ACH,56,4,Yes,Yes,0.01,No,0.0
+AP-0198,VND-005,CloudSys Inc.,IT,Central,Pedro Alvarez,2025-04-26,2025-05-26,30,29801.31,29801.31,0.0,2025-05-26,Paid,Check,30,0,Yes,No,0.0,No,0.0
+AP-0199,VND-011,QuickFreight Inc.,Logistics,East,Ana Torres,2026-02-20,2026-03-22,30,16712.81,16712.81,0.0,2026-03-21,Paid,Wire,29,1,Yes,Yes,0.01,No,0.0
+AP-0200,VND-022,Apex Consulting,Services,North,Marco Diaz,2025-11-28,2026-02-26,90,37625.54,37625.54,0.0,2026-02-21,Paid,Wire,85,5,Yes,Yes,0.005,No,0.0
+AP-0201,VND-011,QuickFreight Inc.,Logistics,East,Ana Torres,2026-01-04,2026-02-18,45,14162.6,14162.6,0.0,2026-02-20,Paid,ACH,47,-2,No,Yes,0.015,No,0.0
+AP-0202,VND-010,DataBridge IT,IT,South,Pedro Alvarez,2025-10-30,2025-11-29,30,32565.79,0.0,32565.79,,Overdue,Check,,-183,No,Yes,0.01,No,0.0
+AP-0203,VND-016,CleanWater Utilities,Utilities,South,Pedro Alvarez,2026-04-28,2026-06-27,60,11481.58,7350.17,4131.41,2026-05-31,Partial,Check,33,27,Yes,No,0.0,No,0.0
+AP-0204,VND-003,FastShip Logistics,Logistics,Central,Pedro Alvarez,2025-04-25,2025-05-25,30,2173.4,2173.4,0.0,2025-05-21,Paid,Check,26,4,Yes,Yes,0.01,No,0.0
+AP-0205,VND-011,QuickFreight Inc.,Logistics,Central,Pedro Alvarez,2026-05-16,2026-06-15,30,2727.89,1518.41,1209.48,2026-05-31,Partial,ACH,15,15,Yes,Yes,0.01,No,0.0
+AP-0206,VND-019,SkyNet IT Solutions,IT,North,Ana Torres,2025-01-23,2025-03-09,45,34696.15,34696.15,0.0,2025-03-07,Paid,Credit Card,43,2,Yes,No,0.0,No,0.0
+AP-0207,VND-019,SkyNet IT Solutions,IT,North,Sofia Reyes,2025-03-07,2025-05-06,60,45587.26,36153.83,9433.43,2025-05-16,Partial,Credit Card,70,-10,No,Yes,0.01,No,0.0
+AP-0208,VND-002,TechCore Solutions,IT,East,Pedro Alvarez,2026-03-07,2026-04-06,30,33084.57,33084.57,0.0,2026-04-04,Paid,Wire,28,2,Yes,No,0.0,No,0.0
+AP-0209,VND-022,Apex Consulting,Services,Central,Marco Diaz,2025-07-02,2025-08-01,30,39735.33,39735.33,0.0,2025-08-03,Paid,Check,32,-2,No,Yes,0.01,No,0.0
+AP-0210,VND-008,GreenEnergy Corp.,Utilities,North,Sofia Reyes,2026-03-11,2026-06-09,90,8213.04,0.0,8213.04,,Pending,Check,,,,No,0.0,No,0.0
+AP-0211,VND-009,MetalWorks Ltd.,Materials,South,Sofia Reyes,2025-01-17,2025-03-18,60,13551.98,13551.98,0.0,2025-03-07,Paid,ACH,49,11,Yes,Yes,0.01,No,0.0
+AP-0212,VND-002,TechCore Solutions,IT,South,Sofia Reyes,2025-08-28,2025-11-26,90,45481.99,45481.99,0.0,2025-11-29,Paid,Credit Card,93,-3,No,No,0.0,No,0.0
+AP-0213,VND-005,CloudSys Inc.,IT,Central,Laura Chen,2025-11-25,2026-01-24,60,22767.8,0.0,22767.8,,Overdue,Wire,,-127,No,No,0.0,No,0.0
+AP-0214,VND-017,OfficePro Services,Services,South,Pedro Alvarez,2025-03-04,2025-04-18,45,23598.57,23598.57,0.0,2025-04-23,Paid,Check,50,-5,No,Yes,0.015,No,0.0
+AP-0215,VND-018,BuildFast Materials,Materials,West,Sofia Reyes,2025-11-23,2026-01-22,60,35422.8,35422.8,0.0,2026-02-01,Paid,Check,70,-10,No,Yes,0.01,No,0.0
+AP-0216,VND-006,PowerGrid Utilities,Utilities,Central,Pedro Alvarez,2025-11-04,2025-12-04,30,12934.35,12934.35,0.0,2025-12-11,Paid,Wire,37,-7,No,Yes,0.01,No,0.0
+AP-0217,VND-014,NetConnect Systems,IT,Central,Ana Torres,2025-09-06,2025-11-05,60,24124.67,24124.67,0.0,2025-11-07,Paid,Wire,62,-2,No,Yes,0.01,No,0.0
+AP-0218,VND-015,ExpressRoute Logistics,Logistics,East,Sofia Reyes,2025-10-02,2025-10-17,15,8166.19,8166.19,0.0,2025-10-29,Paid,Wire,27,-12,No,Yes,0.02,No,0.0
+AP-0219,VND-019,SkyNet IT Solutions,IT,Central,Marco Diaz,2025-12-07,2026-01-06,30,27739.1,27739.1,0.0,2026-01-12,Paid,Credit Card,36,-6,No,No,0.0,No,0.0
+AP-0220,VND-007,ProStaff Services,Services,North,Pedro Alvarez,2026-02-11,2026-03-13,30,36859.68,36859.68,0.0,2026-03-06,Paid,Wire,23,7,Yes,Yes,0.01,No,0.0
+AP-0221,VND-012,FacilityPro Services,Facilities,East,Laura Chen,2026-04-23,2026-07-22,90,5254.07,5254.07,0.0,2026-05-31,Paid,Check,38,52,Yes,No,0.0,No,0.0
+AP-0222,VND-007,ProStaff Services,Services,East,Laura Chen,2025-08-15,2025-08-30,15,30426.34,30426.34,0.0,2025-08-19,Paid,Credit Card,4,11,Yes,Yes,0.02,Yes,608.53
+AP-0223,VND-010,DataBridge IT,IT,South,Marco Diaz,2026-01-24,2026-02-23,30,47734.21,47734.21,0.0,2026-02-17,Paid,Check,24,6,Yes,Yes,0.01,No,0.0
+AP-0224,VND-022,Apex Consulting,Services,East,Laura Chen,2026-04-17,2026-07-16,90,9224.64,9224.64,0.0,2026-05-31,Paid,Credit Card,44,46,Yes,No,0.0,No,0.0
+AP-0225,VND-018,BuildFast Materials,Materials,North,Ana Torres,2025-02-19,2025-03-21,30,38688.26,16083.36,22604.9,2025-04-07,Partial,ACH,47,-17,No,Yes,0.01,No,0.0
+AP-0226,VND-005,CloudSys Inc.,IT,North,Marco Diaz,2025-03-03,2025-05-02,60,51337.64,51337.64,0.0,2025-05-03,Paid,Credit Card,61,-1,No,Yes,0.01,No,0.0
+AP-0227,VND-016,CleanWater Utilities,Utilities,West,Sofia Reyes,2025-01-13,2025-03-14,60,742.53,742.53,0.0,2025-03-12,Paid,ACH,58,2,Yes,No,0.0,No,0.0
+AP-0228,VND-023,CoolTech Systems,IT,West,Marco Diaz,2025-06-02,2025-07-02,30,23072.66,23072.66,0.0,2025-07-11,Paid,ACH,39,-9,No,Yes,0.01,No,0.0
+AP-0229,VND-012,FacilityPro Services,Facilities,East,Pedro Alvarez,2026-02-20,2026-04-21,60,17146.93,0.0,17146.93,,Pending,ACH,,,,Yes,0.01,No,0.0
+AP-0230,VND-003,FastShip Logistics,Logistics,North,Sofia Reyes,2026-01-22,2026-03-23,60,11501.33,11501.33,0.0,2026-03-27,Paid,Credit Card,64,-4,No,Yes,0.01,No,0.0
+AP-0231,VND-014,NetConnect Systems,IT,East,Ana Torres,2025-08-24,2025-09-08,15,20856.28,11215.47,9640.81,2025-09-04,Partial,ACH,11,4,Yes,No,0.0,No,0.0
+AP-0232,VND-003,FastShip Logistics,Logistics,East,Ana Torres,2025-11-19,2025-12-19,30,1297.5,1297.5,0.0,2025-12-27,Paid,ACH,38,-8,No,Yes,0.01,No,0.0
+AP-0233,VND-023,CoolTech Systems,IT,West,Sofia Reyes,2025-09-04,2025-10-04,30,47502.19,47502.19,0.0,2025-09-27,Paid,Check,23,7,Yes,No,0.0,No,0.0
+AP-0234,VND-024,EliteFacilities Corp.,Facilities,South,Sofia Reyes,2025-04-11,2025-04-26,15,16423.91,16423.91,0.0,2025-04-25,Paid,Check,14,1,Yes,No,0.0,No,0.0
+AP-0235,VND-025,RapidShip Co.,Logistics,Central,Ana Torres,2025-01-31,2025-04-01,60,13048.34,13048.34,0.0,2025-04-02,Paid,Credit Card,61,-1,No,No,0.0,No,0.0
+AP-0236,VND-013,SafetyFirst Supplies,Materials,West,Marco Diaz,2025-10-30,2025-11-29,30,40306.65,40306.65,0.0,2025-12-09,Paid,Credit Card,40,-10,No,No,0.0,No,0.0
+AP-0237,VND-005,CloudSys Inc.,IT,West,Marco Diaz,2026-01-05,2026-03-06,60,12991.32,12991.32,0.0,2026-03-02,Paid,Credit Card,56,4,Yes,Yes,0.01,No,0.0
+AP-0238,VND-005,CloudSys Inc.,IT,North,Marco Diaz,2026-02-22,2026-05-23,90,12746.97,12746.97,0.0,2026-05-27,Paid,Credit Card,94,-4,No,Yes,0.005,No,0.0
+AP-0239,VND-011,QuickFreight Inc.,Logistics,West,Sofia Reyes,2026-02-02,2026-04-03,60,15804.21,15804.21,0.0,2026-04-03,Paid,Check,60,0,Yes,No,0.0,No,0.0
+AP-0240,VND-022,Apex Consulting,Services,West,Marco Diaz,2025-11-05,2025-12-20,45,12931.05,12931.05,0.0,2025-12-29,Paid,Wire,54,-9,No,Yes,0.015,No,0.0
+AP-0241,VND-009,MetalWorks Ltd.,Materials,West,Laura Chen,2026-01-05,2026-02-04,30,14081.59,14081.59,0.0,2026-01-31,Paid,Credit Card,26,4,Yes,Yes,0.01,No,0.0
+AP-0242,VND-004,BuildRight Materials,Materials,South,Laura Chen,2025-12-07,2026-02-05,60,42397.44,22051.39,20346.05,2026-02-13,Partial,ACH,68,-8,No,Yes,0.01,No,0.0
+AP-0243,VND-021,PrimePack Logistics,Logistics,Central,Marco Diaz,2025-07-25,2025-09-23,60,10101.19,10101.19,0.0,2025-09-21,Paid,Check,58,2,Yes,Yes,0.01,No,0.0
+AP-0244,VND-011,QuickFreight Inc.,Logistics,East,Pedro Alvarez,2026-01-21,2026-03-22,60,6325.7,6325.7,0.0,2026-03-26,Paid,Wire,64,-4,No,No,0.0,No,0.0
+AP-0245,VND-018,BuildFast Materials,Materials,South,Ana Torres,2025-08-03,2025-11-01,90,23045.84,23045.84,0.0,2025-10-30,Paid,ACH,88,2,Yes,Yes,0.005,No,0.0
+AP-0246,VND-014,NetConnect Systems,IT,West,Marco Diaz,2025-09-16,2025-10-16,30,54399.72,18331.76,36067.96,2025-10-30,Partial,Check,44,-14,No,No,0.0,No,0.0
+AP-0247,VND-016,CleanWater Utilities,Utilities,Central,Pedro Alvarez,2026-01-04,2026-01-19,15,10673.7,10673.7,0.0,2026-01-22,Paid,Credit Card,18,-3,No,No,0.0,No,0.0
+AP-0248,VND-008,GreenEnergy Corp.,Utilities,East,Marco Diaz,2025-12-06,2026-02-04,60,14502.89,14502.89,0.0,2026-02-03,Paid,ACH,59,1,Yes,Yes,0.01,No,0.0
+AP-0249,VND-009,MetalWorks Ltd.,Materials,South,Ana Torres,2026-01-19,2026-04-19,90,20774.44,20774.44,0.0,2026-04-18,Paid,Wire,89,1,Yes,No,0.0,No,0.0
+AP-0250,VND-004,BuildRight Materials,Materials,East,Pedro Alvarez,2025-05-26,2025-06-25,30,18719.78,10493.51,8226.27,2025-07-01,Partial,ACH,36,-6,No,Yes,0.01,No,0.0
+AP-0251,VND-016,CleanWater Utilities,Utilities,North,Pedro Alvarez,2025-03-10,2025-05-09,60,4853.83,4853.83,0.0,2025-05-10,Paid,Credit Card,61,-1,No,No,0.0,No,0.0
+AP-0252,VND-011,QuickFreight Inc.,Logistics,North,Marco Diaz,2025-06-13,2025-07-13,30,7288.8,7288.8,0.0,2025-07-16,Paid,Wire,33,-3,No,Yes,0.01,No,0.0
+AP-0253,VND-006,PowerGrid Utilities,Utilities,West,Pedro Alvarez,2026-04-06,2026-05-06,30,9086.95,0.0,9086.95,,Pending,ACH,,,,Yes,0.01,No,0.0
+AP-0254,VND-025,RapidShip Co.,Logistics,North,Ana Torres,2026-01-10,2026-02-09,30,7193.71,7193.71,0.0,2026-01-30,Paid,ACH,20,10,Yes,Yes,0.01,No,0.0
+AP-0255,VND-016,CleanWater Utilities,Utilities,Central,Laura Chen,2025-04-27,2025-06-26,60,5544.91,5544.91,0.0,2025-06-30,Paid,Credit Card,64,-4,No,No,0.0,No,0.0
+AP-0256,VND-010,DataBridge IT,IT,Central,Ana Torres,2025-11-17,2025-12-17,30,13839.62,13839.62,0.0,2025-12-06,Paid,ACH,19,11,Yes,Yes,0.01,No,0.0
+AP-0257,VND-023,CoolTech Systems,IT,South,Ana Torres,2025-05-22,2025-07-21,60,48110.45,48110.45,0.0,2025-07-04,Paid,Credit Card,43,17,Yes,Yes,0.01,No,0.0
+AP-0258,VND-006,PowerGrid Utilities,Utilities,Central,Marco Diaz,2025-05-24,2025-07-08,45,3212.93,3212.93,0.0,2025-07-04,Paid,Credit Card,41,4,Yes,No,0.0,No,0.0
+AP-0259,VND-012,FacilityPro Services,Facilities,North,Pedro Alvarez,2026-01-29,2026-02-28,30,33806.36,33806.36,0.0,2026-02-25,Paid,Wire,27,3,Yes,Yes,0.01,No,0.0
+AP-0260,VND-015,ExpressRoute Logistics,Logistics,West,Marco Diaz,2025-08-14,2025-08-29,15,6549.71,6549.71,0.0,2025-08-22,Paid,ACH,8,7,Yes,Yes,0.02,No,0.0
+AP-0261,VND-006,PowerGrid Utilities,Utilities,West,Ana Torres,2025-04-27,2025-05-27,30,4384.39,0.0,4384.39,,Overdue,Credit Card,,-369,No,Yes,0.01,No,0.0
+AP-0262,VND-018,BuildFast Materials,Materials,North,Pedro Alvarez,2025-04-15,2025-06-14,60,37327.46,37327.46,0.0,2025-06-15,Paid,Wire,61,-1,No,Yes,0.01,No,0.0
+AP-0263,VND-009,MetalWorks Ltd.,Materials,East,Sofia Reyes,2025-08-31,2025-09-30,30,12074.15,12074.15,0.0,2025-09-29,Paid,Credit Card,29,1,Yes,No,0.0,No,0.0
+AP-0264,VND-023,CoolTech Systems,IT,Central,Pedro Alvarez,2025-07-31,2025-08-30,30,66014.74,66014.74,0.0,2025-08-20,Paid,Wire,20,10,Yes,No,0.0,No,0.0
+AP-0265,VND-006,PowerGrid Utilities,Utilities,East,Laura Chen,2025-04-08,2025-05-23,45,2466.04,2466.04,0.0,2025-05-21,Paid,Check,43,2,Yes,No,0.0,No,0.0
+AP-0266,VND-002,TechCore Solutions,IT,East,Marco Diaz,2025-05-30,2025-06-29,30,58354.61,58354.61,0.0,2025-06-25,Paid,Wire,26,4,Yes,No,0.0,No,0.0
+AP-0267,VND-019,SkyNet IT Solutions,IT,East,Pedro Alvarez,2025-03-19,2025-06-17,90,52522.08,52522.08,0.0,2025-06-09,Paid,Credit Card,82,8,Yes,No,0.0,No,0.0
+AP-0268,VND-017,OfficePro Services,Services,East,Laura Chen,2025-12-02,2026-03-02,90,24532.36,8502.2,16030.16,2026-03-11,Partial,Credit Card,99,-9,No,No,0.0,No,0.0
+AP-0269,VND-021,PrimePack Logistics,Logistics,East,Sofia Reyes,2026-03-16,2026-04-15,30,16672.11,0.0,16672.11,,Pending,Credit Card,,,,Yes,0.01,No,0.0
+AP-0270,VND-018,BuildFast Materials,Materials,Central,Marco Diaz,2025-02-19,2025-04-20,60,4205.26,1295.81,2909.45,2025-04-20,Partial,Credit Card,60,0,Yes,Yes,0.01,No,0.0
+AP-0271,VND-015,ExpressRoute Logistics,Logistics,West,Sofia Reyes,2025-05-16,2025-06-15,30,17760.81,13112.76,4648.05,2025-06-12,Partial,Credit Card,27,3,Yes,Yes,0.01,No,0.0
+AP-0272,VND-021,PrimePack Logistics,Logistics,East,Laura Chen,2025-06-19,2025-08-18,60,1983.96,1983.96,0.0,2025-08-18,Paid,ACH,60,0,Yes,Yes,0.01,No,0.0
+AP-0273,VND-003,FastShip Logistics,Logistics,North,Sofia Reyes,2025-03-21,2025-06-19,90,3521.3,3521.3,0.0,2025-06-11,Paid,Wire,82,8,Yes,Yes,0.005,No,0.0
+AP-0274,VND-001,Acme Supplies Co.,Materials,North,Laura Chen,2025-05-16,2025-07-15,60,24929.61,24929.61,0.0,2025-07-16,Paid,ACH,61,-1,No,Yes,0.01,No,0.0
+AP-0275,VND-012,FacilityPro Services,Facilities,East,Marco Diaz,2025-05-27,2025-06-26,30,4257.58,4257.58,0.0,2025-06-23,Paid,Credit Card,27,3,Yes,Yes,0.01,No,0.0
+AP-0276,VND-006,PowerGrid Utilities,Utilities,West,Laura Chen,2026-02-26,2026-03-28,30,9433.1,9433.1,0.0,2026-03-31,Paid,Wire,33,-3,No,Yes,0.01,No,0.0
+AP-0277,VND-004,BuildRight Materials,Materials,Central,Pedro Alvarez,2025-11-19,2026-01-18,60,39971.68,39971.68,0.0,2026-01-16,Paid,Check,58,2,Yes,Yes,0.01,No,0.0
+AP-0278,VND-008,GreenEnergy Corp.,Utilities,Central,Ana Torres,2025-11-05,2025-11-20,15,3478.96,3478.96,0.0,2025-11-12,Paid,Check,7,8,Yes,Yes,0.02,No,0.0
+AP-0279,VND-008,GreenEnergy Corp.,Utilities,West,Pedro Alvarez,2026-05-27,2026-06-26,30,9752.19,0.0,9752.19,,Pending,ACH,,,,Yes,0.01,No,0.0
+AP-0280,VND-012,FacilityPro Services,Facilities,East,Marco Diaz,2026-01-10,2026-03-11,60,20029.76,20029.76,0.0,2026-03-18,Paid,Credit Card,67,-7,No,Yes,0.01,No,0.0
+AP-0281,VND-025,RapidShip Co.,Logistics,North,Sofia Reyes,2025-09-26,2025-10-11,15,5099.12,0.0,5099.12,,Overdue,ACH,,-232,No,No,0.0,No,0.0
+AP-0282,VND-013,SafetyFirst Supplies,Materials,Central,Laura Chen,2026-02-16,2026-04-17,60,5956.53,0.0,5956.53,,Pending,Credit Card,,,,Yes,0.01,No,0.0
+AP-0283,VND-010,DataBridge IT,IT,North,Ana Torres,2025-12-01,2025-12-31,30,34304.86,21973.22,12331.64,2025-12-28,Partial,Wire,27,3,Yes,Yes,0.01,No,0.0
+AP-0284,VND-010,DataBridge IT,IT,West,Marco Diaz,2025-03-30,2025-04-29,30,74347.08,74347.08,0.0,2025-05-10,Paid,ACH,41,-11,No,Yes,0.01,No,0.0
+AP-0285,VND-022,Apex Consulting,Services,South,Sofia Reyes,2025-01-12,2025-02-11,30,9061.81,9061.81,0.0,2025-02-15,Paid,ACH,34,-4,No,No,0.0,No,0.0
+AP-0286,VND-024,EliteFacilities Corp.,Facilities,East,Marco Diaz,2025-10-03,2025-11-02,30,26186.88,12242.51,13944.37,2025-11-10,Partial,Check,38,-8,No,Yes,0.01,No,0.0
+AP-0287,VND-009,MetalWorks Ltd.,Materials,Central,Sofia Reyes,2026-05-24,2026-06-23,30,23849.49,23849.49,0.0,2026-05-31,Paid,Check,7,23,Yes,Yes,0.01,Yes,238.49
+AP-0288,VND-004,BuildRight Materials,Materials,Central,Sofia Reyes,2025-02-15,2025-03-02,15,43217.07,43217.07,0.0,2025-03-06,Paid,Wire,19,-4,No,Yes,0.02,No,0.0
+AP-0289,VND-012,FacilityPro Services,Facilities,West,Marco Diaz,2026-03-06,2026-03-21,15,9409.01,0.0,9409.01,,Overdue,Wire,,-71,No,Yes,0.02,No,0.0
+AP-0290,VND-011,QuickFreight Inc.,Logistics,East,Sofia Reyes,2026-05-30,2026-06-29,30,13793.19,13793.19,0.0,2026-05-31,Paid,Check,1,29,Yes,Yes,0.01,Yes,137.93
+AP-0291,VND-015,ExpressRoute Logistics,Logistics,East,Laura Chen,2026-04-13,2026-05-13,30,1151.41,0.0,1151.41,,Pending,Check,,,,Yes,0.01,No,0.0
+AP-0292,VND-020,TrustBuild Facilities,Facilities,South,Pedro Alvarez,2025-07-20,2025-10-18,90,26171.29,9821.65,16349.64,2025-10-26,Partial,Check,98,-8,No,Yes,0.005,No,0.0
+AP-0293,VND-001,Acme Supplies Co.,Materials,South,Ana Torres,2025-12-10,2025-12-25,15,2070.18,1373.79,696.39,2025-12-23,Partial,Check,13,2,Yes,Yes,0.02,No,0.0
+AP-0294,VND-007,ProStaff Services,Services,Central,Marco Diaz,2025-03-03,2025-06-01,90,38984.69,38984.69,0.0,2025-06-03,Paid,Credit Card,92,-2,No,Yes,0.005,No,0.0
+AP-0295,VND-002,TechCore Solutions,IT,South,Ana Torres,2026-04-15,2026-06-14,60,78091.61,0.0,78091.61,,Pending,Credit Card,,,,Yes,0.01,No,0.0
+AP-0296,VND-013,SafetyFirst Supplies,Materials,North,Ana Torres,2025-05-14,2025-07-13,60,13365.04,13365.04,0.0,2025-07-16,Paid,ACH,63,-3,No,Yes,0.01,No,0.0
+AP-0297,VND-024,EliteFacilities Corp.,Facilities,East,Laura Chen,2025-08-28,2025-10-12,45,4464.69,4464.69,0.0,2025-10-01,Paid,Credit Card,34,11,Yes,Yes,0.015,No,0.0
+AP-0298,VND-019,SkyNet IT Solutions,IT,North,Marco Diaz,2026-04-06,2026-05-06,30,39954.13,39954.13,0.0,2026-05-07,Paid,ACH,31,-1,No,Yes,0.01,No,0.0
+AP-0299,VND-009,MetalWorks Ltd.,Materials,North,Sofia Reyes,2025-02-11,2025-03-28,45,12321.0,12321.0,0.0,2025-04-03,Paid,Wire,51,-6,No,No,0.0,No,0.0
+AP-0300,VND-023,CoolTech Systems,IT,South,Laura Chen,2025-11-03,2025-11-18,15,24512.51,24512.51,0.0,2025-11-11,Paid,Credit Card,8,7,Yes,No,0.0,No,0.0
+AP-0301,VND-024,EliteFacilities Corp.,Facilities,Central,Marco Diaz,2025-04-15,2025-07-14,90,28528.59,28528.59,0.0,2025-07-18,Paid,ACH,94,-4,No,Yes,0.005,No,0.0
+AP-0302,VND-025,RapidShip Co.,Logistics,South,Marco Diaz,2026-01-17,2026-03-18,60,14039.42,14039.42,0.0,2026-03-03,Paid,Wire,45,15,Yes,No,0.0,No,0.0
+AP-0303,VND-003,FastShip Logistics,Logistics,North,Sofia Reyes,2025-05-12,2025-08-10,90,2747.59,992.6,1754.99,2025-08-19,Partial,Wire,99,-9,No,No,0.0,No,0.0
+AP-0304,VND-002,TechCore Solutions,IT,South,Ana Torres,2026-05-24,2026-07-23,60,7211.17,0.0,7211.17,,Pending,Credit Card,,,,Yes,0.01,No,0.0
+AP-0305,VND-006,PowerGrid Utilities,Utilities,East,Laura Chen,2025-02-05,2025-03-07,30,9404.55,9404.55,0.0,2025-02-26,Paid,Credit Card,21,9,Yes,Yes,0.01,No,0.0
+AP-0306,VND-016,CleanWater Utilities,Utilities,West,Ana Torres,2025-03-31,2025-04-15,15,4556.75,4556.75,0.0,2025-04-22,Paid,Credit Card,22,-7,No,Yes,0.02,No,0.0
+AP-0307,VND-021,PrimePack Logistics,Logistics,Central,Sofia Reyes,2026-05-07,2026-07-06,60,11345.84,0.0,11345.84,,Overdue,Credit Card,,36,No,Yes,0.01,No,0.0
+AP-0308,VND-013,SafetyFirst Supplies,Materials,East,Marco Diaz,2025-08-13,2025-10-12,60,3406.57,3406.57,0.0,2025-10-06,Paid,ACH,54,6,Yes,No,0.0,No,0.0
+AP-0309,VND-016,CleanWater Utilities,Utilities,Central,Laura Chen,2025-04-13,2025-05-13,30,4093.93,4093.93,0.0,2025-05-16,Paid,Wire,33,-3,No,Yes,0.01,No,0.0
+AP-0310,VND-025,RapidShip Co.,Logistics,South,Ana Torres,2025-06-27,2025-08-26,60,4345.91,2819.68,1526.23,2025-09-08,Partial,Credit Card,73,-13,No,Yes,0.01,No,0.0
+AP-0311,VND-001,Acme Supplies Co.,Materials,East,Ana Torres,2026-05-20,2026-06-19,30,28021.98,0.0,28021.98,,Pending,Wire,,,,Yes,0.01,No,0.0
+AP-0312,VND-020,TrustBuild Facilities,Facilities,South,Sofia Reyes,2025-12-06,2025-12-21,15,32290.57,32290.57,0.0,2025-12-09,Paid,Credit Card,3,12,Yes,Yes,0.02,Yes,645.81
+AP-0313,VND-023,CoolTech Systems,IT,South,Laura Chen,2025-06-01,2025-06-16,15,48995.69,48995.69,0.0,2025-06-25,Paid,ACH,24,-9,No,No,0.0,No,0.0
+AP-0314,VND-003,FastShip Logistics,Logistics,East,Pedro Alvarez,2025-11-06,2026-01-05,60,7129.46,7129.46,0.0,2025-12-23,Paid,ACH,47,13,Yes,No,0.0,No,0.0
+AP-0315,VND-014,NetConnect Systems,IT,West,Laura Chen,2025-08-17,2025-10-16,60,54914.88,54914.88,0.0,2025-10-16,Paid,Wire,60,0,Yes,No,0.0,No,0.0
+AP-0316,VND-006,PowerGrid Utilities,Utilities,North,Ana Torres,2025-07-06,2025-07-21,15,9234.64,0.0,9234.64,,Overdue,Credit Card,,-314,No,No,0.0,No,0.0
+AP-0317,VND-008,GreenEnergy Corp.,Utilities,Central,Sofia Reyes,2025-12-06,2026-01-05,30,11307.48,0.0,11307.48,,Overdue,Credit Card,,-146,No,Yes,0.01,No,0.0
+AP-0318,VND-006,PowerGrid Utilities,Utilities,North,Laura Chen,2025-09-29,2025-10-14,15,3540.42,3540.42,0.0,2025-10-08,Paid,Credit Card,9,6,Yes,Yes,0.02,No,0.0
+AP-0319,VND-004,BuildRight Materials,Materials,North,Sofia Reyes,2026-03-06,2026-06-04,90,48516.89,0.0,48516.89,,Pending,Credit Card,,,,No,0.0,No,0.0
+AP-0320,VND-018,BuildFast Materials,Materials,West,Sofia Reyes,2025-06-16,2025-07-16,30,23661.8,23661.8,0.0,2025-07-22,Paid,Credit Card,36,-6,No,No,0.0,No,0.0
+AP-0321,VND-004,BuildRight Materials,Materials,North,Laura Chen,2025-06-14,2025-08-13,60,37135.28,12869.32,24265.96,2025-08-27,Partial,Wire,74,-14,No,Yes,0.01,No,0.0
+AP-0322,VND-020,TrustBuild Facilities,Facilities,West,Sofia Reyes,2026-03-21,2026-04-20,30,7184.42,0.0,7184.42,,Pending,Credit Card,,,,Yes,0.01,No,0.0
+AP-0323,VND-023,CoolTech Systems,IT,Central,Ana Torres,2025-11-01,2025-12-16,45,22816.12,22816.12,0.0,2025-12-16,Paid,Check,45,0,Yes,Yes,0.015,No,0.0
+AP-0324,VND-016,CleanWater Utilities,Utilities,South,Sofia Reyes,2026-03-14,2026-03-29,15,1770.61,1770.61,0.0,2026-03-26,Paid,Check,12,3,Yes,No,0.0,No,0.0
+AP-0325,VND-007,ProStaff Services,Services,South,Laura Chen,2025-04-29,2025-07-28,90,14409.08,14409.08,0.0,2025-07-28,Paid,ACH,90,0,Yes,Yes,0.005,No,0.0
+AP-0326,VND-022,Apex Consulting,Services,East,Sofia Reyes,2026-01-15,2026-02-14,30,35763.23,35763.23,0.0,2026-02-14,Paid,Credit Card,30,0,Yes,Yes,0.01,No,0.0
+AP-0327,VND-008,GreenEnergy Corp.,Utilities,East,Ana Torres,2025-04-10,2025-05-10,30,1742.76,1742.76,0.0,2025-05-18,Paid,ACH,38,-8,No,Yes,0.01,No,0.0
+AP-0328,VND-025,RapidShip Co.,Logistics,Central,Marco Diaz,2026-03-05,2026-05-04,60,19346.93,0.0,19346.93,,Overdue,ACH,,-27,No,Yes,0.01,No,0.0
+AP-0329,VND-008,GreenEnergy Corp.,Utilities,West,Laura Chen,2025-02-05,2025-04-06,60,7780.47,4969.91,2810.56,2025-04-20,Partial,ACH,74,-14,No,No,0.0,No,0.0
+AP-0330,VND-005,CloudSys Inc.,IT,North,Pedro Alvarez,2025-08-05,2025-09-04,30,65634.55,65634.55,0.0,2025-09-12,Paid,Wire,38,-8,No,Yes,0.01,No,0.0
+AP-0331,VND-021,PrimePack Logistics,Logistics,South,Ana Torres,2025-03-10,2025-05-09,60,2653.52,2653.52,0.0,2025-05-09,Paid,Check,60,0,Yes,Yes,0.01,No,0.0
+AP-0332,VND-009,MetalWorks Ltd.,Materials,Central,Pedro Alvarez,2025-04-26,2025-06-25,60,21893.24,21893.24,0.0,2025-06-25,Paid,ACH,60,0,Yes,Yes,0.01,No,0.0
+AP-0333,VND-004,BuildRight Materials,Materials,Central,Sofia Reyes,2026-02-25,2026-04-26,60,14678.56,14678.56,0.0,2026-04-08,Paid,Check,42,18,Yes,Yes,0.01,No,0.0
+AP-0334,VND-006,PowerGrid Utilities,Utilities,East,Pedro Alvarez,2025-02-09,2025-04-10,60,6238.99,6238.99,0.0,2025-04-18,Paid,Wire,68,-8,No,No,0.0,No,0.0
+AP-0335,VND-009,MetalWorks Ltd.,Materials,East,Sofia Reyes,2025-11-15,2025-12-30,45,15456.64,15456.64,0.0,2026-01-01,Paid,Check,47,-2,No,Yes,0.015,No,0.0
+AP-0336,VND-004,BuildRight Materials,Materials,South,Marco Diaz,2025-11-25,2026-02-23,90,14932.16,14932.16,0.0,2026-02-25,Paid,Check,92,-2,No,Yes,0.005,No,0.0
+AP-0337,VND-014,NetConnect Systems,IT,West,Ana Torres,2025-06-12,2025-06-27,15,9921.27,9921.27,0.0,2025-07-02,Paid,Check,20,-5,No,No,0.0,No,0.0
+AP-0338,VND-025,RapidShip Co.,Logistics,Central,Ana Torres,2025-07-17,2025-08-16,30,17628.43,17628.43,0.0,2025-08-18,Paid,ACH,32,-2,No,Yes,0.01,No,0.0
+AP-0339,VND-012,FacilityPro Services,Facilities,South,Laura Chen,2026-02-11,2026-05-12,90,22968.52,0.0,22968.52,,Pending,Check,,,,Yes,0.005,No,0.0
+AP-0340,VND-020,TrustBuild Facilities,Facilities,West,Marco Diaz,2025-12-19,2026-02-17,60,7395.95,7395.95,0.0,2026-02-17,Paid,Credit Card,60,0,Yes,No,0.0,No,0.0
+AP-0341,VND-023,CoolTech Systems,IT,North,Laura Chen,2025-02-20,2025-04-21,60,17218.06,0.0,17218.06,,Overdue,ACH,,-405,No,Yes,0.01,No,0.0
+AP-0342,VND-008,GreenEnergy Corp.,Utilities,South,Marco Diaz,2025-01-21,2025-03-22,60,13037.13,13037.13,0.0,2025-03-18,Paid,Check,56,4,Yes,No,0.0,No,0.0
+AP-0343,VND-006,PowerGrid Utilities,Utilities,Central,Sofia Reyes,2025-11-09,2025-12-24,45,10834.74,10834.74,0.0,2025-12-24,Paid,Wire,45,0,Yes,No,0.0,No,0.0
+AP-0344,VND-013,SafetyFirst Supplies,Materials,East,Pedro Alvarez,2026-04-23,2026-05-23,30,16502.96,16502.96,0.0,2026-05-31,Paid,Check,38,-8,No,Yes,0.01,No,0.0
+AP-0345,VND-012,FacilityPro Services,Facilities,Central,Ana Torres,2025-04-21,2025-06-05,45,17897.37,17897.37,0.0,2025-06-06,Paid,Check,46,-1,No,Yes,0.015,No,0.0
+AP-0346,VND-011,QuickFreight Inc.,Logistics,East,Laura Chen,2025-06-03,2025-07-03,30,10828.58,10828.58,0.0,2025-07-12,Paid,Check,39,-9,No,Yes,0.01,No,0.0
+AP-0347,VND-013,SafetyFirst Supplies,Materials,East,Marco Diaz,2025-10-30,2026-01-28,90,14452.46,14452.46,0.0,2026-01-17,Paid,ACH,79,11,Yes,Yes,0.005,No,0.0
+AP-0348,VND-002,TechCore Solutions,IT,Central,Ana Torres,2025-08-16,2025-10-15,60,56473.86,56473.86,0.0,2025-10-22,Paid,Wire,67,-7,No,Yes,0.01,No,0.0
+AP-0349,VND-010,DataBridge IT,IT,South,Ana Torres,2025-04-10,2025-05-25,45,40308.57,40308.57,0.0,2025-05-23,Paid,Wire,43,2,Yes,No,0.0,No,0.0
+AP-0350,VND-018,BuildFast Materials,Materials,South,Laura Chen,2025-12-30,2026-01-29,30,12719.74,12719.74,0.0,2026-02-03,Paid,ACH,35,-5,No,No,0.0,No,0.0
+AP-0351,VND-019,SkyNet IT Solutions,IT,East,Pedro Alvarez,2025-02-24,2025-05-25,90,69979.5,0.0,69979.5,,Overdue,ACH,,-371,No,Yes,0.005,No,0.0
+AP-0352,VND-003,FastShip Logistics,Logistics,West,Marco Diaz,2025-11-02,2026-01-01,60,8849.04,8849.04,0.0,2025-12-27,Paid,ACH,55,5,Yes,No,0.0,No,0.0
+AP-0353,VND-007,ProStaff Services,Services,East,Pedro Alvarez,2025-11-20,2025-12-20,30,34908.58,34908.58,0.0,2025-12-09,Paid,Credit Card,19,11,Yes,Yes,0.01,No,0.0
+AP-0354,VND-011,QuickFreight Inc.,Logistics,North,Sofia Reyes,2025-08-03,2025-09-17,45,15462.67,15462.67,0.0,2025-10-07,Paid,Credit Card,65,-20,No,Yes,0.015,No,0.0
+AP-0355,VND-016,CleanWater Utilities,Utilities,North,Marco Diaz,2026-02-18,2026-04-19,60,6720.87,6720.87,0.0,2026-04-17,Paid,Credit Card,58,2,Yes,Yes,0.01,No,0.0
+AP-0356,VND-011,QuickFreight Inc.,Logistics,Central,Marco Diaz,2025-09-12,2025-09-27,15,5299.05,5299.05,0.0,2025-09-13,Paid,ACH,1,14,Yes,No,0.0,No,0.0
+AP-0357,VND-004,BuildRight Materials,Materials,West,Ana Torres,2025-03-08,2025-04-07,30,41544.5,41544.5,0.0,2025-04-06,Paid,Check,29,1,Yes,Yes,0.01,No,0.0
+AP-0358,VND-011,QuickFreight Inc.,Logistics,West,Marco Diaz,2026-01-03,2026-04-03,90,15252.2,0.0,15252.2,,Overdue,Check,,-58,No,Yes,0.005,No,0.0
+AP-0359,VND-001,Acme Supplies Co.,Materials,South,Marco Diaz,2025-01-23,2025-02-22,30,30305.26,30305.26,0.0,2025-02-12,Paid,Wire,20,10,Yes,Yes,0.01,No,0.0
+AP-0360,VND-021,PrimePack Logistics,Logistics,North,Pedro Alvarez,2025-02-19,2025-03-06,15,13577.43,13577.43,0.0,2025-03-03,Paid,Check,12,3,Yes,Yes,0.02,No,0.0
+AP-0361,VND-013,SafetyFirst Supplies,Materials,North,Ana Torres,2025-06-06,2025-09-04,90,11863.76,11863.76,0.0,2025-08-28,Paid,Check,83,7,Yes,Yes,0.005,No,0.0
+AP-0362,VND-014,NetConnect Systems,IT,North,Ana Torres,2026-03-05,2026-04-04,30,67298.95,0.0,67298.95,,Pending,Check,,,,Yes,0.01,No,0.0
+AP-0363,VND-004,BuildRight Materials,Materials,North,Pedro Alvarez,2025-09-27,2025-10-27,30,41911.94,41911.94,0.0,2025-10-24,Paid,Wire,27,3,Yes,No,0.0,No,0.0
+AP-0364,VND-018,BuildFast Materials,Materials,West,Marco Diaz,2025-08-29,2025-10-28,60,2131.42,0.0,2131.42,,Overdue,Credit Card,,-215,No,Yes,0.01,No,0.0
+AP-0365,VND-019,SkyNet IT Solutions,IT,West,Marco Diaz,2025-04-14,2025-05-14,30,72858.45,72858.45,0.0,2025-05-16,Paid,ACH,32,-2,No,Yes,0.01,No,0.0
+AP-0366,VND-010,DataBridge IT,IT,East,Pedro Alvarez,2025-06-28,2025-07-28,30,70560.53,70560.53,0.0,2025-07-25,Paid,ACH,27,3,Yes,No,0.0,No,0.0
+AP-0367,VND-004,BuildRight Materials,Materials,North,Sofia Reyes,2025-06-24,2025-07-24,30,17775.72,0.0,17775.72,,Overdue,ACH,,-311,No,No,0.0,No,0.0
+AP-0368,VND-009,MetalWorks Ltd.,Materials,North,Laura Chen,2025-04-27,2025-05-27,30,21237.32,21237.32,0.0,2025-05-20,Paid,Check,23,7,Yes,No,0.0,No,0.0
+AP-0369,VND-013,SafetyFirst Supplies,Materials,West,Pedro Alvarez,2025-05-16,2025-06-15,30,35416.15,0.0,35416.15,,Overdue,Wire,,-350,No,Yes,0.01,No,0.0
+AP-0370,VND-006,PowerGrid Utilities,Utilities,North,Pedro Alvarez,2025-07-05,2025-10-03,90,9364.19,9364.19,0.0,2025-10-13,Paid,Credit Card,100,-10,No,No,0.0,No,0.0
+AP-0371,VND-024,EliteFacilities Corp.,Facilities,South,Pedro Alvarez,2026-02-26,2026-03-28,30,16542.7,16542.7,0.0,2026-03-16,Paid,Credit Card,18,12,Yes,Yes,0.01,No,0.0
+AP-0372,VND-001,Acme Supplies Co.,Materials,Central,Ana Torres,2025-04-08,2025-06-07,60,22776.7,22776.7,0.0,2025-06-02,Paid,Wire,55,5,Yes,No,0.0,No,0.0
+AP-0373,VND-005,CloudSys Inc.,IT,Central,Ana Torres,2025-06-10,2025-06-25,15,42917.57,42917.57,0.0,2025-06-16,Paid,ACH,6,9,Yes,Yes,0.02,No,0.0
+AP-0374,VND-006,PowerGrid Utilities,Utilities,North,Pedro Alvarez,2025-12-05,2026-01-04,30,14567.1,14567.1,0.0,2025-12-30,Paid,Check,25,5,Yes,Yes,0.01,No,0.0
+AP-0375,VND-008,GreenEnergy Corp.,Utilities,North,Pedro Alvarez,2025-04-01,2025-06-30,90,12920.54,12920.54,0.0,2025-06-24,Paid,Credit Card,84,6,Yes,Yes,0.005,No,0.0
+AP-0376,VND-016,CleanWater Utilities,Utilities,North,Sofia Reyes,2025-02-06,2025-04-07,60,8578.4,8578.4,0.0,2025-03-30,Paid,Credit Card,52,8,Yes,Yes,0.01,No,0.0
+AP-0377,VND-010,DataBridge IT,IT,Central,Ana Torres,2025-12-16,2026-03-16,90,32250.69,32250.69,0.0,2026-03-10,Paid,Wire,84,6,Yes,Yes,0.005,No,0.0
+AP-0378,VND-015,ExpressRoute Logistics,Logistics,East,Ana Torres,2026-04-09,2026-06-08,60,3166.44,0.0,3166.44,,Pending,Credit Card,,,,No,0.0,No,0.0
+AP-0379,VND-021,PrimePack Logistics,Logistics,East,Ana Torres,2025-02-16,2025-03-18,30,18040.67,12109.9,5930.77,2025-03-26,Partial,Check,38,-8,No,Yes,0.01,No,0.0
+AP-0380,VND-004,BuildRight Materials,Materials,East,Ana Torres,2025-05-04,2025-06-03,30,46650.38,46650.38,0.0,2025-06-05,Paid,Wire,32,-2,No,Yes,0.01,No,0.0
+AP-0381,VND-004,BuildRight Materials,Materials,West,Sofia Reyes,2026-04-14,2026-07-13,90,33605.92,33605.92,0.0,2026-05-31,Paid,ACH,47,43,Yes,No,0.0,No,0.0
+AP-0382,VND-017,OfficePro Services,Services,North,Ana Torres,2025-07-01,2025-09-29,90,28597.26,10059.86,18537.4,2025-10-15,Partial,Credit Card,106,-16,No,Yes,0.005,No,0.0
+AP-0383,VND-020,TrustBuild Facilities,Facilities,Central,Laura Chen,2025-09-12,2025-11-11,60,11028.66,0.0,11028.66,,Overdue,Credit Card,,-201,No,No,0.0,No,0.0
+AP-0384,VND-015,ExpressRoute Logistics,Logistics,South,Marco Diaz,2025-11-18,2026-01-02,45,14525.61,14525.61,0.0,2026-01-05,Paid,Credit Card,48,-3,No,No,0.0,No,0.0
+AP-0385,VND-010,DataBridge IT,IT,East,Marco Diaz,2025-04-29,2025-06-28,60,62058.13,62058.13,0.0,2025-07-08,Paid,Wire,70,-10,No,Yes,0.01,No,0.0
+AP-0386,VND-022,Apex Consulting,Services,West,Ana Torres,2025-01-14,2025-03-15,60,22341.01,22341.01,0.0,2025-03-13,Paid,Check,58,2,Yes,Yes,0.01,No,0.0
+AP-0387,VND-025,RapidShip Co.,Logistics,South,Laura Chen,2025-03-05,2025-04-04,30,14121.3,14121.3,0.0,2025-03-31,Paid,Check,26,4,Yes,Yes,0.01,No,0.0
+AP-0388,VND-002,TechCore Solutions,IT,East,Pedro Alvarez,2026-02-03,2026-03-05,30,22819.66,10127.81,12691.85,2026-03-21,Partial,ACH,46,-16,No,No,0.0,No,0.0
+AP-0389,VND-002,TechCore Solutions,IT,West,Pedro Alvarez,2025-02-25,2025-04-26,60,5972.39,5972.39,0.0,2025-04-29,Paid,Credit Card,63,-3,No,Yes,0.01,No,0.0
+AP-0390,VND-008,GreenEnergy Corp.,Utilities,East,Ana Torres,2025-10-29,2025-11-28,30,7007.82,7007.82,0.0,2025-11-13,Paid,Wire,15,15,Yes,No,0.0,No,0.0
+AP-0391,VND-006,PowerGrid Utilities,Utilities,Central,Sofia Reyes,2026-03-15,2026-03-30,15,4547.13,4547.13,0.0,2026-03-30,Paid,Credit Card,15,0,Yes,Yes,0.02,No,0.0
+AP-0392,VND-015,ExpressRoute Logistics,Logistics,South,Sofia Reyes,2025-02-22,2025-04-23,60,15699.56,7073.87,8625.69,2025-05-13,Partial,Wire,80,-20,No,Yes,0.01,No,0.0
+AP-0393,VND-019,SkyNet IT Solutions,IT,Central,Laura Chen,2025-08-14,2025-10-13,60,76774.08,29149.99,47624.09,2025-10-25,Partial,ACH,72,-12,No,Yes,0.01,No,0.0
+AP-0394,VND-018,BuildFast Materials,Materials,West,Sofia Reyes,2025-08-07,2025-09-06,30,33840.05,33840.05,0.0,2025-09-06,Paid,Check,30,0,Yes,Yes,0.01,No,0.0
+AP-0395,VND-025,RapidShip Co.,Logistics,Central,Ana Torres,2025-04-28,2025-05-13,15,13709.83,0.0,13709.83,,Overdue,Credit Card,,-383,No,Yes,0.02,No,0.0
+AP-0396,VND-020,TrustBuild Facilities,Facilities,Central,Marco Diaz,2026-01-26,2026-03-27,60,32225.77,32225.77,0.0,2026-03-21,Paid,ACH,54,6,Yes,No,0.0,No,0.0
+AP-0397,VND-017,OfficePro Services,Services,East,Ana Torres,2025-02-14,2025-05-15,90,13968.06,13968.06,0.0,2025-05-14,Paid,Credit Card,89,1,Yes,Yes,0.005,No,0.0
+AP-0398,VND-003,FastShip Logistics,Logistics,North,Marco Diaz,2025-08-04,2025-09-03,30,13736.37,7034.46,6701.91,2025-09-01,Partial,ACH,28,2,Yes,No,0.0,No,0.0
+AP-0399,VND-007,ProStaff Services,Services,Central,Pedro Alvarez,2025-01-25,2025-02-24,30,19991.33,19991.33,0.0,2025-03-09,Paid,ACH,43,-13,No,Yes,0.01,No,0.0
+AP-0400,VND-018,BuildFast Materials,Materials,North,Ana Torres,2026-02-22,2026-04-08,45,20625.56,0.0,20625.56,,Pending,Wire,,,,Yes,0.015,No,0.0
+AP-0401,VND-022,Apex Consulting,Services,North,Ana Torres,2025-02-16,2025-03-18,30,28932.64,0.0,28932.64,,Overdue,ACH,,-439,No,Yes,0.01,No,0.0
+AP-0402,VND-004,BuildRight Materials,Materials,East,Laura Chen,2026-03-25,2026-05-09,45,20307.85,0.0,20307.85,,Pending,ACH,,,,No,0.0,No,0.0
+AP-0403,VND-008,GreenEnergy Corp.,Utilities,South,Pedro Alvarez,2025-11-02,2025-12-02,30,10320.69,6859.77,3460.92,2025-12-08,Partial,Check,36,-6,No,No,0.0,No,0.0
+AP-0404,VND-001,Acme Supplies Co.,Materials,Central,Ana Torres,2025-02-12,2025-03-14,30,2241.43,2241.43,0.0,2025-03-18,Paid,Wire,34,-4,No,Yes,0.01,No,0.0
+AP-0405,VND-003,FastShip Logistics,Logistics,East,Marco Diaz,2026-02-27,2026-03-29,30,18206.93,18206.93,0.0,2026-04-02,Paid,Check,34,-4,No,No,0.0,No,0.0
+AP-0406,VND-009,MetalWorks Ltd.,Materials,South,Sofia Reyes,2026-04-18,2026-05-03,15,32944.38,0.0,32944.38,,Pending,Wire,,,,Yes,0.02,No,0.0
+AP-0407,VND-007,ProStaff Services,Services,Central,Pedro Alvarez,2025-05-12,2025-07-11,60,27837.94,27837.94,0.0,2025-07-21,Paid,Check,70,-10,No,Yes,0.01,No,0.0
+AP-0408,VND-003,FastShip Logistics,Logistics,South,Laura Chen,2025-12-03,2026-03-03,90,12710.51,12710.51,0.0,2026-02-25,Paid,Credit Card,84,6,Yes,Yes,0.005,No,0.0
+AP-0409,VND-011,QuickFreight Inc.,Logistics,West,Marco Diaz,2025-09-10,2025-11-09,60,15927.54,15927.54,0.0,2025-11-06,Paid,ACH,57,3,Yes,No,0.0,No,0.0
+AP-0410,VND-009,MetalWorks Ltd.,Materials,East,Marco Diaz,2026-04-19,2026-07-18,90,23377.18,0.0,23377.18,,Pending,Check,,,,No,0.0,No,0.0
+AP-0411,VND-021,PrimePack Logistics,Logistics,Central,Sofia Reyes,2025-07-21,2025-08-20,30,6001.46,6001.46,0.0,2025-08-21,Paid,Check,31,-1,No,No,0.0,No,0.0
+AP-0412,VND-017,OfficePro Services,Services,North,Ana Torres,2025-02-07,2025-03-09,30,23408.98,0.0,23408.98,,Overdue,Credit Card,,-448,No,Yes,0.01,No,0.0
+AP-0413,VND-016,CleanWater Utilities,Utilities,South,Laura Chen,2025-10-25,2025-11-24,30,2441.28,2441.28,0.0,2025-11-24,Paid,Credit Card,30,0,Yes,Yes,0.01,No,0.0
+AP-0414,VND-012,FacilityPro Services,Facilities,Central,Sofia Reyes,2025-05-24,2025-06-23,30,16725.27,0.0,16725.27,,Overdue,Wire,,-342,No,Yes,0.01,No,0.0
+AP-0415,VND-022,Apex Consulting,Services,South,Pedro Alvarez,2025-08-13,2025-08-28,15,31174.48,31174.48,0.0,2025-08-29,Paid,Check,16,-1,No,Yes,0.02,No,0.0
+AP-0416,VND-017,OfficePro Services,Services,East,Pedro Alvarez,2025-02-17,2025-05-18,90,4476.47,4476.47,0.0,2025-05-29,Paid,Credit Card,101,-11,No,Yes,0.005,No,0.0
+AP-0417,VND-017,OfficePro Services,Services,East,Laura Chen,2026-01-23,2026-03-24,60,16515.98,9221.39,7294.59,2026-03-31,Partial,Wire,67,-7,No,Yes,0.01,No,0.0
+AP-0418,VND-008,GreenEnergy Corp.,Utilities,Central,Pedro Alvarez,2026-05-14,2026-07-13,60,11993.53,11993.53,0.0,2026-05-31,Paid,Check,17,43,Yes,No,0.0,No,0.0
+AP-0419,VND-017,OfficePro Services,Services,East,Marco Diaz,2025-06-11,2025-07-11,30,16402.25,16402.25,0.0,2025-07-13,Paid,Wire,32,-2,No,No,0.0,No,0.0
+AP-0420,VND-008,GreenEnergy Corp.,Utilities,West,Laura Chen,2026-05-06,2026-08-04,90,7445.81,7445.81,0.0,2026-05-31,Paid,ACH,25,65,Yes,Yes,0.005,Yes,37.23
+AP-0421,VND-019,SkyNet IT Solutions,IT,South,Marco Diaz,2025-02-27,2025-03-29,30,17475.6,17475.6,0.0,2025-04-02,Paid,ACH,34,-4,No,No,0.0,No,0.0
+AP-0422,VND-013,SafetyFirst Supplies,Materials,Central,Ana Torres,2025-03-29,2025-05-13,45,12396.48,12396.48,0.0,2025-05-08,Paid,ACH,40,5,Yes,Yes,0.015,No,0.0
+AP-0423,VND-014,NetConnect Systems,IT,Central,Marco Diaz,2025-06-21,2025-08-05,45,59314.01,59314.01,0.0,2025-08-05,Paid,Wire,45,0,Yes,Yes,0.015,No,0.0
+AP-0424,VND-019,SkyNet IT Solutions,IT,North,Marco Diaz,2025-05-16,2025-07-15,60,13142.76,7257.17,5885.59,2025-07-23,Partial,Credit Card,68,-8,No,Yes,0.01,No,0.0
+AP-0425,VND-005,CloudSys Inc.,IT,Central,Sofia Reyes,2025-02-09,2025-05-10,90,70831.45,70831.45,0.0,2025-05-19,Paid,Wire,99,-9,No,Yes,0.005,No,0.0
+AP-0426,VND-020,TrustBuild Facilities,Facilities,Central,Sofia Reyes,2026-01-15,2026-03-16,60,30869.2,30869.2,0.0,2026-03-22,Paid,Credit Card,66,-6,No,Yes,0.01,No,0.0
+AP-0427,VND-016,CleanWater Utilities,Utilities,West,Laura Chen,2025-05-18,2025-07-17,60,4190.51,0.0,4190.51,,Overdue,ACH,,-318,No,No,0.0,No,0.0
+AP-0428,VND-003,FastShip Logistics,Logistics,East,Ana Torres,2025-07-13,2025-08-27,45,1103.92,1103.92,0.0,2025-08-18,Paid,Credit Card,36,9,Yes,No,0.0,No,0.0
+AP-0429,VND-013,SafetyFirst Supplies,Materials,South,Laura Chen,2025-04-20,2025-06-19,60,9429.37,9429.37,0.0,2025-06-18,Paid,Credit Card,59,1,Yes,Yes,0.01,No,0.0
+AP-0430,VND-018,BuildFast Materials,Materials,West,Ana Torres,2026-02-11,2026-03-28,45,38238.65,20696.05,17542.6,2026-04-03,Partial,Check,51,-6,No,Yes,0.015,No,0.0
+AP-0431,VND-018,BuildFast Materials,Materials,Central,Pedro Alvarez,2025-12-19,2026-02-02,45,39161.34,39161.34,0.0,2026-02-04,Paid,Check,47,-2,No,Yes,0.015,No,0.0
+AP-0432,VND-008,GreenEnergy Corp.,Utilities,West,Marco Diaz,2026-02-15,2026-03-17,30,11898.18,11898.18,0.0,2026-03-14,Paid,ACH,27,3,Yes,No,0.0,No,0.0
+AP-0433,VND-022,Apex Consulting,Services,North,Marco Diaz,2025-04-04,2025-04-19,15,33460.45,33460.45,0.0,2025-04-24,Paid,Credit Card,20,-5,No,Yes,0.02,No,0.0
+AP-0434,VND-012,FacilityPro Services,Facilities,North,Ana Torres,2026-02-15,2026-04-16,60,22260.86,22260.86,0.0,2026-04-19,Paid,ACH,63,-3,No,Yes,0.01,No,0.0
+AP-0435,VND-025,RapidShip Co.,Logistics,South,Pedro Alvarez,2025-07-26,2025-08-10,15,17160.79,17160.79,0.0,2025-08-14,Paid,Credit Card,19,-4,No,No,0.0,No,0.0
+AP-0436,VND-017,OfficePro Services,Services,Central,Marco Diaz,2026-01-04,2026-01-19,15,11852.5,11852.5,0.0,2026-02-01,Paid,Wire,28,-13,No,Yes,0.02,No,0.0
+AP-0437,VND-009,MetalWorks Ltd.,Materials,West,Laura Chen,2025-07-25,2025-09-23,60,26851.65,26851.65,0.0,2025-09-28,Paid,Credit Card,65,-5,No,No,0.0,No,0.0
+AP-0438,VND-018,BuildFast Materials,Materials,Central,Laura Chen,2025-08-20,2025-10-04,45,31105.44,0.0,31105.44,,Overdue,Check,,-239,No,Yes,0.015,No,0.0
+AP-0439,VND-019,SkyNet IT Solutions,IT,North,Laura Chen,2025-04-20,2025-06-19,60,46897.3,46897.3,0.0,2025-06-22,Paid,Wire,63,-3,No,Yes,0.01,No,0.0
+AP-0440,VND-004,BuildRight Materials,Materials,Central,Laura Chen,2026-01-22,2026-04-22,90,29032.09,29032.09,0.0,2026-04-14,Paid,Check,82,8,Yes,No,0.0,No,0.0
+AP-0441,VND-019,SkyNet IT Solutions,IT,North,Pedro Alvarez,2025-03-11,2025-04-25,45,33700.49,33700.49,0.0,2025-04-27,Paid,ACH,47,-2,No,No,0.0,No,0.0
+AP-0442,VND-023,CoolTech Systems,IT,South,Laura Chen,2025-01-10,2025-03-11,60,57561.39,57561.39,0.0,2025-03-01,Paid,Credit Card,50,10,Yes,Yes,0.01,No,0.0
+AP-0443,VND-011,QuickFreight Inc.,Logistics,North,Ana Torres,2025-11-18,2026-02-16,90,7717.22,7717.22,0.0,2026-02-23,Paid,Wire,97,-7,No,No,0.0,No,0.0
+AP-0444,VND-024,EliteFacilities Corp.,Facilities,South,Pedro Alvarez,2025-09-05,2025-10-05,30,30800.5,30800.5,0.0,2025-10-05,Paid,Wire,30,0,Yes,Yes,0.01,No,0.0
+AP-0445,VND-005,CloudSys Inc.,IT,North,Sofia Reyes,2025-01-07,2025-04-07,90,62318.32,62318.32,0.0,2025-04-18,Paid,ACH,101,-11,No,Yes,0.005,No,0.0
+AP-0446,VND-016,CleanWater Utilities,Utilities,East,Ana Torres,2025-10-09,2026-01-07,90,7616.68,0.0,7616.68,,Overdue,Check,,-144,No,No,0.0,No,0.0
+AP-0447,VND-009,MetalWorks Ltd.,Materials,West,Marco Diaz,2026-03-10,2026-03-25,15,24959.36,24959.36,0.0,2026-03-16,Paid,Wire,6,9,Yes,Yes,0.02,No,0.0
+AP-0448,VND-006,PowerGrid Utilities,Utilities,West,Sofia Reyes,2025-01-09,2025-03-10,60,671.39,671.39,0.0,2025-03-17,Paid,Credit Card,67,-7,No,Yes,0.01,No,0.0
+AP-0449,VND-011,QuickFreight Inc.,Logistics,East,Ana Torres,2025-09-27,2025-10-27,30,5505.64,5505.64,0.0,2025-10-21,Paid,Check,24,6,Yes,Yes,0.01,No,0.0
+AP-0450,VND-007,ProStaff Services,Services,West,Laura Chen,2025-10-14,2025-12-13,60,19676.97,0.0,19676.97,,Overdue,Check,,-169,No,Yes,0.01,No,0.0
+AP-0451,VND-022,Apex Consulting,Services,South,Sofia Reyes,2026-03-19,2026-04-18,30,34683.42,18607.43,16075.99,2026-04-13,Partial,Check,25,5,Yes,Yes,0.01,No,0.0
+AP-0452,VND-006,PowerGrid Utilities,Utilities,West,Pedro Alvarez,2026-05-14,2026-07-13,60,4850.5,0.0,4850.5,,Pending,Wire,,,,Yes,0.01,No,0.0
+AP-0453,VND-023,CoolTech Systems,IT,South,Sofia Reyes,2026-05-03,2026-06-17,45,67922.88,0.0,67922.88,,Pending,Wire,,,,Yes,0.015,No,0.0
+AP-0454,VND-012,FacilityPro Services,Facilities,Central,Ana Torres,2025-01-21,2025-03-22,60,15588.11,15588.11,0.0,2025-03-29,Paid,Check,67,-7,No,Yes,0.01,No,0.0
+AP-0455,VND-020,TrustBuild Facilities,Facilities,South,Ana Torres,2025-12-30,2026-02-13,45,12727.98,12727.98,0.0,2026-02-10,Paid,Wire,42,3,Yes,Yes,0.015,No,0.0
+AP-0456,VND-020,TrustBuild Facilities,Facilities,East,Pedro Alvarez,2025-12-12,2026-01-11,30,15919.94,15919.94,0.0,2026-01-12,Paid,Wire,31,-1,No,Yes,0.01,No,0.0
+AP-0457,VND-003,FastShip Logistics,Logistics,North,Marco Diaz,2025-11-18,2025-12-18,30,7020.69,7020.69,0.0,2025-12-15,Paid,Check,27,3,Yes,Yes,0.01,No,0.0
+AP-0458,VND-015,ExpressRoute Logistics,Logistics,East,Ana Torres,2025-06-21,2025-08-20,60,4493.84,4493.84,0.0,2025-08-15,Paid,Credit Card,55,5,Yes,Yes,0.01,No,0.0
+AP-0459,VND-022,Apex Consulting,Services,East,Sofia Reyes,2026-02-11,2026-03-13,30,6811.34,3911.19,2900.15,2026-03-08,Partial,Wire,25,5,Yes,Yes,0.01,No,0.0
+AP-0460,VND-025,RapidShip Co.,Logistics,West,Ana Torres,2025-09-26,2025-10-26,30,12743.94,0.0,12743.94,,Overdue,ACH,,-217,No,Yes,0.01,No,0.0
+AP-0461,VND-013,SafetyFirst Supplies,Materials,East,Marco Diaz,2026-03-30,2026-05-14,45,32071.07,0.0,32071.07,,Pending,Wire,,,,Yes,0.015,No,0.0
+AP-0462,VND-022,Apex Consulting,Services,East,Laura Chen,2025-10-06,2026-01-04,90,23296.18,0.0,23296.18,,Overdue,Credit Card,,-147,No,Yes,0.005,No,0.0
+AP-0463,VND-018,BuildFast Materials,Materials,South,Ana Torres,2025-11-14,2026-01-13,60,45628.31,45628.31,0.0,2026-01-18,Paid,Credit Card,65,-5,No,Yes,0.01,No,0.0
+AP-0464,VND-014,NetConnect Systems,IT,East,Marco Diaz,2025-01-01,2025-01-16,15,44248.72,44248.72,0.0,2025-01-19,Paid,Check,18,-3,No,No,0.0,No,0.0
+AP-0465,VND-010,DataBridge IT,IT,West,Ana Torres,2026-05-04,2026-08-02,90,27470.79,19185.15,8285.64,2026-05-31,Partial,ACH,27,63,Yes,No,0.0,No,0.0
+AP-0466,VND-012,FacilityPro Services,Facilities,South,Pedro Alvarez,2025-09-13,2025-11-12,60,7387.89,7387.89,0.0,2025-11-08,Paid,Credit Card,56,4,Yes,No,0.0,No,0.0
+AP-0467,VND-014,NetConnect Systems,IT,South,Ana Torres,2025-10-03,2025-11-17,45,35967.79,35967.79,0.0,2025-11-21,Paid,Check,49,-4,No,No,0.0,No,0.0
+AP-0468,VND-010,DataBridge IT,IT,North,Pedro Alvarez,2026-05-19,2026-07-03,45,19084.21,19084.21,0.0,2026-05-31,Paid,Credit Card,12,33,Yes,Yes,0.015,Yes,286.26
+AP-0469,VND-009,MetalWorks Ltd.,Materials,South,Pedro Alvarez,2025-04-03,2025-05-03,30,9232.82,9232.82,0.0,2025-05-06,Paid,ACH,33,-3,No,Yes,0.01,No,0.0
+AP-0470,VND-010,DataBridge IT,IT,West,Laura Chen,2025-12-05,2025-12-20,15,11016.73,11016.73,0.0,2025-12-20,Paid,Credit Card,15,0,Yes,No,0.0,No,0.0
+AP-0471,VND-018,BuildFast Materials,Materials,West,Marco Diaz,2026-01-26,2026-03-12,45,41756.1,41756.1,0.0,2026-03-19,Paid,Wire,52,-7,No,Yes,0.015,No,0.0
+AP-0472,VND-008,GreenEnergy Corp.,Utilities,West,Pedro Alvarez,2025-07-23,2025-08-07,15,7182.1,7182.1,0.0,2025-08-15,Paid,Wire,23,-8,No,No,0.0,No,0.0
+AP-0473,VND-022,Apex Consulting,Services,East,Laura Chen,2025-05-06,2025-05-21,15,12372.57,12372.57,0.0,2025-05-20,Paid,Wire,14,1,Yes,Yes,0.02,No,0.0
+AP-0474,VND-002,TechCore Solutions,IT,South,Sofia Reyes,2025-11-29,2026-01-28,60,6130.08,6130.08,0.0,2026-01-24,Paid,Wire,56,4,Yes,No,0.0,No,0.0
+AP-0475,VND-002,TechCore Solutions,IT,Central,Pedro Alvarez,2025-04-02,2025-06-01,60,23654.17,23654.17,0.0,2025-06-04,Paid,Wire,63,-3,No,Yes,0.01,No,0.0
+AP-0476,VND-011,QuickFreight Inc.,Logistics,North,Sofia Reyes,2025-04-20,2025-05-20,30,3390.72,0.0,3390.72,,Overdue,Check,,-376,No,Yes,0.01,No,0.0
+AP-0477,VND-021,PrimePack Logistics,Logistics,East,Pedro Alvarez,2026-01-22,2026-02-06,15,7805.18,4235.49,3569.69,2026-02-15,Partial,Wire,24,-9,No,Yes,0.02,No,0.0
+AP-0478,VND-018,BuildFast Materials,Materials,East,Ana Torres,2025-07-11,2025-08-10,30,28093.79,28093.79,0.0,2025-08-17,Paid,Credit Card,37,-7,No,Yes,0.01,No,0.0
+AP-0479,VND-018,BuildFast Materials,Materials,South,Sofia Reyes,2025-10-30,2026-01-28,90,41332.09,41332.09,0.0,2026-01-21,Paid,Wire,83,7,Yes,Yes,0.005,No,0.0
+AP-0480,VND-025,RapidShip Co.,Logistics,Central,Pedro Alvarez,2026-01-08,2026-01-23,15,15744.31,15744.31,0.0,2026-01-18,Paid,Wire,10,5,Yes,Yes,0.02,No,0.0
+AP-0481,VND-013,SafetyFirst Supplies,Materials,South,Ana Torres,2025-10-17,2025-11-16,30,17484.8,17484.8,0.0,2025-11-08,Paid,Credit Card,22,8,Yes,Yes,0.01,No,0.0
+AP-0482,VND-017,OfficePro Services,Services,North,Sofia Reyes,2025-02-02,2025-03-04,30,10476.92,10476.92,0.0,2025-02-19,Paid,Wire,17,13,Yes,Yes,0.01,No,0.0
+AP-0483,VND-022,Apex Consulting,Services,West,Ana Torres,2026-01-11,2026-01-26,15,11166.74,11166.74,0.0,2026-01-20,Paid,Check,9,6,Yes,No,0.0,No,0.0
+AP-0484,VND-007,ProStaff Services,Services,West,Sofia Reyes,2026-01-05,2026-01-20,15,23646.74,23646.74,0.0,2026-01-12,Paid,Credit Card,7,8,Yes,No,0.0,No,0.0
+AP-0485,VND-020,TrustBuild Facilities,Facilities,East,Ana Torres,2025-11-08,2025-12-08,30,4571.87,4571.87,0.0,2025-12-17,Paid,ACH,39,-9,No,Yes,0.01,No,0.0
+AP-0486,VND-004,BuildRight Materials,Materials,South,Ana Torres,2025-07-17,2025-08-16,30,27257.22,27257.22,0.0,2025-08-21,Paid,Credit Card,35,-5,No,Yes,0.01,No,0.0
+AP-0487,VND-014,NetConnect Systems,IT,North,Ana Torres,2026-03-14,2026-06-12,90,71211.8,71211.8,0.0,2026-05-31,Paid,Check,78,12,Yes,Yes,0.005,No,0.0
+AP-0488,VND-011,QuickFreight Inc.,Logistics,South,Ana Torres,2025-11-19,2026-01-18,60,11451.55,5796.45,5655.1,2026-02-02,Partial,Credit Card,75,-15,No,No,0.0,No,0.0
+AP-0489,VND-014,NetConnect Systems,IT,East,Ana Torres,2026-01-20,2026-02-19,30,62428.12,62428.12,0.0,2026-02-27,Paid,Wire,38,-8,No,No,0.0,No,0.0
+AP-0490,VND-013,SafetyFirst Supplies,Materials,North,Sofia Reyes,2025-05-19,2025-06-03,15,49683.78,49683.78,0.0,2025-06-01,Paid,Check,13,2,Yes,Yes,0.02,No,0.0
+AP-0491,VND-008,GreenEnergy Corp.,Utilities,South,Laura Chen,2025-06-08,2025-07-23,45,1867.16,1867.16,0.0,2025-07-22,Paid,ACH,44,1,Yes,Yes,0.015,No,0.0
+AP-0492,VND-008,GreenEnergy Corp.,Utilities,South,Laura Chen,2026-02-14,2026-03-16,30,8751.44,8751.44,0.0,2026-04-01,Paid,Check,46,-16,No,Yes,0.01,No,0.0
+AP-0493,VND-011,QuickFreight Inc.,Logistics,West,Marco Diaz,2025-11-04,2025-12-04,30,1710.06,1710.06,0.0,2025-12-07,Paid,Credit Card,33,-3,No,No,0.0,No,0.0
+AP-0494,VND-011,QuickFreight Inc.,Logistics,East,Pedro Alvarez,2025-08-21,2025-09-20,30,15205.89,0.0,15205.89,,Overdue,Credit Card,,-253,No,No,0.0,No,0.0
+AP-0495,VND-021,PrimePack Logistics,Logistics,West,Sofia Reyes,2025-11-23,2025-12-08,15,11258.66,11258.66,0.0,2025-11-24,Paid,Check,1,14,Yes,Yes,0.02,Yes,225.17
+AP-0496,VND-008,GreenEnergy Corp.,Utilities,South,Sofia Reyes,2025-04-03,2025-07-02,90,3720.24,3720.24,0.0,2025-07-04,Paid,Credit Card,92,-2,No,Yes,0.005,No,0.0
+AP-0497,VND-019,SkyNet IT Solutions,IT,North,Ana Torres,2025-03-29,2025-05-13,45,34889.53,34889.53,0.0,2025-05-15,Paid,Credit Card,47,-2,No,Yes,0.015,No,0.0
+AP-0498,VND-025,RapidShip Co.,Logistics,South,Pedro Alvarez,2026-02-09,2026-05-10,90,13392.72,13392.72,0.0,2026-05-10,Paid,Wire,90,0,Yes,Yes,0.005,No,0.0
+AP-0499,VND-025,RapidShip Co.,Logistics,West,Laura Chen,2026-02-28,2026-03-30,30,9047.27,9047.27,0.0,2026-04-02,Paid,ACH,33,-3,No,Yes,0.01,No,0.0
+AP-0500,VND-020,TrustBuild Facilities,Facilities,North,Laura Chen,2026-03-29,2026-05-28,60,22565.01,0.0,22565.01,,Pending,Wire,,,,Yes,0.01,No,0.0
+AP-0501,VND-022,Apex Consulting,Services,East,Marco Diaz,2025-02-25,2025-03-27,30,11992.79,11992.79,0.0,2025-03-30,Paid,ACH,33,-3,No,Yes,0.01,No,0.0
+AP-0502,VND-011,QuickFreight Inc.,Logistics,North,Laura Chen,2025-01-24,2025-04-24,90,7305.66,7305.66,0.0,2025-04-19,Paid,Credit Card,85,5,Yes,No,0.0,No,0.0
+AP-0503,VND-018,BuildFast Materials,Materials,Central,Laura Chen,2025-01-19,2025-02-18,30,20077.12,20077.12,0.0,2025-02-18,Paid,Credit Card,30,0,Yes,No,0.0,No,0.0
+AP-0504,VND-007,ProStaff Services,Services,Central,Laura Chen,2025-01-09,2025-04-09,90,5464.12,5464.12,0.0,2025-04-11,Paid,ACH,92,-2,No,Yes,0.005,No,0.0
+AP-0505,VND-022,Apex Consulting,Services,East,Sofia Reyes,2026-01-31,2026-03-17,45,11553.24,0.0,11553.24,,Overdue,ACH,,-75,No,Yes,0.015,No,0.0
+AP-0506,VND-004,BuildRight Materials,Materials,East,Pedro Alvarez,2025-07-23,2025-08-22,30,26031.24,0.0,26031.24,,Overdue,ACH,,-282,No,Yes,0.01,No,0.0
+AP-0507,VND-001,Acme Supplies Co.,Materials,North,Marco Diaz,2026-05-17,2026-07-16,60,20883.19,0.0,20883.19,,Pending,Check,,,,Yes,0.01,No,0.0
+AP-0508,VND-021,PrimePack Logistics,Logistics,East,Marco Diaz,2025-09-21,2025-10-06,15,17694.87,5569.16,12125.71,2025-10-18,Partial,Check,27,-12,No,No,0.0,No,0.0
+AP-0509,VND-009,MetalWorks Ltd.,Materials,South,Marco Diaz,2025-05-21,2025-07-20,60,6214.16,0.0,6214.16,,Overdue,Check,,-315,No,Yes,0.01,No,0.0
+AP-0510,VND-020,TrustBuild Facilities,Facilities,South,Pedro Alvarez,2026-03-13,2026-04-12,30,34027.73,34027.73,0.0,2026-04-13,Paid,Wire,31,-1,No,No,0.0,No,0.0
+AP-0511,VND-018,BuildFast Materials,Materials,South,Marco Diaz,2026-03-17,2026-04-16,30,49792.92,49792.92,0.0,2026-04-20,Paid,Check,34,-4,No,No,0.0,No,0.0
+AP-0512,VND-006,PowerGrid Utilities,Utilities,East,Sofia Reyes,2025-11-22,2025-12-22,30,12673.08,12673.08,0.0,2025-12-14,Paid,ACH,22,8,Yes,Yes,0.01,No,0.0
+AP-0513,VND-014,NetConnect Systems,IT,East,Pedro Alvarez,2025-07-12,2025-08-11,30,13007.86,13007.86,0.0,2025-08-30,Paid,Check,49,-19,No,Yes,0.01,No,0.0
+AP-0514,VND-020,TrustBuild Facilities,Facilities,Central,Laura Chen,2025-08-25,2025-09-24,30,24683.47,24683.47,0.0,2025-09-15,Paid,Wire,21,9,Yes,Yes,0.01,No,0.0
+AP-0515,VND-020,TrustBuild Facilities,Facilities,West,Laura Chen,2026-05-19,2026-07-18,60,17636.95,17636.95,0.0,2026-05-31,Paid,Wire,12,48,Yes,Yes,0.01,Yes,176.37
+AP-0516,VND-001,Acme Supplies Co.,Materials,East,Pedro Alvarez,2025-07-29,2025-08-28,30,5174.54,0.0,5174.54,,Overdue,Wire,,-276,No,No,0.0,No,0.0
+AP-0517,VND-020,TrustBuild Facilities,Facilities,West,Laura Chen,2026-03-14,2026-04-13,30,15360.6,0.0,15360.6,,Pending,Credit Card,,,,Yes,0.01,No,0.0
+AP-0518,VND-011,QuickFreight Inc.,Logistics,West,Ana Torres,2026-04-08,2026-05-08,30,9681.11,0.0,9681.11,,Pending,ACH,,,,No,0.0,No,0.0
+AP-0519,VND-018,BuildFast Materials,Materials,West,Sofia Reyes,2025-07-14,2025-07-29,15,15976.61,15976.61,0.0,2025-08-02,Paid,Credit Card,19,-4,No,Yes,0.02,No,0.0
+AP-0520,VND-014,NetConnect Systems,IT,East,Ana Torres,2026-04-20,2026-05-20,30,67242.01,0.0,67242.01,,Pending,ACH,,,,Yes,0.01,No,0.0
+AP-0521,VND-025,RapidShip Co.,Logistics,Central,Ana Torres,2026-02-28,2026-04-29,60,7145.76,7145.76,0.0,2026-04-22,Paid,Wire,53,7,Yes,Yes,0.01,No,0.0
+AP-0522,VND-007,ProStaff Services,Services,West,Sofia Reyes,2025-06-17,2025-08-16,60,29579.86,29579.86,0.0,2025-08-09,Paid,Check,53,7,Yes,Yes,0.01,No,0.0
+AP-0523,VND-017,OfficePro Services,Services,West,Ana Torres,2026-01-25,2026-03-26,60,4624.53,4624.53,0.0,2026-03-28,Paid,Wire,62,-2,No,Yes,0.01,No,0.0
+AP-0524,VND-022,Apex Consulting,Services,South,Marco Diaz,2025-02-22,2025-03-24,30,18524.52,18524.52,0.0,2025-03-14,Paid,Wire,20,10,Yes,Yes,0.01,No,0.0
+AP-0525,VND-004,BuildRight Materials,Materials,South,Marco Diaz,2025-01-13,2025-02-27,45,24014.85,24014.85,0.0,2025-03-02,Paid,ACH,48,-3,No,No,0.0,No,0.0
+AP-0526,VND-001,Acme Supplies Co.,Materials,Central,Pedro Alvarez,2026-05-03,2026-06-02,30,23779.45,0.0,23779.45,,Pending,Wire,,,,Yes,0.01,No,0.0
+AP-0527,VND-018,BuildFast Materials,Materials,East,Ana Torres,2025-07-09,2025-07-24,15,9116.3,9116.3,0.0,2025-07-31,Paid,Wire,22,-7,No,Yes,0.02,No,0.0
+AP-0528,VND-020,TrustBuild Facilities,Facilities,East,Laura Chen,2025-04-22,2025-05-07,15,15759.58,15759.58,0.0,2025-04-28,Paid,ACH,6,9,Yes,Yes,0.02,No,0.0
+AP-0529,VND-020,TrustBuild Facilities,Facilities,Central,Ana Torres,2026-01-04,2026-04-04,90,32738.83,0.0,32738.83,,Pending,Wire,,,,Yes,0.005,No,0.0
+AP-0530,VND-013,SafetyFirst Supplies,Materials,North,Pedro Alvarez,2026-04-28,2026-06-12,45,8458.2,8458.2,0.0,2026-05-31,Paid,ACH,33,12,Yes,Yes,0.015,No,0.0
+AP-0531,VND-020,TrustBuild Facilities,Facilities,North,Sofia Reyes,2025-10-22,2026-01-20,90,16092.77,16092.77,0.0,2026-01-19,Paid,ACH,89,1,Yes,No,0.0,No,0.0
+AP-0532,VND-019,SkyNet IT Solutions,IT,Central,Laura Chen,2026-05-25,2026-08-23,90,41937.83,41937.83,0.0,2026-05-31,Paid,Wire,6,84,Yes,Yes,0.005,Yes,209.69
+AP-0533,VND-001,Acme Supplies Co.,Materials,West,Sofia Reyes,2026-02-28,2026-04-29,60,4183.63,0.0,4183.63,,Pending,Wire,,,,Yes,0.01,No,0.0
+AP-0534,VND-021,PrimePack Logistics,Logistics,South,Laura Chen,2025-11-12,2025-12-12,30,6705.4,6705.4,0.0,2025-12-12,Paid,Check,30,0,Yes,Yes,0.01,No,0.0
+AP-0535,VND-004,BuildRight Materials,Materials,East,Laura Chen,2025-06-29,2025-07-14,15,11312.75,0.0,11312.75,,Overdue,Credit Card,,-321,No,No,0.0,No,0.0
+AP-0536,VND-016,CleanWater Utilities,Utilities,West,Sofia Reyes,2025-06-09,2025-09-07,90,9594.41,9594.41,0.0,2025-08-31,Paid,Wire,83,7,Yes,No,0.0,No,0.0
+AP-0537,VND-014,NetConnect Systems,IT,North,Ana Torres,2025-01-20,2025-03-21,60,20619.69,15341.35,5278.34,2025-03-27,Partial,Check,66,-6,No,Yes,0.01,No,0.0
+AP-0538,VND-003,FastShip Logistics,Logistics,South,Laura Chen,2026-01-20,2026-03-21,60,12903.71,12903.71,0.0,2026-04-02,Paid,ACH,72,-12,No,No,0.0,No,0.0
+AP-0539,VND-013,SafetyFirst Supplies,Materials,South,Ana Torres,2025-11-19,2026-01-03,45,36072.32,36072.32,0.0,2026-01-08,Paid,ACH,50,-5,No,Yes,0.015,No,0.0
+AP-0540,VND-010,DataBridge IT,IT,South,Ana Torres,2025-04-25,2025-05-25,30,33066.18,33066.18,0.0,2025-05-20,Paid,Check,25,5,Yes,Yes,0.01,No,0.0
+AP-0541,VND-003,FastShip Logistics,Logistics,West,Ana Torres,2026-05-28,2026-08-26,90,3927.48,3927.48,0.0,2026-05-31,Paid,ACH,3,87,Yes,Yes,0.005,Yes,19.64
+AP-0542,VND-025,RapidShip Co.,Logistics,North,Ana Torres,2025-02-07,2025-03-09,30,9728.0,9728.0,0.0,2025-03-15,Paid,Wire,36,-6,No,No,0.0,No,0.0
+AP-0543,VND-001,Acme Supplies Co.,Materials,East,Sofia Reyes,2026-04-24,2026-06-23,60,44680.92,44680.92,0.0,2026-05-31,Paid,ACH,37,23,Yes,Yes,0.01,No,0.0
+AP-0544,VND-021,PrimePack Logistics,Logistics,South,Laura Chen,2025-10-21,2025-11-20,30,6256.34,6256.34,0.0,2025-11-21,Paid,Wire,31,-1,No,Yes,0.01,No,0.0
+AP-0545,VND-004,BuildRight Materials,Materials,East,Marco Diaz,2025-04-28,2025-06-12,45,2732.32,2732.32,0.0,2025-06-14,Paid,Wire,47,-2,No,Yes,0.015,No,0.0
+AP-0546,VND-011,QuickFreight Inc.,Logistics,East,Marco Diaz,2025-06-25,2025-07-25,30,2353.61,2353.61,0.0,2025-08-01,Paid,Check,37,-7,No,Yes,0.01,No,0.0
+AP-0547,VND-015,ExpressRoute Logistics,Logistics,North,Marco Diaz,2025-02-21,2025-05-22,90,3012.61,3012.61,0.0,2025-05-26,Paid,ACH,94,-4,No,Yes,0.005,No,0.0
+AP-0548,VND-019,SkyNet IT Solutions,IT,West,Ana Torres,2025-12-07,2026-01-21,45,66308.15,66308.15,0.0,2026-01-30,Paid,Check,54,-9,No,No,0.0,No,0.0
+AP-0549,VND-018,BuildFast Materials,Materials,North,Pedro Alvarez,2026-04-25,2026-05-25,30,6668.62,6668.62,0.0,2026-05-06,Paid,Wire,11,19,Yes,Yes,0.01,No,0.0
+AP-0550,VND-005,CloudSys Inc.,IT,Central,Laura Chen,2025-07-07,2025-09-05,60,57471.1,42597.69,14873.41,2025-09-14,Partial,Check,69,-9,No,Yes,0.01,No,0.0
+AP-0551,VND-016,CleanWater Utilities,Utilities,North,Sofia Reyes,2025-12-26,2026-01-25,30,7440.46,7440.46,0.0,2026-01-28,Paid,Credit Card,33,-3,No,No,0.0,No,0.0
+AP-0552,VND-012,FacilityPro Services,Facilities,Central,Ana Torres,2026-02-20,2026-03-22,30,28979.25,28979.25,0.0,2026-03-14,Paid,Wire,22,8,Yes,No,0.0,No,0.0
+AP-0553,VND-018,BuildFast Materials,Materials,West,Pedro Alvarez,2025-09-07,2025-10-07,30,28301.55,28301.55,0.0,2025-09-26,Paid,Credit Card,19,11,Yes,No,0.0,No,0.0
+AP-0554,VND-011,QuickFreight Inc.,Logistics,South,Ana Torres,2025-12-17,2026-02-15,60,11346.01,11346.01,0.0,2026-03-03,Paid,Credit Card,76,-16,No,Yes,0.01,No,0.0
+AP-0555,VND-019,SkyNet IT Solutions,IT,West,Sofia Reyes,2025-04-10,2025-06-09,60,66651.73,0.0,66651.73,,Overdue,Credit Card,,-356,No,Yes,0.01,No,0.0
+AP-0556,VND-003,FastShip Logistics,Logistics,Central,Sofia Reyes,2026-05-22,2026-07-21,60,13254.79,0.0,13254.79,,Pending,Credit Card,,,,Yes,0.01,No,0.0
+AP-0557,VND-019,SkyNet IT Solutions,IT,North,Marco Diaz,2025-10-26,2026-01-24,90,34248.7,34248.7,0.0,2026-02-01,Paid,Wire,98,-8,No,Yes,0.005,No,0.0
+AP-0558,VND-022,Apex Consulting,Services,East,Laura Chen,2025-12-19,2026-02-17,60,39640.7,39640.7,0.0,2026-02-02,Paid,Check,45,15,Yes,Yes,0.01,No,0.0
+AP-0559,VND-010,DataBridge IT,IT,North,Laura Chen,2026-01-03,2026-01-18,15,13227.37,13227.37,0.0,2026-01-17,Paid,ACH,14,1,Yes,Yes,0.02,No,0.0
+AP-0560,VND-014,NetConnect Systems,IT,Central,Pedro Alvarez,2026-02-20,2026-04-21,60,33617.38,33617.38,0.0,2026-04-23,Paid,Check,62,-2,No,Yes,0.01,No,0.0
+AP-0561,VND-012,FacilityPro Services,Facilities,West,Marco Diaz,2025-05-18,2025-06-17,30,2382.89,2382.89,0.0,2025-06-24,Paid,Check,37,-7,No,Yes,0.01,No,0.0
+AP-0562,VND-016,CleanWater Utilities,Utilities,West,Marco Diaz,2026-03-02,2026-04-01,30,12972.22,12972.22,0.0,2026-04-11,Paid,ACH,40,-10,No,No,0.0,No,0.0
+AP-0563,VND-015,ExpressRoute Logistics,Logistics,Central,Pedro Alvarez,2025-12-30,2026-02-28,60,5289.08,5289.08,0.0,2026-02-24,Paid,Credit Card,56,4,Yes,Yes,0.01,No,0.0
+AP-0564,VND-016,CleanWater Utilities,Utilities,South,Ana Torres,2026-01-11,2026-03-12,60,985.2,985.2,0.0,2026-03-05,Paid,Check,53,7,Yes,Yes,0.01,No,0.0
+AP-0565,VND-023,CoolTech Systems,IT,North,Marco Diaz,2025-03-22,2025-06-20,90,44251.76,44251.76,0.0,2025-06-27,Paid,Check,97,-7,No,Yes,0.005,No,0.0
+AP-0566,VND-021,PrimePack Logistics,Logistics,North,Ana Torres,2025-12-18,2026-01-02,15,11165.63,11165.63,0.0,2026-01-10,Paid,Check,23,-8,No,Yes,0.02,No,0.0
+AP-0567,VND-011,QuickFreight Inc.,Logistics,West,Laura Chen,2025-06-21,2025-08-05,45,1671.2,1671.2,0.0,2025-07-31,Paid,Check,40,5,Yes,No,0.0,No,0.0
+AP-0568,VND-024,EliteFacilities Corp.,Facilities,Central,Laura Chen,2025-06-23,2025-09-21,90,20904.38,20904.38,0.0,2025-09-21,Paid,ACH,90,0,Yes,Yes,0.005,No,0.0
+AP-0569,VND-016,CleanWater Utilities,Utilities,North,Marco Diaz,2025-09-16,2025-10-31,45,2421.81,743.74,1678.07,2025-10-29,Partial,ACH,43,2,Yes,Yes,0.015,No,0.0
+AP-0570,VND-020,TrustBuild Facilities,Facilities,South,Ana Torres,2026-01-14,2026-04-14,90,28658.74,28658.74,0.0,2026-04-13,Paid,Wire,89,1,Yes,Yes,0.005,No,0.0
+AP-0571,VND-017,OfficePro Services,Services,North,Laura Chen,2025-06-07,2025-07-07,30,33991.73,33991.73,0.0,2025-06-29,Paid,ACH,22,8,Yes,No,0.0,No,0.0
+AP-0572,VND-024,EliteFacilities Corp.,Facilities,South,Marco Diaz,2025-09-28,2025-10-13,15,26930.97,26930.97,0.0,2025-10-20,Paid,Check,22,-7,No,Yes,0.02,No,0.0
+AP-0573,VND-013,SafetyFirst Supplies,Materials,West,Laura Chen,2026-01-24,2026-02-23,30,34808.48,34808.48,0.0,2026-02-15,Paid,Credit Card,22,8,Yes,Yes,0.01,No,0.0
+AP-0574,VND-010,DataBridge IT,IT,West,Pedro Alvarez,2025-04-10,2025-04-25,15,73828.41,0.0,73828.41,,Overdue,Check,,-401,No,Yes,0.02,No,0.0
+AP-0575,VND-014,NetConnect Systems,IT,Central,Laura Chen,2025-10-01,2025-11-15,45,65173.73,65173.73,0.0,2025-11-14,Paid,Check,44,1,Yes,Yes,0.015,No,0.0
+AP-0576,VND-015,ExpressRoute Logistics,Logistics,South,Ana Torres,2025-07-04,2025-09-02,60,6952.13,6952.13,0.0,2025-09-09,Paid,Wire,67,-7,No,Yes,0.01,No,0.0
+AP-0577,VND-017,OfficePro Services,Services,North,Pedro Alvarez,2025-10-18,2025-11-17,30,12320.16,12320.16,0.0,2025-11-20,Paid,Check,33,-3,No,Yes,0.01,No,0.0
+AP-0578,VND-002,TechCore Solutions,IT,Central,Marco Diaz,2025-03-30,2025-04-29,30,69233.06,69233.06,0.0,2025-05-07,Paid,ACH,38,-8,No,Yes,0.01,No,0.0
+AP-0579,VND-006,PowerGrid Utilities,Utilities,North,Marco Diaz,2026-04-24,2026-06-08,45,10076.93,10076.93,0.0,2026-05-31,Paid,Check,37,8,Yes,Yes,0.015,No,0.0
+AP-0580,VND-025,RapidShip Co.,Logistics,West,Laura Chen,2025-03-17,2025-04-16,30,6268.46,6268.46,0.0,2025-04-22,Paid,Check,36,-6,No,Yes,0.01,No,0.0
+AP-0581,VND-009,MetalWorks Ltd.,Materials,South,Pedro Alvarez,2025-07-25,2025-10-23,90,31294.49,31294.49,0.0,2025-10-23,Paid,ACH,90,0,Yes,Yes,0.005,No,0.0
+AP-0582,VND-005,CloudSys Inc.,IT,Central,Pedro Alvarez,2026-03-29,2026-04-28,30,58655.02,58655.02,0.0,2026-04-28,Paid,Wire,30,0,Yes,Yes,0.01,No,0.0
+AP-0583,VND-016,CleanWater Utilities,Utilities,South,Sofia Reyes,2025-09-30,2025-11-29,60,2698.31,2698.31,0.0,2025-12-07,Paid,ACH,68,-8,No,Yes,0.01,No,0.0
+AP-0584,VND-001,Acme Supplies Co.,Materials,Central,Pedro Alvarez,2026-02-18,2026-04-19,60,42514.36,12824.61,29689.75,2026-05-06,Partial,Credit Card,77,-17,No,No,0.0,No,0.0
+AP-0585,VND-025,RapidShip Co.,Logistics,West,Sofia Reyes,2025-11-07,2026-01-06,60,8611.68,0.0,8611.68,,Overdue,Check,,-145,No,Yes,0.01,No,0.0
+AP-0586,VND-003,FastShip Logistics,Logistics,East,Ana Torres,2026-04-16,2026-05-16,30,15448.61,15448.61,0.0,2026-05-27,Paid,Check,41,-11,No,Yes,0.01,No,0.0
+AP-0587,VND-010,DataBridge IT,IT,West,Sofia Reyes,2025-03-28,2025-06-26,90,71391.06,71391.06,0.0,2025-06-24,Paid,Check,88,2,Yes,Yes,0.005,No,0.0
+AP-0588,VND-002,TechCore Solutions,IT,South,Sofia Reyes,2026-02-03,2026-05-04,90,9724.45,9724.45,0.0,2026-05-08,Paid,Wire,94,-4,No,Yes,0.005,No,0.0
+AP-0589,VND-001,Acme Supplies Co.,Materials,North,Laura Chen,2025-02-13,2025-04-14,60,21464.38,21464.38,0.0,2025-04-07,Paid,ACH,53,7,Yes,Yes,0.01,No,0.0
+AP-0590,VND-017,OfficePro Services,Services,West,Ana Torres,2025-03-15,2025-04-14,30,4364.47,4364.47,0.0,2025-03-28,Paid,Wire,13,17,Yes,Yes,0.01,No,0.0
+AP-0591,VND-002,TechCore Solutions,IT,South,Marco Diaz,2025-02-21,2025-03-23,30,72849.68,72849.68,0.0,2025-03-26,Paid,ACH,33,-3,No,No,0.0,No,0.0
+AP-0592,VND-020,TrustBuild Facilities,Facilities,South,Ana Torres,2025-04-27,2025-05-27,30,18405.74,18405.74,0.0,2025-05-29,Paid,ACH,32,-2,No,No,0.0,No,0.0
+AP-0593,VND-024,EliteFacilities Corp.,Facilities,West,Laura Chen,2025-11-26,2025-12-26,30,29602.09,29602.09,0.0,2025-12-19,Paid,ACH,23,7,Yes,No,0.0,No,0.0
+AP-0594,VND-019,SkyNet IT Solutions,IT,South,Laura Chen,2025-10-08,2025-11-07,30,15592.76,15592.76,0.0,2025-10-30,Paid,ACH,22,8,Yes,Yes,0.01,No,0.0
+AP-0595,VND-019,SkyNet IT Solutions,IT,North,Marco Diaz,2025-06-11,2025-08-10,60,6172.27,6172.27,0.0,2025-08-08,Paid,ACH,58,2,Yes,Yes,0.01,No,0.0
+AP-0596,VND-006,PowerGrid Utilities,Utilities,North,Ana Torres,2026-05-03,2026-07-02,60,10539.2,10539.2,0.0,2026-05-31,Paid,Check,28,32,Yes,Yes,0.01,No,0.0
+AP-0597,VND-020,TrustBuild Facilities,Facilities,North,Ana Torres,2025-04-01,2025-06-30,90,22697.32,22697.32,0.0,2025-07-09,Paid,Wire,99,-9,No,No,0.0,No,0.0
+AP-0598,VND-001,Acme Supplies Co.,Materials,Central,Marco Diaz,2025-04-08,2025-05-08,30,31708.21,0.0,31708.21,,Overdue,Wire,,-388,No,No,0.0,No,0.0
+AP-0599,VND-017,OfficePro Services,Services,South,Pedro Alvarez,2025-02-24,2025-04-10,45,10167.6,10167.6,0.0,2025-04-18,Paid,Wire,53,-8,No,No,0.0,No,0.0
+AP-0600,VND-006,PowerGrid Utilities,Utilities,South,Sofia Reyes,2025-10-19,2025-12-18,60,3539.05,3539.05,0.0,2025-12-17,Paid,ACH,59,1,Yes,Yes,0.01,No,0.0
+AP-0601,VND-025,RapidShip Co.,Logistics,West,Sofia Reyes,2025-06-30,2025-07-15,15,4002.87,4002.87,0.0,2025-07-20,Paid,ACH,20,-5,No,Yes,0.02,No,0.0
+AP-0602,VND-015,ExpressRoute Logistics,Logistics,Central,Ana Torres,2025-07-23,2025-09-21,60,15194.65,15194.65,0.0,2025-09-23,Paid,Check,62,-2,No,No,0.0,No,0.0
+AP-0603,VND-004,BuildRight Materials,Materials,East,Marco Diaz,2026-02-27,2026-03-29,30,43754.54,43754.54,0.0,2026-03-20,Paid,ACH,21,9,Yes,Yes,0.01,No,0.0
+AP-0604,VND-014,NetConnect Systems,IT,South,Marco Diaz,2026-02-01,2026-03-03,30,33011.38,33011.38,0.0,2026-03-04,Paid,Credit Card,31,-1,No,Yes,0.01,No,0.0
+AP-0605,VND-012,FacilityPro Services,Facilities,East,Marco Diaz,2025-02-02,2025-03-04,30,24842.95,24842.95,0.0,2025-03-09,Paid,Check,35,-5,No,Yes,0.01,No,0.0
+AP-0606,VND-006,PowerGrid Utilities,Utilities,East,Marco Diaz,2025-06-24,2025-07-24,30,8882.76,8882.76,0.0,2025-07-17,Paid,Check,23,7,Yes,Yes,0.01,No,0.0
+AP-0607,VND-014,NetConnect Systems,IT,Central,Pedro Alvarez,2026-04-19,2026-07-18,90,25937.82,0.0,25937.82,,Pending,Wire,,,,No,0.0,No,0.0
+AP-0608,VND-011,QuickFreight Inc.,Logistics,West,Ana Torres,2025-01-06,2025-02-05,30,8937.67,0.0,8937.67,,Overdue,Wire,,-480,No,Yes,0.01,No,0.0
+AP-0609,VND-024,EliteFacilities Corp.,Facilities,Central,Sofia Reyes,2026-05-06,2026-07-05,60,28720.65,28720.65,0.0,2026-05-31,Paid,Credit Card,25,35,Yes,Yes,0.01,No,0.0
+AP-0610,VND-023,CoolTech Systems,IT,West,Marco Diaz,2025-10-30,2025-12-29,60,22929.68,22929.68,0.0,2026-01-04,Paid,Wire,66,-6,No,No,0.0,No,0.0
+AP-0611,VND-022,Apex Consulting,Services,East,Marco Diaz,2026-04-11,2026-04-26,15,20159.14,0.0,20159.14,,Pending,Credit Card,,,,Yes,0.02,No,0.0
+AP-0612,VND-012,FacilityPro Services,Facilities,West,Sofia Reyes,2025-12-07,2026-02-05,60,19520.37,19520.37,0.0,2026-02-02,Paid,ACH,57,3,Yes,Yes,0.01,No,0.0
+AP-0613,VND-019,SkyNet IT Solutions,IT,South,Sofia Reyes,2026-01-08,2026-01-23,15,71598.34,71598.34,0.0,2026-01-13,Paid,Check,5,10,Yes,Yes,0.02,Yes,1431.97
+AP-0614,VND-020,TrustBuild Facilities,Facilities,North,Laura Chen,2025-03-10,2025-04-09,30,20505.02,20505.02,0.0,2025-04-04,Paid,Check,25,5,Yes,No,0.0,No,0.0
+AP-0615,VND-021,PrimePack Logistics,Logistics,West,Ana Torres,2025-11-25,2025-12-25,30,7701.52,7701.52,0.0,2026-01-02,Paid,Wire,38,-8,No,Yes,0.01,No,0.0
+AP-0616,VND-009,MetalWorks Ltd.,Materials,North,Sofia Reyes,2026-04-09,2026-06-08,60,25338.89,25338.89,0.0,2026-05-31,Paid,Check,52,8,Yes,Yes,0.01,No,0.0
+AP-0617,VND-010,DataBridge IT,IT,West,Ana Torres,2025-07-12,2025-08-11,30,71892.74,71892.74,0.0,2025-08-03,Paid,Check,22,8,Yes,Yes,0.01,No,0.0
+AP-0618,VND-006,PowerGrid Utilities,Utilities,East,Sofia Reyes,2025-10-10,2025-11-09,30,2124.36,2124.36,0.0,2025-11-14,Paid,ACH,35,-5,No,Yes,0.01,No,0.0
+AP-0619,VND-001,Acme Supplies Co.,Materials,East,Pedro Alvarez,2025-12-22,2026-03-22,90,22166.24,22166.24,0.0,2026-04-09,Paid,Wire,108,-18,No,No,0.0,No,0.0
+AP-0620,VND-007,ProStaff Services,Services,North,Sofia Reyes,2026-02-26,2026-04-27,60,24412.07,15451.07,8961.0,2026-05-08,Partial,Wire,71,-11,No,Yes,0.01,No,0.0
+AP-0621,VND-018,BuildFast Materials,Materials,West,Pedro Alvarez,2025-11-10,2025-12-10,30,10243.38,10243.38,0.0,2025-12-23,Paid,Check,43,-13,No,Yes,0.01,No,0.0
+AP-0622,VND-002,TechCore Solutions,IT,South,Laura Chen,2025-06-20,2025-09-18,90,51397.27,51397.27,0.0,2025-09-16,Paid,Check,88,2,Yes,Yes,0.005,No,0.0
+AP-0623,VND-006,PowerGrid Utilities,Utilities,South,Marco Diaz,2025-04-30,2025-05-30,30,1096.7,1096.7,0.0,2025-05-30,Paid,Wire,30,0,Yes,Yes,0.01,No,0.0
+AP-0624,VND-018,BuildFast Materials,Materials,North,Laura Chen,2026-01-17,2026-02-16,30,23524.6,23524.6,0.0,2026-02-21,Paid,Check,35,-5,No,No,0.0,No,0.0
+AP-0625,VND-004,BuildRight Materials,Materials,North,Pedro Alvarez,2026-04-15,2026-05-15,30,46534.94,0.0,46534.94,,Overdue,Credit Card,,-16,No,Yes,0.01,No,0.0
+AP-0626,VND-017,OfficePro Services,Services,East,Laura Chen,2025-05-31,2025-07-15,45,32584.32,0.0,32584.32,,Overdue,Credit Card,,-320,No,No,0.0,No,0.0
+AP-0627,VND-011,QuickFreight Inc.,Logistics,North,Pedro Alvarez,2025-04-30,2025-05-30,30,6853.56,3584.32,3269.24,2025-05-27,Partial,ACH,27,3,Yes,Yes,0.01,No,0.0
+AP-0628,VND-011,QuickFreight Inc.,Logistics,North,Ana Torres,2025-10-12,2025-11-11,30,4718.6,3012.98,1705.62,2025-11-08,Partial,Wire,27,3,Yes,Yes,0.01,No,0.0
+AP-0629,VND-017,OfficePro Services,Services,West,Marco Diaz,2025-02-27,2025-04-28,60,36612.54,36612.54,0.0,2025-05-02,Paid,Credit Card,64,-4,No,Yes,0.01,No,0.0
+AP-0630,VND-012,FacilityPro Services,Facilities,North,Laura Chen,2025-11-12,2026-01-11,60,34258.28,34258.28,0.0,2026-01-05,Paid,Check,54,6,Yes,No,0.0,No,0.0
+AP-0631,VND-024,EliteFacilities Corp.,Facilities,West,Pedro Alvarez,2025-06-17,2025-08-01,45,28587.2,28587.2,0.0,2025-08-04,Paid,Credit Card,48,-3,No,No,0.0,No,0.0
+AP-0632,VND-019,SkyNet IT Solutions,IT,Central,Sofia Reyes,2025-11-07,2025-12-07,30,40595.98,0.0,40595.98,,Overdue,Wire,,-175,No,No,0.0,No,0.0
+AP-0633,VND-003,FastShip Logistics,Logistics,Central,Pedro Alvarez,2026-02-24,2026-03-11,15,13137.31,13137.31,0.0,2026-03-09,Paid,ACH,13,2,Yes,Yes,0.02,No,0.0
+AP-0634,VND-015,ExpressRoute Logistics,Logistics,Central,Marco Diaz,2026-01-26,2026-02-25,30,6499.8,2931.39,3568.41,2026-03-10,Partial,Wire,43,-13,No,Yes,0.01,No,0.0
+AP-0635,VND-010,DataBridge IT,IT,West,Ana Torres,2025-01-28,2025-02-27,30,64341.47,64341.47,0.0,2025-02-20,Paid,Credit Card,23,7,Yes,Yes,0.01,No,0.0
+AP-0636,VND-004,BuildRight Materials,Materials,East,Pedro Alvarez,2025-09-08,2025-12-07,90,3365.24,3365.24,0.0,2025-11-29,Paid,Wire,82,8,Yes,No,0.0,No,0.0
+AP-0637,VND-003,FastShip Logistics,Logistics,Central,Laura Chen,2025-09-22,2025-11-21,60,12931.92,12931.92,0.0,2025-11-28,Paid,Credit Card,67,-7,No,Yes,0.01,No,0.0
+AP-0638,VND-019,SkyNet IT Solutions,IT,North,Laura Chen,2025-05-30,2025-06-14,15,28976.08,28976.08,0.0,2025-06-20,Paid,Wire,21,-6,No,No,0.0,No,0.0
+AP-0639,VND-006,PowerGrid Utilities,Utilities,North,Laura Chen,2025-12-31,2026-03-01,60,1206.37,1206.37,0.0,2026-03-05,Paid,Check,64,-4,No,Yes,0.01,No,0.0
+AP-0640,VND-021,PrimePack Logistics,Logistics,South,Sofia Reyes,2025-11-20,2026-01-19,60,16709.62,16709.62,0.0,2026-01-21,Paid,Wire,62,-2,No,Yes,0.01,No,0.0
+AP-0641,VND-022,Apex Consulting,Services,East,Sofia Reyes,2025-01-14,2025-02-13,30,8067.13,8067.13,0.0,2025-01-29,Paid,Check,15,15,Yes,Yes,0.01,No,0.0
+AP-0642,VND-006,PowerGrid Utilities,Utilities,North,Marco Diaz,2025-07-12,2025-08-11,30,12029.05,12029.05,0.0,2025-08-20,Paid,Wire,39,-9,No,Yes,0.01,No,0.0
+AP-0643,VND-017,OfficePro Services,Services,Central,Ana Torres,2026-04-17,2026-06-16,60,36893.15,0.0,36893.15,,Pending,ACH,,,,Yes,0.01,No,0.0
+AP-0644,VND-012,FacilityPro Services,Facilities,East,Laura Chen,2025-12-17,2026-03-17,90,7682.84,7682.84,0.0,2026-03-20,Paid,Wire,93,-3,No,Yes,0.005,No,0.0
+AP-0645,VND-023,CoolTech Systems,IT,South,Marco Diaz,2025-08-03,2025-09-02,30,14766.37,14766.37,0.0,2025-09-04,Paid,Check,32,-2,No,Yes,0.01,No,0.0
+AP-0646,VND-004,BuildRight Materials,Materials,North,Sofia Reyes,2025-02-13,2025-04-14,60,11424.85,11424.85,0.0,2025-04-07,Paid,Credit Card,53,7,Yes,Yes,0.01,No,0.0
+AP-0647,VND-009,MetalWorks Ltd.,Materials,North,Sofia Reyes,2025-04-09,2025-04-24,15,39553.8,39553.8,0.0,2025-04-20,Paid,Check,11,4,Yes,No,0.0,No,0.0
+AP-0648,VND-007,ProStaff Services,Services,South,Laura Chen,2025-05-30,2025-06-29,30,34296.88,0.0,34296.88,,Overdue,ACH,,-336,No,No,0.0,No,0.0
+AP-0649,VND-012,FacilityPro Services,Facilities,East,Marco Diaz,2025-04-12,2025-05-12,30,29046.35,29046.35,0.0,2025-05-08,Paid,Wire,26,4,Yes,No,0.0,No,0.0
+AP-0650,VND-006,PowerGrid Utilities,Utilities,Central,Sofia Reyes,2026-05-02,2026-06-01,30,5813.71,5813.71,0.0,2026-05-12,Paid,ACH,10,20,Yes,Yes,0.01,Yes,58.14
+AP-0651,VND-006,PowerGrid Utilities,Utilities,East,Pedro Alvarez,2025-08-22,2025-09-21,30,6409.88,6409.88,0.0,2025-09-12,Paid,Credit Card,21,9,Yes,No,0.0,No,0.0
+AP-0652,VND-016,CleanWater Utilities,Utilities,East,Laura Chen,2025-12-02,2026-01-01,30,7658.84,7658.84,0.0,2026-01-03,Paid,ACH,32,-2,No,Yes,0.01,No,0.0
+AP-0653,VND-024,EliteFacilities Corp.,Facilities,East,Pedro Alvarez,2025-10-25,2025-12-24,60,34503.76,25787.33,8716.43,2026-01-13,Partial,Wire,80,-20,No,Yes,0.01,No,0.0
+AP-0654,VND-016,CleanWater Utilities,Utilities,East,Marco Diaz,2025-04-18,2025-07-17,90,6247.36,6247.36,0.0,2025-07-22,Paid,ACH,95,-5,No,Yes,0.005,No,0.0
+AP-0655,VND-023,CoolTech Systems,IT,Central,Sofia Reyes,2026-01-08,2026-02-07,30,78140.56,78140.56,0.0,2026-02-12,Paid,Wire,35,-5,No,Yes,0.01,No,0.0
+AP-0656,VND-013,SafetyFirst Supplies,Materials,North,Marco Diaz,2025-10-13,2026-01-11,90,38711.22,38711.22,0.0,2026-01-11,Paid,Credit Card,90,0,Yes,No,0.0,No,0.0
+AP-0657,VND-013,SafetyFirst Supplies,Materials,East,Pedro Alvarez,2025-10-13,2026-01-11,90,9073.96,9073.96,0.0,2025-12-28,Paid,Credit Card,76,14,Yes,Yes,0.005,No,0.0
+AP-0658,VND-016,CleanWater Utilities,Utilities,West,Marco Diaz,2025-04-12,2025-04-27,15,11198.08,11198.08,0.0,2025-05-01,Paid,Wire,19,-4,No,No,0.0,No,0.0
+AP-0659,VND-020,TrustBuild Facilities,Facilities,East,Marco Diaz,2025-03-20,2025-04-19,30,23815.66,23815.66,0.0,2025-04-19,Paid,Check,30,0,Yes,Yes,0.01,No,0.0
+AP-0660,VND-015,ExpressRoute Logistics,Logistics,South,Laura Chen,2025-09-25,2025-12-24,90,11306.32,11306.32,0.0,2026-01-06,Paid,Credit Card,103,-13,No,No,0.0,No,0.0
+AP-0661,VND-014,NetConnect Systems,IT,North,Pedro Alvarez,2026-01-21,2026-03-22,60,38191.71,38191.71,0.0,2026-03-23,Paid,Credit Card,61,-1,No,Yes,0.01,No,0.0
+AP-0662,VND-022,Apex Consulting,Services,East,Marco Diaz,2025-05-18,2025-07-17,60,14561.01,14561.01,0.0,2025-07-09,Paid,Credit Card,52,8,Yes,Yes,0.01,No,0.0
+AP-0663,VND-018,BuildFast Materials,Materials,Central,Ana Torres,2025-06-10,2025-09-08,90,26320.88,26320.88,0.0,2025-09-05,Paid,Credit Card,87,3,Yes,Yes,0.005,No,0.0
+AP-0664,VND-013,SafetyFirst Supplies,Materials,Central,Laura Chen,2025-03-04,2025-05-03,60,3351.06,1589.87,1761.19,2025-05-21,Partial,Check,78,-18,No,Yes,0.01,No,0.0
+AP-0665,VND-019,SkyNet IT Solutions,IT,North,Laura Chen,2026-03-15,2026-04-14,30,30885.73,30885.73,0.0,2026-04-14,Paid,Credit Card,30,0,Yes,Yes,0.01,No,0.0
+AP-0666,VND-019,SkyNet IT Solutions,IT,North,Sofia Reyes,2025-12-12,2026-01-11,30,17733.44,17733.44,0.0,2026-01-22,Paid,Check,41,-11,No,Yes,0.01,No,0.0
+AP-0667,VND-022,Apex Consulting,Services,West,Ana Torres,2025-01-21,2025-03-07,45,28750.46,0.0,28750.46,,Overdue,Credit Card,,-450,No,Yes,0.015,No,0.0
+AP-0668,VND-013,SafetyFirst Supplies,Materials,Central,Pedro Alvarez,2026-05-16,2026-06-15,30,6802.72,6802.72,0.0,2026-05-31,Paid,Check,15,15,Yes,Yes,0.01,No,0.0
+AP-0669,VND-020,TrustBuild Facilities,Facilities,East,Laura Chen,2026-05-24,2026-06-23,30,22969.66,22969.66,0.0,2026-05-31,Paid,Credit Card,7,23,Yes,No,0.0,No,0.0
+AP-0670,VND-007,ProStaff Services,Services,East,Laura Chen,2026-02-16,2026-04-02,45,32770.31,0.0,32770.31,,Overdue,ACH,,-59,No,Yes,0.015,No,0.0
+AP-0671,VND-019,SkyNet IT Solutions,IT,North,Ana Torres,2025-03-10,2025-04-24,45,47482.12,47482.12,0.0,2025-04-23,Paid,Check,44,1,Yes,Yes,0.015,No,0.0
+AP-0672,VND-010,DataBridge IT,IT,Central,Laura Chen,2025-07-24,2025-09-22,60,36073.57,36073.57,0.0,2025-09-24,Paid,Credit Card,62,-2,No,Yes,0.01,No,0.0
+AP-0673,VND-022,Apex Consulting,Services,Central,Marco Diaz,2026-05-27,2026-06-26,30,10879.25,10879.25,0.0,2026-05-31,Paid,ACH,4,26,Yes,No,0.0,No,0.0
+AP-0674,VND-020,TrustBuild Facilities,Facilities,West,Ana Torres,2026-01-09,2026-02-08,30,17262.06,17262.06,0.0,2026-02-05,Paid,ACH,27,3,Yes,Yes,0.01,No,0.0
+AP-0675,VND-025,RapidShip Co.,Logistics,East,Pedro Alvarez,2025-03-07,2025-05-06,60,13044.62,13044.62,0.0,2025-05-05,Paid,Credit Card,59,1,Yes,No,0.0,No,0.0
+AP-0676,VND-022,Apex Consulting,Services,Central,Marco Diaz,2025-04-27,2025-05-27,30,8548.6,3891.92,4656.68,2025-06-06,Partial,Credit Card,40,-10,No,Yes,0.01,No,0.0
+AP-0677,VND-018,BuildFast Materials,Materials,West,Pedro Alvarez,2025-06-13,2025-07-13,30,15090.17,6622.86,8467.31,2025-07-25,Partial,ACH,42,-12,No,Yes,0.01,No,0.0
+AP-0678,VND-006,PowerGrid Utilities,Utilities,North,Pedro Alvarez,2025-03-27,2025-04-11,15,5051.62,5051.62,0.0,2025-04-15,Paid,ACH,19,-4,No,Yes,0.02,No,0.0
+AP-0679,VND-014,NetConnect Systems,IT,East,Sofia Reyes,2025-08-30,2025-09-29,30,13394.93,0.0,13394.93,,Overdue,Credit Card,,-244,No,No,0.0,No,0.0
+AP-0680,VND-017,OfficePro Services,Services,Central,Ana Torres,2025-04-03,2025-07-02,90,11808.84,5486.89,6321.95,2025-07-15,Partial,Check,103,-13,No,Yes,0.005,No,0.0
+AP-0681,VND-024,EliteFacilities Corp.,Facilities,West,Marco Diaz,2025-05-28,2025-06-27,30,5524.86,5524.86,0.0,2025-06-14,Paid,Credit Card,17,13,Yes,Yes,0.01,No,0.0
+AP-0682,VND-002,TechCore Solutions,IT,West,Ana Torres,2025-11-21,2025-12-21,30,45930.88,45930.88,0.0,2025-12-29,Paid,Check,38,-8,No,Yes,0.01,No,0.0
+AP-0683,VND-009,MetalWorks Ltd.,Materials,South,Laura Chen,2025-11-12,2026-01-11,60,3011.56,3011.56,0.0,2026-01-17,Paid,Credit Card,66,-6,No,No,0.0,No,0.0
+AP-0684,VND-002,TechCore Solutions,IT,South,Laura Chen,2026-01-07,2026-02-21,45,72736.78,72736.78,0.0,2026-02-12,Paid,Credit Card,36,9,Yes,Yes,0.015,No,0.0
+AP-0685,VND-008,GreenEnergy Corp.,Utilities,West,Pedro Alvarez,2025-09-19,2025-11-18,60,4862.88,4862.88,0.0,2025-11-14,Paid,ACH,56,4,Yes,No,0.0,No,0.0
+AP-0686,VND-006,PowerGrid Utilities,Utilities,West,Laura Chen,2025-10-08,2025-10-23,15,13063.45,0.0,13063.45,,Overdue,Credit Card,,-220,No,No,0.0,No,0.0
+AP-0687,VND-016,CleanWater Utilities,Utilities,West,Laura Chen,2025-06-14,2025-07-14,30,10627.99,10627.99,0.0,2025-07-29,Paid,Credit Card,45,-15,No,Yes,0.01,No,0.0
+AP-0688,VND-020,TrustBuild Facilities,Facilities,Central,Laura Chen,2025-02-23,2025-03-10,15,23165.3,23165.3,0.0,2025-03-10,Paid,Credit Card,15,0,Yes,Yes,0.02,No,0.0
+AP-0689,VND-007,ProStaff Services,Services,East,Laura Chen,2025-06-11,2025-07-11,30,12235.33,12235.33,0.0,2025-07-11,Paid,ACH,30,0,Yes,No,0.0,No,0.0
+AP-0690,VND-021,PrimePack Logistics,Logistics,South,Ana Torres,2026-04-08,2026-06-07,60,10088.94,10088.94,0.0,2026-05-31,Paid,Credit Card,53,7,Yes,No,0.0,No,0.0
+AP-0691,VND-007,ProStaff Services,Services,North,Pedro Alvarez,2026-02-07,2026-03-09,30,35426.43,14604.32,20822.11,2026-03-04,Partial,Check,25,5,Yes,No,0.0,No,0.0
+AP-0692,VND-018,BuildFast Materials,Materials,Central,Marco Diaz,2025-07-23,2025-10-21,90,14565.59,14565.59,0.0,2025-10-09,Paid,ACH,78,12,Yes,No,0.0,No,0.0
+AP-0693,VND-020,TrustBuild Facilities,Facilities,West,Ana Torres,2025-04-02,2025-05-02,30,33615.08,33615.08,0.0,2025-05-11,Paid,Check,39,-9,No,Yes,0.01,No,0.0
+AP-0694,VND-025,RapidShip Co.,Logistics,West,Pedro Alvarez,2025-07-28,2025-08-27,30,4620.34,2051.34,2569.0,2025-09-06,Partial,ACH,40,-10,No,No,0.0,No,0.0
+AP-0695,VND-013,SafetyFirst Supplies,Materials,South,Pedro Alvarez,2025-10-17,2025-11-16,30,36881.99,36881.99,0.0,2025-11-16,Paid,Wire,30,0,Yes,Yes,0.01,No,0.0
+AP-0696,VND-005,CloudSys Inc.,IT,North,Laura Chen,2026-04-07,2026-05-07,30,73049.62,73049.62,0.0,2026-05-11,Paid,Check,34,-4,No,Yes,0.01,No,0.0
+AP-0697,VND-011,QuickFreight Inc.,Logistics,West,Marco Diaz,2025-09-20,2025-11-19,60,2388.06,2388.06,0.0,2025-11-19,Paid,Credit Card,60,0,Yes,Yes,0.01,No,0.0
+AP-0698,VND-008,GreenEnergy Corp.,Utilities,West,Laura Chen,2025-09-17,2025-10-02,15,7815.86,0.0,7815.86,,Overdue,ACH,,-241,No,Yes,0.02,No,0.0
+AP-0699,VND-022,Apex Consulting,Services,East,Marco Diaz,2025-09-24,2025-10-24,30,9285.06,9285.06,0.0,2025-10-21,Paid,ACH,27,3,Yes,Yes,0.01,No,0.0
+AP-0700,VND-023,CoolTech Systems,IT,Central,Pedro Alvarez,2025-04-30,2025-06-14,45,28495.22,28495.22,0.0,2025-06-14,Paid,Wire,45,0,Yes,No,0.0,No,0.0
+AP-0701,VND-009,MetalWorks Ltd.,Materials,East,Pedro Alvarez,2025-09-28,2025-11-12,45,26814.69,26814.69,0.0,2025-11-12,Paid,Check,45,0,Yes,Yes,0.015,No,0.0
+AP-0702,VND-005,CloudSys Inc.,IT,Central,Pedro Alvarez,2025-06-02,2025-07-02,30,9092.54,9092.54,0.0,2025-06-23,Paid,ACH,21,9,Yes,Yes,0.01,No,0.0
+AP-0703,VND-006,PowerGrid Utilities,Utilities,West,Pedro Alvarez,2025-02-11,2025-05-12,90,6902.04,6902.04,0.0,2025-05-09,Paid,ACH,87,3,Yes,No,0.0,No,0.0
+AP-0704,VND-024,EliteFacilities Corp.,Facilities,South,Sofia Reyes,2025-07-28,2025-08-27,30,30649.71,30649.71,0.0,2025-08-28,Paid,Check,31,-1,No,Yes,0.01,No,0.0
+AP-0705,VND-017,OfficePro Services,Services,East,Ana Torres,2025-07-04,2025-07-19,15,18407.5,18407.5,0.0,2025-07-12,Paid,Wire,8,7,Yes,Yes,0.02,No,0.0
+AP-0706,VND-001,Acme Supplies Co.,Materials,East,Sofia Reyes,2025-04-19,2025-06-18,60,42174.91,42174.91,0.0,2025-06-04,Paid,Credit Card,46,14,Yes,Yes,0.01,No,0.0
+AP-0707,VND-023,CoolTech Systems,IT,West,Pedro Alvarez,2025-12-04,2025-12-19,15,77732.79,0.0,77732.79,,Overdue,Check,,-163,No,Yes,0.02,No,0.0
+AP-0708,VND-011,QuickFreight Inc.,Logistics,Central,Marco Diaz,2025-10-17,2025-11-01,15,7140.25,7140.25,0.0,2025-11-08,Paid,Wire,22,-7,No,Yes,0.02,No,0.0
+AP-0709,VND-013,SafetyFirst Supplies,Materials,East,Marco Diaz,2025-04-02,2025-06-01,60,2984.58,2984.58,0.0,2025-05-30,Paid,Wire,58,2,Yes,Yes,0.01,No,0.0
+AP-0710,VND-013,SafetyFirst Supplies,Materials,East,Marco Diaz,2026-05-18,2026-07-02,45,40452.82,0.0,40452.82,,Overdue,ACH,,32,No,No,0.0,No,0.0
+AP-0711,VND-020,TrustBuild Facilities,Facilities,South,Laura Chen,2025-07-24,2025-09-22,60,18157.56,18157.56,0.0,2025-09-15,Paid,ACH,53,7,Yes,No,0.0,No,0.0
+AP-0712,VND-025,RapidShip Co.,Logistics,West,Laura Chen,2026-03-13,2026-05-12,60,2766.0,0.0,2766.0,,Overdue,Wire,,-19,No,Yes,0.01,No,0.0
+AP-0713,VND-021,PrimePack Logistics,Logistics,South,Pedro Alvarez,2026-04-25,2026-06-09,45,9309.75,0.0,9309.75,,Pending,ACH,,,,No,0.0,No,0.0
+AP-0714,VND-005,CloudSys Inc.,IT,East,Marco Diaz,2025-02-18,2025-04-04,45,46324.57,46324.57,0.0,2025-04-01,Paid,Credit Card,42,3,Yes,No,0.0,No,0.0
+AP-0715,VND-017,OfficePro Services,Services,West,Pedro Alvarez,2025-09-17,2025-12-16,90,16151.93,16151.93,0.0,2025-12-29,Paid,ACH,103,-13,No,Yes,0.005,No,0.0
+AP-0716,VND-015,ExpressRoute Logistics,Logistics,South,Marco Diaz,2025-03-27,2025-04-11,15,8908.78,8908.78,0.0,2025-04-12,Paid,Credit Card,16,-1,No,No,0.0,No,0.0
+AP-0717,VND-024,EliteFacilities Corp.,Facilities,West,Pedro Alvarez,2025-07-11,2025-09-09,60,8965.26,0.0,8965.26,,Overdue,Check,,-264,No,Yes,0.01,No,0.0
+AP-0718,VND-009,MetalWorks Ltd.,Materials,North,Pedro Alvarez,2026-02-09,2026-02-24,15,7600.56,7600.56,0.0,2026-02-19,Paid,ACH,10,5,Yes,Yes,0.02,No,0.0
+AP-0719,VND-024,EliteFacilities Corp.,Facilities,Central,Pedro Alvarez,2026-02-09,2026-04-10,60,28553.14,0.0,28553.14,,Pending,Check,,,,Yes,0.01,No,0.0
+AP-0720,VND-001,Acme Supplies Co.,Materials,South,Sofia Reyes,2025-05-29,2025-08-27,90,33187.51,33187.51,0.0,2025-08-12,Paid,Wire,75,15,Yes,Yes,0.005,No,0.0
+AP-0721,VND-018,BuildFast Materials,Materials,South,Sofia Reyes,2025-06-01,2025-08-30,90,24751.48,24751.48,0.0,2025-09-06,Paid,Check,97,-7,No,Yes,0.005,No,0.0
+AP-0722,VND-016,CleanWater Utilities,Utilities,West,Sofia Reyes,2025-07-26,2025-08-25,30,4775.06,4775.06,0.0,2025-09-04,Paid,Credit Card,40,-10,No,No,0.0,No,0.0
+AP-0723,VND-011,QuickFreight Inc.,Logistics,North,Sofia Reyes,2026-05-23,2026-07-22,60,15004.49,0.0,15004.49,,Pending,Credit Card,,,,Yes,0.01,No,0.0
+AP-0724,VND-016,CleanWater Utilities,Utilities,West,Pedro Alvarez,2025-03-04,2025-04-03,30,8160.48,8160.48,0.0,2025-04-18,Paid,Credit Card,45,-15,No,Yes,0.01,No,0.0
+AP-0725,VND-014,NetConnect Systems,IT,West,Sofia Reyes,2026-04-05,2026-06-04,60,57313.58,0.0,57313.58,,Pending,Credit Card,,,,Yes,0.01,No,0.0
+AP-0726,VND-012,FacilityPro Services,Facilities,West,Marco Diaz,2026-04-25,2026-06-24,60,6328.23,6328.23,0.0,2026-05-31,Paid,Wire,36,24,Yes,Yes,0.01,No,0.0
+AP-0727,VND-022,Apex Consulting,Services,East,Pedro Alvarez,2025-10-17,2025-11-16,30,28555.81,28555.81,0.0,2025-11-18,Paid,Wire,32,-2,No,Yes,0.01,No,0.0
+AP-0728,VND-016,CleanWater Utilities,Utilities,North,Pedro Alvarez,2025-08-29,2025-10-13,45,3536.78,3536.78,0.0,2025-10-17,Paid,Credit Card,49,-4,No,Yes,0.015,No,0.0
+AP-0729,VND-009,MetalWorks Ltd.,Materials,East,Marco Diaz,2025-03-07,2025-03-22,15,18211.27,18211.27,0.0,2025-03-14,Paid,Wire,7,8,Yes,Yes,0.02,No,0.0
+AP-0730,VND-011,QuickFreight Inc.,Logistics,East,Sofia Reyes,2025-04-17,2025-05-17,30,14421.69,14421.69,0.0,2025-05-14,Paid,Check,27,3,Yes,No,0.0,No,0.0
+AP-0731,VND-015,ExpressRoute Logistics,Logistics,North,Sofia Reyes,2025-04-18,2025-05-03,15,4173.88,4173.88,0.0,2025-04-25,Paid,ACH,7,8,Yes,Yes,0.02,No,0.0
+AP-0732,VND-023,CoolTech Systems,IT,West,Ana Torres,2025-06-07,2025-07-07,30,53531.97,53531.97,0.0,2025-07-16,Paid,Credit Card,39,-9,No,Yes,0.01,No,0.0
+AP-0733,VND-007,ProStaff Services,Services,West,Pedro Alvarez,2026-05-01,2026-05-31,30,15628.84,0.0,15628.84,,Pending,ACH,,,,Yes,0.01,No,0.0
+AP-0734,VND-025,RapidShip Co.,Logistics,West,Laura Chen,2026-03-08,2026-04-07,30,15957.1,15957.1,0.0,2026-04-22,Paid,Wire,45,-15,No,Yes,0.01,No,0.0
+AP-0735,VND-017,OfficePro Services,Services,East,Sofia Reyes,2025-01-11,2025-02-10,30,29552.15,29552.15,0.0,2025-01-30,Paid,Credit Card,19,11,Yes,Yes,0.01,No,0.0
+AP-0736,VND-011,QuickFreight Inc.,Logistics,East,Pedro Alvarez,2025-03-04,2025-05-03,60,8472.06,0.0,8472.06,,Overdue,Wire,,-393,No,Yes,0.01,No,0.0
+AP-0737,VND-005,CloudSys Inc.,IT,Central,Sofia Reyes,2026-02-16,2026-04-17,60,71433.71,32634.32,38799.39,2026-04-23,Partial,Check,66,-6,No,No,0.0,No,0.0
+AP-0738,VND-001,Acme Supplies Co.,Materials,East,Ana Torres,2026-04-02,2026-06-01,60,32906.21,32906.21,0.0,2026-05-26,Paid,Wire,54,6,Yes,No,0.0,No,0.0
+AP-0739,VND-021,PrimePack Logistics,Logistics,West,Marco Diaz,2025-02-07,2025-03-09,30,11211.24,11211.24,0.0,2025-03-11,Paid,Check,32,-2,No,Yes,0.01,No,0.0
+AP-0740,VND-005,CloudSys Inc.,IT,Central,Ana Torres,2025-04-06,2025-05-06,30,43375.37,43375.37,0.0,2025-05-05,Paid,Check,29,1,Yes,Yes,0.01,No,0.0
+AP-0741,VND-018,BuildFast Materials,Materials,Central,Laura Chen,2026-03-09,2026-04-23,45,49373.83,0.0,49373.83,,Pending,Wire,,,,Yes,0.015,No,0.0
+AP-0742,VND-021,PrimePack Logistics,Logistics,Central,Laura Chen,2025-05-08,2025-05-23,15,9526.0,9526.0,0.0,2025-05-22,Paid,ACH,14,1,Yes,Yes,0.02,No,0.0
+AP-0743,VND-011,QuickFreight Inc.,Logistics,South,Ana Torres,2025-11-03,2026-01-02,60,6406.17,6406.17,0.0,2025-12-28,Paid,Wire,55,5,Yes,No,0.0,No,0.0
+AP-0744,VND-017,OfficePro Services,Services,South,Sofia Reyes,2026-01-05,2026-02-04,30,19809.45,19809.45,0.0,2026-01-24,Paid,Check,19,11,Yes,Yes,0.01,No,0.0
+AP-0745,VND-014,NetConnect Systems,IT,North,Sofia Reyes,2025-05-14,2025-07-13,60,40718.98,40718.98,0.0,2025-07-03,Paid,ACH,50,10,Yes,Yes,0.01,No,0.0
+AP-0746,VND-017,OfficePro Services,Services,West,Laura Chen,2026-03-27,2026-05-26,60,28493.66,28493.66,0.0,2026-05-25,Paid,Credit Card,59,1,Yes,No,0.0,No,0.0
+AP-0747,VND-006,PowerGrid Utilities,Utilities,South,Ana Torres,2026-04-14,2026-07-13,90,2376.09,0.0,2376.09,,Pending,Wire,,,,No,0.0,No,0.0
+AP-0748,VND-007,ProStaff Services,Services,West,Pedro Alvarez,2026-01-14,2026-02-13,30,37102.8,13177.73,23925.07,2026-02-19,Partial,ACH,36,-6,No,Yes,0.01,No,0.0
+AP-0749,VND-019,SkyNet IT Solutions,IT,East,Sofia Reyes,2026-01-16,2026-02-15,30,27869.34,27869.34,0.0,2026-02-19,Paid,Wire,34,-4,No,Yes,0.01,No,0.0
+AP-0750,VND-019,SkyNet IT Solutions,IT,West,Sofia Reyes,2025-08-09,2025-09-23,45,18730.78,18730.78,0.0,2025-09-23,Paid,Check,45,0,Yes,No,0.0,No,0.0
