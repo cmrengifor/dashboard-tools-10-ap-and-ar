@@ -1,0 +1,846 @@
+invoice_id,customer_id,customer_name,customer_segment,region,sales_rep,collector,invoice_date,due_date,payment_terms,invoice_amount,paid_amount,outstanding_balance,payment_date,days_outstanding,days_overdue,payment_status,collection_status,payment_method,promise_to_pay_date,last_contact_date
+RCV-0001,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-04-08,2025-04-23,15,36494.35,36494.35,0.0,2025-05-18,54,39,Paid,31-60 DPD,Wire,,
+RCV-0002,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2024-12-09,2025-03-09,90,2286.29,2286.29,0.0,2025-04-15,174,84,Paid,61-90 DPD,Check,,
+RCV-0003,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-04-13,2025-05-13,30,61863.16,61863.16,0.0,2025-05-03,49,19,Paid,1-30 DPD,Credit Card,,
+RCV-0004,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-04-27,2025-05-12,15,67016.54,15630.57,51385.97,2025-05-10,35,20,Partial,1-30 DPD,Check,2025-07-01,2025-05-29
+RCV-0005,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-01-04,2025-03-05,60,72247.85,72247.85,0.0,2025-02-27,148,88,Paid,61-90 DPD,ACH,,
+RCV-0006,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-03-04,2025-03-19,15,13201.05,13201.05,0.0,2025-04-23,89,74,Paid,61-90 DPD,Credit Card,,
+RCV-0007,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-04-30,2025-06-14,45,54481.48,0.0,54481.48,,32,0,Current,Current,ACH,,
+RCV-0008,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-01-12,2025-01-27,15,99726.12,99726.12,0.0,2025-03-07,140,125,Paid,90+ DPD,Credit Card,,
+RCV-0009,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-01-12,2025-02-11,30,27860.79,27860.79,0.0,2025-02-16,140,110,Paid,90+ DPD,Credit Card,,
+RCV-0010,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-02-18,2025-03-05,15,113774.58,113774.58,0.0,2025-05-09,103,88,Paid,61-90 DPD,ACH,,
+RCV-0011,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-05-17,2025-07-01,45,91698.57,91698.57,0.0,2025-06-19,15,0,Paid,Current,Credit Card,,
+RCV-0012,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-01-03,2025-03-04,60,8602.82,8602.82,0.0,2025-04-15,149,89,Paid,61-90 DPD,Credit Card,,
+RCV-0013,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-05-03,2025-06-02,30,37191.74,37191.74,0.0,2025-05-19,29,0,Paid,Current,ACH,,
+RCV-0014,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-02-26,2025-04-27,60,69918.84,69918.84,0.0,2025-05-07,95,35,Paid,31-60 DPD,ACH,,
+RCV-0015,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-05-21,2025-06-05,15,30308.89,30308.89,0.0,2025-05-28,11,0,Paid,Current,Credit Card,,
+RCV-0016,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-01-26,2025-02-10,15,106283.45,106283.45,0.0,2025-02-21,126,111,Paid,90+ DPD,Wire,,
+RCV-0017,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-05-05,2025-06-04,30,21381.35,21381.35,0.0,2025-06-02,27,0,Paid,Current,ACH,,
+RCV-0018,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-03-29,2025-06-27,90,92815.03,0.0,92815.03,,64,0,Current,Current,Credit Card,,
+RCV-0019,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-03-20,2025-06-18,90,101026.72,0.0,101026.72,,73,0,Current,Current,ACH,,
+RCV-0020,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-02-10,2025-03-27,45,65832.64,14675.74,51156.9,2025-04-27,111,66,Partial,61-90 DPD,Check,2025-06-05,2025-06-01
+RCV-0021,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-04-21,2025-05-06,15,12613.02,6825.89,5787.13,2025-05-19,41,26,Partial,1-30 DPD,ACH,2025-06-25,2025-05-26
+RCV-0022,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-03-16,2025-05-15,60,105513.93,105513.93,0.0,2025-05-09,77,17,Paid,1-30 DPD,Credit Card,,
+RCV-0023,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-03-24,2025-05-08,45,103987.71,103987.71,0.0,2025-05-29,69,24,Paid,1-30 DPD,ACH,,
+RCV-0024,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-03-08,2025-04-07,30,93552.62,93552.62,0.0,2025-05-21,85,55,Paid,31-60 DPD,Check,,
+RCV-0025,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-01-25,2025-04-25,90,48477.68,48477.68,0.0,2025-05-12,127,37,Paid,31-60 DPD,Credit Card,,
+RCV-0026,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-02-20,2025-05-21,90,101527.15,101527.15,0.0,2025-06-01,101,11,Paid,1-30 DPD,Check,,
+RCV-0027,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2024-12-06,2024-12-21,15,19114.34,19114.34,0.0,2025-02-04,177,162,Paid,90+ DPD,Check,,
+RCV-0028,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-05-15,2025-06-14,30,109500.79,0.0,109500.79,,17,0,Current,Current,ACH,,
+RCV-0029,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2024-12-28,2025-01-12,15,77456.14,77456.14,0.0,2025-02-07,155,140,Paid,90+ DPD,Wire,,
+RCV-0030,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2024-12-11,2025-01-25,45,9136.46,9136.46,0.0,2025-02-25,172,127,Paid,90+ DPD,Credit Card,,
+RCV-0031,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-05-07,2025-06-21,45,55548.9,55548.9,0.0,2025-05-17,25,0,Paid,Current,ACH,,
+RCV-0032,CUST-001,Grupo Alfa SA,Enterprise,East,Carlos Reyes,Marco Torres,2025-01-21,2025-03-22,60,95017.31,95017.31,0.0,2025-02-18,131,71,Paid,61-90 DPD,ACH,,
+RCV-0033,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2024-12-15,2025-01-29,45,98476.5,0.0,98476.5,,168,123,Overdue,90+ DPD,Check,,2025-05-24
+RCV-0034,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2024-12-07,2024-12-22,15,10226.17,1498.18,8727.99,2025-04-10,176,161,Partial,90+ DPD,Credit Card,2025-06-22,2025-05-20
+RCV-0035,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-03-06,2025-04-20,45,57314.66,21980.86,35333.8,2025-05-18,87,42,Partial,31-60 DPD,Wire,2025-06-25,2025-05-19
+RCV-0036,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-01-05,2025-02-04,30,49425.6,49425.6,0.0,2025-03-24,147,117,Paid,90+ DPD,ACH,,
+RCV-0037,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2024-12-14,2025-01-28,45,42070.13,42070.13,0.0,2025-04-21,169,124,Paid,90+ DPD,Credit Card,,
+RCV-0038,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-02-26,2025-03-28,30,31997.53,31997.53,0.0,2025-04-20,95,65,Paid,61-90 DPD,Wire,,
+RCV-0039,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2024-12-07,2025-01-06,30,100093.84,100093.84,0.0,2025-04-12,176,146,Paid,90+ DPD,Credit Card,,
+RCV-0040,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-03-27,2025-04-11,15,58622.49,58622.49,0.0,2025-04-18,66,51,Paid,31-60 DPD,ACH,,
+RCV-0041,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-05-25,2025-07-09,45,70708.4,0.0,70708.4,,7,0,Current,Current,Credit Card,,
+RCV-0042,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2024-12-21,2025-02-19,60,83568.21,0.0,83568.21,,162,102,Overdue,90+ DPD,ACH,,2025-05-24
+RCV-0043,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-02-25,2025-04-26,60,59836.77,59836.77,0.0,2025-05-21,96,36,Paid,31-60 DPD,Credit Card,,
+RCV-0044,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-02-17,2025-05-18,90,52692.07,52692.07,0.0,2025-05-04,104,14,Paid,1-30 DPD,Check,,
+RCV-0045,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-03-10,2025-04-24,45,53760.98,0.0,53760.98,,83,38,Overdue,31-60 DPD,Credit Card,2025-06-06,2025-05-26
+RCV-0046,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-03-04,2025-04-18,45,79524.5,79524.5,0.0,2025-03-22,89,44,Paid,31-60 DPD,ACH,,
+RCV-0047,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-04-26,2025-06-25,60,84443.15,84443.15,0.0,2025-05-28,36,0,Paid,Current,Wire,,
+RCV-0048,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2024-12-31,2025-02-14,45,42532.61,42532.61,0.0,2025-03-29,152,107,Paid,90+ DPD,ACH,,
+RCV-0049,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-03-23,2025-04-22,30,22412.75,0.0,22412.75,,70,40,Overdue,31-60 DPD,Credit Card,2025-06-07,2025-05-24
+RCV-0050,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2024-12-16,2025-02-14,60,29334.89,29334.89,0.0,2025-03-17,167,107,Paid,90+ DPD,ACH,,
+RCV-0051,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-04-30,2025-07-29,90,119702.69,119702.69,0.0,2025-05-08,32,0,Paid,Current,ACH,,
+RCV-0052,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-02-25,2025-04-26,60,57189.63,38099.43,19090.2,2025-05-02,96,36,Partial,31-60 DPD,Credit Card,2025-06-11,2025-05-23
+RCV-0053,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-05-19,2025-08-17,90,114380.93,114380.93,0.0,2025-07-30,13,0,Paid,Current,Wire,,
+RCV-0054,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-04-03,2025-05-18,45,43380.84,43380.84,0.0,2025-05-07,59,14,Paid,1-30 DPD,Check,,
+RCV-0055,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-01-10,2025-01-25,15,63591.08,0.0,63591.08,,142,127,Overdue,90+ DPD,Check,,2025-05-25
+RCV-0056,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-03-26,2025-04-10,15,66311.12,0.0,66311.12,,67,52,Overdue,31-60 DPD,Credit Card,,2025-05-23
+RCV-0057,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-01-29,2025-02-13,15,45631.34,0.0,45631.34,,123,108,Overdue,90+ DPD,ACH,2025-06-29,2025-05-20
+RCV-0058,CUST-002,Retail Mega Corp,Retail,North,Sofia Martinez,Marco Torres,2025-01-18,2025-03-04,45,89949.84,89949.84,0.0,2025-03-28,134,89,Paid,61-90 DPD,Check,,
+RCV-0059,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-05-21,2025-08-19,90,31482.03,0.0,31482.03,,11,0,Current,Current,ACH,,
+RCV-0060,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-05-04,2025-06-03,30,88137.92,88137.92,0.0,2025-05-20,28,0,Paid,Current,Credit Card,,
+RCV-0061,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-03-25,2025-05-09,45,41049.34,0.0,41049.34,,68,23,Overdue,1-30 DPD,ACH,2025-06-22,2025-05-25
+RCV-0062,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-04-11,2025-06-10,60,59078.66,59078.66,0.0,2025-04-13,51,0,Paid,Current,Credit Card,,
+RCV-0063,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-05-18,2025-06-02,15,22061.97,0.0,22061.97,,14,0,Current,Current,Check,,
+RCV-0064,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-01-22,2025-03-08,45,68090.81,68090.81,0.0,2025-04-05,130,85,Paid,61-90 DPD,ACH,,
+RCV-0065,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-01-08,2025-01-23,15,74026.64,74026.64,0.0,2025-04-12,144,129,Paid,90+ DPD,Credit Card,,
+RCV-0066,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-01-29,2025-02-28,30,14382.21,14382.21,0.0,2025-03-18,123,93,Paid,90+ DPD,Wire,,
+RCV-0067,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-03-13,2025-03-28,15,116381.07,116381.07,0.0,2025-05-01,80,65,Paid,61-90 DPD,Check,,
+RCV-0068,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-03-23,2025-04-07,15,20699.33,20699.33,0.0,2025-05-14,70,55,Paid,31-60 DPD,Check,,
+RCV-0069,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-03-24,2025-05-08,45,22505.91,15444.67,7061.24,2025-05-25,69,24,Partial,1-30 DPD,ACH,,2025-05-30
+RCV-0070,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2024-12-07,2024-12-22,15,95717.47,95717.47,0.0,2025-01-19,176,161,Paid,90+ DPD,ACH,,
+RCV-0071,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2024-12-14,2025-02-12,60,26927.9,26927.9,0.0,2025-03-03,169,109,Paid,90+ DPD,Credit Card,,
+RCV-0072,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-04-30,2025-06-14,45,110456.05,0.0,110456.05,,32,0,Current,Current,Wire,,
+RCV-0073,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-01-28,2025-02-27,30,66130.05,66130.05,0.0,2025-04-23,124,94,Paid,90+ DPD,Credit Card,,
+RCV-0074,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-05-21,2025-06-05,15,62492.37,62492.37,0.0,2025-05-28,11,0,Paid,Current,ACH,,
+RCV-0075,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-04-29,2025-06-28,60,34457.62,34457.62,0.0,2025-06-21,33,0,Paid,Current,Wire,,
+RCV-0076,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-01-13,2025-02-12,30,93324.13,0.0,93324.13,,139,109,Overdue,90+ DPD,ACH,,2025-05-24
+RCV-0077,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-03-31,2025-05-30,60,49051.8,49051.8,0.0,2025-06-01,62,2,Paid,1-30 DPD,Credit Card,,
+RCV-0078,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-04-04,2025-04-19,15,75398.32,75398.32,0.0,2025-04-27,58,43,Paid,31-60 DPD,Credit Card,,
+RCV-0079,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-05-03,2025-08-01,90,20109.29,0.0,20109.29,,29,0,Current,Current,Check,,
+RCV-0080,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-01-18,2025-04-18,90,63159.02,63159.02,0.0,2025-04-05,134,44,Paid,31-60 DPD,Wire,,
+RCV-0081,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-02-01,2025-03-03,30,107984.11,107984.11,0.0,2025-03-26,120,90,Paid,61-90 DPD,ACH,,
+RCV-0082,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-03-20,2025-05-19,60,36812.93,0.0,36812.93,,73,13,Overdue,1-30 DPD,Wire,2025-06-04,2025-05-26
+RCV-0083,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-01-31,2025-04-01,60,49690.28,49690.28,0.0,2025-05-15,121,61,Paid,61-90 DPD,Check,,
+RCV-0084,CUST-003,TechVentures Ltd,SMB,East,Roberto Silva,Elena Ruiz,2025-05-17,2025-06-01,15,29256.25,0.0,29256.25,,15,0,Current,Current,ACH,,
+RCV-0085,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-02-04,2025-04-05,60,27700.94,27700.94,0.0,2025-06-01,117,57,Paid,31-60 DPD,Credit Card,,
+RCV-0086,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-05-20,2025-07-04,45,52617.43,52617.43,0.0,2025-06-09,12,0,Paid,Current,Check,,
+RCV-0087,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2024-12-11,2025-01-25,45,44274.87,44274.87,0.0,2025-03-07,172,127,Paid,90+ DPD,Wire,,
+RCV-0088,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-05-23,2025-07-22,60,61175.58,0.0,61175.58,,9,0,Current,Current,ACH,,
+RCV-0089,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-03-01,2025-04-30,60,112312.58,112312.58,0.0,2025-06-01,92,32,Paid,31-60 DPD,ACH,,
+RCV-0090,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-02-20,2025-04-06,45,29965.89,3251.78,26714.11,2025-04-24,101,56,Partial,31-60 DPD,Wire,2025-06-25,2025-05-26
+RCV-0091,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-02-21,2025-05-22,90,91765.61,91765.61,0.0,2025-02-23,100,10,Paid,1-30 DPD,ACH,,
+RCV-0092,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-01-11,2025-02-10,30,47143.98,47143.98,0.0,2025-02-26,141,111,Paid,90+ DPD,Check,,
+RCV-0093,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-02-16,2025-04-02,45,56311.67,56311.67,0.0,2025-04-28,105,60,Paid,31-60 DPD,Check,,
+RCV-0094,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-01-15,2025-04-15,90,4690.38,4690.38,0.0,2025-01-17,137,47,Paid,31-60 DPD,Credit Card,,
+RCV-0095,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2024-12-25,2025-01-09,15,113510.43,113510.43,0.0,2025-01-28,158,143,Paid,90+ DPD,ACH,,
+RCV-0096,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-04-06,2025-05-21,45,42308.07,25923.07,16385.0,2025-04-28,56,11,Partial,1-30 DPD,Wire,,2025-05-20
+RCV-0097,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-01-06,2025-02-20,45,43682.9,43682.9,0.0,2025-02-09,146,101,Paid,90+ DPD,ACH,,
+RCV-0098,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-02-08,2025-04-09,60,97491.49,97491.49,0.0,2025-04-23,113,53,Paid,31-60 DPD,Wire,,
+RCV-0099,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-01-06,2025-01-21,15,99907.61,99907.61,0.0,2025-03-01,146,131,Paid,90+ DPD,Credit Card,,
+RCV-0100,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2024-12-27,2025-03-27,90,102879.08,102879.08,0.0,2025-04-22,156,66,Paid,61-90 DPD,Wire,,
+RCV-0101,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-04-26,2025-05-26,30,61886.92,61886.92,0.0,2025-05-11,36,6,Paid,1-30 DPD,Check,,
+RCV-0102,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-02-17,2025-03-04,15,77748.16,77748.16,0.0,2025-04-07,104,89,Paid,61-90 DPD,Credit Card,,
+RCV-0103,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-01-22,2025-03-23,60,15031.41,15031.41,0.0,2025-04-02,130,70,Paid,61-90 DPD,Check,,
+RCV-0104,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-05-23,2025-06-07,15,13579.69,0.0,13579.69,,9,0,Current,Current,Wire,,
+RCV-0105,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-04-27,2025-06-11,45,38164.28,0.0,38164.28,,35,0,Current,Current,ACH,,
+RCV-0106,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-05-25,2025-08-23,90,74253.64,74253.64,0.0,2025-07-26,7,0,Paid,Current,Wire,,
+RCV-0107,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-02-26,2025-05-27,90,15429.38,15429.38,0.0,2025-04-30,95,5,Paid,1-30 DPD,Check,,
+RCV-0108,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-03-07,2025-04-21,45,84549.94,84549.94,0.0,2025-06-01,86,41,Paid,31-60 DPD,Credit Card,,
+RCV-0109,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-04-28,2025-05-28,30,100857.11,100857.11,0.0,2025-04-29,34,4,Paid,1-30 DPD,Check,,
+RCV-0110,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-03-07,2025-05-06,60,50459.11,50459.11,0.0,2025-04-06,86,26,Paid,1-30 DPD,Credit Card,,
+RCV-0111,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-03-12,2025-05-11,60,62159.24,62159.24,0.0,2025-03-16,81,21,Paid,1-30 DPD,Check,,
+RCV-0112,CUST-004,Ministerio de Obras,Government,North,Ana Fernandez,Isabela Costa,2025-01-07,2025-02-06,30,22251.18,9857.48,12393.7,2025-03-03,145,115,Partial,90+ DPD,Wire,,2025-05-30
+RCV-0113,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2024-12-24,2025-02-07,45,8398.15,8398.15,0.0,2025-03-28,159,114,Paid,90+ DPD,ACH,,
+RCV-0114,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-04-12,2025-04-27,15,82612.21,82612.21,0.0,2025-06-01,50,35,Paid,31-60 DPD,Wire,,
+RCV-0115,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-05-19,2025-07-03,45,53511.93,0.0,53511.93,,13,0,Current,Current,Wire,,
+RCV-0116,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-03-04,2025-03-19,15,45800.88,45800.88,0.0,2025-03-04,89,74,Paid,61-90 DPD,ACH,,
+RCV-0117,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-05-16,2025-06-15,30,66701.76,66701.76,0.0,2025-06-13,16,0,Paid,Current,Check,,
+RCV-0118,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-01-23,2025-02-22,30,117481.33,117481.33,0.0,2025-04-04,129,99,Paid,90+ DPD,Check,,
+RCV-0119,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-04-14,2025-04-29,15,32889.89,32889.89,0.0,2025-04-30,48,33,Paid,31-60 DPD,Credit Card,,
+RCV-0120,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-01-25,2025-04-25,90,97132.27,97132.27,0.0,2025-05-20,127,37,Paid,31-60 DPD,ACH,,
+RCV-0121,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-01-16,2025-01-31,15,109518.88,109518.88,0.0,2025-05-14,136,121,Paid,90+ DPD,Credit Card,,
+RCV-0122,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-04-13,2025-06-12,60,111060.12,0.0,111060.12,,49,0,Current,Current,Check,,
+RCV-0123,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2024-12-26,2025-02-24,60,49086.95,0.0,49086.95,,157,97,Overdue,90+ DPD,Credit Card,,2025-05-24
+RCV-0124,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-01-13,2025-04-13,90,108072.43,108072.43,0.0,2025-04-01,139,49,Paid,31-60 DPD,Credit Card,,
+RCV-0125,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2024-12-13,2025-01-12,30,69836.25,69836.25,0.0,2025-04-07,170,140,Paid,90+ DPD,Check,,
+RCV-0126,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-04-13,2025-06-12,60,69789.47,0.0,69789.47,,49,0,Current,Current,Check,,
+RCV-0127,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-05-22,2025-06-06,15,93708.5,0.0,93708.5,,10,0,Current,Current,Check,,
+RCV-0128,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-03-29,2025-06-27,90,31131.9,0.0,31131.9,,64,0,Current,Current,Credit Card,,
+RCV-0129,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-01-13,2025-04-13,90,12340.17,12340.17,0.0,2025-02-14,139,49,Paid,31-60 DPD,Wire,,
+RCV-0130,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-05-23,2025-07-07,45,29177.3,0.0,29177.3,,9,0,Current,Current,Credit Card,,
+RCV-0131,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-02-08,2025-04-09,60,41046.24,41046.24,0.0,2025-04-19,113,53,Paid,31-60 DPD,Check,,
+RCV-0132,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-02-01,2025-04-02,60,101087.26,0.0,101087.26,,120,60,Overdue,31-60 DPD,ACH,,2025-06-01
+RCV-0133,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2024-12-30,2025-02-28,60,113097.51,113097.51,0.0,2025-04-02,153,93,Paid,90+ DPD,Check,,
+RCV-0134,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-02-25,2025-03-27,30,60604.07,60604.07,0.0,2025-03-31,96,66,Paid,61-90 DPD,Credit Card,,
+RCV-0135,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-04-06,2025-06-05,60,96760.27,0.0,96760.27,,56,0,Current,Current,ACH,,
+RCV-0136,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-01-18,2025-03-19,60,103613.21,103613.21,0.0,2025-03-30,134,74,Paid,61-90 DPD,Wire,,
+RCV-0137,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-01-31,2025-03-02,30,11276.48,11276.48,0.0,2025-02-23,121,91,Paid,90+ DPD,ACH,,
+RCV-0138,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2024-12-06,2025-03-06,90,113128.37,113128.37,0.0,2025-03-06,177,87,Paid,61-90 DPD,Check,,
+RCV-0139,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-02-18,2025-05-19,90,18711.92,18711.92,0.0,2025-06-01,103,13,Paid,1-30 DPD,Check,,
+RCV-0140,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-05-22,2025-07-21,60,71882.53,71882.53,0.0,2025-07-18,10,0,Paid,Current,Credit Card,,
+RCV-0141,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-02-09,2025-02-24,15,103530.12,103530.12,0.0,2025-03-15,112,97,Paid,90+ DPD,Check,,
+RCV-0142,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-01-06,2025-04-06,90,81674.46,81674.46,0.0,2025-04-22,146,56,Paid,31-60 DPD,Check,,
+RCV-0143,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-05-24,2025-08-22,90,16629.97,0.0,16629.97,,8,0,Current,Current,ACH,,
+RCV-0144,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2024-12-05,2025-02-03,60,52207.8,52207.8,0.0,2025-03-14,178,118,Paid,90+ DPD,Check,,
+RCV-0145,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-05-03,2025-06-17,45,106859.49,0.0,106859.49,,29,0,Current,Current,Check,,
+RCV-0146,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-03-31,2025-05-15,45,18977.96,0.0,18977.96,,62,17,Overdue,1-30 DPD,Wire,2025-06-23,2025-05-26
+RCV-0147,CUST-005,Distribuidora Norte,Retail,East,Roberto Silva,Marco Torres,2025-04-28,2025-06-12,45,48677.62,48677.62,0.0,2025-05-25,34,0,Paid,Current,Credit Card,,
+RCV-0148,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-05-06,2025-08-04,90,41232.99,0.0,41232.99,,26,0,Current,Current,ACH,,
+RCV-0149,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-05-13,2025-05-28,15,23790.23,23790.23,0.0,2025-05-17,19,4,Paid,1-30 DPD,Credit Card,,
+RCV-0150,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-05-08,2025-06-07,30,105518.55,0.0,105518.55,,24,0,Current,Current,ACH,,
+RCV-0151,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-03-14,2025-04-28,45,102921.11,102921.11,0.0,2025-05-30,79,34,Paid,31-60 DPD,Check,,
+RCV-0152,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-05-21,2025-06-20,30,30835.93,0.0,30835.93,,11,0,Current,Current,ACH,,
+RCV-0153,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-03-31,2025-06-29,90,116549.6,0.0,116549.6,,62,0,Current,Current,Wire,,
+RCV-0154,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-05-23,2025-08-21,90,22658.44,0.0,22658.44,,9,0,Current,Current,Wire,,
+RCV-0155,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-03-24,2025-04-23,30,81158.17,53779.24,27378.93,2025-05-09,69,39,Partial,31-60 DPD,Wire,,2025-05-31
+RCV-0156,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2024-12-08,2025-02-06,60,36400.32,36400.32,0.0,2025-02-13,175,115,Paid,90+ DPD,ACH,,
+RCV-0157,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-03-13,2025-05-12,60,117786.46,117786.46,0.0,2025-04-29,80,20,Paid,1-30 DPD,ACH,,
+RCV-0158,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-02-13,2025-03-30,45,52455.73,52455.73,0.0,2025-04-19,108,63,Paid,61-90 DPD,Credit Card,,
+RCV-0159,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-05-20,2025-08-18,90,73662.67,0.0,73662.67,,12,0,Current,Current,Credit Card,,
+RCV-0160,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-01-28,2025-02-12,15,5713.31,5713.31,0.0,2025-03-15,124,109,Paid,90+ DPD,ACH,,
+RCV-0161,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-01-14,2025-01-29,15,20604.72,4324.65,16280.07,2025-04-02,138,123,Partial,90+ DPD,Wire,2025-06-16,2025-05-25
+RCV-0162,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-02-04,2025-05-05,90,84304.77,84304.77,0.0,2025-04-18,117,27,Paid,1-30 DPD,ACH,,
+RCV-0163,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-04-21,2025-05-06,15,41826.15,0.0,41826.15,,41,26,Overdue,1-30 DPD,Check,,2025-05-23
+RCV-0164,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-04-24,2025-07-23,90,78714.19,78714.19,0.0,2025-05-22,38,0,Paid,Current,ACH,,
+RCV-0165,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2024-12-12,2024-12-27,15,23222.59,23222.59,0.0,2025-03-17,171,156,Paid,90+ DPD,Check,,
+RCV-0166,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-05-14,2025-08-12,90,97337.48,97337.48,0.0,2025-05-25,18,0,Paid,Current,ACH,,
+RCV-0167,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-04-25,2025-05-10,15,91638.76,91638.76,0.0,2025-05-12,37,22,Paid,1-30 DPD,Wire,,
+RCV-0168,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-03-16,2025-04-30,45,101708.59,101708.59,0.0,2025-04-17,77,32,Paid,31-60 DPD,Credit Card,,
+RCV-0169,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2024-12-31,2025-03-01,60,89366.25,89366.25,0.0,2025-03-19,152,92,Paid,90+ DPD,ACH,,
+RCV-0170,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-01-31,2025-02-15,15,11047.5,11047.5,0.0,2025-03-18,121,106,Paid,90+ DPD,Wire,,
+RCV-0171,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2024-12-21,2025-03-21,90,115842.42,0.0,115842.42,,162,72,Overdue,61-90 DPD,Check,2025-06-26,2025-05-18
+RCV-0172,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-03-18,2025-05-02,45,51797.08,51797.08,0.0,2025-06-01,75,30,Paid,1-30 DPD,Wire,,
+RCV-0173,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-04-30,2025-06-14,45,73940.3,0.0,73940.3,,32,0,Current,Current,Credit Card,,
+RCV-0174,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-02-05,2025-03-22,45,97483.25,97483.25,0.0,2025-03-09,116,71,Paid,61-90 DPD,ACH,,
+RCV-0175,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-05-19,2025-06-03,15,61864.3,0.0,61864.3,,13,0,Current,Current,Credit Card,,
+RCV-0176,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-05-12,2025-05-27,15,36247.14,36247.14,0.0,2025-05-23,20,5,Paid,1-30 DPD,ACH,,
+RCV-0177,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-03-21,2025-05-05,45,46129.87,46129.87,0.0,2025-05-30,72,27,Paid,1-30 DPD,ACH,,
+RCV-0178,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-04-27,2025-05-12,15,103790.61,103790.61,0.0,2025-05-20,35,20,Paid,1-30 DPD,Check,,
+RCV-0179,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-02-22,2025-04-08,45,19652.51,19652.51,0.0,2025-05-02,99,54,Paid,31-60 DPD,ACH,,
+RCV-0180,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-03-10,2025-04-24,45,47312.9,47312.9,0.0,2025-06-01,83,38,Paid,31-60 DPD,Check,,
+RCV-0181,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-01-06,2025-03-07,60,16604.45,16604.45,0.0,2025-04-13,146,86,Paid,61-90 DPD,ACH,,
+RCV-0182,CUST-006,Inversiones Sur,Enterprise,South,Ana Fernandez,Natalia Vega,2025-01-05,2025-01-20,15,99681.77,99681.77,0.0,2025-03-16,147,132,Paid,90+ DPD,Check,,
+RCV-0183,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-04-14,2025-04-29,15,75522.64,0.0,75522.64,,48,33,Overdue,31-60 DPD,Credit Card,,2025-05-22
+RCV-0184,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-01-30,2025-03-31,60,12326.18,12326.18,0.0,2025-02-17,122,62,Paid,61-90 DPD,Check,,
+RCV-0185,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2024-12-11,2025-03-11,90,118947.47,68790.06,50157.41,2024-12-14,172,82,Partial,61-90 DPD,ACH,,2025-05-24
+RCV-0186,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2024-12-26,2025-02-09,45,58774.27,58774.27,0.0,2025-03-13,157,112,Paid,90+ DPD,ACH,,
+RCV-0187,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-03-18,2025-04-17,30,108056.97,108056.97,0.0,2025-03-26,75,45,Paid,31-60 DPD,Credit Card,,
+RCV-0188,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-04-10,2025-05-10,30,50472.59,50472.59,0.0,2025-04-16,52,22,Paid,1-30 DPD,Wire,,
+RCV-0189,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-03-08,2025-05-07,60,80999.23,0.0,80999.23,,85,25,Overdue,1-30 DPD,Check,,2025-05-24
+RCV-0190,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2024-12-06,2025-02-04,60,40196.51,40196.51,0.0,2025-03-14,177,117,Paid,90+ DPD,Credit Card,,
+RCV-0191,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2024-12-27,2025-02-25,60,110707.62,13425.52,97282.1,2025-03-17,156,96,Partial,90+ DPD,Wire,,2025-05-28
+RCV-0192,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-01-16,2025-03-17,60,20620.4,20620.4,0.0,2025-02-21,136,76,Paid,61-90 DPD,ACH,,
+RCV-0193,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-03-06,2025-05-05,60,34805.64,34805.64,0.0,2025-03-29,87,27,Paid,1-30 DPD,ACH,,
+RCV-0194,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-02-15,2025-03-02,15,51122.63,51122.63,0.0,2025-03-11,106,91,Paid,90+ DPD,Credit Card,,
+RCV-0195,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-05-27,2025-07-26,60,30345.64,30345.64,0.0,2025-06-11,5,0,Paid,Current,Wire,,
+RCV-0196,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-02-09,2025-03-26,45,110210.24,47337.6,62872.64,2025-05-27,112,67,Partial,61-90 DPD,Check,2025-06-28,2025-05-26
+RCV-0197,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-01-03,2025-02-02,30,71419.67,71419.67,0.0,2025-02-10,149,119,Paid,90+ DPD,Wire,,
+RCV-0198,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-02-17,2025-05-18,90,47022.45,0.0,47022.45,,104,14,Overdue,1-30 DPD,Check,2025-06-06,2025-05-22
+RCV-0199,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2024-12-30,2025-01-14,15,39541.8,39541.8,0.0,2025-02-11,153,138,Paid,90+ DPD,ACH,,
+RCV-0200,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-03-31,2025-05-30,60,104818.89,104818.89,0.0,2025-05-03,62,2,Paid,1-30 DPD,Check,,
+RCV-0201,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-01-04,2025-01-19,15,7389.31,7389.31,0.0,2025-04-21,148,133,Paid,90+ DPD,ACH,,
+RCV-0202,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-03-14,2025-05-13,60,8114.76,0.0,8114.76,,79,19,Overdue,1-30 DPD,Wire,2025-06-09,2025-05-26
+RCV-0203,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-04-17,2025-06-01,45,37665.05,37665.05,0.0,2025-05-31,45,0,Paid,Current,Wire,,
+RCV-0204,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-02-13,2025-03-15,30,45282.84,45282.84,0.0,2025-02-28,108,78,Paid,61-90 DPD,Credit Card,,
+RCV-0205,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-05-03,2025-06-02,30,102902.32,102902.32,0.0,2025-05-08,29,0,Paid,Current,Wire,,
+RCV-0206,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-01-29,2025-03-15,45,41802.46,41802.46,0.0,2025-04-05,123,78,Paid,61-90 DPD,ACH,,
+RCV-0207,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-01-02,2025-04-02,90,108914.24,0.0,108914.24,,150,60,Overdue,31-60 DPD,Wire,2025-06-06,2025-05-21
+RCV-0208,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-03-21,2025-04-05,15,63535.17,0.0,63535.17,,72,57,Overdue,31-60 DPD,Wire,2025-06-13,2025-05-26
+RCV-0209,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-03-21,2025-04-20,30,62643.5,0.0,62643.5,,72,42,Overdue,31-60 DPD,Wire,2025-06-15,2025-05-30
+RCV-0210,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-01-24,2025-03-10,45,106086.42,106086.42,0.0,2025-05-05,128,83,Paid,61-90 DPD,Check,,
+RCV-0211,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-01-03,2025-03-04,60,115252.92,115252.92,0.0,2025-01-31,149,89,Paid,61-90 DPD,Check,,
+RCV-0212,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-03-04,2025-04-18,45,98674.84,98674.84,0.0,2025-03-19,89,44,Paid,31-60 DPD,ACH,,
+RCV-0213,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2024-12-07,2025-01-21,45,13307.02,13307.02,0.0,2025-01-06,176,131,Paid,90+ DPD,Check,,
+RCV-0214,CUST-007,StartupHub Inc,SMB,East,Maria Gonzalez,Felipe Morales,2025-01-07,2025-04-07,90,59363.79,59363.79,0.0,2025-04-26,145,55,Paid,31-60 DPD,Credit Card,,
+RCV-0215,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-01-16,2025-03-17,60,72758.93,72758.93,0.0,2025-03-20,136,76,Paid,61-90 DPD,Credit Card,,
+RCV-0216,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-05-02,2025-07-01,60,88834.66,0.0,88834.66,,30,0,Current,Current,ACH,,
+RCV-0217,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-05-01,2025-05-31,30,22603.09,15850.27,6752.82,2025-05-20,31,1,Partial,1-30 DPD,ACH,2025-06-07,2025-05-29
+RCV-0218,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-03-19,2025-05-18,60,21997.85,21997.85,0.0,2025-06-01,74,14,Paid,1-30 DPD,Wire,,
+RCV-0219,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-05-20,2025-06-04,15,59848.53,0.0,59848.53,,12,0,Current,Current,Check,,
+RCV-0220,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-02-03,2025-03-20,45,52140.1,0.0,52140.1,,118,73,Overdue,61-90 DPD,ACH,2025-06-30,2025-05-29
+RCV-0221,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2024-12-11,2025-01-10,30,66562.91,19600.4,46962.51,2025-02-03,172,142,Partial,90+ DPD,ACH,2025-06-13,2025-05-23
+RCV-0222,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-05-14,2025-08-12,90,7853.63,7853.63,0.0,2025-07-08,18,0,Paid,Current,ACH,,
+RCV-0223,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-03-19,2025-05-18,60,49587.83,0.0,49587.83,,74,14,Overdue,1-30 DPD,ACH,,2025-05-21
+RCV-0224,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2024-12-29,2025-01-28,30,68368.4,30657.45,37710.95,2025-03-07,154,124,Partial,90+ DPD,ACH,,2025-05-19
+RCV-0225,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-02-16,2025-05-17,90,87515.42,87515.42,0.0,2025-03-22,105,15,Paid,1-30 DPD,Credit Card,,
+RCV-0226,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-04-09,2025-07-08,90,8123.48,0.0,8123.48,,53,0,Current,Current,Wire,,
+RCV-0227,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-05-08,2025-06-07,30,81415.64,0.0,81415.64,,24,0,Current,Current,Credit Card,,
+RCV-0228,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2024-12-30,2025-02-28,60,4542.77,4542.77,0.0,2025-01-09,153,93,Paid,90+ DPD,ACH,,
+RCV-0229,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-01-05,2025-03-06,60,94538.48,94538.48,0.0,2025-03-24,147,87,Paid,61-90 DPD,Credit Card,,
+RCV-0230,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2024-12-27,2025-01-26,30,28352.52,0.0,28352.52,,156,126,Overdue,90+ DPD,Credit Card,2025-06-09,2025-05-28
+RCV-0231,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-03-30,2025-06-28,90,79559.02,79559.02,0.0,2025-04-25,63,0,Paid,Current,Wire,,
+RCV-0232,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-02-23,2025-03-25,30,2749.46,2749.46,0.0,2025-04-01,98,68,Paid,61-90 DPD,Credit Card,,
+RCV-0233,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-03-04,2025-03-19,15,80924.61,80924.61,0.0,2025-03-11,89,74,Paid,61-90 DPD,Check,,
+RCV-0234,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-04-26,2025-05-26,30,64319.33,0.0,64319.33,,36,6,Overdue,1-30 DPD,Credit Card,,2025-05-30
+RCV-0235,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-02-02,2025-03-19,45,19292.8,4398.24,14894.56,2025-05-11,119,74,Partial,61-90 DPD,Check,,2025-06-01
+RCV-0236,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-02-25,2025-04-11,45,106662.19,106662.19,0.0,2025-05-07,96,51,Paid,31-60 DPD,Check,,
+RCV-0237,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2024-12-18,2025-01-17,30,43779.17,43779.17,0.0,2025-05-05,165,135,Paid,90+ DPD,Wire,,
+RCV-0238,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2024-12-31,2025-01-15,15,88422.78,88422.78,0.0,2025-02-16,152,137,Paid,90+ DPD,Check,,
+RCV-0239,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-02-28,2025-03-30,30,78309.3,78309.3,0.0,2025-03-05,93,63,Paid,61-90 DPD,Check,,
+RCV-0240,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-05-23,2025-06-07,15,84665.66,0.0,84665.66,,9,0,Current,Current,Wire,,
+RCV-0241,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-04-08,2025-05-08,30,34681.24,34681.24,0.0,2025-06-01,54,24,Paid,1-30 DPD,Credit Card,,
+RCV-0242,CUST-008,Almacenes Central,Retail,Central,Pedro Alvarez,Felipe Morales,2025-01-10,2025-03-11,60,20641.48,20641.48,0.0,2025-04-08,142,82,Paid,61-90 DPD,Check,,
+RCV-0243,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-04-22,2025-05-07,15,25798.0,25798.0,0.0,2025-05-25,40,25,Paid,1-30 DPD,Credit Card,,
+RCV-0244,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2024-12-14,2025-02-12,60,34203.8,34203.8,0.0,2025-05-02,169,109,Paid,90+ DPD,Credit Card,,
+RCV-0245,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-01-13,2025-03-14,60,113569.93,113569.93,0.0,2025-04-29,139,79,Paid,61-90 DPD,Check,,
+RCV-0246,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-01-03,2025-03-04,60,60470.37,60470.37,0.0,2025-02-25,149,89,Paid,61-90 DPD,Credit Card,,
+RCV-0247,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-02-21,2025-05-22,90,65958.56,65958.56,0.0,2025-03-12,100,10,Paid,1-30 DPD,Check,,
+RCV-0248,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-05-18,2025-07-02,45,78784.34,0.0,78784.34,,14,0,Current,Current,Wire,,
+RCV-0249,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-03-20,2025-04-04,15,26326.45,19329.96,6996.49,2025-03-25,73,58,Partial,31-60 DPD,Check,,2025-05-31
+RCV-0250,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-04-23,2025-06-07,45,85342.83,0.0,85342.83,,39,0,Current,Current,ACH,,
+RCV-0251,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-05-13,2025-05-28,15,47199.51,47199.51,0.0,2025-05-16,19,4,Paid,1-30 DPD,Credit Card,,
+RCV-0252,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-05-19,2025-07-18,60,69159.58,0.0,69159.58,,13,0,Current,Current,Wire,,
+RCV-0253,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-05-05,2025-08-03,90,101025.16,101025.16,0.0,2025-07-02,27,0,Paid,Current,ACH,,
+RCV-0254,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2024-12-17,2025-02-15,60,109962.34,109962.34,0.0,2025-03-02,166,106,Paid,90+ DPD,Check,,
+RCV-0255,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2024-12-22,2025-01-06,15,104242.36,57610.13,46632.23,2025-02-13,161,146,Partial,90+ DPD,Credit Card,,2025-05-28
+RCV-0256,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-02-22,2025-04-23,60,75132.71,75132.71,0.0,2025-06-01,99,39,Paid,31-60 DPD,Check,,
+RCV-0257,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2024-12-30,2025-02-13,45,67724.18,0.0,67724.18,,153,108,Overdue,90+ DPD,ACH,2025-06-29,2025-05-27
+RCV-0258,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-03-01,2025-04-15,45,61829.4,61829.4,0.0,2025-05-31,92,47,Paid,31-60 DPD,Credit Card,,
+RCV-0259,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-04-16,2025-07-15,90,77891.28,0.0,77891.28,,46,0,Current,Current,Credit Card,,
+RCV-0260,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-04-02,2025-05-17,45,105003.31,0.0,105003.31,,60,15,Overdue,1-30 DPD,Wire,2025-06-08,2025-05-24
+RCV-0261,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2024-12-30,2025-03-30,90,82024.89,82024.89,0.0,2025-04-01,153,63,Paid,61-90 DPD,Credit Card,,
+RCV-0262,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-04-14,2025-04-29,15,82739.87,13404.09,69335.78,2025-04-30,48,33,Partial,31-60 DPD,ACH,,2025-05-23
+RCV-0263,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-02-05,2025-02-20,15,76325.89,76325.89,0.0,2025-03-09,116,101,Paid,90+ DPD,ACH,,
+RCV-0264,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-03-06,2025-06-04,90,52473.12,0.0,52473.12,,87,0,Current,Current,Credit Card,,
+RCV-0265,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-04-23,2025-06-22,60,38355.62,0.0,38355.62,,39,0,Current,Current,Check,,
+RCV-0266,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2024-12-14,2025-01-28,45,101905.42,73746.36,28159.06,2025-04-11,169,124,Partial,90+ DPD,ACH,,2025-05-28
+RCV-0267,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-03-17,2025-04-16,30,69004.4,69004.4,0.0,2025-03-29,76,46,Paid,31-60 DPD,Wire,,
+RCV-0268,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-01-22,2025-04-22,90,18421.41,18421.41,0.0,2025-04-25,130,40,Paid,31-60 DPD,Credit Card,,
+RCV-0269,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-03-02,2025-05-01,60,46825.79,46825.79,0.0,2025-04-30,91,31,Paid,31-60 DPD,Wire,,
+RCV-0270,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-01-17,2025-02-16,30,46717.85,46717.85,0.0,2025-03-22,135,105,Paid,90+ DPD,ACH,,
+RCV-0271,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-02-11,2025-04-12,60,52013.12,14094.06,37919.06,2025-04-17,110,50,Partial,31-60 DPD,Credit Card,2025-06-12,2025-05-18
+RCV-0272,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-03-22,2025-05-21,60,52825.5,52825.5,0.0,2025-05-09,71,11,Paid,1-30 DPD,Credit Card,,
+RCV-0273,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-02-05,2025-03-22,45,118802.58,118802.58,0.0,2025-04-27,116,71,Paid,61-90 DPD,Credit Card,,
+RCV-0274,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-03-12,2025-04-26,45,91550.07,91550.07,0.0,2025-06-01,81,36,Paid,31-60 DPD,Wire,,
+RCV-0275,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-04-09,2025-07-08,90,95108.33,95108.33,0.0,2025-05-03,53,0,Paid,Current,Credit Card,,
+RCV-0276,CUST-009,Constructora Pacifico,Enterprise,East,David Wong,Felipe Morales,2025-05-21,2025-07-20,60,51023.34,0.0,51023.34,,11,0,Current,Current,Wire,,
+RCV-0277,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-05-26,2025-07-10,45,88989.47,0.0,88989.47,,6,0,Current,Current,Check,,
+RCV-0278,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-04-27,2025-05-27,30,108081.71,108081.71,0.0,2025-04-30,35,5,Paid,1-30 DPD,ACH,,
+RCV-0279,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-04-12,2025-04-27,15,114138.43,0.0,114138.43,,50,35,Overdue,31-60 DPD,ACH,,2025-05-23
+RCV-0280,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-05-27,2025-07-26,60,20659.76,20659.76,0.0,2025-06-05,5,0,Paid,Current,Wire,,
+RCV-0281,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-01-25,2025-02-24,30,104866.45,104866.45,0.0,2025-04-29,127,97,Paid,90+ DPD,Check,,
+RCV-0282,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2024-12-19,2025-02-02,45,94764.82,39502.24,55262.58,2025-04-14,164,119,Partial,90+ DPD,Wire,2025-06-16,2025-05-21
+RCV-0283,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-05-17,2025-06-01,15,65200.42,0.0,65200.42,,15,0,Current,Current,Credit Card,,
+RCV-0284,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-02-16,2025-04-02,45,6044.95,6044.95,0.0,2025-05-21,105,60,Paid,31-60 DPD,Credit Card,,
+RCV-0285,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2024-12-03,2025-02-01,60,89948.56,89948.56,0.0,2025-01-09,180,120,Paid,90+ DPD,Credit Card,,
+RCV-0286,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-03-01,2025-04-15,45,3123.01,3123.01,0.0,2025-05-13,92,47,Paid,31-60 DPD,Wire,,
+RCV-0287,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-05-17,2025-07-16,60,32800.36,0.0,32800.36,,15,0,Current,Current,Credit Card,,
+RCV-0288,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-03-29,2025-04-28,30,82372.3,82372.3,0.0,2025-05-18,64,34,Paid,31-60 DPD,ACH,,
+RCV-0289,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2024-12-15,2025-01-29,45,58561.12,58561.12,0.0,2025-05-14,168,123,Paid,90+ DPD,ACH,,
+RCV-0290,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-01-15,2025-01-30,15,62079.51,0.0,62079.51,,137,122,Overdue,90+ DPD,ACH,2025-06-08,2025-05-25
+RCV-0291,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-02-06,2025-03-08,30,15471.03,15471.03,0.0,2025-03-11,115,85,Paid,61-90 DPD,ACH,,
+RCV-0292,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-02-13,2025-02-28,15,62655.81,62655.81,0.0,2025-04-12,108,93,Paid,90+ DPD,Wire,,
+RCV-0293,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-01-15,2025-04-15,90,96374.08,96374.08,0.0,2025-04-12,137,47,Paid,31-60 DPD,ACH,,
+RCV-0294,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-05-20,2025-08-18,90,63447.61,63447.61,0.0,2025-08-11,12,0,Paid,Current,Wire,,
+RCV-0295,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-02-24,2025-03-26,30,89365.66,89365.66,0.0,2025-04-20,97,67,Paid,61-90 DPD,Wire,,
+RCV-0296,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-01-05,2025-02-19,45,45894.54,16465.28,29429.26,2025-01-24,147,102,Partial,90+ DPD,Wire,,2025-05-23
+RCV-0297,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-05-20,2025-06-04,15,24948.2,0.0,24948.2,,12,0,Current,Current,Wire,,
+RCV-0298,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-05-05,2025-05-20,15,30951.51,30951.51,0.0,2025-05-15,27,12,Paid,1-30 DPD,ACH,,
+RCV-0299,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-04-29,2025-05-29,30,89071.46,89071.46,0.0,2025-06-01,33,3,Paid,1-30 DPD,Check,,
+RCV-0300,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-03-29,2025-05-13,45,8201.11,8201.11,0.0,2025-04-02,64,19,Paid,1-30 DPD,Wire,,
+RCV-0301,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-04-13,2025-06-12,60,99877.9,0.0,99877.9,,49,0,Current,Current,Check,,
+RCV-0302,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-01-24,2025-03-25,60,40345.57,4784.18,35561.39,2025-03-13,128,68,Partial,61-90 DPD,Credit Card,2025-06-05,2025-05-25
+RCV-0303,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-01-10,2025-04-10,90,88537.05,88537.05,0.0,2025-05-18,142,52,Paid,31-60 DPD,Check,,
+RCV-0304,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-03-09,2025-06-07,90,11773.95,11773.95,0.0,2025-03-19,84,0,Paid,Current,ACH,,
+RCV-0305,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-04-29,2025-06-13,45,66230.56,0.0,66230.56,,33,0,Current,Current,Check,,
+RCV-0306,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-05-04,2025-06-18,45,79480.74,79480.74,0.0,2025-05-09,28,0,Paid,Current,Credit Card,,
+RCV-0307,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-01-12,2025-02-26,45,84564.09,84564.09,0.0,2025-02-19,140,95,Paid,90+ DPD,ACH,,
+RCV-0308,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-01-04,2025-02-18,45,59977.75,0.0,59977.75,,148,103,Overdue,90+ DPD,ACH,2025-06-16,2025-05-22
+RCV-0309,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-01-31,2025-02-15,15,79874.56,0.0,79874.56,,121,106,Overdue,90+ DPD,Check,2025-06-04,2025-05-19
+RCV-0310,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-02-04,2025-05-05,90,75997.23,0.0,75997.23,,117,27,Overdue,1-30 DPD,Check,,2025-05-30
+RCV-0311,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-02-02,2025-05-03,90,99215.18,99215.18,0.0,2025-06-01,119,29,Paid,1-30 DPD,Wire,,
+RCV-0312,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2024-12-24,2025-02-22,60,78696.82,78696.82,0.0,2024-12-25,159,99,Paid,90+ DPD,Wire,,
+RCV-0313,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2025-05-24,2025-07-08,45,2827.66,2827.66,0.0,2025-07-04,8,0,Paid,Current,Check,,
+RCV-0314,CUST-010,Agencia Federal XYZ,Government,West,Maria Gonzalez,Elena Ruiz,2024-12-29,2025-01-28,30,76560.48,54898.07,21662.41,2025-03-11,154,124,Partial,90+ DPD,ACH,2025-06-09,2025-05-21
+RCV-0315,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-05-12,2025-06-26,45,97947.69,0.0,97947.69,,20,0,Current,Current,Credit Card,,
+RCV-0316,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-02-04,2025-05-05,90,10337.25,10337.25,0.0,2025-05-12,117,27,Paid,1-30 DPD,Wire,,
+RCV-0317,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-05-04,2025-06-03,30,64907.81,0.0,64907.81,,28,0,Current,Current,Wire,,
+RCV-0318,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-02-14,2025-03-16,30,40564.63,40564.63,0.0,2025-04-21,107,77,Paid,61-90 DPD,Credit Card,,
+RCV-0319,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-02-08,2025-03-25,45,6005.73,3274.75,2730.98,2025-03-01,113,68,Partial,61-90 DPD,Wire,2025-07-01,2025-05-18
+RCV-0320,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-01-10,2025-01-25,15,10821.56,10821.56,0.0,2025-03-19,142,127,Paid,90+ DPD,Credit Card,,
+RCV-0321,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-02-26,2025-04-27,60,117783.0,23574.98,94208.02,2025-04-02,95,35,Partial,31-60 DPD,ACH,,2025-05-22
+RCV-0322,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-04-23,2025-07-22,90,47470.71,0.0,47470.71,,39,0,Current,Current,Wire,,
+RCV-0323,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2024-12-03,2024-12-18,15,70951.22,70951.22,0.0,2025-01-12,180,165,Paid,90+ DPD,Wire,,
+RCV-0324,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2024-12-28,2025-01-12,15,73002.67,73002.67,0.0,2025-01-21,155,140,Paid,90+ DPD,Credit Card,,
+RCV-0325,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-04-01,2025-06-30,90,72897.26,0.0,72897.26,,61,0,Current,Current,Wire,,
+RCV-0326,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2024-12-19,2025-02-17,60,3051.62,1530.14,1521.48,2025-05-08,164,104,Partial,90+ DPD,Credit Card,,2025-05-26
+RCV-0327,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2024-12-25,2025-01-24,30,59669.39,59669.39,0.0,2025-03-01,158,128,Paid,90+ DPD,Credit Card,,
+RCV-0328,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-02-12,2025-03-14,30,105537.7,105537.7,0.0,2025-02-19,109,79,Paid,61-90 DPD,Wire,,
+RCV-0329,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-01-28,2025-02-12,15,27878.71,27878.71,0.0,2025-03-28,124,109,Paid,90+ DPD,Check,,
+RCV-0330,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-03-09,2025-04-08,30,92889.38,92889.38,0.0,2025-03-29,84,54,Paid,31-60 DPD,Check,,
+RCV-0331,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-04-27,2025-05-27,30,51543.78,51543.78,0.0,2025-04-29,35,5,Paid,1-30 DPD,ACH,,
+RCV-0332,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-05-22,2025-06-06,15,35810.6,0.0,35810.6,,10,0,Current,Current,ACH,,
+RCV-0333,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-04-13,2025-04-28,15,69169.74,69169.74,0.0,2025-05-03,49,34,Paid,31-60 DPD,Credit Card,,
+RCV-0334,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-02-07,2025-05-08,90,105669.36,105669.36,0.0,2025-04-28,114,24,Paid,1-30 DPD,Credit Card,,
+RCV-0335,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-01-10,2025-02-09,30,84971.13,84971.13,0.0,2025-02-03,142,112,Paid,90+ DPD,Wire,,
+RCV-0336,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-04-16,2025-05-16,30,82703.76,82703.76,0.0,2025-04-23,46,16,Paid,1-30 DPD,Check,,
+RCV-0337,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-04-15,2025-05-15,30,105298.59,105298.59,0.0,2025-05-22,47,17,Paid,1-30 DPD,Wire,,
+RCV-0338,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-04-03,2025-05-03,30,25425.79,25425.79,0.0,2025-05-10,59,29,Paid,1-30 DPD,Wire,,
+RCV-0339,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-04-07,2025-07-06,90,64360.33,0.0,64360.33,,55,0,Current,Current,Check,,
+RCV-0340,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-02-09,2025-03-26,45,49314.14,49314.14,0.0,2025-02-25,112,67,Paid,61-90 DPD,Credit Card,,
+RCV-0341,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2024-12-17,2025-02-15,60,57053.65,0.0,57053.65,,166,106,Overdue,90+ DPD,ACH,2025-06-15,2025-05-29
+RCV-0342,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-04-10,2025-06-09,60,76922.22,76922.22,0.0,2025-05-02,52,0,Paid,Current,Credit Card,,
+RCV-0343,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-04-10,2025-05-25,45,17073.71,9881.41,7192.3,2025-04-22,52,7,Partial,1-30 DPD,Wire,,2025-05-20
+RCV-0344,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-04-27,2025-06-26,60,10214.41,10214.41,0.0,2025-05-14,35,0,Paid,Current,Credit Card,,
+RCV-0345,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-01-28,2025-02-12,15,71807.64,32422.2,39385.44,2025-04-22,124,109,Partial,90+ DPD,Wire,,2025-05-21
+RCV-0346,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-03-02,2025-05-01,60,87668.54,0.0,87668.54,,91,31,Overdue,31-60 DPD,Check,,2025-05-29
+RCV-0347,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-05-01,2025-07-30,90,59783.98,0.0,59783.98,,31,0,Current,Current,Credit Card,,
+RCV-0348,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-04-16,2025-05-16,30,85748.96,85748.96,0.0,2025-05-31,46,16,Paid,1-30 DPD,Credit Card,,
+RCV-0349,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-03-31,2025-04-30,30,16455.52,8846.61,7608.91,2025-05-29,62,32,Partial,31-60 DPD,ACH,,2025-05-30
+RCV-0350,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-05-17,2025-08-15,90,54794.86,0.0,54794.86,,15,0,Current,Current,Credit Card,,
+RCV-0351,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-01-24,2025-02-23,30,61103.82,61103.82,0.0,2025-05-04,128,98,Paid,90+ DPD,Wire,,
+RCV-0352,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2024-12-13,2025-01-12,30,97296.79,97296.79,0.0,2025-01-29,170,140,Paid,90+ DPD,ACH,,
+RCV-0353,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-01-03,2025-01-18,15,68791.59,12789.65,56001.94,2025-02-19,149,134,Partial,90+ DPD,Check,,2025-05-26
+RCV-0354,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-01-28,2025-02-27,30,61340.26,14548.91,46791.35,2025-03-04,124,94,Partial,90+ DPD,Wire,,2025-05-27
+RCV-0355,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2024-12-06,2025-02-04,60,53486.11,53486.11,0.0,2025-04-12,177,117,Paid,90+ DPD,Check,,
+RCV-0356,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-05-19,2025-07-03,45,77881.87,0.0,77881.87,,13,0,Current,Current,Wire,,
+RCV-0357,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2024-12-20,2025-01-19,30,57292.93,57292.93,0.0,2025-03-02,163,133,Paid,90+ DPD,Check,,
+RCV-0358,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-04-17,2025-05-17,30,70694.72,70694.72,0.0,2025-05-07,45,15,Paid,1-30 DPD,Wire,,
+RCV-0359,CUST-011,MedSupply Co,SMB,Central,Sofia Martinez,Isabela Costa,2025-03-05,2025-04-19,45,53181.41,53181.41,0.0,2025-05-26,88,43,Paid,31-60 DPD,Check,,
+RCV-0360,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-04-25,2025-05-25,30,89716.55,89716.55,0.0,2025-04-26,37,7,Paid,1-30 DPD,Wire,,
+RCV-0361,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-01-25,2025-03-26,60,39357.9,39357.9,0.0,2025-01-29,127,67,Paid,61-90 DPD,Check,,
+RCV-0362,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2024-12-08,2025-02-06,60,90449.98,90449.98,0.0,2025-03-18,175,115,Paid,90+ DPD,ACH,,
+RCV-0363,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2024-12-13,2025-01-27,45,5438.32,5438.32,0.0,2025-01-24,170,125,Paid,90+ DPD,Wire,,
+RCV-0364,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-03-28,2025-05-27,60,117200.4,117200.4,0.0,2025-05-04,65,5,Paid,1-30 DPD,Credit Card,,
+RCV-0365,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-04-11,2025-07-10,90,86872.45,0.0,86872.45,,51,0,Current,Current,Check,,
+RCV-0366,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-03-15,2025-05-14,60,8011.87,8011.87,0.0,2025-05-22,78,18,Paid,1-30 DPD,Credit Card,,
+RCV-0367,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2024-12-09,2025-02-07,60,53979.93,53979.93,0.0,2025-02-09,174,114,Paid,90+ DPD,Credit Card,,
+RCV-0368,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-01-03,2025-03-04,60,102418.95,0.0,102418.95,,149,89,Overdue,61-90 DPD,ACH,,2025-05-20
+RCV-0369,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-02-16,2025-04-17,60,11781.43,11781.43,0.0,2025-03-31,105,45,Paid,31-60 DPD,Credit Card,,
+RCV-0370,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-05-27,2025-07-11,45,52408.47,52408.47,0.0,2025-05-28,5,0,Paid,Current,Check,,
+RCV-0371,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-04-28,2025-06-27,60,60165.02,0.0,60165.02,,34,0,Current,Current,Wire,,
+RCV-0372,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-05-09,2025-06-23,45,3853.51,0.0,3853.51,,23,0,Current,Current,Credit Card,,
+RCV-0373,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-01-04,2025-02-18,45,41818.48,41818.48,0.0,2025-02-21,148,103,Paid,90+ DPD,Check,,
+RCV-0374,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-01-30,2025-04-30,90,108412.54,108412.54,0.0,2025-05-27,122,32,Paid,31-60 DPD,ACH,,
+RCV-0375,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-03-24,2025-05-23,60,9196.79,9196.79,0.0,2025-05-16,69,9,Paid,1-30 DPD,Wire,,
+RCV-0376,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-04-11,2025-04-26,15,81931.38,81931.38,0.0,2025-05-30,51,36,Paid,31-60 DPD,Wire,,
+RCV-0377,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2024-12-25,2025-02-23,60,5057.78,2805.41,2252.37,2025-03-24,158,98,Partial,90+ DPD,Check,2025-06-29,2025-05-21
+RCV-0378,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2024-12-10,2025-03-10,90,50865.9,50865.9,0.0,2025-04-26,173,83,Paid,61-90 DPD,Wire,,
+RCV-0379,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-01-22,2025-02-06,15,35142.07,35142.07,0.0,2025-05-18,130,115,Paid,90+ DPD,Credit Card,,
+RCV-0380,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2024-12-07,2024-12-22,15,61750.06,61750.06,0.0,2024-12-20,176,161,Paid,90+ DPD,ACH,,
+RCV-0381,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-03-06,2025-05-05,60,72451.62,0.0,72451.62,,87,27,Overdue,1-30 DPD,Check,,2025-05-23
+RCV-0382,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-03-18,2025-05-02,45,58421.47,0.0,58421.47,,75,30,Overdue,1-30 DPD,Wire,,2025-05-20
+RCV-0383,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-05-25,2025-06-24,30,21870.32,21870.32,0.0,2025-06-13,7,0,Paid,Current,ACH,,
+RCV-0384,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-01-31,2025-05-01,90,67846.9,67846.9,0.0,2025-03-21,121,31,Paid,31-60 DPD,Check,,
+RCV-0385,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-01-22,2025-03-08,45,116189.14,0.0,116189.14,,130,85,Overdue,61-90 DPD,ACH,2025-06-04,2025-05-28
+RCV-0386,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2024-12-27,2025-01-26,30,88907.3,88907.3,0.0,2025-01-16,156,126,Paid,90+ DPD,Credit Card,,
+RCV-0387,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-02-11,2025-02-26,15,33775.29,11901.75,21873.54,2025-05-13,110,95,Partial,90+ DPD,Wire,,2025-06-01
+RCV-0388,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-05-03,2025-05-18,15,45924.33,45924.33,0.0,2025-05-31,29,14,Paid,1-30 DPD,Wire,,
+RCV-0389,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2024-12-25,2025-01-09,15,52800.13,0.0,52800.13,,158,143,Overdue,90+ DPD,Wire,2025-06-26,2025-05-29
+RCV-0390,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-03-10,2025-03-25,15,35695.21,35695.21,0.0,2025-03-31,83,68,Paid,61-90 DPD,Check,,
+RCV-0391,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-05-06,2025-07-05,60,28728.82,28728.82,0.0,2025-06-29,26,0,Paid,Current,Check,,
+RCV-0392,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-03-09,2025-03-24,15,32265.47,32265.47,0.0,2025-04-21,84,69,Paid,61-90 DPD,Check,,
+RCV-0393,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-02-11,2025-05-12,90,56273.22,56273.22,0.0,2025-04-25,110,20,Paid,1-30 DPD,Credit Card,,
+RCV-0394,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-02-15,2025-03-02,15,105297.48,0.0,105297.48,,106,91,Overdue,90+ DPD,Wire,,2025-05-30
+RCV-0395,CUST-012,Fashion Group SA,Retail,North,Ana Fernandez,Elena Ruiz,2025-01-09,2025-04-09,90,68384.59,68384.59,0.0,2025-05-12,143,53,Paid,31-60 DPD,Credit Card,,
+RCV-0396,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-02-23,2025-03-25,30,119507.72,119507.72,0.0,2025-05-27,98,68,Paid,61-90 DPD,Check,,
+RCV-0397,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-03-22,2025-05-06,45,65608.02,65608.02,0.0,2025-05-06,71,26,Paid,1-30 DPD,Wire,,
+RCV-0398,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2024-12-31,2025-01-30,30,76580.89,76580.89,0.0,2025-05-23,152,122,Paid,90+ DPD,Check,,
+RCV-0399,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-05-19,2025-06-18,30,41084.43,0.0,41084.43,,13,0,Current,Current,Check,,
+RCV-0400,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-03-24,2025-04-23,30,51670.87,51670.87,0.0,2025-05-26,69,39,Paid,31-60 DPD,Wire,,
+RCV-0401,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-04-04,2025-05-04,30,84452.76,84452.76,0.0,2025-05-31,58,28,Paid,1-30 DPD,ACH,,
+RCV-0402,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-02-23,2025-04-24,60,76578.38,76578.38,0.0,2025-04-27,98,38,Paid,31-60 DPD,Credit Card,,
+RCV-0403,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-01-02,2025-02-16,45,79749.17,79749.17,0.0,2025-05-15,150,105,Paid,90+ DPD,Check,,
+RCV-0404,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-03-11,2025-05-10,60,118935.65,88936.12,29999.53,2025-04-11,82,22,Partial,1-30 DPD,Wire,2025-06-19,2025-05-26
+RCV-0405,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-03-05,2025-05-04,60,53930.67,53930.67,0.0,2025-06-01,88,28,Paid,1-30 DPD,Credit Card,,
+RCV-0406,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-04-13,2025-05-28,45,46829.49,46829.49,0.0,2025-05-04,49,4,Paid,1-30 DPD,Check,,
+RCV-0407,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2024-12-07,2025-02-05,60,75320.04,75320.04,0.0,2025-03-07,176,116,Paid,90+ DPD,Credit Card,,
+RCV-0408,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-05-09,2025-06-08,30,57706.6,0.0,57706.6,,23,0,Current,Current,Credit Card,,
+RCV-0409,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-04-27,2025-05-27,30,119671.75,119671.75,0.0,2025-05-29,35,5,Paid,1-30 DPD,ACH,,
+RCV-0410,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2024-12-27,2025-01-11,15,79130.34,9676.6,69453.74,2025-02-10,156,141,Partial,90+ DPD,Credit Card,2025-07-01,2025-05-26
+RCV-0411,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-03-07,2025-05-06,60,51330.8,51330.8,0.0,2025-04-11,86,26,Paid,1-30 DPD,Check,,
+RCV-0412,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2024-12-20,2025-01-04,15,40408.04,40408.04,0.0,2025-04-10,163,148,Paid,90+ DPD,Wire,,
+RCV-0413,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-05-05,2025-07-04,60,36604.71,0.0,36604.71,,27,0,Current,Current,Check,,
+RCV-0414,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-05-07,2025-06-06,30,86309.86,0.0,86309.86,,25,0,Current,Current,Wire,,
+RCV-0415,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-03-24,2025-05-23,60,30366.58,30366.58,0.0,2025-03-27,69,9,Paid,1-30 DPD,Check,,
+RCV-0416,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2024-12-30,2025-01-14,15,29225.92,29225.92,0.0,2025-02-08,153,138,Paid,90+ DPD,Credit Card,,
+RCV-0417,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-04-24,2025-07-23,90,97657.89,0.0,97657.89,,38,0,Current,Current,Credit Card,,
+RCV-0418,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-01-01,2025-03-02,60,26820.54,0.0,26820.54,,151,91,Overdue,90+ DPD,ACH,,2025-05-26
+RCV-0419,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-05-24,2025-06-08,15,99958.39,0.0,99958.39,,8,0,Current,Current,Check,,
+RCV-0420,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-03-21,2025-06-19,90,29869.51,0.0,29869.51,,72,0,Current,Current,Credit Card,,
+RCV-0421,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-04-20,2025-06-19,60,108829.45,108829.45,0.0,2025-05-13,42,0,Paid,Current,Check,,
+RCV-0422,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-03-08,2025-06-06,90,94035.2,94035.2,0.0,2025-05-11,85,0,Paid,Current,Check,,
+RCV-0423,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-01-12,2025-04-12,90,59047.69,59047.69,0.0,2025-02-23,140,50,Paid,31-60 DPD,ACH,,
+RCV-0424,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-02-06,2025-05-07,90,63991.91,63991.91,0.0,2025-06-01,115,25,Paid,1-30 DPD,Credit Card,,
+RCV-0425,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-04-09,2025-06-08,60,70035.77,0.0,70035.77,,53,0,Current,Current,Check,,
+RCV-0426,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2024-12-16,2025-03-16,90,80900.3,80900.3,0.0,2025-03-03,167,77,Paid,61-90 DPD,ACH,,
+RCV-0427,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-03-16,2025-04-15,30,84597.97,84597.97,0.0,2025-05-15,77,47,Paid,31-60 DPD,Credit Card,,
+RCV-0428,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-02-23,2025-03-10,15,106835.25,106835.25,0.0,2025-02-23,98,83,Paid,61-90 DPD,Check,,
+RCV-0429,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-03-31,2025-04-15,15,93748.11,93748.11,0.0,2025-05-12,62,47,Paid,31-60 DPD,Check,,
+RCV-0430,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-05-06,2025-06-05,30,25346.61,25346.61,0.0,2025-06-03,26,0,Paid,Current,ACH,,
+RCV-0431,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-01-01,2025-02-15,45,21052.54,21052.54,0.0,2025-05-17,151,106,Paid,90+ DPD,ACH,,
+RCV-0432,CUST-013,AutoParts Corp,Enterprise,Central,Pedro Alvarez,Isabela Costa,2025-05-26,2025-08-24,90,37303.34,0.0,37303.34,,6,0,Current,Current,ACH,,
+RCV-0433,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-03-30,2025-06-28,90,83039.93,0.0,83039.93,,63,0,Current,Current,ACH,,
+RCV-0434,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-01-25,2025-03-11,45,12267.61,12267.61,0.0,2025-03-29,127,82,Paid,61-90 DPD,Check,,
+RCV-0435,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-05-20,2025-07-04,45,102293.88,0.0,102293.88,,12,0,Current,Current,Check,,
+RCV-0436,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-02-10,2025-04-11,60,98511.93,98511.93,0.0,2025-02-15,111,51,Paid,31-60 DPD,ACH,,
+RCV-0437,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-01-16,2025-02-15,30,11925.46,11925.46,0.0,2025-05-27,136,106,Paid,90+ DPD,Wire,,
+RCV-0438,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-01-29,2025-03-15,45,74299.36,0.0,74299.36,,123,78,Overdue,61-90 DPD,Credit Card,2025-06-16,2025-05-19
+RCV-0439,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-04-27,2025-06-11,45,15150.99,0.0,15150.99,,35,0,Current,Current,Check,,
+RCV-0440,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-02-06,2025-03-08,30,8097.78,4582.78,3515.0,2025-04-28,115,85,Partial,61-90 DPD,Wire,,2025-05-20
+RCV-0441,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2024-12-15,2025-01-29,45,113919.59,113919.59,0.0,2025-02-28,168,123,Paid,90+ DPD,Credit Card,,
+RCV-0442,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-04-07,2025-05-22,45,92545.1,92545.1,0.0,2025-05-08,55,10,Paid,1-30 DPD,Wire,,
+RCV-0443,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-01-24,2025-03-25,60,57477.94,57477.94,0.0,2025-05-30,128,68,Paid,61-90 DPD,Credit Card,,
+RCV-0444,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-03-13,2025-05-12,60,59299.14,59299.14,0.0,2025-06-01,80,20,Paid,1-30 DPD,Wire,,
+RCV-0445,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-01-11,2025-02-25,45,118666.18,118666.18,0.0,2025-04-10,141,96,Paid,90+ DPD,Credit Card,,
+RCV-0446,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-01-08,2025-02-22,45,76730.88,76730.88,0.0,2025-04-22,144,99,Paid,90+ DPD,Wire,,
+RCV-0447,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-05-13,2025-07-12,60,50248.22,0.0,50248.22,,19,0,Current,Current,Check,,
+RCV-0448,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-04-09,2025-07-08,90,89298.38,0.0,89298.38,,53,0,Current,Current,Wire,,
+RCV-0449,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-04-28,2025-05-28,30,45024.1,45024.1,0.0,2025-05-23,34,4,Paid,1-30 DPD,ACH,,
+RCV-0450,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-05-12,2025-05-27,15,42290.53,42290.53,0.0,2025-06-01,20,5,Paid,1-30 DPD,ACH,,
+RCV-0451,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-04-16,2025-05-01,15,27398.56,27398.56,0.0,2025-04-21,46,31,Paid,31-60 DPD,ACH,,
+RCV-0452,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-04-10,2025-04-25,15,76686.86,76686.86,0.0,2025-04-19,52,37,Paid,31-60 DPD,Credit Card,,
+RCV-0453,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-03-06,2025-03-21,15,4307.2,4307.2,0.0,2025-04-02,87,72,Paid,61-90 DPD,Check,,
+RCV-0454,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-02-09,2025-02-24,15,49718.75,23222.47,26496.28,2025-05-12,112,97,Partial,90+ DPD,Wire,,2025-05-20
+RCV-0455,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-03-12,2025-03-27,15,96871.32,0.0,96871.32,,81,66,Overdue,61-90 DPD,Credit Card,2025-06-20,2025-05-31
+RCV-0456,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2024-12-11,2025-01-25,45,105624.39,0.0,105624.39,,172,127,Overdue,90+ DPD,Credit Card,,2025-05-22
+RCV-0457,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-03-08,2025-04-07,30,94766.29,94766.29,0.0,2025-05-18,85,55,Paid,31-60 DPD,Check,,
+RCV-0458,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2024-12-24,2025-02-07,45,4291.55,4291.55,0.0,2025-04-09,159,114,Paid,90+ DPD,Credit Card,,
+RCV-0459,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-01-15,2025-04-15,90,115971.99,115971.99,0.0,2025-05-10,137,47,Paid,31-60 DPD,Check,,
+RCV-0460,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-04-03,2025-04-18,15,68825.8,0.0,68825.8,,59,44,Overdue,31-60 DPD,Credit Card,2025-06-28,2025-05-29
+RCV-0461,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-02-17,2025-03-04,15,25239.68,25239.68,0.0,2025-05-06,104,89,Paid,61-90 DPD,Wire,,
+RCV-0462,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2024-12-03,2025-02-01,60,83567.44,58018.93,25548.51,2025-02-23,180,120,Partial,90+ DPD,ACH,2025-06-13,2025-05-27
+RCV-0463,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-05-24,2025-06-08,15,87335.71,0.0,87335.71,,8,0,Current,Current,Wire,,
+RCV-0464,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2025-03-23,2025-04-07,15,96629.89,96629.89,0.0,2025-04-27,70,55,Paid,31-60 DPD,ACH,,
+RCV-0465,CUST-014,Ciudad Servicios,Government,North,Maria Gonzalez,Natalia Vega,2024-12-03,2025-03-03,90,25985.09,0.0,25985.09,,180,90,Overdue,61-90 DPD,Check,,2025-05-18
+RCV-0466,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-04-14,2025-07-13,90,114320.08,0.0,114320.08,,48,0,Current,Current,Check,,
+RCV-0467,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-01-09,2025-03-10,60,68838.8,68838.8,0.0,2025-01-26,143,83,Paid,61-90 DPD,Wire,,
+RCV-0468,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-03-28,2025-04-12,15,110019.37,68674.02,41345.35,2025-05-15,65,50,Partial,31-60 DPD,Check,,2025-05-31
+RCV-0469,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-04-19,2025-06-18,60,36096.98,36096.98,0.0,2025-05-19,43,0,Paid,Current,Check,,
+RCV-0470,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-05-21,2025-08-19,90,64507.0,0.0,64507.0,,11,0,Current,Current,Credit Card,,
+RCV-0471,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-02-12,2025-04-13,60,21688.38,21688.38,0.0,2025-02-18,109,49,Paid,31-60 DPD,Credit Card,,
+RCV-0472,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-01-12,2025-04-12,90,105762.27,105762.27,0.0,2025-03-21,140,50,Paid,31-60 DPD,Check,,
+RCV-0473,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-04-25,2025-05-25,30,46709.72,46709.72,0.0,2025-05-29,37,7,Paid,1-30 DPD,Check,,
+RCV-0474,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-01-21,2025-04-21,90,112744.69,26388.08,86356.61,2025-03-20,131,41,Partial,31-60 DPD,Wire,2025-06-10,2025-05-27
+RCV-0475,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-04-17,2025-05-17,30,35584.72,35584.72,0.0,2025-05-31,45,15,Paid,1-30 DPD,Wire,,
+RCV-0476,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2024-12-12,2025-03-12,90,95084.99,95084.99,0.0,2025-04-15,171,81,Paid,61-90 DPD,Credit Card,,
+RCV-0477,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-01-02,2025-02-16,45,61114.21,0.0,61114.21,,150,105,Overdue,90+ DPD,Credit Card,2025-06-24,2025-05-22
+RCV-0478,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-04-16,2025-07-15,90,58371.15,58371.15,0.0,2025-06-25,46,0,Paid,Current,ACH,,
+RCV-0479,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-03-29,2025-04-13,15,14686.7,14686.7,0.0,2025-05-17,64,49,Paid,31-60 DPD,Wire,,
+RCV-0480,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-02-08,2025-04-09,60,64890.19,64890.19,0.0,2025-02-19,113,53,Paid,31-60 DPD,Credit Card,,
+RCV-0481,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-01-28,2025-03-14,45,82792.83,82792.83,0.0,2025-02-10,124,79,Paid,61-90 DPD,Check,,
+RCV-0482,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-04-29,2025-05-14,15,75388.25,75388.25,0.0,2025-06-01,33,18,Paid,1-30 DPD,ACH,,
+RCV-0483,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-04-17,2025-05-02,15,69915.4,69915.4,0.0,2025-06-01,45,30,Paid,1-30 DPD,Credit Card,,
+RCV-0484,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-02-27,2025-03-14,15,48677.87,0.0,48677.87,,94,79,Overdue,61-90 DPD,Wire,,2025-05-22
+RCV-0485,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-04-15,2025-07-14,90,67567.0,67567.0,0.0,2025-05-31,47,0,Paid,Current,Check,,
+RCV-0486,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2024-12-16,2025-02-14,60,93040.24,93040.24,0.0,2025-01-22,167,107,Paid,90+ DPD,Credit Card,,
+RCV-0487,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-05-25,2025-07-09,45,66586.74,0.0,66586.74,,7,0,Current,Current,ACH,,
+RCV-0488,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-03-21,2025-04-20,30,46492.46,46492.46,0.0,2025-05-03,72,42,Paid,31-60 DPD,ACH,,
+RCV-0489,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-03-27,2025-05-26,60,34995.32,34995.32,0.0,2025-06-01,66,6,Paid,1-30 DPD,ACH,,
+RCV-0490,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-02-11,2025-04-12,60,71593.21,71593.21,0.0,2025-04-02,110,50,Paid,31-60 DPD,ACH,,
+RCV-0491,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-01-13,2025-02-12,30,45773.34,0.0,45773.34,,139,109,Overdue,90+ DPD,Wire,2025-06-17,2025-05-21
+RCV-0492,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-03-14,2025-04-13,30,67405.66,13728.69,53676.97,2025-03-20,79,49,Partial,31-60 DPD,ACH,2025-06-20,2025-05-30
+RCV-0493,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-01-09,2025-02-08,30,27245.89,27245.89,0.0,2025-05-16,143,113,Paid,90+ DPD,ACH,,
+RCV-0494,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-02-02,2025-04-03,60,71673.74,71673.74,0.0,2025-04-09,119,59,Paid,31-60 DPD,Credit Card,,
+RCV-0495,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-03-08,2025-03-23,15,30182.15,12873.92,17308.23,2025-05-27,85,70,Partial,61-90 DPD,ACH,,2025-05-30
+RCV-0496,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-03-12,2025-06-10,90,87176.72,87176.72,0.0,2025-05-27,81,0,Paid,Current,Check,,
+RCV-0497,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-01-04,2025-04-04,90,40078.69,40078.69,0.0,2025-01-17,148,58,Paid,31-60 DPD,Check,,
+RCV-0498,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-02-22,2025-04-08,45,94210.71,57702.78,36507.93,2025-04-10,99,54,Partial,31-60 DPD,Credit Card,2025-06-11,2025-05-19
+RCV-0499,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-05-17,2025-06-16,30,52738.67,0.0,52738.67,,15,0,Current,Current,Wire,,
+RCV-0500,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-05-26,2025-06-25,30,113961.11,0.0,113961.11,,6,0,Current,Current,Credit Card,,
+RCV-0501,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-01-01,2025-02-15,45,40992.08,6877.5,34114.58,2025-01-24,151,106,Partial,90+ DPD,Check,,2025-06-01
+RCV-0502,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-05-01,2025-07-30,90,75744.47,0.0,75744.47,,31,0,Current,Current,Wire,,
+RCV-0503,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-03-18,2025-04-17,30,71308.41,71308.41,0.0,2025-05-22,75,45,Paid,31-60 DPD,Credit Card,,
+RCV-0504,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-01-20,2025-02-04,15,26418.61,19418.02,7000.59,2025-02-21,132,117,Partial,90+ DPD,ACH,,2025-05-22
+RCV-0505,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-01-04,2025-02-18,45,73219.84,73219.84,0.0,2025-03-18,148,103,Paid,90+ DPD,Check,,
+RCV-0506,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-02-23,2025-04-24,60,27197.87,27197.87,0.0,2025-05-11,98,38,Paid,31-60 DPD,Wire,,
+RCV-0507,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-04-26,2025-05-26,30,27433.94,0.0,27433.94,,36,6,Overdue,1-30 DPD,Wire,2025-06-27,2025-05-24
+RCV-0508,CUST-015,FoodChain Ltd,Retail,West,Carlos Reyes,Elena Ruiz,2025-03-01,2025-04-30,60,103113.02,103113.02,0.0,2025-03-30,92,32,Paid,31-60 DPD,Check,,
+RCV-0509,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-04-08,2025-06-07,60,26223.31,26223.31,0.0,2025-05-18,54,0,Paid,Current,ACH,,
+RCV-0510,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-02-14,2025-03-16,30,118325.91,118325.91,0.0,2025-04-29,107,77,Paid,61-90 DPD,Credit Card,,
+RCV-0511,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-01-15,2025-03-01,45,78406.35,78406.35,0.0,2025-04-29,137,92,Paid,90+ DPD,Check,,
+RCV-0512,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2024-12-13,2025-01-12,30,88793.49,0.0,88793.49,,170,140,Overdue,90+ DPD,Credit Card,2025-06-14,2025-05-29
+RCV-0513,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-02-10,2025-05-11,90,43022.14,0.0,43022.14,,111,21,Overdue,1-30 DPD,Wire,,2025-05-23
+RCV-0514,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-05-24,2025-07-08,45,12325.84,0.0,12325.84,,8,0,Current,Current,Check,,
+RCV-0515,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-03-20,2025-06-18,90,2081.72,0.0,2081.72,,73,0,Current,Current,ACH,,
+RCV-0516,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-05-05,2025-06-04,30,67745.75,67745.75,0.0,2025-05-18,27,0,Paid,Current,Check,,
+RCV-0517,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2024-12-07,2025-03-07,90,45856.24,45856.24,0.0,2025-03-29,176,86,Paid,61-90 DPD,ACH,,
+RCV-0518,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-03-31,2025-04-15,15,64054.89,45651.84,18403.05,2025-04-07,62,47,Partial,31-60 DPD,ACH,2025-06-16,2025-05-19
+RCV-0519,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-04-01,2025-05-31,60,33026.81,8040.29,24986.52,2025-05-27,61,1,Partial,1-30 DPD,Wire,2025-06-23,2025-06-01
+RCV-0520,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-03-12,2025-04-11,30,33545.68,7135.52,26410.16,2025-04-25,81,51,Partial,31-60 DPD,Wire,2025-06-28,2025-05-22
+RCV-0521,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-02-13,2025-02-28,15,73340.18,73340.18,0.0,2025-03-05,108,93,Paid,90+ DPD,Credit Card,,
+RCV-0522,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-05-11,2025-08-09,90,18406.63,18406.63,0.0,2025-05-17,21,0,Paid,Current,Wire,,
+RCV-0523,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-03-16,2025-05-15,60,28894.49,0.0,28894.49,,77,17,Overdue,1-30 DPD,Wire,,2025-05-20
+RCV-0524,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-04-22,2025-05-07,15,47583.39,47583.39,0.0,2025-05-23,40,25,Paid,1-30 DPD,Check,,
+RCV-0525,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-04-02,2025-06-01,60,29444.89,0.0,29444.89,,60,0,Current,Current,ACH,,
+RCV-0526,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-04-15,2025-05-30,45,76883.91,76883.91,0.0,2025-06-01,47,2,Paid,1-30 DPD,Wire,,
+RCV-0527,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-04-22,2025-06-21,60,109724.46,0.0,109724.46,,40,0,Current,Current,Wire,,
+RCV-0528,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2024-12-12,2025-02-10,60,51882.3,51882.3,0.0,2025-03-28,171,111,Paid,90+ DPD,Credit Card,,
+RCV-0529,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-03-05,2025-05-04,60,100782.74,100782.74,0.0,2025-05-07,88,28,Paid,1-30 DPD,Wire,,
+RCV-0530,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-03-09,2025-05-08,60,92119.56,92119.56,0.0,2025-03-27,84,24,Paid,1-30 DPD,Credit Card,,
+RCV-0531,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-05-01,2025-06-15,45,43986.55,43986.55,0.0,2025-05-22,31,0,Paid,Current,ACH,,
+RCV-0532,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-04-27,2025-05-27,30,115388.56,115388.56,0.0,2025-06-01,35,5,Paid,1-30 DPD,Credit Card,,
+RCV-0533,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-01-19,2025-02-18,30,105634.01,23981.78,81652.23,2025-02-15,133,103,Partial,90+ DPD,Credit Card,,2025-06-01
+RCV-0534,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2024-12-19,2025-02-17,60,39921.84,0.0,39921.84,,164,104,Overdue,90+ DPD,Credit Card,2025-06-16,2025-05-20
+RCV-0535,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2024-12-03,2025-02-01,60,48836.92,48836.92,0.0,2025-05-13,180,120,Paid,90+ DPD,ACH,,
+RCV-0536,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-02-03,2025-03-05,30,10304.46,5329.46,4975.0,2025-03-27,118,88,Partial,61-90 DPD,Credit Card,,2025-05-20
+RCV-0537,CUST-016,Pharma Distributors,Enterprise,North,David Wong,Marco Torres,2025-05-23,2025-06-07,15,52781.81,52781.81,0.0,2025-06-03,9,0,Paid,Current,Wire,,
+RCV-0538,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-04-27,2025-06-26,60,4410.0,0.0,4410.0,,35,0,Current,Current,Check,,
+RCV-0539,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-04-14,2025-04-29,15,6054.77,6054.77,0.0,2025-05-29,48,33,Paid,31-60 DPD,Credit Card,,
+RCV-0540,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-03-18,2025-04-02,15,61215.29,61215.29,0.0,2025-05-07,75,60,Paid,31-60 DPD,Wire,,
+RCV-0541,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-03-06,2025-03-21,15,25989.27,0.0,25989.27,,87,72,Overdue,61-90 DPD,Credit Card,,2025-06-01
+RCV-0542,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-02-17,2025-04-18,60,48730.63,48730.63,0.0,2025-03-19,104,44,Paid,31-60 DPD,Check,,
+RCV-0543,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-01-16,2025-03-02,45,67777.99,67777.99,0.0,2025-01-24,136,91,Paid,90+ DPD,Check,,
+RCV-0544,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2024-12-04,2025-03-04,90,21042.4,21042.4,0.0,2025-03-15,179,89,Paid,61-90 DPD,Check,,
+RCV-0545,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-02-23,2025-05-24,90,95050.62,95050.62,0.0,2025-05-31,98,8,Paid,1-30 DPD,Wire,,
+RCV-0546,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2024-12-11,2025-01-10,30,100212.14,100212.14,0.0,2025-02-13,172,142,Paid,90+ DPD,Credit Card,,
+RCV-0547,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-01-16,2025-04-16,90,21984.78,21984.78,0.0,2025-04-24,136,46,Paid,31-60 DPD,Check,,
+RCV-0548,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-01-05,2025-01-20,15,76502.61,76502.61,0.0,2025-02-04,147,132,Paid,90+ DPD,Credit Card,,
+RCV-0549,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-04-21,2025-05-21,30,23829.2,23829.2,0.0,2025-06-01,41,11,Paid,1-30 DPD,ACH,,
+RCV-0550,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-04-04,2025-06-03,60,17940.62,0.0,17940.62,,58,0,Current,Current,Wire,,
+RCV-0551,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-03-06,2025-06-04,90,29575.38,0.0,29575.38,,87,0,Current,Current,Check,,
+RCV-0552,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-01-17,2025-03-18,60,80816.66,80816.66,0.0,2025-04-12,135,75,Paid,61-90 DPD,Check,,
+RCV-0553,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-02-28,2025-03-15,15,39574.63,39574.63,0.0,2025-03-03,93,78,Paid,61-90 DPD,ACH,,
+RCV-0554,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-05-06,2025-05-21,15,83753.93,83753.93,0.0,2025-05-31,26,11,Paid,1-30 DPD,Check,,
+RCV-0555,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-01-16,2025-02-15,30,40600.06,40600.06,0.0,2025-03-28,136,106,Paid,90+ DPD,Check,,
+RCV-0556,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-02-19,2025-03-06,15,27753.21,27753.21,0.0,2025-02-23,102,87,Paid,61-90 DPD,Wire,,
+RCV-0557,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-01-04,2025-02-03,30,31155.84,31155.84,0.0,2025-02-17,148,118,Paid,90+ DPD,Credit Card,,
+RCV-0558,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-01-10,2025-02-24,45,47670.29,47670.29,0.0,2025-05-05,142,97,Paid,90+ DPD,Wire,,
+RCV-0559,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-05-06,2025-06-20,45,68884.28,0.0,68884.28,,26,0,Current,Current,Wire,,
+RCV-0560,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-03-11,2025-03-26,15,79744.28,79744.28,0.0,2025-05-31,82,67,Paid,61-90 DPD,Check,,
+RCV-0561,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-02-06,2025-03-08,30,4067.83,4067.83,0.0,2025-04-15,115,85,Paid,61-90 DPD,Check,,
+RCV-0562,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-02-12,2025-03-29,45,5975.21,5975.21,0.0,2025-05-29,109,64,Paid,61-90 DPD,Wire,,
+RCV-0563,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-03-19,2025-04-03,15,14502.86,14502.86,0.0,2025-04-15,74,59,Paid,31-60 DPD,Check,,
+RCV-0564,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-05-06,2025-07-05,60,110527.02,110527.02,0.0,2025-06-14,26,0,Paid,Current,Wire,,
+RCV-0565,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-01-02,2025-03-03,60,109985.13,109985.13,0.0,2025-04-03,150,90,Paid,61-90 DPD,Wire,,
+RCV-0566,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-05-25,2025-07-24,60,90815.44,0.0,90815.44,,7,0,Current,Current,Credit Card,,
+RCV-0567,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-05-21,2025-06-20,30,58102.32,0.0,58102.32,,11,0,Current,Current,Check,,
+RCV-0568,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-04-10,2025-07-09,90,86611.59,0.0,86611.59,,52,0,Current,Current,Check,,
+RCV-0569,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-01-21,2025-03-22,60,93423.38,93423.38,0.0,2025-02-04,131,71,Paid,61-90 DPD,Wire,,
+RCV-0570,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-02-02,2025-03-04,30,25179.31,25179.31,0.0,2025-04-23,119,89,Paid,61-90 DPD,Credit Card,,
+RCV-0571,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-04-18,2025-07-17,90,102851.25,0.0,102851.25,,44,0,Current,Current,Check,,
+RCV-0572,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-04-09,2025-06-08,60,77852.39,77852.39,0.0,2025-05-13,53,0,Paid,Current,Check,,
+RCV-0573,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-05-10,2025-05-25,15,79405.66,79405.66,0.0,2025-05-27,22,7,Paid,1-30 DPD,Check,,
+RCV-0574,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-01-28,2025-02-27,30,53838.25,53838.25,0.0,2025-03-10,124,94,Paid,90+ DPD,Credit Card,,
+RCV-0575,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-01-20,2025-02-04,15,55727.05,9744.92,45982.13,2025-05-17,132,117,Partial,90+ DPD,Check,,2025-05-31
+RCV-0576,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-02-01,2025-05-02,90,20167.86,20167.86,0.0,2025-03-31,120,30,Paid,1-30 DPD,Credit Card,,
+RCV-0577,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-04-27,2025-06-11,45,43658.34,0.0,43658.34,,35,0,Current,Current,Wire,,
+RCV-0578,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-03-28,2025-05-12,45,55695.34,18700.5,36994.84,2025-04-23,65,20,Partial,1-30 DPD,Credit Card,2025-06-22,2025-05-31
+RCV-0579,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2024-12-27,2025-03-27,90,98586.74,98586.74,0.0,2025-05-11,156,66,Paid,61-90 DPD,Credit Card,,
+RCV-0580,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-04-18,2025-07-17,90,91478.02,91478.02,0.0,2025-05-02,44,0,Paid,Current,Check,,
+RCV-0581,CUST-017,Digital Agency Pro,SMB,North,Pedro Alvarez,Elena Ruiz,2025-01-05,2025-02-04,30,53784.85,0.0,53784.85,,147,117,Overdue,90+ DPD,Wire,,2025-05-29
+RCV-0582,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-05-01,2025-06-30,60,68541.02,0.0,68541.02,,31,0,Current,Current,Credit Card,,
+RCV-0583,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2024-12-23,2025-02-06,45,14241.05,5997.47,8243.58,2025-03-19,160,115,Partial,90+ DPD,Check,2025-06-10,2025-05-29
+RCV-0584,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-02-21,2025-04-22,60,43062.7,43062.7,0.0,2025-04-23,100,40,Paid,31-60 DPD,Credit Card,,
+RCV-0585,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-02-13,2025-04-14,60,66229.79,66229.79,0.0,2025-05-18,108,48,Paid,31-60 DPD,Credit Card,,
+RCV-0586,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-01-03,2025-02-17,45,6788.53,6788.53,0.0,2025-05-13,149,104,Paid,90+ DPD,ACH,,
+RCV-0587,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2024-12-31,2025-01-30,30,32691.46,4650.24,28041.22,2025-05-25,152,122,Partial,90+ DPD,ACH,,2025-05-25
+RCV-0588,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-05-07,2025-05-22,15,94794.53,0.0,94794.53,,25,10,Overdue,1-30 DPD,Wire,,2025-05-31
+RCV-0589,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-02-08,2025-02-23,15,42622.37,42622.37,0.0,2025-03-22,113,98,Paid,90+ DPD,Wire,,
+RCV-0590,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2024-12-27,2025-01-26,30,69518.05,16428.58,53089.47,2025-04-06,156,126,Partial,90+ DPD,Check,2025-06-17,2025-05-28
+RCV-0591,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2024-12-23,2025-02-21,60,43613.19,29156.62,14456.57,2025-05-28,160,100,Partial,90+ DPD,Check,2025-06-29,2025-05-24
+RCV-0592,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-03-05,2025-06-03,90,28202.26,0.0,28202.26,,88,0,Current,Current,Wire,,
+RCV-0593,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-03-12,2025-05-11,60,19177.67,0.0,19177.67,,81,21,Overdue,1-30 DPD,ACH,,2025-05-24
+RCV-0594,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-04-02,2025-05-02,30,29211.47,0.0,29211.47,,60,30,Overdue,1-30 DPD,Check,2025-06-16,2025-05-28
+RCV-0595,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-02-02,2025-04-03,60,2159.11,2159.11,0.0,2025-04-21,119,59,Paid,31-60 DPD,ACH,,
+RCV-0596,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2024-12-24,2025-02-22,60,66408.92,66408.92,0.0,2025-01-04,159,99,Paid,90+ DPD,Check,,
+RCV-0597,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-02-16,2025-04-17,60,37207.37,37207.37,0.0,2025-04-02,105,45,Paid,31-60 DPD,Credit Card,,
+RCV-0598,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-01-04,2025-02-18,45,34419.34,34419.34,0.0,2025-01-14,148,103,Paid,90+ DPD,Wire,,
+RCV-0599,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-02-23,2025-04-24,60,109376.89,109376.89,0.0,2025-03-06,98,38,Paid,31-60 DPD,ACH,,
+RCV-0600,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-03-14,2025-05-13,60,48839.75,48839.75,0.0,2025-04-10,79,19,Paid,1-30 DPD,Credit Card,,
+RCV-0601,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-03-14,2025-06-12,90,109070.65,0.0,109070.65,,79,0,Current,Current,Check,,
+RCV-0602,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-05-09,2025-05-24,15,95145.44,95145.44,0.0,2025-05-28,23,8,Paid,1-30 DPD,Check,,
+RCV-0603,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-01-14,2025-01-29,15,17042.6,17042.6,0.0,2025-05-07,138,123,Paid,90+ DPD,Wire,,
+RCV-0604,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-03-29,2025-06-27,90,55702.57,0.0,55702.57,,64,0,Current,Current,ACH,,
+RCV-0605,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-02-01,2025-05-02,90,55785.43,9820.49,45964.94,2025-05-08,120,30,Partial,1-30 DPD,Check,2025-06-25,2025-05-25
+RCV-0606,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-05-09,2025-06-23,45,19729.38,0.0,19729.38,,23,0,Current,Current,ACH,,
+RCV-0607,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-04-12,2025-05-12,30,30857.2,30857.2,0.0,2025-05-29,50,20,Paid,1-30 DPD,Wire,,
+RCV-0608,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2024-12-13,2025-02-11,60,27109.81,0.0,27109.81,,170,110,Overdue,90+ DPD,Check,,2025-05-20
+RCV-0609,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-02-16,2025-03-03,15,11606.05,11606.05,0.0,2025-03-20,105,90,Paid,61-90 DPD,ACH,,
+RCV-0610,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-03-25,2025-05-09,45,95359.6,57656.83,37702.77,2025-05-03,68,23,Partial,1-30 DPD,Check,2025-06-09,2025-05-20
+RCV-0611,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-02-03,2025-05-04,90,85827.32,85827.32,0.0,2025-03-23,118,28,Paid,1-30 DPD,Check,,
+RCV-0612,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2024-12-10,2025-01-09,30,52842.68,52842.68,0.0,2025-02-20,173,143,Paid,90+ DPD,Wire,,
+RCV-0613,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2024-12-05,2024-12-20,15,55196.49,55196.49,0.0,2024-12-25,178,163,Paid,90+ DPD,ACH,,
+RCV-0614,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2024-12-29,2025-02-27,60,9257.3,4557.16,4700.14,2025-02-20,154,94,Partial,90+ DPD,Check,2025-06-04,2025-05-26
+RCV-0615,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-02-04,2025-03-21,45,106741.74,106741.74,0.0,2025-04-22,117,72,Paid,61-90 DPD,Check,,
+RCV-0616,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-02-27,2025-03-29,30,81035.82,81035.82,0.0,2025-04-14,94,64,Paid,61-90 DPD,Wire,,
+RCV-0617,CUST-018,Import Export SA,Enterprise,East,Laura Chen,Natalia Vega,2025-02-02,2025-02-17,15,97504.41,97504.41,0.0,2025-05-18,119,104,Paid,90+ DPD,Check,,
+RCV-0618,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2024-12-13,2025-02-11,60,69159.33,69159.33,0.0,2025-03-02,170,110,Paid,90+ DPD,Credit Card,,
+RCV-0619,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-04-26,2025-05-26,30,93982.26,93982.26,0.0,2025-06-01,36,6,Paid,1-30 DPD,Credit Card,,
+RCV-0620,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-01-22,2025-02-21,30,111756.23,111756.23,0.0,2025-03-01,130,100,Paid,90+ DPD,ACH,,
+RCV-0621,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2024-12-26,2025-03-26,90,63496.81,0.0,63496.81,,157,67,Overdue,61-90 DPD,Wire,,2025-05-28
+RCV-0622,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-04-27,2025-06-11,45,38761.07,0.0,38761.07,,35,0,Current,Current,Credit Card,,
+RCV-0623,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2024-12-12,2025-01-26,45,75413.51,0.0,75413.51,,171,126,Overdue,90+ DPD,ACH,,2025-06-01
+RCV-0624,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-03-30,2025-06-28,90,64105.1,0.0,64105.1,,63,0,Current,Current,Wire,,
+RCV-0625,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-01-15,2025-03-01,45,42146.86,42146.86,0.0,2025-04-29,137,92,Paid,90+ DPD,Wire,,
+RCV-0626,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2024-12-16,2024-12-31,15,76820.01,76820.01,0.0,2025-01-19,167,152,Paid,90+ DPD,Credit Card,,
+RCV-0627,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-01-31,2025-03-02,30,60262.64,15145.3,45117.34,2025-03-16,121,91,Partial,90+ DPD,Credit Card,,2025-05-24
+RCV-0628,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-05-22,2025-07-21,60,67095.69,0.0,67095.69,,10,0,Current,Current,Check,,
+RCV-0629,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-03-06,2025-05-05,60,118498.74,118498.74,0.0,2025-05-29,87,27,Paid,1-30 DPD,ACH,,
+RCV-0630,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-01-30,2025-04-30,90,100410.81,21764.88,78645.93,2025-02-17,122,32,Partial,31-60 DPD,Wire,2025-06-16,2025-05-30
+RCV-0631,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-02-12,2025-03-14,30,33880.42,33880.42,0.0,2025-02-12,109,79,Paid,61-90 DPD,ACH,,
+RCV-0632,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-01-03,2025-02-02,30,50869.87,50869.87,0.0,2025-03-19,149,119,Paid,90+ DPD,Wire,,
+RCV-0633,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-04-04,2025-07-03,90,11339.67,0.0,11339.67,,58,0,Current,Current,Credit Card,,
+RCV-0634,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-04-24,2025-07-23,90,17799.68,0.0,17799.68,,38,0,Current,Current,Check,,
+RCV-0635,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-05-01,2025-07-30,90,14883.8,14883.8,0.0,2025-06-29,31,0,Paid,Current,Credit Card,,
+RCV-0636,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-03-06,2025-04-20,45,61607.68,61607.68,0.0,2025-03-31,87,42,Paid,31-60 DPD,ACH,,
+RCV-0637,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-04-21,2025-05-06,15,55985.17,0.0,55985.17,,41,26,Overdue,1-30 DPD,Credit Card,,2025-05-29
+RCV-0638,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-05-22,2025-06-21,30,19807.54,19807.54,0.0,2025-06-07,10,0,Paid,Current,Wire,,
+RCV-0639,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-03-27,2025-06-25,90,69197.13,0.0,69197.13,,66,0,Current,Current,Wire,,
+RCV-0640,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-03-09,2025-05-08,60,79780.27,79780.27,0.0,2025-05-16,84,24,Paid,1-30 DPD,Check,,
+RCV-0641,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-02-13,2025-03-30,45,26668.03,26668.03,0.0,2025-03-29,108,63,Paid,61-90 DPD,Wire,,
+RCV-0642,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-05-06,2025-05-21,15,54245.24,54245.24,0.0,2025-06-01,26,11,Paid,1-30 DPD,Credit Card,,
+RCV-0643,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-05-05,2025-05-20,15,37970.64,37970.64,0.0,2025-05-16,27,12,Paid,1-30 DPD,ACH,,
+RCV-0644,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-02-16,2025-05-17,90,48281.64,48281.64,0.0,2025-05-13,105,15,Paid,1-30 DPD,Check,,
+RCV-0645,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2025-04-21,2025-06-05,45,85535.65,0.0,85535.65,,41,0,Current,Current,ACH,,
+RCV-0646,CUST-019,EduTech Systems,SMB,East,Laura Chen,Isabela Costa,2024-12-19,2025-03-19,90,12805.01,12805.01,0.0,2025-01-23,164,74,Paid,61-90 DPD,Credit Card,,
+RCV-0647,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-02-01,2025-03-03,30,100657.17,100657.17,0.0,2025-03-19,120,90,Paid,61-90 DPD,ACH,,
+RCV-0648,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-03-01,2025-03-16,15,51840.67,51840.67,0.0,2025-04-22,92,77,Paid,61-90 DPD,Wire,,
+RCV-0649,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-05-18,2025-06-02,15,25326.32,0.0,25326.32,,14,0,Current,Current,Credit Card,,
+RCV-0650,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2024-12-21,2025-01-05,15,99229.59,99229.59,0.0,2025-02-03,162,147,Paid,90+ DPD,Wire,,
+RCV-0651,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-03-27,2025-05-26,60,40455.58,27175.84,13279.74,2025-06-01,66,6,Partial,1-30 DPD,Wire,2025-06-07,2025-05-22
+RCV-0652,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2024-12-19,2025-01-18,30,31416.02,31416.02,0.0,2025-03-04,164,134,Paid,90+ DPD,Credit Card,,
+RCV-0653,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-01-08,2025-04-08,90,46144.04,46144.04,0.0,2025-03-03,144,54,Paid,31-60 DPD,Check,,
+RCV-0654,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-05-09,2025-08-07,90,111201.06,111201.06,0.0,2025-06-05,23,0,Paid,Current,Credit Card,,
+RCV-0655,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2024-12-30,2025-01-14,15,28410.98,28410.98,0.0,2025-02-22,153,138,Paid,90+ DPD,Credit Card,,
+RCV-0656,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-01-11,2025-01-26,15,18995.36,18995.36,0.0,2025-01-28,141,126,Paid,90+ DPD,Check,,
+RCV-0657,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2024-12-08,2024-12-23,15,9687.41,9687.41,0.0,2025-02-01,175,160,Paid,90+ DPD,Wire,,
+RCV-0658,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-01-27,2025-03-28,60,35213.92,35213.92,0.0,2025-04-19,125,65,Paid,61-90 DPD,ACH,,
+RCV-0659,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-05-12,2025-08-10,90,51731.32,0.0,51731.32,,20,0,Current,Current,Wire,,
+RCV-0660,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-04-01,2025-05-31,60,11467.6,0.0,11467.6,,61,1,Overdue,1-30 DPD,Wire,,2025-05-20
+RCV-0661,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2024-12-22,2025-03-22,90,58713.03,0.0,58713.03,,161,71,Overdue,61-90 DPD,ACH,,2025-05-29
+RCV-0662,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-03-16,2025-05-15,60,92261.08,39318.3,52942.78,2025-04-22,77,17,Partial,1-30 DPD,Check,2025-06-23,2025-05-29
+RCV-0663,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-02-16,2025-04-17,60,52630.56,32307.62,20322.94,2025-06-01,105,45,Partial,31-60 DPD,ACH,,2025-05-19
+RCV-0664,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-03-08,2025-05-07,60,104593.91,47300.1,57293.81,2025-03-09,85,25,Partial,1-30 DPD,Check,,2025-05-31
+RCV-0665,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-02-28,2025-03-30,30,113212.57,113212.57,0.0,2025-04-23,93,63,Paid,61-90 DPD,Check,,
+RCV-0666,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-03-27,2025-06-25,90,114485.67,0.0,114485.67,,66,0,Current,Current,Credit Card,,
+RCV-0667,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-01-21,2025-02-05,15,56099.52,56099.52,0.0,2025-02-19,131,116,Paid,90+ DPD,Credit Card,,
+RCV-0668,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-01-25,2025-02-09,15,43348.2,43348.2,0.0,2025-02-28,127,112,Paid,90+ DPD,Wire,,
+RCV-0669,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-01-10,2025-02-09,30,40088.16,40088.16,0.0,2025-02-11,142,112,Paid,90+ DPD,Credit Card,,
+RCV-0670,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-01-20,2025-02-19,30,16217.89,16217.89,0.0,2025-03-10,132,102,Paid,90+ DPD,Wire,,
+RCV-0671,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-04-14,2025-06-13,60,106597.73,0.0,106597.73,,48,0,Current,Current,Check,,
+RCV-0672,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-05-07,2025-05-22,15,82725.16,82725.16,0.0,2025-05-11,25,10,Paid,1-30 DPD,Wire,,
+RCV-0673,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-02-18,2025-05-19,90,118067.19,23704.98,94362.21,2025-05-01,103,13,Partial,1-30 DPD,Wire,,2025-05-31
+RCV-0674,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-01-07,2025-04-07,90,86806.07,86806.07,0.0,2025-05-26,145,55,Paid,31-60 DPD,ACH,,
+RCV-0675,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-02-28,2025-05-29,90,95566.54,95566.54,0.0,2025-03-25,93,3,Paid,1-30 DPD,Credit Card,,
+RCV-0676,CUST-020,Regional Health Gov,Government,West,Laura Chen,Isabela Costa,2025-03-27,2025-05-26,60,5630.34,5630.34,0.0,2025-04-28,66,6,Paid,1-30 DPD,Check,,
+RCV-0677,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-03-15,2025-05-14,60,64795.36,64795.36,0.0,2025-05-13,78,18,Paid,1-30 DPD,Wire,,
+RCV-0678,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-02-19,2025-04-05,45,63674.32,63674.32,0.0,2025-04-13,102,57,Paid,31-60 DPD,Credit Card,,
+RCV-0679,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-01-15,2025-01-30,15,23675.25,23675.25,0.0,2025-05-28,137,122,Paid,90+ DPD,Check,,
+RCV-0680,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-04-27,2025-05-12,15,6477.88,6477.88,0.0,2025-05-31,35,20,Paid,1-30 DPD,Credit Card,,
+RCV-0681,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-03-11,2025-05-10,60,113206.27,113206.27,0.0,2025-03-29,82,22,Paid,1-30 DPD,Credit Card,,
+RCV-0682,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-03-27,2025-04-26,30,51581.38,51581.38,0.0,2025-05-26,66,36,Paid,31-60 DPD,Wire,,
+RCV-0683,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-03-17,2025-04-01,15,6722.97,2446.01,4276.96,2025-04-27,76,61,Partial,61-90 DPD,Check,,2025-05-30
+RCV-0684,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-01-21,2025-04-21,90,119421.72,0.0,119421.72,,131,41,Overdue,31-60 DPD,ACH,,2025-05-30
+RCV-0685,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-04-22,2025-06-06,45,84946.95,0.0,84946.95,,40,0,Current,Current,Credit Card,,
+RCV-0686,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-04-26,2025-06-25,60,8459.97,0.0,8459.97,,36,0,Current,Current,Credit Card,,
+RCV-0687,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-02-27,2025-03-14,15,79883.08,0.0,79883.08,,94,79,Overdue,61-90 DPD,Wire,2025-06-15,2025-05-30
+RCV-0688,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2024-12-30,2025-02-28,60,17438.61,0.0,17438.61,,153,93,Overdue,90+ DPD,ACH,2025-06-13,2025-05-28
+RCV-0689,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-02-04,2025-02-19,15,58949.05,58949.05,0.0,2025-03-29,117,102,Paid,90+ DPD,Check,,
+RCV-0690,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2024-12-13,2025-01-27,45,65478.39,65478.39,0.0,2025-05-17,170,125,Paid,90+ DPD,Credit Card,,
+RCV-0691,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-01-30,2025-04-30,90,23887.4,23887.4,0.0,2025-06-01,122,32,Paid,31-60 DPD,Check,,
+RCV-0692,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-01-05,2025-01-20,15,8035.56,8035.56,0.0,2025-01-27,147,132,Paid,90+ DPD,ACH,,
+RCV-0693,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-03-01,2025-05-30,90,37455.27,37455.27,0.0,2025-06-01,92,2,Paid,1-30 DPD,Credit Card,,
+RCV-0694,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2024-12-16,2025-01-15,30,18452.77,0.0,18452.77,,167,137,Overdue,90+ DPD,Wire,,2025-05-30
+RCV-0695,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-02-08,2025-03-25,45,118365.97,118365.97,0.0,2025-05-02,113,68,Paid,61-90 DPD,Wire,,
+RCV-0696,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-03-22,2025-04-21,30,12225.44,0.0,12225.44,,71,41,Overdue,31-60 DPD,ACH,2025-06-19,2025-05-21
+RCV-0697,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-04-07,2025-05-07,30,2044.35,0.0,2044.35,,55,25,Overdue,1-30 DPD,Check,,2025-05-24
+RCV-0698,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-03-12,2025-03-27,15,90249.01,90249.01,0.0,2025-04-03,81,66,Paid,61-90 DPD,Credit Card,,
+RCV-0699,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2024-12-31,2025-03-31,90,111905.93,0.0,111905.93,,152,62,Overdue,61-90 DPD,Wire,,2025-05-18
+RCV-0700,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2024-12-30,2025-01-29,30,27424.13,27424.13,0.0,2025-05-27,153,123,Paid,90+ DPD,Wire,,
+RCV-0701,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-01-26,2025-04-26,90,38323.29,0.0,38323.29,,126,36,Overdue,31-60 DPD,Credit Card,2025-06-29,2025-05-22
+RCV-0702,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-01-05,2025-01-20,15,40417.06,40417.06,0.0,2025-02-16,147,132,Paid,90+ DPD,ACH,,
+RCV-0703,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2024-12-16,2025-01-30,45,92080.7,92080.7,0.0,2025-03-23,167,122,Paid,90+ DPD,Wire,,
+RCV-0704,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-04-28,2025-05-13,15,49163.3,49163.3,0.0,2025-05-25,34,19,Paid,1-30 DPD,ACH,,
+RCV-0705,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2024-12-21,2025-02-04,45,42468.58,42468.58,0.0,2025-02-25,162,117,Paid,90+ DPD,Check,,
+RCV-0706,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2024-12-24,2025-02-07,45,108838.02,108838.02,0.0,2025-02-02,159,114,Paid,90+ DPD,ACH,,
+RCV-0707,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-02-07,2025-05-08,90,23206.56,23206.56,0.0,2025-04-25,114,24,Paid,1-30 DPD,ACH,,
+RCV-0708,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-05-04,2025-05-19,15,70782.94,0.0,70782.94,,28,13,Overdue,1-30 DPD,ACH,,2025-05-18
+RCV-0709,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-04-29,2025-05-29,30,6287.66,6287.66,0.0,2025-05-20,33,3,Paid,1-30 DPD,Credit Card,,
+RCV-0710,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-01-24,2025-03-25,60,74163.26,74163.26,0.0,2025-01-27,128,68,Paid,61-90 DPD,Check,,
+RCV-0711,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-05-04,2025-07-03,60,62600.75,0.0,62600.75,,28,0,Current,Current,Wire,,
+RCV-0712,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2024-12-09,2025-02-07,60,112428.11,112428.11,0.0,2025-03-15,174,114,Paid,90+ DPD,Credit Card,,
+RCV-0713,CUST-021,LuxuryGoods SA,Retail,Central,Maria Gonzalez,Felipe Morales,2025-02-22,2025-03-09,15,117019.87,117019.87,0.0,2025-04-13,99,84,Paid,61-90 DPD,ACH,,
+RCV-0714,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-01-11,2025-04-11,90,39034.98,39034.98,0.0,2025-02-13,141,51,Paid,31-60 DPD,Wire,,
+RCV-0715,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-04-05,2025-05-20,45,103008.74,103008.74,0.0,2025-05-21,57,12,Paid,1-30 DPD,Check,,
+RCV-0716,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-02-01,2025-04-02,60,17953.98,17953.98,0.0,2025-02-20,120,60,Paid,31-60 DPD,Wire,,
+RCV-0717,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-03-05,2025-06-03,90,105951.11,0.0,105951.11,,88,0,Current,Current,Check,,
+RCV-0718,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-03-18,2025-04-02,15,60403.53,60403.53,0.0,2025-04-25,75,60,Paid,31-60 DPD,Wire,,
+RCV-0719,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-03-29,2025-04-13,15,11583.14,11583.14,0.0,2025-04-15,64,49,Paid,31-60 DPD,Wire,,
+RCV-0720,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-05-04,2025-06-03,30,99437.14,0.0,99437.14,,28,0,Current,Current,ACH,,
+RCV-0721,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-04-06,2025-06-05,60,89369.49,89369.49,0.0,2025-05-18,56,0,Paid,Current,ACH,,
+RCV-0722,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-01-05,2025-02-19,45,75683.75,75683.75,0.0,2025-03-12,147,102,Paid,90+ DPD,Credit Card,,
+RCV-0723,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-02-18,2025-03-05,15,95937.04,95937.04,0.0,2025-04-06,103,88,Paid,61-90 DPD,ACH,,
+RCV-0724,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-05-27,2025-06-11,15,16413.73,0.0,16413.73,,5,0,Current,Current,Check,,
+RCV-0725,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-04-06,2025-05-06,30,28381.58,28381.58,0.0,2025-05-18,56,26,Paid,1-30 DPD,ACH,,
+RCV-0726,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-02-25,2025-03-27,30,69628.56,69628.56,0.0,2025-05-20,96,66,Paid,61-90 DPD,ACH,,
+RCV-0727,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-03-20,2025-05-04,45,81658.84,81658.84,0.0,2025-03-21,73,28,Paid,1-30 DPD,Credit Card,,
+RCV-0728,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-01-31,2025-02-15,15,29078.82,29078.82,0.0,2025-03-16,121,106,Paid,90+ DPD,Credit Card,,
+RCV-0729,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-03-09,2025-04-08,30,36206.34,36206.34,0.0,2025-05-29,84,54,Paid,31-60 DPD,Wire,,
+RCV-0730,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-02-06,2025-03-23,45,80417.83,80417.83,0.0,2025-04-04,115,70,Paid,61-90 DPD,Check,,
+RCV-0731,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-03-13,2025-05-12,60,45000.83,45000.83,0.0,2025-06-01,80,20,Paid,1-30 DPD,Credit Card,,
+RCV-0732,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-01-01,2025-02-15,45,26342.36,26342.36,0.0,2025-03-06,151,106,Paid,90+ DPD,Check,,
+RCV-0733,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-02-22,2025-05-23,90,3005.3,3005.3,0.0,2025-05-03,99,9,Paid,1-30 DPD,Wire,,
+RCV-0734,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-05-19,2025-06-18,30,97922.81,0.0,97922.81,,13,0,Current,Current,Credit Card,,
+RCV-0735,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-04-04,2025-06-03,60,4655.09,0.0,4655.09,,58,0,Current,Current,Credit Card,,
+RCV-0736,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-04-05,2025-06-04,60,31008.71,31008.71,0.0,2025-05-09,57,0,Paid,Current,ACH,,
+RCV-0737,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-04-16,2025-05-16,30,5709.84,0.0,5709.84,,46,16,Overdue,1-30 DPD,ACH,2025-06-15,2025-05-30
+RCV-0738,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-01-26,2025-03-27,60,58163.84,0.0,58163.84,,126,66,Overdue,61-90 DPD,Check,2025-06-10,2025-05-19
+RCV-0739,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-05-05,2025-08-03,90,95902.84,0.0,95902.84,,27,0,Current,Current,ACH,,
+RCV-0740,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-02-26,2025-03-13,15,110210.46,76106.72,34103.74,2025-03-04,95,80,Partial,61-90 DPD,Credit Card,2025-06-09,2025-05-24
+RCV-0741,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2024-12-08,2025-03-08,90,2502.54,0.0,2502.54,,175,85,Overdue,61-90 DPD,Check,2025-06-20,2025-05-31
+RCV-0742,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-03-16,2025-03-31,15,81333.16,17578.48,63754.68,2025-05-22,77,62,Partial,61-90 DPD,Credit Card,,2025-05-18
+RCV-0743,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2024-12-28,2025-02-11,45,95246.2,95246.2,0.0,2025-04-19,155,110,Paid,90+ DPD,ACH,,
+RCV-0744,CUST-022,ConsultPro Group,SMB,Central,Pedro Alvarez,Felipe Morales,2025-03-04,2025-04-18,45,117565.99,117565.99,0.0,2025-03-07,89,44,Paid,31-60 DPD,ACH,,
+RCV-0745,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-01-09,2025-03-10,60,77128.23,77128.23,0.0,2025-04-20,143,83,Paid,61-90 DPD,Wire,,
+RCV-0746,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-02-23,2025-04-09,45,10312.45,10312.45,0.0,2025-05-11,98,53,Paid,31-60 DPD,Wire,,
+RCV-0747,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-03-06,2025-06-04,90,7707.86,0.0,7707.86,,87,0,Current,Current,ACH,,
+RCV-0748,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2024-12-03,2025-03-03,90,40554.97,40554.97,0.0,2024-12-22,180,90,Paid,61-90 DPD,Credit Card,,
+RCV-0749,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-02-02,2025-02-17,15,42626.4,42626.4,0.0,2025-05-06,119,104,Paid,90+ DPD,Wire,,
+RCV-0750,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2024-12-05,2025-02-03,60,105629.69,105629.69,0.0,2025-03-29,178,118,Paid,90+ DPD,Check,,
+RCV-0751,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-05-18,2025-06-17,30,7671.05,7671.05,0.0,2025-05-21,14,0,Paid,Current,Check,,
+RCV-0752,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2024-12-18,2025-03-18,90,59948.41,59948.41,0.0,2025-04-04,165,75,Paid,61-90 DPD,Wire,,
+RCV-0753,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-05-25,2025-06-24,30,62623.44,62623.44,0.0,2025-06-10,7,0,Paid,Current,Credit Card,,
+RCV-0754,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2024-12-26,2025-03-26,90,93709.42,93709.42,0.0,2025-02-17,157,67,Paid,61-90 DPD,Wire,,
+RCV-0755,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-05-12,2025-06-26,45,35575.56,0.0,35575.56,,20,0,Current,Current,Check,,
+RCV-0756,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-03-25,2025-05-24,60,32056.71,32056.71,0.0,2025-06-01,68,8,Paid,1-30 DPD,Credit Card,,
+RCV-0757,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-03-28,2025-05-27,60,39354.83,39354.83,0.0,2025-06-01,65,5,Paid,1-30 DPD,Check,,
+RCV-0758,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-04-29,2025-05-14,15,113029.4,113029.4,0.0,2025-05-07,33,18,Paid,1-30 DPD,Wire,,
+RCV-0759,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-05-17,2025-08-15,90,70035.05,0.0,70035.05,,15,0,Current,Current,ACH,,
+RCV-0760,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-03-26,2025-06-24,90,80668.3,0.0,80668.3,,67,0,Current,Current,Credit Card,,
+RCV-0761,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-02-28,2025-04-14,45,98772.31,98772.31,0.0,2025-05-11,93,48,Paid,31-60 DPD,ACH,,
+RCV-0762,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-04-24,2025-05-24,30,20200.49,12364.76,7835.73,2025-05-23,38,8,Partial,1-30 DPD,Check,,2025-05-31
+RCV-0763,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-05-14,2025-06-28,45,100333.84,0.0,100333.84,,18,0,Current,Current,ACH,,
+RCV-0764,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2024-12-04,2025-01-03,30,9847.33,9847.33,0.0,2025-01-18,179,149,Paid,90+ DPD,Check,,
+RCV-0765,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-05-18,2025-07-17,60,43150.67,0.0,43150.67,,14,0,Current,Current,Credit Card,,
+RCV-0766,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2024-12-13,2025-01-12,30,32685.87,32685.87,0.0,2025-01-16,170,140,Paid,90+ DPD,Check,,
+RCV-0767,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-01-27,2025-02-11,15,16484.71,0.0,16484.71,,125,110,Overdue,90+ DPD,Check,2025-06-12,2025-05-30
+RCV-0768,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-03-11,2025-03-26,15,23824.32,23824.32,0.0,2025-05-22,82,67,Paid,61-90 DPD,Check,,
+RCV-0769,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-03-07,2025-05-06,60,5443.35,0.0,5443.35,,86,26,Overdue,1-30 DPD,ACH,2025-06-04,2025-05-31
+RCV-0770,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-03-22,2025-05-06,45,23398.72,23398.72,0.0,2025-05-17,71,26,Paid,1-30 DPD,Credit Card,,
+RCV-0771,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-01-05,2025-02-04,30,75715.73,75715.73,0.0,2025-03-02,147,117,Paid,90+ DPD,Check,,
+RCV-0772,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2024-12-18,2025-02-16,60,31757.77,31757.77,0.0,2025-03-08,165,105,Paid,90+ DPD,ACH,,
+RCV-0773,CUST-023,HeavyMachinery Corp,Enterprise,North,Pedro Alvarez,Isabela Costa,2025-04-04,2025-05-19,45,11463.22,11463.22,0.0,2025-04-10,58,13,Paid,1-30 DPD,Credit Card,,
+RCV-0774,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-04-27,2025-06-26,60,33815.27,0.0,33815.27,,35,0,Current,Current,Wire,,
+RCV-0775,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2024-12-18,2025-01-17,30,16105.33,0.0,16105.33,,165,135,Overdue,90+ DPD,Check,,2025-05-26
+RCV-0776,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-01-15,2025-03-01,45,28653.81,28653.81,0.0,2025-03-18,137,92,Paid,90+ DPD,Check,,
+RCV-0777,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-04-18,2025-06-17,60,81785.48,81785.48,0.0,2025-05-05,44,0,Paid,Current,ACH,,
+RCV-0778,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-05-12,2025-06-26,45,78032.26,0.0,78032.26,,20,0,Current,Current,Credit Card,,
+RCV-0779,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2024-12-19,2025-01-03,15,98684.53,98684.53,0.0,2025-02-06,164,149,Paid,90+ DPD,Check,,
+RCV-0780,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2024-12-05,2025-01-19,45,31341.11,31341.11,0.0,2024-12-18,178,133,Paid,90+ DPD,Credit Card,,
+RCV-0781,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2024-12-22,2025-03-22,90,73004.6,73004.6,0.0,2025-03-29,161,71,Paid,61-90 DPD,ACH,,
+RCV-0782,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-03-11,2025-06-09,90,20757.08,20757.08,0.0,2025-05-13,82,0,Paid,Current,Wire,,
+RCV-0783,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2024-12-05,2025-02-03,60,16998.21,16998.21,0.0,2025-01-28,178,118,Paid,90+ DPD,ACH,,
+RCV-0784,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-03-22,2025-05-06,45,11842.17,11842.17,0.0,2025-05-01,71,26,Paid,1-30 DPD,ACH,,
+RCV-0785,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-01-19,2025-02-03,15,89447.45,89447.45,0.0,2025-05-19,133,118,Paid,90+ DPD,ACH,,
+RCV-0786,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2024-12-23,2025-01-22,30,68985.47,68985.47,0.0,2025-04-01,160,130,Paid,90+ DPD,Credit Card,,
+RCV-0787,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-04-30,2025-06-29,60,68889.85,0.0,68889.85,,32,0,Current,Current,Credit Card,,
+RCV-0788,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-02-09,2025-04-10,60,7818.9,7818.9,0.0,2025-02-13,112,52,Paid,31-60 DPD,Credit Card,,
+RCV-0789,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-02-24,2025-04-10,45,101197.6,70304.37,30893.23,2025-03-29,97,52,Partial,31-60 DPD,Wire,2025-06-15,2025-05-26
+RCV-0790,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-01-02,2025-04-02,90,11831.85,11831.85,0.0,2025-05-06,150,60,Paid,31-60 DPD,Credit Card,,
+RCV-0791,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-03-06,2025-05-05,60,52583.31,16640.69,35942.62,2025-04-13,87,27,Partial,1-30 DPD,ACH,2025-06-16,2025-05-19
+RCV-0792,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-01-20,2025-03-21,60,19975.36,19975.36,0.0,2025-03-29,132,72,Paid,61-90 DPD,Credit Card,,
+RCV-0793,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-01-04,2025-03-05,60,80166.96,0.0,80166.96,,148,88,Overdue,61-90 DPD,Check,2025-06-19,2025-05-20
+RCV-0794,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-02-14,2025-03-16,30,115371.58,115371.58,0.0,2025-04-14,107,77,Paid,61-90 DPD,Credit Card,,
+RCV-0795,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-02-13,2025-05-14,90,61364.41,61364.41,0.0,2025-06-01,108,18,Paid,1-30 DPD,Check,,
+RCV-0796,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-05-22,2025-07-06,45,54540.86,54540.86,0.0,2025-06-09,10,0,Paid,Current,ACH,,
+RCV-0797,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-05-19,2025-06-18,30,8085.68,8085.68,0.0,2025-06-18,13,0,Paid,Current,Credit Card,,
+RCV-0798,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-04-04,2025-05-19,45,92008.92,92008.92,0.0,2025-05-14,58,13,Paid,1-30 DPD,Credit Card,,
+RCV-0799,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-03-27,2025-04-11,15,119643.95,119643.95,0.0,2025-04-07,66,51,Paid,31-60 DPD,Wire,,
+RCV-0800,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2024-12-19,2025-01-03,15,36283.25,0.0,36283.25,,164,149,Overdue,90+ DPD,Credit Card,2025-06-17,2025-05-23
+RCV-0801,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-02-04,2025-02-19,15,99018.38,99018.38,0.0,2025-05-22,117,102,Paid,90+ DPD,Check,,
+RCV-0802,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-05-11,2025-05-26,15,28199.57,28199.57,0.0,2025-05-18,21,6,Paid,1-30 DPD,Credit Card,,
+RCV-0803,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2025-03-28,2025-06-26,90,48738.76,0.0,48738.76,,65,0,Current,Current,Check,,
+RCV-0804,CUST-024,GreenEnergy Ltd,SMB,East,Sofia Martinez,Elena Ruiz,2024-12-16,2025-02-14,60,107868.95,107868.95,0.0,2025-04-08,167,107,Paid,90+ DPD,Wire,,
+RCV-0805,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-01-03,2025-02-02,30,66558.27,66558.27,0.0,2025-02-19,149,119,Paid,90+ DPD,ACH,,
+RCV-0806,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2024-12-04,2025-01-03,30,38167.1,38167.1,0.0,2025-04-20,179,149,Paid,90+ DPD,ACH,,
+RCV-0807,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-01-09,2025-03-10,60,27891.33,27891.33,0.0,2025-03-16,143,83,Paid,61-90 DPD,Check,,
+RCV-0808,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-04-17,2025-06-16,60,74286.63,0.0,74286.63,,45,0,Current,Current,Credit Card,,
+RCV-0809,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-03-25,2025-04-09,15,47872.21,47872.21,0.0,2025-04-19,68,53,Paid,31-60 DPD,Wire,,
+RCV-0810,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-02-24,2025-03-26,30,73466.09,17363.0,56103.09,2025-03-05,97,67,Partial,61-90 DPD,Check,,2025-05-27
+RCV-0811,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-04-04,2025-06-03,60,33498.93,0.0,33498.93,,58,0,Current,Current,Wire,,
+RCV-0812,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2024-12-21,2025-01-05,15,42233.32,42233.32,0.0,2025-02-18,162,147,Paid,90+ DPD,Wire,,
+RCV-0813,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-04-02,2025-04-17,15,6511.71,6511.71,0.0,2025-04-02,60,45,Paid,31-60 DPD,Credit Card,,
+RCV-0814,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-04-02,2025-05-02,30,56422.74,56422.74,0.0,2025-05-15,60,30,Paid,1-30 DPD,Check,,
+RCV-0815,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-04-13,2025-07-12,90,10378.38,0.0,10378.38,,49,0,Current,Current,Credit Card,,
+RCV-0816,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-03-06,2025-03-21,15,11646.81,11646.81,0.0,2025-04-27,87,72,Paid,61-90 DPD,ACH,,
+RCV-0817,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-04-19,2025-06-18,60,16331.35,0.0,16331.35,,43,0,Current,Current,Credit Card,,
+RCV-0818,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-04-02,2025-05-17,45,76261.66,76261.66,0.0,2025-05-28,60,15,Paid,1-30 DPD,Credit Card,,
+RCV-0819,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-04-24,2025-07-23,90,7577.85,7577.85,0.0,2025-06-05,38,0,Paid,Current,ACH,,
+RCV-0820,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-03-27,2025-04-11,15,81682.31,81682.31,0.0,2025-04-29,66,51,Paid,31-60 DPD,Wire,,
+RCV-0821,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2024-12-11,2024-12-26,15,67098.79,67098.79,0.0,2025-03-15,172,157,Paid,90+ DPD,Check,,
+RCV-0822,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2024-12-19,2025-02-02,45,12669.24,0.0,12669.24,,164,119,Overdue,90+ DPD,ACH,2025-06-11,2025-05-24
+RCV-0823,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-04-11,2025-04-26,15,93285.27,0.0,93285.27,,51,36,Overdue,31-60 DPD,Credit Card,,2025-05-22
+RCV-0824,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-01-27,2025-03-28,60,79388.47,79388.47,0.0,2025-05-12,125,65,Paid,61-90 DPD,ACH,,
+RCV-0825,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-05-23,2025-06-07,15,14328.36,0.0,14328.36,,9,0,Current,Current,Credit Card,,
+RCV-0826,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-05-17,2025-06-16,30,32040.29,0.0,32040.29,,15,0,Current,Current,Credit Card,,
+RCV-0827,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-03-12,2025-05-11,60,26955.34,26955.34,0.0,2025-04-27,81,21,Paid,1-30 DPD,Check,,
+RCV-0828,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-05-12,2025-06-26,45,69914.73,69914.73,0.0,2025-05-27,20,0,Paid,Current,Check,,
+RCV-0829,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2024-12-18,2025-02-01,45,21205.8,0.0,21205.8,,165,120,Overdue,90+ DPD,Credit Card,,2025-05-20
+RCV-0830,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-03-30,2025-05-14,45,78709.1,78709.1,0.0,2025-06-01,63,18,Paid,1-30 DPD,Credit Card,,
+RCV-0831,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-05-14,2025-06-13,30,37702.85,0.0,37702.85,,18,0,Current,Current,Wire,,
+RCV-0832,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-04-29,2025-05-29,30,40499.17,26684.08,13815.09,2025-05-03,33,3,Partial,1-30 DPD,Wire,,2025-05-23
+RCV-0833,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-04-22,2025-05-07,15,49021.43,49021.43,0.0,2025-04-24,40,25,Paid,1-30 DPD,Credit Card,,
+RCV-0834,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-01-22,2025-03-08,45,2098.12,2098.12,0.0,2025-01-28,130,85,Paid,61-90 DPD,Check,,
+RCV-0835,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-01-31,2025-03-02,30,71649.26,71649.26,0.0,2025-03-18,121,91,Paid,90+ DPD,ACH,,
+RCV-0836,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-03-18,2025-05-17,60,90737.8,90737.8,0.0,2025-05-18,75,15,Paid,1-30 DPD,Wire,,
+RCV-0837,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-02-06,2025-04-07,60,101926.78,101926.78,0.0,2025-03-26,115,55,Paid,31-60 DPD,Wire,,
+RCV-0838,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-01-09,2025-04-09,90,71936.98,28476.07,43460.91,2025-03-25,143,53,Partial,31-60 DPD,Check,2025-06-16,2025-05-31
+RCV-0839,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2024-12-15,2025-03-15,90,32233.04,0.0,32233.04,,168,78,Overdue,61-90 DPD,Credit Card,2025-06-11,2025-05-31
+RCV-0840,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-04-02,2025-07-01,90,104441.37,0.0,104441.37,,60,0,Current,Current,Wire,,
+RCV-0841,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-04-06,2025-05-21,45,34981.8,34981.8,0.0,2025-04-11,56,11,Paid,1-30 DPD,Wire,,
+RCV-0842,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-04-19,2025-05-04,15,39788.35,18075.18,21713.17,2025-04-24,43,28,Partial,1-30 DPD,ACH,2025-06-09,2025-05-19
+RCV-0843,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-02-09,2025-05-10,90,91146.19,91146.19,0.0,2025-04-08,112,22,Paid,1-30 DPD,Check,,
+RCV-0844,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-03-08,2025-04-07,30,73286.28,73286.28,0.0,2025-04-19,85,55,Paid,31-60 DPD,Wire,,
+RCV-0845,CUST-025,SportsBrands SA,Retail,North,David Wong,Elena Ruiz,2025-02-17,2025-03-04,15,107200.95,107200.95,0.0,2025-03-18,104,89,Paid,61-90 DPD,Check,,

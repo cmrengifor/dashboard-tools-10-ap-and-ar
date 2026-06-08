@@ -95,7 +95,7 @@ dashboard-tools-10-ap-and-ar/
 
 | # | Dashboard | Herramienta | Estado |
 |---|---|---|---|
-| 04 | Receivables Collection Dashboard | Power BI | ⬜ Pendiente |
+| 04 | Receivables Collection Dashboard | Power BI | ✅ Completado |
 | 05 | Payables Efficiency Dashboard | Excel + Power BI | ⬜ Pendiente |
 
 ### Fase 3 — Análisis de Flujo y Proveedores
