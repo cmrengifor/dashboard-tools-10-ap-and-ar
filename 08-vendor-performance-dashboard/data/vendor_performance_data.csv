@@ -1,0 +1,563 @@
+record_id,vendor_id,vendor_name,category,region,status,period,year,month,quarter,invoice_amount,payment_days,on_time,quality_score,defect_rate,order_count,dispute_count
+VP-0018,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Jan 2025,2025,1,Q1,109386.59,23,Yes,75.8,0.2555,12,0
+VP-0019,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Jan 2025,2025,1,Q1,63552.85,27,Yes,93.8,0.0659,15,0
+VP-0020,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Jan 2025,2025,1,Q1,90406.83,26,Yes,66.7,0.4203,1,0
+VP-0021,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Jan 2025,2025,1,Q1,90612.68,64,No,75.7,0.3394,15,0
+VP-0022,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Jan 2025,2025,1,Q1,89366.57,78,No,62.8,0.3009,11,0
+VP-0006,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Jan 2025,2025,1,Q1,199563.53,39,Yes,100,0.0,11,0
+VP-0007,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Jan 2025,2025,1,Q1,188995.97,34,Yes,81.0,0.2771,14,0
+VP-0008,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Jan 2025,2025,1,Q1,104163.47,72,Yes,98.6,0.0172,14,0
+VP-0009,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Jan 2025,2025,1,Q1,60778.07,70,Yes,86.6,0.103,2,0
+VP-0010,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Jan 2025,2025,1,Q1,230240.69,66,No,89.5,0.0831,13,0
+VP-0011,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Jan 2025,2025,1,Q1,155479.6,39,Yes,77.4,0.2916,12,0
+VP-0023,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Jan 2025,2025,1,Q1,89403.58,35,Yes,84.1,0.1255,4,0
+VP-0024,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Jan 2025,2025,1,Q1,151489.58,46,Yes,90.2,0.0524,6,0
+VP-0025,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Jan 2025,2025,1,Q1,45324.93,36,Yes,78.2,0.2894,8,0
+VP-0026,V-PRO-04,Professional Services Vendor 04,Professional Services,North,Inactive,Jan 2025,2025,1,Q1,167576.17,53,Yes,87.2,0.1283,10,0
+VP-0027,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Jan 2025,2025,1,Q1,64986.13,41,Yes,65.6,0.2304,4,0
+VP-0028,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Jan 2025,2025,1,Q1,174223.55,37,Yes,69.1,0.1664,3,0
+VP-0012,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Jan 2025,2025,1,Q1,168343.97,22,Yes,91.3,0.1125,7,0
+VP-0013,V-RAW-02,Raw Materials Vendor 02,Raw Materials,East,Inactive,Jan 2025,2025,1,Q1,81796.25,80,Yes,74.3,0.3046,2,1
+VP-0014,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Jan 2025,2025,1,Q1,95607.61,37,Yes,68.6,0.4286,11,1
+VP-0015,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Jan 2025,2025,1,Q1,91267.62,65,Yes,80.9,0.2537,14,1
+VP-0016,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Jan 2025,2025,1,Q1,70637.87,33,Yes,69.2,0.3142,2,0
+VP-0017,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Jan 2025,2025,1,Q1,64103.31,54,Yes,60.1,0.5116,2,1
+VP-0001,V-TEC-01,Technology Vendor 01,Technology,South,Active,Jan 2025,2025,1,Q1,223971.49,30,Yes,95.0,0.0476,3,0
+VP-0002,V-TEC-02,Technology Vendor 02,Technology,North,Active,Jan 2025,2025,1,Q1,138337.37,79,Yes,62.6,0.2713,4,3
+VP-0003,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Jan 2025,2025,1,Q1,86686.77,92,Yes,64.5,0.331,2,0
+VP-0004,V-TEC-05,Technology Vendor 05,Technology,West,Active,Jan 2025,2025,1,Q1,192225.17,72,Yes,82.3,0.1816,12,0
+VP-0005,V-TEC-06,Technology Vendor 06,Technology,West,Active,Jan 2025,2025,1,Q1,83065.48,36,Yes,98.4,0.0237,4,0
+VP-0047,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Feb 2025,2025,2,Q1,105181.17,39,Yes,84.3,0.1745,2,0
+VP-0048,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Feb 2025,2025,2,Q1,41944.14,27,Yes,87.3,0.1061,7,0
+VP-0049,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Feb 2025,2025,2,Q1,198978.11,43,Yes,74.1,0.3808,1,0
+VP-0050,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Feb 2025,2025,2,Q1,181184.74,55,No,78.9,0.1177,13,0
+VP-0051,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Feb 2025,2025,2,Q1,60694.73,80,No,70.1,0.321,10,0
+VP-0052,V-LOG-06,Logistics Vendor 06,Logistics,North,Inactive,Feb 2025,2025,2,Q1,128118.54,73,Yes,57.5,0.4481,5,1
+VP-0035,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Feb 2025,2025,2,Q1,178085.85,14,Yes,90.1,0.0809,2,0
+VP-0036,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Feb 2025,2025,2,Q1,266596.65,34,Yes,78.3,0.3073,13,0
+VP-0037,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Feb 2025,2025,2,Q1,106888.36,47,Yes,94.1,0.0754,13,0
+VP-0038,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Feb 2025,2025,2,Q1,150964.4,52,Yes,83.8,0.2415,5,0
+VP-0039,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Feb 2025,2025,2,Q1,102043.59,59,Yes,90.0,0.0808,5,0
+VP-0040,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Feb 2025,2025,2,Q1,163085.66,54,Yes,63.8,0.4604,14,1
+VP-0053,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Feb 2025,2025,2,Q1,76356.13,35,Yes,75.5,0.3567,2,0
+VP-0054,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Feb 2025,2025,2,Q1,194857.89,45,Yes,99.0,0.0098,2,0
+VP-0055,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Feb 2025,2025,2,Q1,67569.94,35,Yes,80.9,0.2327,6,0
+VP-0056,V-PRO-04,Professional Services Vendor 04,Professional Services,North,Inactive,Feb 2025,2025,2,Q1,30720.05,34,Yes,89.6,0.1031,1,0
+VP-0057,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Feb 2025,2025,2,Q1,99989.47,34,Yes,72.0,0.2588,8,2
+VP-0058,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Feb 2025,2025,2,Q1,72947.56,38,Yes,69.7,0.4277,7,0
+VP-0041,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Feb 2025,2025,2,Q1,233065.14,23,Yes,80.1,0.1683,9,0
+VP-0042,V-RAW-02,Raw Materials Vendor 02,Raw Materials,East,Inactive,Feb 2025,2025,2,Q1,163748.21,62,Yes,74.4,0.248,4,0
+VP-0043,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Feb 2025,2025,2,Q1,146196.91,49,Yes,70.5,0.3237,4,1
+VP-0044,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Feb 2025,2025,2,Q1,89563.15,71,No,77.3,0.1672,10,1
+VP-0045,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Feb 2025,2025,2,Q1,89385.65,19,Yes,70.2,0.4044,11,1
+VP-0046,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Feb 2025,2025,2,Q1,86450.35,48,Yes,68.8,0.2185,13,1
+VP-0029,V-TEC-01,Technology Vendor 01,Technology,South,Active,Feb 2025,2025,2,Q1,47411.2,48,Yes,91.5,0.0736,9,0
+VP-0030,V-TEC-02,Technology Vendor 02,Technology,North,Active,Feb 2025,2025,2,Q1,55269.17,75,No,66.1,0.2579,14,0
+VP-0031,V-TEC-03,Technology Vendor 03,Technology,West,Inactive,Feb 2025,2025,2,Q1,62406.65,69,Yes,58.6,0.4465,12,1
+VP-0032,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Feb 2025,2025,2,Q1,70658.31,81,Yes,67.4,0.3942,3,1
+VP-0033,V-TEC-05,Technology Vendor 05,Technology,West,Active,Feb 2025,2025,2,Q1,141025.16,75,No,82.1,0.2033,5,0
+VP-0034,V-TEC-06,Technology Vendor 06,Technology,West,Active,Feb 2025,2025,2,Q1,68308.02,48,Yes,87.0,0.1059,1,0
+VP-0077,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Mar 2025,2025,3,Q1,160311.97,47,Yes,82.3,0.141,12,0
+VP-0078,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Mar 2025,2025,3,Q1,74094.48,46,Yes,87.6,0.11,6,0
+VP-0079,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Mar 2025,2025,3,Q1,145740.2,21,Yes,77.3,0.2959,11,0
+VP-0080,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Mar 2025,2025,3,Q1,110189.69,45,Yes,71.8,0.2823,14,0
+VP-0081,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Mar 2025,2025,3,Q1,87646.54,65,Yes,64.4,0.4835,15,1
+VP-0065,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Mar 2025,2025,3,Q1,195583.06,44,Yes,87.4,0.1421,10,0
+VP-0066,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Mar 2025,2025,3,Q1,154154.62,32,Yes,76.7,0.1485,14,0
+VP-0067,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Mar 2025,2025,3,Q1,112006.46,60,Yes,84.9,0.2229,14,0
+VP-0068,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Mar 2025,2025,3,Q1,41602.14,73,Yes,76.3,0.1452,7,0
+VP-0069,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Mar 2025,2025,3,Q1,63284.62,57,No,93.3,0.0846,3,0
+VP-0070,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Mar 2025,2025,3,Q1,171342.2,52,Yes,66.9,0.1723,5,2
+VP-0082,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Mar 2025,2025,3,Q1,70450.18,45,Yes,79.8,0.1777,9,0
+VP-0083,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Mar 2025,2025,3,Q1,189358.42,40,Yes,94.9,0.0295,14,0
+VP-0084,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Mar 2025,2025,3,Q1,153584.16,52,Yes,87.3,0.1689,11,0
+VP-0085,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Mar 2025,2025,3,Q1,91445.4,56,No,72.2,0.298,15,0
+VP-0086,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Mar 2025,2025,3,Q1,54005.04,52,Yes,74.8,0.2278,11,1
+VP-0071,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Mar 2025,2025,3,Q1,186765.55,25,Yes,83.6,0.1711,4,0
+VP-0072,V-RAW-02,Raw Materials Vendor 02,Raw Materials,East,Inactive,Mar 2025,2025,3,Q1,94226.91,59,Yes,79.9,0.1529,12,0
+VP-0073,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Mar 2025,2025,3,Q1,128039.94,38,Yes,71.0,0.4012,11,1
+VP-0074,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Mar 2025,2025,3,Q1,116283.07,79,No,75.0,0.1969,15,1
+VP-0075,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Mar 2025,2025,3,Q1,105021.73,22,No,79.4,0.2321,12,1
+VP-0076,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Mar 2025,2025,3,Q1,44721.99,51,Yes,54.0,0.3842,6,0
+VP-0059,V-TEC-01,Technology Vendor 01,Technology,South,Active,Mar 2025,2025,3,Q1,196390.04,31,Yes,98.1,0.0232,4,0
+VP-0060,V-TEC-02,Technology Vendor 02,Technology,North,Active,Mar 2025,2025,3,Q1,114375.35,90,No,60.2,0.4066,14,0
+VP-0061,V-TEC-03,Technology Vendor 03,Technology,West,Inactive,Mar 2025,2025,3,Q1,121770.01,58,Yes,59.8,0.4922,3,1
+VP-0062,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Mar 2025,2025,3,Q1,106889.5,70,Yes,71.0,0.3317,8,0
+VP-0063,V-TEC-05,Technology Vendor 05,Technology,West,Active,Mar 2025,2025,3,Q1,120640.81,63,No,84.8,0.216,7,0
+VP-0064,V-TEC-06,Technology Vendor 06,Technology,West,Active,Mar 2025,2025,3,Q1,118745.52,63,No,94.4,0.0292,15,0
+VP-0103,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Apr 2025,2025,4,Q2,93597.48,43,Yes,79.7,0.1047,12,0
+VP-0104,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Apr 2025,2025,4,Q2,63773.75,25,Yes,95.4,0.0516,8,0
+VP-0105,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Apr 2025,2025,4,Q2,186565.96,47,Yes,68.9,0.3811,9,0
+VP-0106,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Apr 2025,2025,4,Q2,189840.71,62,No,69.0,0.2992,10,1
+VP-0107,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Apr 2025,2025,4,Q2,35425.74,72,Yes,57.8,0.2258,7,0
+VP-0108,V-LOG-06,Logistics Vendor 06,Logistics,North,Inactive,Apr 2025,2025,4,Q2,99358.51,52,Yes,56.1,0.4105,9,2
+VP-0092,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Apr 2025,2025,4,Q2,69123.31,42,Yes,90.9,0.0826,15,0
+VP-0093,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Apr 2025,2025,4,Q2,235112.2,52,Yes,80.7,0.1909,8,0
+VP-0094,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Apr 2025,2025,4,Q2,101397.34,53,Yes,88.2,0.1119,12,0
+VP-0095,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Apr 2025,2025,4,Q2,201665.7,45,Yes,73.7,0.134,10,0
+VP-0096,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Apr 2025,2025,4,Q2,97418.87,56,Yes,90.1,0.0977,14,0
+VP-0097,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Apr 2025,2025,4,Q2,187405.47,44,Yes,62.5,0.4486,1,1
+VP-0109,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Apr 2025,2025,4,Q2,106442.73,33,Yes,76.2,0.3415,1,0
+VP-0110,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Apr 2025,2025,4,Q2,85740.05,37,Yes,95.0,0.0316,5,0
+VP-0111,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Apr 2025,2025,4,Q2,43887.52,42,Yes,79.2,0.2767,12,1
+VP-0112,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Apr 2025,2025,4,Q2,68132.92,43,Yes,71.0,0.3074,13,1
+VP-0113,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Apr 2025,2025,4,Q2,141157.8,26,Yes,66.7,0.2765,3,1
+VP-0098,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Apr 2025,2025,4,Q2,101507.55,20,Yes,92.8,0.0802,3,0
+VP-0099,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Apr 2025,2025,4,Q2,151510.83,40,Yes,65.4,0.4746,7,2
+VP-0100,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Apr 2025,2025,4,Q2,178820.99,64,No,80.7,0.1837,7,1
+VP-0101,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Apr 2025,2025,4,Q2,152549.33,38,Yes,78.5,0.1776,7,0
+VP-0102,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Apr 2025,2025,4,Q2,61852.49,41,Yes,55.3,0.5192,3,1
+VP-0087,V-TEC-01,Technology Vendor 01,Technology,South,Active,Apr 2025,2025,4,Q2,105444.89,35,Yes,90.0,0.0929,2,0
+VP-0088,V-TEC-02,Technology Vendor 02,Technology,North,Active,Apr 2025,2025,4,Q2,58210.07,70,Yes,70.0,0.4154,7,2
+VP-0089,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Apr 2025,2025,4,Q2,59297.79,80,Yes,72.9,0.157,10,0
+VP-0090,V-TEC-05,Technology Vendor 05,Technology,West,Active,Apr 2025,2025,4,Q2,130742.93,76,No,79.8,0.1073,5,0
+VP-0091,V-TEC-06,Technology Vendor 06,Technology,West,Active,Apr 2025,2025,4,Q2,81721.78,50,Yes,91.0,0.066,1,0
+VP-0132,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,May 2025,2025,5,Q2,153097.04,39,Yes,86.0,0.1833,12,0
+VP-0133,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,May 2025,2025,5,Q2,55997.82,29,Yes,94.8,0.0564,12,0
+VP-0134,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,May 2025,2025,5,Q2,116423.4,25,Yes,77.8,0.2415,15,0
+VP-0135,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,May 2025,2025,5,Q2,67290.69,62,Yes,82.0,0.0952,5,0
+VP-0136,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,May 2025,2025,5,Q2,46586.69,75,Yes,60.3,0.2169,9,1
+VP-0120,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,May 2025,2025,5,Q2,227962.38,39,Yes,93.7,0.0726,7,0
+VP-0121,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,May 2025,2025,5,Q2,68423.3,61,Yes,76.7,0.1242,6,1
+VP-0122,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,May 2025,2025,5,Q2,92348.63,44,Yes,96.0,0.0299,14,0
+VP-0123,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,May 2025,2025,5,Q2,211907.84,55,Yes,75.9,0.1362,3,0
+VP-0124,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,May 2025,2025,5,Q2,142241.67,48,Yes,100,0.0,15,0
+VP-0125,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,May 2025,2025,5,Q2,119664.6,51,Yes,68.0,0.186,11,0
+VP-0137,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,May 2025,2025,5,Q2,105649.67,46,Yes,80.5,0.2089,15,0
+VP-0138,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,May 2025,2025,5,Q2,188653.98,47,Yes,85.0,0.1334,4,0
+VP-0139,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,May 2025,2025,5,Q2,90932.66,34,Yes,85.4,0.1768,10,0
+VP-0140,V-PRO-04,Professional Services Vendor 04,Professional Services,North,Inactive,May 2025,2025,5,Q2,29626.94,42,No,88.6,0.099,10,0
+VP-0141,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,May 2025,2025,5,Q2,83486.82,39,Yes,59.7,0.4271,5,0
+VP-0142,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,May 2025,2025,5,Q2,157821.9,45,Yes,71.3,0.3695,7,1
+VP-0126,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,May 2025,2025,5,Q2,171066.42,28,Yes,90.2,0.118,13,0
+VP-0127,V-RAW-02,Raw Materials Vendor 02,Raw Materials,East,Inactive,May 2025,2025,5,Q2,128812.41,51,Yes,68.8,0.4298,8,1
+VP-0128,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,May 2025,2025,5,Q2,89779.28,33,Yes,74.9,0.1699,7,1
+VP-0129,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,May 2025,2025,5,Q2,100882.3,70,Yes,89.6,0.1418,2,0
+VP-0130,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,May 2025,2025,5,Q2,111085.95,33,Yes,66.6,0.3776,4,0
+VP-0131,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,May 2025,2025,5,Q2,158672.88,45,Yes,53.3,0.6056,3,1
+VP-0114,V-TEC-01,Technology Vendor 01,Technology,South,Active,May 2025,2025,5,Q2,219495.47,47,Yes,93.6,0.0675,11,0
+VP-0115,V-TEC-02,Technology Vendor 02,Technology,North,Active,May 2025,2025,5,Q2,82591.98,90,Yes,58.6,0.4196,15,0
+VP-0116,V-TEC-03,Technology Vendor 03,Technology,West,Inactive,May 2025,2025,5,Q2,80293.0,62,Yes,59.3,0.324,10,1
+VP-0117,V-TEC-04,Technology Vendor 04,Technology,West,Probation,May 2025,2025,5,Q2,107669.42,89,No,71.4,0.4031,5,1
+VP-0118,V-TEC-05,Technology Vendor 05,Technology,West,Active,May 2025,2025,5,Q2,123330.75,59,No,94.3,0.0439,11,0
+VP-0119,V-TEC-06,Technology Vendor 06,Technology,West,Active,May 2025,2025,5,Q2,71012.33,51,No,86.1,0.1938,14,0
+VP-0160,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Jun 2025,2025,6,Q2,193721.97,25,Yes,80.5,0.1406,2,0
+VP-0161,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Jun 2025,2025,6,Q2,107702.33,42,Yes,96.8,0.0186,12,0
+VP-0162,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Jun 2025,2025,6,Q2,102868.64,30,Yes,75.4,0.3118,12,0
+VP-0163,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Jun 2025,2025,6,Q2,109739.53,65,Yes,70.9,0.2872,4,1
+VP-0164,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Jun 2025,2025,6,Q2,79327.43,71,Yes,57.8,0.4601,12,2
+VP-0165,V-LOG-06,Logistics Vendor 06,Logistics,North,Inactive,Jun 2025,2025,6,Q2,180800.56,61,Yes,64.6,0.5026,10,0
+VP-0148,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Jun 2025,2025,6,Q2,160372.16,17,Yes,99.3,0.0099,9,0
+VP-0149,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Jun 2025,2025,6,Q2,144556.93,49,Yes,86.9,0.0965,7,0
+VP-0150,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Jun 2025,2025,6,Q2,95290.86,45,Yes,89.9,0.1248,2,0
+VP-0151,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Jun 2025,2025,6,Q2,207352.56,64,Yes,88.6,0.1451,2,0
+VP-0152,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Jun 2025,2025,6,Q2,101221.14,73,No,96.9,0.0218,14,0
+VP-0153,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Jun 2025,2025,6,Q2,194157.79,34,Yes,66.2,0.2304,3,1
+VP-0166,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Jun 2025,2025,6,Q2,83506.61,25,Yes,73.5,0.251,4,1
+VP-0167,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Jun 2025,2025,6,Q2,228577.95,34,Yes,85.0,0.2071,6,0
+VP-0168,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Jun 2025,2025,6,Q2,125769.5,40,Yes,90.9,0.1214,5,0
+VP-0169,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Jun 2025,2025,6,Q2,125702.56,61,Yes,72.9,0.2158,11,0
+VP-0170,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Jun 2025,2025,6,Q2,210286.6,24,Yes,71.5,0.3294,12,1
+VP-0154,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Jun 2025,2025,6,Q2,75435.31,35,Yes,79.2,0.3113,11,1
+VP-0155,V-RAW-02,Raw Materials Vendor 02,Raw Materials,East,Inactive,Jun 2025,2025,6,Q2,193897.95,80,Yes,68.2,0.2667,7,0
+VP-0156,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Jun 2025,2025,6,Q2,136472.63,43,Yes,60.3,0.2793,12,1
+VP-0157,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Jun 2025,2025,6,Q2,213754.08,61,Yes,81.3,0.1727,13,0
+VP-0158,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Jun 2025,2025,6,Q2,173708.65,34,Yes,69.5,0.3815,11,2
+VP-0159,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Jun 2025,2025,6,Q2,132074.09,35,Yes,62.0,0.3882,7,1
+VP-0143,V-TEC-01,Technology Vendor 01,Technology,South,Active,Jun 2025,2025,6,Q2,208365.36,34,Yes,89.4,0.1327,15,0
+VP-0144,V-TEC-02,Technology Vendor 02,Technology,North,Active,Jun 2025,2025,6,Q2,108172.1,87,No,63.3,0.4083,11,0
+VP-0145,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Jun 2025,2025,6,Q2,64726.41,84,Yes,59.7,0.5272,11,2
+VP-0146,V-TEC-05,Technology Vendor 05,Technology,West,Active,Jun 2025,2025,6,Q2,143501.72,76,No,82.5,0.1799,3,0
+VP-0147,V-TEC-06,Technology Vendor 06,Technology,West,Active,Jun 2025,2025,6,Q2,111349.43,63,Yes,99.0,0.0144,9,0
+VP-0187,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Jul 2025,2025,7,Q3,58849.0,22,Yes,79.3,0.1076,6,1
+VP-0188,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Jul 2025,2025,7,Q3,68706.27,39,Yes,90.2,0.0807,2,0
+VP-0189,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Jul 2025,2025,7,Q3,187918.79,39,Yes,72.8,0.3298,14,1
+VP-0190,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Jul 2025,2025,7,Q3,142885.18,62,Yes,80.7,0.2597,14,0
+VP-0191,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Jul 2025,2025,7,Q3,47766.73,73,Yes,64.2,0.4619,7,1
+VP-0192,V-LOG-06,Logistics Vendor 06,Logistics,North,Inactive,Jul 2025,2025,7,Q3,158662.78,59,Yes,66.7,0.3484,7,2
+VP-0176,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Jul 2025,2025,7,Q3,128435.42,43,Yes,98.2,0.0116,6,0
+VP-0177,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Jul 2025,2025,7,Q3,171800.19,39,Yes,83.2,0.1297,8,1
+VP-0178,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Jul 2025,2025,7,Q3,136511.7,62,Yes,88.4,0.127,15,0
+VP-0179,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Jul 2025,2025,7,Q3,151000.1,62,Yes,81.2,0.2232,13,0
+VP-0180,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Jul 2025,2025,7,Q3,264090.0,65,Yes,90.8,0.093,2,0
+VP-0181,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Jul 2025,2025,7,Q3,141141.37,36,Yes,75.8,0.3298,7,0
+VP-0193,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Jul 2025,2025,7,Q3,73691.97,22,Yes,83.8,0.2334,14,0
+VP-0194,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Jul 2025,2025,7,Q3,140592.69,34,Yes,90.4,0.0931,15,0
+VP-0195,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Jul 2025,2025,7,Q3,129274.16,62,Yes,85.6,0.1426,1,0
+VP-0196,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Jul 2025,2025,7,Q3,192356.01,57,Yes,72.2,0.227,2,0
+VP-0197,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Jul 2025,2025,7,Q3,195738.74,52,Yes,61.4,0.2968,1,1
+VP-0182,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Jul 2025,2025,7,Q3,166304.28,29,Yes,79.0,0.2609,2,0
+VP-0183,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Jul 2025,2025,7,Q3,227433.75,37,Yes,70.7,0.3352,3,0
+VP-0184,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Jul 2025,2025,7,Q3,81701.51,61,Yes,77.4,0.1464,12,1
+VP-0185,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Jul 2025,2025,7,Q3,74761.31,24,Yes,70.0,0.2999,7,3
+VP-0186,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Jul 2025,2025,7,Q3,91088.59,29,Yes,57.3,0.3331,15,2
+VP-0171,V-TEC-01,Technology Vendor 01,Technology,South,Active,Jul 2025,2025,7,Q3,97340.89,34,Yes,97.6,0.0283,6,0
+VP-0172,V-TEC-02,Technology Vendor 02,Technology,North,Active,Jul 2025,2025,7,Q3,89547.47,80,Yes,59.8,0.4344,15,0
+VP-0173,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Jul 2025,2025,7,Q3,92891.88,78,Yes,59.7,0.5236,8,1
+VP-0174,V-TEC-05,Technology Vendor 05,Technology,West,Active,Jul 2025,2025,7,Q3,129078.38,81,Yes,79.5,0.1397,11,0
+VP-0175,V-TEC-06,Technology Vendor 06,Technology,West,Active,Jul 2025,2025,7,Q3,96442.05,47,Yes,93.8,0.0392,5,0
+VP-0214,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Aug 2025,2025,8,Q3,253737.69,42,Yes,82.3,0.1978,7,0
+VP-0215,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Aug 2025,2025,8,Q3,93499.98,28,Yes,88.2,0.0749,3,0
+VP-0216,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Aug 2025,2025,8,Q3,189401.84,21,Yes,71.0,0.3695,15,1
+VP-0217,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Aug 2025,2025,8,Q3,191280.7,60,Yes,70.4,0.2922,12,0
+VP-0218,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Aug 2025,2025,8,Q3,69687.72,82,Yes,56.2,0.3233,12,0
+VP-0203,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Aug 2025,2025,8,Q3,113603.08,40,Yes,87.4,0.1695,4,0
+VP-0204,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Aug 2025,2025,8,Q3,266789.34,52,No,89.2,0.0708,4,0
+VP-0205,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Aug 2025,2025,8,Q3,108161.41,61,Yes,91.3,0.0807,5,0
+VP-0206,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Aug 2025,2025,8,Q3,165475.68,69,Yes,75.6,0.2618,10,1
+VP-0207,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Aug 2025,2025,8,Q3,215236.16,58,Yes,94.3,0.0348,14,0
+VP-0208,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Aug 2025,2025,8,Q3,156726.34,42,Yes,62.3,0.5141,3,0
+VP-0219,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Aug 2025,2025,8,Q3,85081.58,21,Yes,75.8,0.287,1,0
+VP-0220,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Aug 2025,2025,8,Q3,147515.37,40,Yes,87.4,0.0746,6,0
+VP-0221,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Aug 2025,2025,8,Q3,179128.54,49,Yes,79.0,0.296,12,0
+VP-0222,V-PRO-04,Professional Services Vendor 04,Professional Services,North,Inactive,Aug 2025,2025,8,Q3,132859.91,48,Yes,84.4,0.1372,13,0
+VP-0223,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Aug 2025,2025,8,Q3,170990.56,51,Yes,62.8,0.3932,2,1
+VP-0224,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Aug 2025,2025,8,Q3,96995.85,31,Yes,66.1,0.2675,1,0
+VP-0209,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Aug 2025,2025,8,Q3,163247.91,23,Yes,86.4,0.1759,9,0
+VP-0210,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Aug 2025,2025,8,Q3,197493.5,29,Yes,59.3,0.4327,2,0
+VP-0211,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Aug 2025,2025,8,Q3,133434.3,63,No,77.0,0.2253,12,0
+VP-0212,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Aug 2025,2025,8,Q3,114904.73,10,Yes,64.1,0.4433,5,0
+VP-0213,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Aug 2025,2025,8,Q3,124684.21,36,Yes,67.4,0.3158,5,0
+VP-0198,V-TEC-01,Technology Vendor 01,Technology,South,Active,Aug 2025,2025,8,Q3,138644.25,43,Yes,93.1,0.0958,8,0
+VP-0199,V-TEC-02,Technology Vendor 02,Technology,North,Active,Aug 2025,2025,8,Q3,111823.51,74,Yes,67.7,0.3614,4,1
+VP-0200,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Aug 2025,2025,8,Q3,70116.35,81,No,60.8,0.4714,10,0
+VP-0201,V-TEC-05,Technology Vendor 05,Technology,West,Active,Aug 2025,2025,8,Q3,144093.69,67,Yes,85.6,0.1568,6,0
+VP-0202,V-TEC-06,Technology Vendor 06,Technology,West,Active,Aug 2025,2025,8,Q3,90051.46,41,Yes,92.5,0.0911,11,0
+VP-0242,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Sep 2025,2025,9,Q3,50958.14,39,Yes,76.8,0.2424,2,1
+VP-0243,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Sep 2025,2025,9,Q3,118609.29,42,Yes,98.5,0.0144,15,0
+VP-0244,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Sep 2025,2025,9,Q3,137043.46,26,Yes,68.5,0.281,12,0
+VP-0245,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Sep 2025,2025,9,Q3,59135.46,64,Yes,66.9,0.3192,8,0
+VP-0246,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Sep 2025,2025,9,Q3,97025.94,74,No,55.9,0.4344,15,1
+VP-0247,V-LOG-06,Logistics Vendor 06,Logistics,North,Inactive,Sep 2025,2025,9,Q3,125889.73,63,Yes,66.7,0.4761,4,0
+VP-0230,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Sep 2025,2025,9,Q3,93642.93,38,Yes,93.7,0.066,15,0
+VP-0231,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Sep 2025,2025,9,Q3,200430.05,35,Yes,83.9,0.1777,7,0
+VP-0232,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Sep 2025,2025,9,Q3,129526.0,48,Yes,88.6,0.1686,4,0
+VP-0233,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Sep 2025,2025,9,Q3,51597.25,60,Yes,78.3,0.3236,7,0
+VP-0234,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Sep 2025,2025,9,Q3,165742.2,47,Yes,92.0,0.1038,8,0
+VP-0235,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Sep 2025,2025,9,Q3,160197.34,40,Yes,69.4,0.2711,14,0
+VP-0248,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Sep 2025,2025,9,Q3,87712.35,36,Yes,82.1,0.1005,6,0
+VP-0249,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Sep 2025,2025,9,Q3,237271.03,33,Yes,89.1,0.1069,4,0
+VP-0250,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Sep 2025,2025,9,Q3,180626.41,44,Yes,91.6,0.0891,14,0
+VP-0251,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Sep 2025,2025,9,Q3,118863.72,35,Yes,64.1,0.3595,11,1
+VP-0252,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Sep 2025,2025,9,Q3,151295.14,44,Yes,65.9,0.2285,1,2
+VP-0236,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Sep 2025,2025,9,Q3,236179.89,29,Yes,82.4,0.1878,10,0
+VP-0237,V-RAW-02,Raw Materials Vendor 02,Raw Materials,East,Inactive,Sep 2025,2025,9,Q3,196164.16,72,Yes,66.2,0.3697,1,0
+VP-0238,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Sep 2025,2025,9,Q3,66474.57,37,Yes,69.2,0.3151,7,0
+VP-0239,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Sep 2025,2025,9,Q3,100048.8,80,Yes,90.0,0.0901,3,0
+VP-0240,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Sep 2025,2025,9,Q3,155322.31,10,Yes,67.7,0.2853,12,1
+VP-0241,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Sep 2025,2025,9,Q3,109745.57,33,Yes,57.0,0.2762,14,1
+VP-0225,V-TEC-01,Technology Vendor 01,Technology,South,Active,Sep 2025,2025,9,Q3,97433.98,38,Yes,98.3,0.0178,8,0
+VP-0226,V-TEC-02,Technology Vendor 02,Technology,North,Active,Sep 2025,2025,9,Q3,131906.19,65,Yes,67.8,0.1854,13,0
+VP-0227,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Sep 2025,2025,9,Q3,103932.69,88,Yes,69.9,0.2629,6,2
+VP-0228,V-TEC-05,Technology Vendor 05,Technology,West,Active,Sep 2025,2025,9,Q3,68560.29,69,Yes,78.7,0.2796,7,0
+VP-0229,V-TEC-06,Technology Vendor 06,Technology,West,Active,Sep 2025,2025,9,Q3,72590.37,50,Yes,84.5,0.1313,15,0
+VP-0269,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Oct 2025,2025,10,Q4,105611.43,24,Yes,79.2,0.2379,15,0
+VP-0270,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Oct 2025,2025,10,Q4,107658.57,26,Yes,100,0.0,9,0
+VP-0271,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Oct 2025,2025,10,Q4,198067.58,46,Yes,64.1,0.2939,14,2
+VP-0272,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Oct 2025,2025,10,Q4,155351.62,56,Yes,70.5,0.1594,7,1
+VP-0273,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Oct 2025,2025,10,Q4,94625.6,80,No,56.9,0.262,15,1
+VP-0274,V-LOG-06,Logistics Vendor 06,Logistics,North,Inactive,Oct 2025,2025,10,Q4,105053.08,45,Yes,58.3,0.5264,15,1
+VP-0258,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Oct 2025,2025,10,Q4,92302.9,20,Yes,100,0.0,10,0
+VP-0259,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Oct 2025,2025,10,Q4,123898.71,36,Yes,75.4,0.3082,6,0
+VP-0260,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Oct 2025,2025,10,Q4,110940.89,50,Yes,95.1,0.0274,15,0
+VP-0261,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Oct 2025,2025,10,Q4,139828.24,56,Yes,88.0,0.1717,5,0
+VP-0262,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Oct 2025,2025,10,Q4,197383.84,70,Yes,87.9,0.1131,6,0
+VP-0263,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Oct 2025,2025,10,Q4,84158.07,45,Yes,64.9,0.4513,11,1
+VP-0275,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Oct 2025,2025,10,Q4,69274.66,25,Yes,69.5,0.4057,2,1
+VP-0276,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Oct 2025,2025,10,Q4,155361.85,41,Yes,88.8,0.1452,8,0
+VP-0277,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Oct 2025,2025,10,Q4,104628.85,58,Yes,87.1,0.1356,12,0
+VP-0278,V-PRO-04,Professional Services Vendor 04,Professional Services,North,Inactive,Oct 2025,2025,10,Q4,113472.95,39,Yes,90.6,0.1239,9,0
+VP-0279,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Oct 2025,2025,10,Q4,203481.76,51,Yes,73.7,0.3052,10,0
+VP-0280,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Oct 2025,2025,10,Q4,117435.53,27,Yes,74.2,0.3816,1,0
+VP-0264,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Oct 2025,2025,10,Q4,213051.56,46,Yes,82.5,0.1962,8,0
+VP-0265,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Oct 2025,2025,10,Q4,127344.85,40,Yes,60.7,0.4564,15,1
+VP-0266,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Oct 2025,2025,10,Q4,119874.32,76,No,82.4,0.2292,13,0
+VP-0267,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Oct 2025,2025,10,Q4,172312.73,22,Yes,69.3,0.3425,14,1
+VP-0268,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Oct 2025,2025,10,Q4,91316.63,47,Yes,62.4,0.2345,1,1
+VP-0253,V-TEC-01,Technology Vendor 01,Technology,South,Active,Oct 2025,2025,10,Q4,262286.7,25,Yes,88.5,0.0758,5,0
+VP-0254,V-TEC-02,Technology Vendor 02,Technology,North,Active,Oct 2025,2025,10,Q4,80555.77,78,No,61.0,0.5846,12,3
+VP-0255,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Oct 2025,2025,10,Q4,86434.61,86,Yes,69.6,0.3705,12,0
+VP-0256,V-TEC-05,Technology Vendor 05,Technology,West,Active,Oct 2025,2025,10,Q4,81845.03,76,Yes,94.2,0.0407,5,0
+VP-0257,V-TEC-06,Technology Vendor 06,Technology,West,Active,Oct 2025,2025,10,Q4,106088.48,40,Yes,86.3,0.1233,13,0
+VP-0298,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Nov 2025,2025,11,Q4,210700.16,35,Yes,85.0,0.199,6,0
+VP-0299,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Nov 2025,2025,11,Q4,112823.35,44,Yes,98.9,0.0126,3,0
+VP-0300,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Nov 2025,2025,11,Q4,69777.51,40,Yes,69.8,0.205,7,0
+VP-0301,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Nov 2025,2025,11,Q4,181089.33,56,Yes,78.5,0.2656,11,0
+VP-0302,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Nov 2025,2025,11,Q4,31440.49,57,Yes,70.0,0.41,4,0
+VP-0286,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Nov 2025,2025,11,Q4,231256.91,39,Yes,94.2,0.0673,9,0
+VP-0287,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Nov 2025,2025,11,Q4,261256.06,58,Yes,83.7,0.0833,7,0
+VP-0288,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Nov 2025,2025,11,Q4,105093.48,43,Yes,86.3,0.1045,1,0
+VP-0289,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Nov 2025,2025,11,Q4,194567.42,57,Yes,84.4,0.0792,11,0
+VP-0290,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Nov 2025,2025,11,Q4,273321.27,71,Yes,99.2,0.0102,4,0
+VP-0291,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Nov 2025,2025,11,Q4,135576.58,41,Yes,68.3,0.187,9,0
+VP-0303,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Nov 2025,2025,11,Q4,100762.08,23,Yes,79.1,0.2365,9,0
+VP-0304,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Nov 2025,2025,11,Q4,114212.89,40,Yes,98.3,0.0237,4,0
+VP-0305,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Nov 2025,2025,11,Q4,53389.0,58,Yes,78.0,0.1181,7,0
+VP-0306,V-PRO-04,Professional Services Vendor 04,Professional Services,North,Inactive,Nov 2025,2025,11,Q4,221784.36,24,Yes,94.5,0.059,11,0
+VP-0307,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Nov 2025,2025,11,Q4,201959.19,58,Yes,68.6,0.2002,15,1
+VP-0308,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Nov 2025,2025,11,Q4,68648.02,50,Yes,70.7,0.3258,3,0
+VP-0292,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Nov 2025,2025,11,Q4,64159.32,43,Yes,82.9,0.1,8,0
+VP-0293,V-RAW-02,Raw Materials Vendor 02,Raw Materials,East,Inactive,Nov 2025,2025,11,Q4,143324.12,75,Yes,79.5,0.2307,11,0
+VP-0294,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Nov 2025,2025,11,Q4,220241.45,26,Yes,60.8,0.2965,14,2
+VP-0295,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Nov 2025,2025,11,Q4,102013.83,65,Yes,77.1,0.3176,10,1
+VP-0296,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Nov 2025,2025,11,Q4,149716.51,33,Yes,78.9,0.3097,2,1
+VP-0297,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Nov 2025,2025,11,Q4,156454.58,29,Yes,56.8,0.6076,12,1
+VP-0281,V-TEC-01,Technology Vendor 01,Technology,South,Active,Nov 2025,2025,11,Q4,255346.76,31,Yes,98.7,0.0101,8,0
+VP-0282,V-TEC-02,Technology Vendor 02,Technology,North,Active,Nov 2025,2025,11,Q4,112684.3,68,Yes,62.6,0.4536,4,2
+VP-0283,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Nov 2025,2025,11,Q4,89787.48,66,No,66.0,0.4698,12,0
+VP-0284,V-TEC-05,Technology Vendor 05,Technology,West,Active,Nov 2025,2025,11,Q4,154297.95,74,Yes,81.8,0.1813,9,0
+VP-0285,V-TEC-06,Technology Vendor 06,Technology,West,Active,Nov 2025,2025,11,Q4,69754.34,49,Yes,89.8,0.1443,11,0
+VP-0326,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Dec 2025,2025,12,Q4,132108.64,41,Yes,83.9,0.1239,9,0
+VP-0327,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Dec 2025,2025,12,Q4,94375.33,47,Yes,99.3,0.0052,15,0
+VP-0328,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Dec 2025,2025,12,Q4,172452.03,39,Yes,71.9,0.4177,8,1
+VP-0329,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Dec 2025,2025,12,Q4,67484.43,42,Yes,80.5,0.1411,5,0
+VP-0330,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Dec 2025,2025,12,Q4,33429.21,78,Yes,55.1,0.403,7,1
+VP-0331,V-LOG-06,Logistics Vendor 06,Logistics,North,Inactive,Dec 2025,2025,12,Q4,74366.76,69,Yes,67.7,0.2358,2,2
+VP-0314,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Dec 2025,2025,12,Q4,102806.07,30,Yes,93.5,0.0882,7,0
+VP-0315,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Dec 2025,2025,12,Q4,269305.61,53,Yes,87.7,0.1742,12,0
+VP-0316,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Dec 2025,2025,12,Q4,84183.65,64,Yes,89.9,0.1011,15,0
+VP-0317,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Dec 2025,2025,12,Q4,196163.63,52,Yes,83.7,0.101,3,0
+VP-0318,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Dec 2025,2025,12,Q4,95024.06,72,No,95.5,0.0578,15,0
+VP-0319,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Dec 2025,2025,12,Q4,86615.59,33,Yes,70.5,0.3715,13,1
+VP-0332,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Dec 2025,2025,12,Q4,87170.72,38,Yes,71.8,0.3518,12,1
+VP-0333,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Dec 2025,2025,12,Q4,102478.42,44,Yes,93.3,0.0543,3,0
+VP-0334,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Dec 2025,2025,12,Q4,183878.98,49,Yes,82.1,0.2092,2,0
+VP-0335,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Dec 2025,2025,12,Q4,146429.27,58,Yes,65.2,0.413,10,0
+VP-0336,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Dec 2025,2025,12,Q4,153332.19,30,Yes,60.0,0.2725,11,0
+VP-0320,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Dec 2025,2025,12,Q4,221734.24,21,Yes,90.9,0.1286,6,0
+VP-0321,V-RAW-02,Raw Materials Vendor 02,Raw Materials,East,Inactive,Dec 2025,2025,12,Q4,159386.88,55,Yes,66.5,0.3941,1,0
+VP-0322,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Dec 2025,2025,12,Q4,67384.44,37,Yes,66.5,0.2203,9,0
+VP-0323,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Dec 2025,2025,12,Q4,154118.68,61,Yes,88.0,0.1209,11,0
+VP-0324,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Dec 2025,2025,12,Q4,92806.16,20,Yes,69.1,0.2437,1,1
+VP-0325,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Dec 2025,2025,12,Q4,131714.57,42,Yes,56.0,0.4601,7,0
+VP-0309,V-TEC-01,Technology Vendor 01,Technology,South,Active,Dec 2025,2025,12,Q4,49809.02,40,Yes,87.4,0.0655,11,0
+VP-0310,V-TEC-02,Technology Vendor 02,Technology,North,Active,Dec 2025,2025,12,Q4,120569.39,88,No,63.6,0.1863,11,0
+VP-0311,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Dec 2025,2025,12,Q4,96766.64,64,No,67.5,0.1959,13,0
+VP-0312,V-TEC-05,Technology Vendor 05,Technology,West,Active,Dec 2025,2025,12,Q4,202878.91,76,Yes,81.6,0.1721,8,0
+VP-0313,V-TEC-06,Technology Vendor 06,Technology,West,Active,Dec 2025,2025,12,Q4,78174.77,44,Yes,94.5,0.0597,1,0
+VP-0353,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Jan 2026,2026,1,Q1,161198.8,23,Yes,83.3,0.2155,10,0
+VP-0354,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Jan 2026,2026,1,Q1,96343.89,31,Yes,100,0.0,4,0
+VP-0355,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Jan 2026,2026,1,Q1,164606.16,49,Yes,74.3,0.3634,13,0
+VP-0356,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Jan 2026,2026,1,Q1,47992.28,64,No,80.3,0.1007,1,0
+VP-0357,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Jan 2026,2026,1,Q1,76353.45,66,Yes,65.6,0.3162,13,1
+VP-0358,V-LOG-06,Logistics Vendor 06,Logistics,North,Inactive,Jan 2026,2026,1,Q1,169294.11,58,Yes,59.7,0.4894,13,1
+VP-0342,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Jan 2026,2026,1,Q1,139643.76,29,Yes,90.2,0.1437,8,0
+VP-0343,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Jan 2026,2026,1,Q1,232234.03,39,Yes,77.7,0.2093,2,1
+VP-0344,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Jan 2026,2026,1,Q1,143996.5,52,Yes,88.7,0.1051,8,0
+VP-0345,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Jan 2026,2026,1,Q1,209320.37,52,Yes,79.0,0.1566,4,0
+VP-0346,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Jan 2026,2026,1,Q1,214226.26,67,No,87.8,0.0966,11,0
+VP-0347,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Jan 2026,2026,1,Q1,137321.08,38,Yes,72.4,0.1908,2,1
+VP-0359,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Jan 2026,2026,1,Q1,89491.39,33,Yes,80.1,0.1626,3,0
+VP-0360,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Jan 2026,2026,1,Q1,137384.89,61,No,88.0,0.0858,6,0
+VP-0361,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Jan 2026,2026,1,Q1,87077.77,44,Yes,80.4,0.2614,11,0
+VP-0362,V-PRO-04,Professional Services Vendor 04,Professional Services,North,Inactive,Jan 2026,2026,1,Q1,211243.57,44,Yes,90.2,0.0869,8,0
+VP-0363,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Jan 2026,2026,1,Q1,162726.13,57,Yes,64.3,0.351,10,1
+VP-0364,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Jan 2026,2026,1,Q1,78557.3,34,Yes,69.1,0.2234,4,0
+VP-0348,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Jan 2026,2026,1,Q1,221970.11,32,Yes,89.1,0.1474,13,0
+VP-0349,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Jan 2026,2026,1,Q1,98872.05,21,Yes,59.3,0.4249,9,0
+VP-0350,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Jan 2026,2026,1,Q1,133087.21,76,Yes,76.7,0.1317,7,0
+VP-0351,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Jan 2026,2026,1,Q1,138902.18,18,No,79.5,0.1144,12,0
+VP-0352,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Jan 2026,2026,1,Q1,112081.92,55,Yes,55.0,0.4112,2,1
+VP-0337,V-TEC-01,Technology Vendor 01,Technology,South,Active,Jan 2026,2026,1,Q1,104022.01,39,Yes,97.8,0.0283,1,0
+VP-0338,V-TEC-02,Technology Vendor 02,Technology,North,Active,Jan 2026,2026,1,Q1,91791.68,86,No,61.7,0.4689,1,1
+VP-0339,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Jan 2026,2026,1,Q1,106530.3,70,No,73.1,0.3752,5,0
+VP-0340,V-TEC-05,Technology Vendor 05,Technology,West,Active,Jan 2026,2026,1,Q1,61703.93,71,Yes,89.7,0.066,13,0
+VP-0341,V-TEC-06,Technology Vendor 06,Technology,West,Active,Jan 2026,2026,1,Q1,83216.65,57,Yes,96.0,0.0418,4,0
+VP-0383,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Feb 2026,2026,2,Q1,34886.74,29,Yes,75.6,0.2705,3,0
+VP-0384,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Feb 2026,2026,2,Q1,65951.72,32,Yes,94.8,0.0685,14,0
+VP-0385,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Feb 2026,2026,2,Q1,72969.78,26,Yes,69.1,0.3733,15,0
+VP-0386,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Feb 2026,2026,2,Q1,62005.53,57,Yes,78.1,0.1749,1,0
+VP-0387,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Feb 2026,2026,2,Q1,87029.95,70,Yes,70.2,0.2973,4,1
+VP-0388,V-LOG-06,Logistics Vendor 06,Logistics,North,Inactive,Feb 2026,2026,2,Q1,149582.56,49,Yes,64.1,0.4571,15,1
+VP-0371,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Feb 2026,2026,2,Q1,155128.26,32,Yes,95.9,0.0528,11,0
+VP-0372,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Feb 2026,2026,2,Q1,261098.29,48,No,90.8,0.0919,1,0
+VP-0373,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Feb 2026,2026,2,Q1,137023.95,45,No,95.6,0.0536,8,0
+VP-0374,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Feb 2026,2026,2,Q1,152476.44,69,Yes,84.1,0.0882,14,0
+VP-0375,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Feb 2026,2026,2,Q1,139775.17,77,Yes,85.2,0.185,3,0
+VP-0376,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Feb 2026,2026,2,Q1,179866.44,36,Yes,69.7,0.3383,8,1
+VP-0389,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Feb 2026,2026,2,Q1,85839.57,25,Yes,80.4,0.1899,11,0
+VP-0390,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Feb 2026,2026,2,Q1,176966.68,57,Yes,90.2,0.0781,2,0
+VP-0391,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Feb 2026,2026,2,Q1,59017.74,51,Yes,91.8,0.0443,2,0
+VP-0392,V-PRO-04,Professional Services Vendor 04,Professional Services,North,Inactive,Feb 2026,2026,2,Q1,127525.88,44,Yes,93.6,0.0681,14,0
+VP-0393,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Feb 2026,2026,2,Q1,101391.79,43,Yes,62.1,0.2976,15,3
+VP-0394,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Feb 2026,2026,2,Q1,145664.19,36,Yes,70.9,0.2051,7,1
+VP-0377,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Feb 2026,2026,2,Q1,117485.08,46,Yes,85.5,0.1717,14,0
+VP-0378,V-RAW-02,Raw Materials Vendor 02,Raw Materials,East,Inactive,Feb 2026,2026,2,Q1,204242.94,69,No,69.3,0.2313,13,0
+VP-0379,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Feb 2026,2026,2,Q1,46745.0,47,Yes,64.4,0.53,14,1
+VP-0380,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Feb 2026,2026,2,Q1,173751.6,72,No,90.8,0.0621,14,0
+VP-0381,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Feb 2026,2026,2,Q1,113995.62,24,Yes,78.9,0.1738,14,1
+VP-0382,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Feb 2026,2026,2,Q1,126344.39,36,Yes,54.5,0.5899,10,1
+VP-0365,V-TEC-01,Technology Vendor 01,Technology,South,Active,Feb 2026,2026,2,Q1,184573.24,47,Yes,89.0,0.1435,11,0
+VP-0366,V-TEC-02,Technology Vendor 02,Technology,North,Active,Feb 2026,2026,2,Q1,64858.79,88,No,69.8,0.2988,1,1
+VP-0367,V-TEC-03,Technology Vendor 03,Technology,West,Inactive,Feb 2026,2026,2,Q1,57872.59,46,Yes,58.4,0.3411,12,0
+VP-0368,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Feb 2026,2026,2,Q1,56490.51,82,Yes,74.6,0.3084,4,0
+VP-0369,V-TEC-05,Technology Vendor 05,Technology,West,Active,Feb 2026,2026,2,Q1,200064.43,80,Yes,88.5,0.1303,9,0
+VP-0370,V-TEC-06,Technology Vendor 06,Technology,West,Active,Feb 2026,2026,2,Q1,98305.11,53,Yes,88.0,0.1751,10,0
+VP-0412,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Mar 2026,2026,3,Q1,148169.64,43,Yes,77.4,0.1309,9,0
+VP-0413,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Mar 2026,2026,3,Q1,71482.01,43,Yes,88.8,0.1089,5,0
+VP-0414,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Mar 2026,2026,3,Q1,109040.4,27,Yes,72.0,0.3354,3,0
+VP-0415,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Mar 2026,2026,3,Q1,48041.91,42,Yes,70.8,0.1919,4,0
+VP-0416,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Mar 2026,2026,3,Q1,94715.66,82,No,56.3,0.2472,14,2
+VP-0417,V-LOG-06,Logistics Vendor 06,Logistics,North,Inactive,Mar 2026,2026,3,Q1,81653.4,72,No,60.8,0.4036,10,0
+VP-0401,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Mar 2026,2026,3,Q1,89487.21,42,Yes,88.7,0.1136,15,0
+VP-0402,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Mar 2026,2026,3,Q1,249596.55,60,Yes,76.6,0.3475,14,0
+VP-0403,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Mar 2026,2026,3,Q1,124833.0,66,No,84.7,0.0893,6,0
+VP-0404,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Mar 2026,2026,3,Q1,115363.61,57,Yes,85.9,0.1924,11,0
+VP-0405,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Mar 2026,2026,3,Q1,279104.87,75,No,100,0.0,8,0
+VP-0406,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Mar 2026,2026,3,Q1,105162.42,35,Yes,68.7,0.1875,7,1
+VP-0418,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Mar 2026,2026,3,Q1,70691.66,21,Yes,83.4,0.1958,5,0
+VP-0419,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Mar 2026,2026,3,Q1,52826.38,39,Yes,97.3,0.038,6,0
+VP-0420,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Mar 2026,2026,3,Q1,139119.41,35,Yes,80.9,0.211,8,0
+VP-0421,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Mar 2026,2026,3,Q1,69793.34,33,Yes,64.5,0.232,12,0
+VP-0422,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Mar 2026,2026,3,Q1,195557.56,35,Yes,59.9,0.4726,15,0
+VP-0407,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Mar 2026,2026,3,Q1,76560.82,20,Yes,89.7,0.1207,9,0
+VP-0408,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Mar 2026,2026,3,Q1,187125.13,46,Yes,59.9,0.4178,9,0
+VP-0409,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Mar 2026,2026,3,Q1,134374.84,73,No,90.6,0.0666,7,0
+VP-0410,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Mar 2026,2026,3,Q1,179601.98,13,Yes,68.3,0.3203,8,0
+VP-0411,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Mar 2026,2026,3,Q1,104462.21,53,Yes,66.6,0.269,9,1
+VP-0395,V-TEC-01,Technology Vendor 01,Technology,South,Active,Mar 2026,2026,3,Q1,60431.03,42,Yes,91.8,0.1061,5,0
+VP-0396,V-TEC-02,Technology Vendor 02,Technology,North,Active,Mar 2026,2026,3,Q1,63215.28,83,Yes,67.9,0.3255,10,1
+VP-0397,V-TEC-03,Technology Vendor 03,Technology,West,Inactive,Mar 2026,2026,3,Q1,71768.19,69,Yes,53.4,0.4469,4,0
+VP-0398,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Mar 2026,2026,3,Q1,83930.74,80,Yes,73.3,0.1373,7,0
+VP-0399,V-TEC-05,Technology Vendor 05,Technology,West,Active,Mar 2026,2026,3,Q1,97593.75,65,Yes,93.5,0.0898,14,0
+VP-0400,V-TEC-06,Technology Vendor 06,Technology,West,Active,Mar 2026,2026,3,Q1,106925.63,61,Yes,97.6,0.0226,12,0
+VP-0440,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Apr 2026,2026,4,Q2,167273.34,22,Yes,80.9,0.2118,13,0
+VP-0441,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Apr 2026,2026,4,Q2,118691.4,30,Yes,89.2,0.1539,9,0
+VP-0442,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Apr 2026,2026,4,Q2,104691.08,41,Yes,71.3,0.3936,11,0
+VP-0443,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Apr 2026,2026,4,Q2,109832.64,50,Yes,72.6,0.3272,1,0
+VP-0444,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Apr 2026,2026,4,Q2,82110.95,80,Yes,63.5,0.2102,14,2
+VP-0428,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Apr 2026,2026,4,Q2,185462.25,41,Yes,97.2,0.0174,5,0
+VP-0429,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Apr 2026,2026,4,Q2,122249.25,50,Yes,85.6,0.1191,15,0
+VP-0430,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Apr 2026,2026,4,Q2,101888.84,48,Yes,84.8,0.0872,6,0
+VP-0431,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Apr 2026,2026,4,Q2,112830.53,59,Yes,87.7,0.0733,5,0
+VP-0432,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Apr 2026,2026,4,Q2,150819.86,56,Yes,88.3,0.103,2,0
+VP-0433,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Apr 2026,2026,4,Q2,160940.84,34,Yes,68.7,0.4518,15,1
+VP-0445,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Apr 2026,2026,4,Q2,97151.1,45,Yes,84.8,0.1053,5,0
+VP-0446,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Apr 2026,2026,4,Q2,249493.47,53,No,91.6,0.103,14,0
+VP-0447,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Apr 2026,2026,4,Q2,112749.68,37,Yes,93.0,0.0892,6,0
+VP-0448,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Apr 2026,2026,4,Q2,165675.94,33,Yes,73.2,0.234,15,0
+VP-0449,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Apr 2026,2026,4,Q2,85881.38,52,Yes,61.7,0.5309,3,1
+VP-0434,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Apr 2026,2026,4,Q2,129100.75,45,Yes,87.2,0.1065,3,0
+VP-0435,V-RAW-02,Raw Materials Vendor 02,Raw Materials,East,Inactive,Apr 2026,2026,4,Q2,175906.39,51,Yes,75.3,0.1249,6,0
+VP-0436,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Apr 2026,2026,4,Q2,96355.89,26,Yes,60.1,0.4482,14,1
+VP-0437,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Apr 2026,2026,4,Q2,141079.04,73,Yes,90.7,0.0675,2,0
+VP-0438,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Apr 2026,2026,4,Q2,179714.72,12,Yes,66.9,0.2034,8,0
+VP-0439,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Apr 2026,2026,4,Q2,88412.02,56,No,58.8,0.5701,15,1
+VP-0423,V-TEC-01,Technology Vendor 01,Technology,South,Active,Apr 2026,2026,4,Q2,272579.11,28,Yes,87.9,0.0718,8,0
+VP-0424,V-TEC-02,Technology Vendor 02,Technology,North,Active,Apr 2026,2026,4,Q2,129191.54,90,Yes,62.4,0.434,1,2
+VP-0425,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Apr 2026,2026,4,Q2,55500.87,68,Yes,60.2,0.4126,12,0
+VP-0426,V-TEC-05,Technology Vendor 05,Technology,West,Active,Apr 2026,2026,4,Q2,102664.14,56,Yes,86.7,0.1018,14,0
+VP-0427,V-TEC-06,Technology Vendor 06,Technology,West,Active,Apr 2026,2026,4,Q2,98602.63,35,Yes,91.1,0.075,6,0
+VP-0468,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,May 2026,2026,5,Q2,112930.46,26,Yes,76.8,0.2034,9,1
+VP-0469,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,May 2026,2026,5,Q2,102922.76,47,Yes,94.0,0.0433,8,0
+VP-0470,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,May 2026,2026,5,Q2,71501.69,21,Yes,77.7,0.1129,12,0
+VP-0471,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,May 2026,2026,5,Q2,198085.64,61,Yes,71.8,0.3176,5,0
+VP-0472,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,May 2026,2026,5,Q2,55930.34,74,Yes,57.1,0.5276,1,1
+VP-0473,V-LOG-06,Logistics Vendor 06,Logistics,North,Inactive,May 2026,2026,5,Q2,176486.31,58,Yes,58.1,0.3341,4,0
+VP-0456,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,May 2026,2026,5,Q2,102294.31,35,Yes,92.2,0.0736,8,0
+VP-0457,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,May 2026,2026,5,Q2,183382.53,55,Yes,77.2,0.1187,13,0
+VP-0458,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,May 2026,2026,5,Q2,108165.4,64,No,85.1,0.1872,4,0
+VP-0459,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,May 2026,2026,5,Q2,169195.05,62,Yes,81.0,0.1016,12,0
+VP-0460,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,May 2026,2026,5,Q2,121642.06,75,Yes,96.0,0.0345,15,0
+VP-0461,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,May 2026,2026,5,Q2,157191.3,41,Yes,71.2,0.2286,12,0
+VP-0474,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,May 2026,2026,5,Q2,85643.31,33,Yes,78.7,0.2734,5,0
+VP-0475,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,May 2026,2026,5,Q2,112858.05,33,Yes,99.3,0.0078,12,0
+VP-0476,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,May 2026,2026,5,Q2,59135.16,43,Yes,78.8,0.3158,3,0
+VP-0477,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,May 2026,2026,5,Q2,151763.04,47,Yes,68.7,0.358,15,0
+VP-0478,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,May 2026,2026,5,Q2,77578.16,46,Yes,59.9,0.5115,14,1
+VP-0462,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,May 2026,2026,5,Q2,106083.45,20,Yes,85.6,0.1577,6,0
+VP-0463,V-RAW-02,Raw Materials Vendor 02,Raw Materials,East,Inactive,May 2026,2026,5,Q2,110238.92,60,Yes,67.3,0.4831,9,1
+VP-0464,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,May 2026,2026,5,Q2,220003.19,47,Yes,65.2,0.2279,9,0
+VP-0465,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,May 2026,2026,5,Q2,209989.04,71,Yes,81.7,0.1296,2,0
+VP-0466,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,May 2026,2026,5,Q2,175459.56,40,Yes,78.3,0.3042,12,0
+VP-0467,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,May 2026,2026,5,Q2,85239.3,51,Yes,57.0,0.4912,11,1
+VP-0450,V-TEC-01,Technology Vendor 01,Technology,South,Active,May 2026,2026,5,Q2,212004.18,24,Yes,87.0,0.1053,9,0
+VP-0451,V-TEC-02,Technology Vendor 02,Technology,North,Active,May 2026,2026,5,Q2,94923.65,74,Yes,58.5,0.3383,8,1
+VP-0452,V-TEC-03,Technology Vendor 03,Technology,West,Inactive,May 2026,2026,5,Q2,128754.49,54,Yes,53.2,0.6566,13,1
+VP-0453,V-TEC-04,Technology Vendor 04,Technology,West,Probation,May 2026,2026,5,Q2,61030.12,63,Yes,72.4,0.1611,15,0
+VP-0454,V-TEC-05,Technology Vendor 05,Technology,West,Active,May 2026,2026,5,Q2,71049.9,77,No,91.9,0.0531,6,0
+VP-0455,V-TEC-06,Technology Vendor 06,Technology,West,Active,May 2026,2026,5,Q2,117714.0,59,Yes,90.8,0.1371,7,0
+VP-0497,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Jun 2026,2026,6,Q2,160700.64,42,Yes,76.7,0.297,3,0
+VP-0498,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Jun 2026,2026,6,Q2,73606.04,44,Yes,95.0,0.0439,13,0
+VP-0499,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Jun 2026,2026,6,Q2,108973.87,31,Yes,78.2,0.228,10,0
+VP-0500,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Jun 2026,2026,6,Q2,123728.12,68,Yes,76.3,0.1608,2,0
+VP-0501,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Jun 2026,2026,6,Q2,47650.24,59,Yes,61.9,0.3343,13,1
+VP-0502,V-LOG-06,Logistics Vendor 06,Logistics,North,Inactive,Jun 2026,2026,6,Q2,134388.93,57,Yes,68.8,0.4482,7,2
+VP-0485,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Jun 2026,2026,6,Q2,250012.35,36,Yes,91.9,0.096,2,0
+VP-0486,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Jun 2026,2026,6,Q2,128988.43,57,Yes,78.2,0.219,12,0
+VP-0487,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Jun 2026,2026,6,Q2,134967.94,57,Yes,86.8,0.1366,12,0
+VP-0488,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Jun 2026,2026,6,Q2,211014.45,62,Yes,87.2,0.1711,7,0
+VP-0489,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Jun 2026,2026,6,Q2,64313.74,66,No,91.2,0.1132,11,0
+VP-0490,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Jun 2026,2026,6,Q2,124127.33,55,Yes,62.4,0.4307,7,0
+VP-0503,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Jun 2026,2026,6,Q2,94329.11,23,Yes,82.3,0.2144,6,0
+VP-0504,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Jun 2026,2026,6,Q2,173472.29,53,No,89.4,0.0581,15,0
+VP-0505,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Jun 2026,2026,6,Q2,161575.68,33,Yes,93.2,0.066,13,0
+VP-0506,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Jun 2026,2026,6,Q2,179148.38,52,Yes,60.0,0.4123,2,1
+VP-0507,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Jun 2026,2026,6,Q2,201048.71,50,Yes,72.4,0.3844,2,0
+VP-0491,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Jun 2026,2026,6,Q2,97236.8,38,Yes,94.4,0.0656,2,0
+VP-0492,V-RAW-02,Raw Materials Vendor 02,Raw Materials,East,Inactive,Jun 2026,2026,6,Q2,169643.81,70,Yes,69.9,0.2379,8,0
+VP-0493,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Jun 2026,2026,6,Q2,156120.03,45,Yes,70.1,0.2829,11,0
+VP-0494,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Jun 2026,2026,6,Q2,190340.49,69,Yes,84.7,0.1161,10,0
+VP-0495,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Jun 2026,2026,6,Q2,52480.69,35,Yes,72.1,0.3145,2,1
+VP-0496,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Jun 2026,2026,6,Q2,65842.77,43,Yes,56.4,0.5784,11,0
+VP-0479,V-TEC-01,Technology Vendor 01,Technology,South,Active,Jun 2026,2026,6,Q2,226774.87,27,Yes,93.8,0.0665,15,0
+VP-0480,V-TEC-02,Technology Vendor 02,Technology,North,Active,Jun 2026,2026,6,Q2,88809.49,78,Yes,68.9,0.2431,1,1
+VP-0481,V-TEC-03,Technology Vendor 03,Technology,West,Inactive,Jun 2026,2026,6,Q2,163125.89,46,Yes,66.8,0.2954,7,1
+VP-0482,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Jun 2026,2026,6,Q2,69077.78,92,Yes,67.0,0.2806,14,2
+VP-0483,V-TEC-05,Technology Vendor 05,Technology,West,Active,Jun 2026,2026,6,Q2,119419.53,75,No,92.8,0.0378,11,0
+VP-0484,V-TEC-06,Technology Vendor 06,Technology,West,Active,Jun 2026,2026,6,Q2,74208.25,49,Yes,93.3,0.0529,8,0
+VP-0524,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Jul 2026,2026,7,Q3,98495.95,28,Yes,88.0,0.0603,10,0
+VP-0525,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Jul 2026,2026,7,Q3,47370.05,20,Yes,95.3,0.0359,2,0
+VP-0526,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Jul 2026,2026,7,Q3,78326.11,32,Yes,65.0,0.4409,11,0
+VP-0527,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Jul 2026,2026,7,Q3,48448.35,43,Yes,77.0,0.1886,13,0
+VP-0528,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Jul 2026,2026,7,Q3,81987.26,63,Yes,55.1,0.4497,1,0
+VP-0513,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Jul 2026,2026,7,Q3,173191.06,41,Yes,95.5,0.0356,9,0
+VP-0514,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Jul 2026,2026,7,Q3,172620.93,32,Yes,82.8,0.1506,8,0
+VP-0515,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Jul 2026,2026,7,Q3,90298.53,58,Yes,91.7,0.0424,2,0
+VP-0516,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Jul 2026,2026,7,Q3,209191.98,60,No,87.2,0.1756,7,0
+VP-0517,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Jul 2026,2026,7,Q3,68338.4,62,Yes,91.5,0.048,10,0
+VP-0518,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Jul 2026,2026,7,Q3,160794.59,36,Yes,69.9,0.3533,7,1
+VP-0529,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Jul 2026,2026,7,Q3,100981.77,44,Yes,75.5,0.175,15,0
+VP-0530,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Jul 2026,2026,7,Q3,160165.4,47,Yes,99.3,0.0079,10,0
+VP-0531,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Jul 2026,2026,7,Q3,185112.82,59,Yes,86.5,0.1245,5,0
+VP-0532,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Jul 2026,2026,7,Q3,191792.58,33,Yes,60.2,0.386,12,1
+VP-0533,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Jul 2026,2026,7,Q3,172602.04,32,No,67.8,0.3054,9,0
+VP-0519,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Jul 2026,2026,7,Q3,176797.16,17,Yes,79.2,0.3012,13,0
+VP-0520,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Jul 2026,2026,7,Q3,65733.68,36,Yes,71.2,0.4216,1,1
+VP-0521,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Jul 2026,2026,7,Q3,204935.27,86,No,87.2,0.0864,15,0
+VP-0522,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Jul 2026,2026,7,Q3,79865.6,31,Yes,67.5,0.4725,6,0
+VP-0523,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Jul 2026,2026,7,Q3,48199.13,51,Yes,61.6,0.5621,8,0
+VP-0508,V-TEC-01,Technology Vendor 01,Technology,South,Active,Jul 2026,2026,7,Q3,208491.37,19,Yes,91.4,0.0859,5,0
+VP-0509,V-TEC-02,Technology Vendor 02,Technology,North,Active,Jul 2026,2026,7,Q3,129941.58,67,Yes,66.4,0.2036,3,1
+VP-0510,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Jul 2026,2026,7,Q3,97670.72,70,Yes,70.9,0.2602,3,1
+VP-0511,V-TEC-05,Technology Vendor 05,Technology,West,Active,Jul 2026,2026,7,Q3,64116.92,71,Yes,91.2,0.1231,2,0
+VP-0512,V-TEC-06,Technology Vendor 06,Technology,West,Active,Jul 2026,2026,7,Q3,105243.5,57,Yes,88.5,0.0833,8,0
+VP-0551,V-LOG-01,Logistics Vendor 01,Logistics,West,Active,Aug 2026,2026,8,Q3,216147.61,29,Yes,79.5,0.2306,6,0
+VP-0552,V-LOG-02,Logistics Vendor 02,Logistics,North,Active,Aug 2026,2026,8,Q3,52911.92,27,Yes,88.7,0.0874,13,0
+VP-0553,V-LOG-03,Logistics Vendor 03,Logistics,North,Active,Aug 2026,2026,8,Q3,125220.83,28,Yes,76.7,0.2208,14,0
+VP-0554,V-LOG-04,Logistics Vendor 04,Logistics,South,Active,Aug 2026,2026,8,Q3,183171.46,45,Yes,66.8,0.4592,2,0
+VP-0555,V-LOG-05,Logistics Vendor 05,Logistics,North,Probation,Aug 2026,2026,8,Q3,44624.4,78,Yes,65.4,0.2568,2,0
+VP-0556,V-LOG-06,Logistics Vendor 06,Logistics,North,Inactive,Aug 2026,2026,8,Q3,127339.33,49,Yes,63.6,0.4675,13,1
+VP-0540,V-OFF-01,Office Supplies Vendor 01,Office Supplies,East,Active,Aug 2026,2026,8,Q3,248867.33,15,Yes,98.6,0.0189,14,0
+VP-0541,V-OFF-02,Office Supplies Vendor 02,Office Supplies,West,Active,Aug 2026,2026,8,Q3,95209.17,52,Yes,84.9,0.0867,9,0
+VP-0542,V-OFF-03,Office Supplies Vendor 03,Office Supplies,North,Active,Aug 2026,2026,8,Q3,84348.98,59,Yes,90.8,0.0892,8,0
+VP-0543,V-OFF-04,Office Supplies Vendor 04,Office Supplies,Central,Active,Aug 2026,2026,8,Q3,89140.08,51,Yes,74.0,0.1554,8,0
+VP-0544,V-OFF-05,Office Supplies Vendor 05,Office Supplies,South,Active,Aug 2026,2026,8,Q3,60347.42,66,Yes,92.6,0.0437,3,0
+VP-0545,V-OFF-06,Office Supplies Vendor 06,Office Supplies,Central,Active,Aug 2026,2026,8,Q3,76566.99,62,Yes,62.2,0.5162,8,0
+VP-0557,V-PRO-01,Professional Services Vendor 01,Professional Services,South,Probation,Aug 2026,2026,8,Q3,103380.93,32,Yes,79.1,0.3093,8,0
+VP-0558,V-PRO-02,Professional Services Vendor 02,Professional Services,South,Active,Aug 2026,2026,8,Q3,161986.08,60,Yes,91.0,0.1165,13,0
+VP-0559,V-PRO-03,Professional Services Vendor 03,Professional Services,Central,Active,Aug 2026,2026,8,Q3,123685.63,53,Yes,92.1,0.117,2,0
+VP-0560,V-PRO-04,Professional Services Vendor 04,Professional Services,North,Inactive,Aug 2026,2026,8,Q3,143874.07,35,Yes,88.7,0.1156,2,0
+VP-0561,V-PRO-05,Professional Services Vendor 05,Professional Services,North,Probation,Aug 2026,2026,8,Q3,73825.18,44,Yes,60.8,0.3392,13,0
+VP-0562,V-PRO-06,Professional Services Vendor 06,Professional Services,North,Active,Aug 2026,2026,8,Q3,76499.16,27,Yes,73.6,0.1572,1,0
+VP-0546,V-RAW-01,Raw Materials Vendor 01,Raw Materials,South,Active,Aug 2026,2026,8,Q3,263055.46,32,Yes,92.5,0.0617,6,0
+VP-0547,V-RAW-03,Raw Materials Vendor 03,Raw Materials,Central,Probation,Aug 2026,2026,8,Q3,120332.26,21,Yes,60.5,0.2356,14,0
+VP-0548,V-RAW-04,Raw Materials Vendor 04,Raw Materials,East,Probation,Aug 2026,2026,8,Q3,88325.1,70,Yes,79.3,0.1712,2,0
+VP-0549,V-RAW-05,Raw Materials Vendor 05,Raw Materials,Central,Active,Aug 2026,2026,8,Q3,59327.64,20,Yes,75.4,0.2992,3,1
+VP-0550,V-RAW-06,Raw Materials Vendor 06,Raw Materials,South,Active,Aug 2026,2026,8,Q3,167061.41,31,Yes,54.8,0.4013,1,1
+VP-0534,V-TEC-01,Technology Vendor 01,Technology,South,Active,Aug 2026,2026,8,Q3,88422.68,41,Yes,100,0.0,4,0
+VP-0535,V-TEC-02,Technology Vendor 02,Technology,North,Active,Aug 2026,2026,8,Q3,76278.38,70,Yes,62.0,0.4629,4,0
+VP-0536,V-TEC-03,Technology Vendor 03,Technology,West,Inactive,Aug 2026,2026,8,Q3,50745.3,54,Yes,67.2,0.3036,11,0
+VP-0537,V-TEC-04,Technology Vendor 04,Technology,West,Probation,Aug 2026,2026,8,Q3,61475.4,77,No,60.2,0.5254,4,0
+VP-0538,V-TEC-05,Technology Vendor 05,Technology,West,Active,Aug 2026,2026,8,Q3,109902.35,59,Yes,82.7,0.2449,6,0
+VP-0539,V-TEC-06,Technology Vendor 06,Technology,West,Active,Aug 2026,2026,8,Q3,90682.85,37,Yes,86.3,0.1924,1,0

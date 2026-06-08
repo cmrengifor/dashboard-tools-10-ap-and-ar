@@ -105,7 +105,7 @@ dashboard-tools-10-ap-and-ar/
 |---|---|---|---|
 | 06 | Cash Flow Forecasting | Power BI + Excel | ✅ Completado |
 | 07 | Expense vs. Revenue Dashboard | Power BI | ✅ Completado |
-| 08 | Vendor Performance Dashboard | Power BI | ⬜ Pendiente |
+| 08 | Vendor Performance Dashboard | Power BI | ✅ Completado |
 
 ### Fase 4 — Dashboards Ejecutivos
 > Foco: Reportes de alto nivel para liderazgo. Mayor complejidad de datos y DAX.
