@@ -1,0 +1,591 @@
+transaction_id,date,period,year,month,quarter,category,flow_type,department,region,counterparty,reference,budget_amount,actual_amount,forecast_amount,variance,variance_pct,data_type,is_favorable
+CF-0017,2025-01-01,Jan 2025,2025,1,Q1,AP Payments,Outflow,Finance,East,TechCore Solutions,PO-64676,36988.07,40588.56,40588.56,3600.49,9.7,Actual,No
+CF-0015,2025-01-03,Jan 2025,2025,1,Q1,AP Payments,Outflow,Finance,West,Acme Supplies Co.,PO-76433,24342.95,23438.13,23438.13,-904.82,-3.7,Actual,Yes
+CF-0024,2025-01-05,Jan 2025,2025,1,Q1,Operating Expenses,Outflow,Sales,West,OfficePro Services,EXP-4352,22614.19,23608.54,23608.54,994.35,4.4,Actual,No
+CF-0004,2025-01-06,Jan 2025,2025,1,Q1,AR Collections,Inflow,Finance,East,Pacific Distributors,INV-54597,61252.02,54531.75,54531.75,-6720.27,-11.0,Actual,No
+CF-0010,2025-01-06,Jan 2025,2025,1,Q1,Product Sales,Inflow,Sales,Central,Redwood Consulting,ORD-7005,76776.14,68532.15,68532.15,-8243.99,-10.7,Actual,No
+CF-0003,2025-01-07,Jan 2025,2025,1,Q1,AR Collections,Inflow,Finance,North,Redwood Consulting,INV-64987,19512.55,18816.23,18816.23,-696.32,-3.6,Actual,No
+CF-0012,2025-01-07,Jan 2025,2025,1,Q1,Service Revenue,Inflow,Sales,West,Titan Manufacturing,SVC-4589,23512.86,22530.95,22530.95,-981.91,-4.2,Actual,No
+CF-0020,2025-01-07,Jan 2025,2025,1,Q1,Payroll,Outflow,HR,East,Payroll Processing,PAY-202501-1,164166.93,152350.7,152350.7,-11816.23,-7.2,Actual,Yes
+CF-0023,2025-01-08,Jan 2025,2025,1,Q1,Operating Expenses,Outflow,IT,Central,TechCore Solutions,EXP-3701,10507.4,11994.13,11994.13,1486.73,14.1,Actual,No
+CF-0009,2025-01-12,Jan 2025,2025,1,Q1,Product Sales,Inflow,Sales,North,Harmon Industries,ORD-7187,38825.6,42499.36,42499.36,3673.76,9.5,Actual,Yes
+CF-0005,2025-01-13,Jan 2025,2025,1,Q1,AR Collections,Inflow,Finance,North,Meridian Corp,INV-57052,23825.99,26116.22,26116.22,2290.23,9.6,Actual,Yes
+CF-0016,2025-01-13,Jan 2025,2025,1,Q1,AP Payments,Outflow,Finance,Central,CloudSys Inc.,PO-59052,27470.73,29031.86,29031.86,1561.13,5.7,Actual,No
+CF-0002,2025-01-14,Jan 2025,2025,1,Q1,AR Collections,Inflow,Finance,Central,Apex Retail Group,INV-13905,22955.51,19736.95,19736.95,-3218.56,-14.0,Actual,No
+CF-0018,2025-01-14,Jan 2025,2025,1,Q1,AP Payments,Outflow,Finance,East,FastShip Logistics,PO-49735,10015.88,9710.22,9710.22,-305.66,-3.1,Actual,Yes
+CF-0026,2025-01-15,Jan 2025,2025,1,Q1,CAPEX,Outflow,IT,Central,BuildRight Materials,CAP-1920,110162.18,84746.75,84746.75,-25415.43,-23.1,Actual,Yes
+CF-0022,2025-01-16,Jan 2025,2025,1,Q1,Operating Expenses,Outflow,Finance,East,TechCore Solutions,EXP-5973,18775.73,22161.87,22161.87,3386.14,18.0,Actual,No
+CF-0006,2025-01-18,Jan 2025,2025,1,Q1,AR Collections,Inflow,Finance,Central,Meridian Corp,INV-59615,59594.71,51865.53,51865.53,-7729.18,-13.0,Actual,No
+CF-0014,2025-01-19,Jan 2025,2025,1,Q1,AP Payments,Outflow,Finance,South,CloudSys Inc.,PO-78839,15458.7,14884.8,14884.8,-573.9,-3.7,Actual,Yes
+CF-0021,2025-01-21,Jan 2025,2025,1,Q1,Payroll,Outflow,HR,Central,Payroll Processing,PAY-202501-2,156251.08,166962.22,166962.22,10711.14,6.9,Actual,No
+CF-0007,2025-01-23,Jan 2025,2025,1,Q1,Product Sales,Inflow,Sales,North,Meridian Corp,ORD-5375,74074.93,81984.36,81984.36,7909.43,10.7,Actual,Yes
+CF-0001,2025-01-24,Jan 2025,2025,1,Q1,AR Collections,Inflow,Finance,Central,Nova Technologies,INV-42098,24345.87,24303.35,24303.35,-42.52,-0.2,Actual,No
+CF-0019,2025-01-25,Jan 2025,2025,1,Q1,AP Payments,Outflow,Finance,East,FastShip Logistics,PO-53271,40987.97,46357.49,46357.49,5369.52,13.1,Actual,No
+CF-0025,2025-01-25,Jan 2025,2025,1,Q1,CAPEX,Outflow,IT,West,PowerGrid Utilities,CAP-2634,113033.52,134493.93,134493.93,21460.41,19.0,Actual,No
+CF-0011,2025-01-27,Jan 2025,2025,1,Q1,Service Revenue,Inflow,Sales,West,Apex Retail Group,SVC-1938,41438.41,46603.46,46603.46,5165.05,12.5,Actual,Yes
+CF-0008,2025-01-28,Jan 2025,2025,1,Q1,Product Sales,Inflow,Sales,East,Meridian Corp,ORD-8113,97702.01,95507.88,95507.88,-2194.13,-2.2,Actual,No
+CF-0013,2025-01-29,Jan 2025,2025,1,Q1,Interest Income,Inflow,Finance,Central,Bank of Commerce,INT-202501,2780.34,2449.17,2449.17,-331.17,-11.9,Actual,No
+CF-0027,2025-02-01,Feb 2025,2025,2,Q1,AR Collections,Inflow,Finance,North,Meridian Corp,INV-92719,51541.09,42114.77,42114.77,-9426.32,-18.3,Actual,No
+CF-0037,2025-02-02,Feb 2025,2025,2,Q1,Service Revenue,Inflow,Sales,North,Titan Manufacturing,SVC-4013,21361.14,22578.0,22578.0,1216.86,5.7,Actual,Yes
+CF-0028,2025-02-03,Feb 2025,2025,2,Q1,AR Collections,Inflow,Finance,Central,Redwood Consulting,INV-41195,66999.22,63806.71,63806.71,-3192.51,-4.8,Actual,No
+CF-0033,2025-02-03,Feb 2025,2025,2,Q1,Product Sales,Inflow,Sales,Central,ClearPath LLC,ORD-9508,46233.55,43297.21,43297.21,-2936.34,-6.4,Actual,No
+CF-0034,2025-02-03,Feb 2025,2025,2,Q1,Product Sales,Inflow,Sales,West,Harmon Industries,ORD-6362,96062.34,93484.6,93484.6,-2577.74,-2.7,Actual,No
+CF-0030,2025-02-04,Feb 2025,2025,2,Q1,AR Collections,Inflow,Finance,North,Pacific Distributors,INV-56438,28853.37,28187.5,28187.5,-665.87,-2.3,Actual,No
+CF-0047,2025-02-04,Feb 2025,2025,2,Q1,Operating Expenses,Outflow,IT,East,FastShip Logistics,EXP-5231,11082.72,9921.0,9921.0,-1161.72,-10.5,Actual,Yes
+CF-0035,2025-02-06,Feb 2025,2025,2,Q1,Product Sales,Inflow,Sales,West,Pacific Distributors,ORD-5017,101707.64,107155.04,107155.04,5447.4,5.4,Actual,Yes
+CF-0032,2025-02-07,Feb 2025,2025,2,Q1,Product Sales,Inflow,Sales,West,Redwood Consulting,ORD-8675,46135.79,38949.71,38949.71,-7186.08,-15.6,Actual,No
+CF-0045,2025-02-07,Feb 2025,2025,2,Q1,Payroll,Outflow,HR,Central,Payroll Processing,PAY-202502-1,163374.5,169119.15,169119.15,5744.65,3.5,Actual,No
+CF-0044,2025-02-12,Feb 2025,2025,2,Q1,AP Payments,Outflow,Finance,West,TechCore Solutions,PO-77623,10768.44,9720.06,9720.06,-1048.38,-9.7,Actual,Yes
+CF-0042,2025-02-13,Feb 2025,2025,2,Q1,AP Payments,Outflow,Finance,North,FastShip Logistics,PO-64019,14592.69,14499.43,14499.43,-93.26,-0.6,Actual,Yes
+CF-0049,2025-02-14,Feb 2025,2025,2,Q1,Operating Expenses,Outflow,HR,East,Acme Supplies Co.,EXP-3029,7122.86,6318.96,6318.96,-803.9,-11.3,Actual,Yes
+CF-0038,2025-02-16,Feb 2025,2025,2,Q1,Service Revenue,Inflow,Sales,Central,Redwood Consulting,SVC-4765,14156.12,13687.21,13687.21,-468.91,-3.3,Actual,No
+CF-0029,2025-02-19,Feb 2025,2025,2,Q1,AR Collections,Inflow,Finance,West,Titan Manufacturing,INV-71953,25541.78,24071.75,24071.75,-1470.03,-5.8,Actual,No
+CF-0040,2025-02-19,Feb 2025,2025,2,Q1,AP Payments,Outflow,Finance,West,BuildRight Materials,PO-57940,10315.92,10582.7,10582.7,266.78,2.6,Actual,No
+CF-0041,2025-02-19,Feb 2025,2025,2,Q1,AP Payments,Outflow,Finance,East,OfficePro Services,PO-40733,29665.43,28703.91,28703.91,-961.52,-3.2,Actual,Yes
+CF-0043,2025-02-20,Feb 2025,2025,2,Q1,AP Payments,Outflow,Finance,East,SafetyFirst Supplies,PO-26552,6335.36,5483.46,5483.46,-851.9,-13.4,Actual,Yes
+CF-0031,2025-02-21,Feb 2025,2025,2,Q1,Product Sales,Inflow,Sales,North,Meridian Corp,ORD-5496,80543.72,75627.58,75627.58,-4916.14,-6.1,Actual,No
+CF-0046,2025-02-21,Feb 2025,2025,2,Q1,Payroll,Outflow,HR,North,Payroll Processing,PAY-202502-2,80782.31,77868.04,77868.04,-2914.27,-3.6,Actual,Yes
+CF-0048,2025-02-21,Feb 2025,2025,2,Q1,Operating Expenses,Outflow,HR,North,OfficePro Services,EXP-7002,9682.74,10155.46,10155.46,472.72,4.9,Actual,No
+CF-0036,2025-02-24,Feb 2025,2025,2,Q1,Service Revenue,Inflow,Sales,East,Redwood Consulting,SVC-3711,30189.32,28499.81,28499.81,-1689.51,-5.6,Actual,No
+CF-0039,2025-02-27,Feb 2025,2025,2,Q1,Interest Income,Inflow,Finance,South,Bank of Commerce,INT-202502,1360.5,1166.82,1166.82,-193.68,-14.2,Actual,No
+CF-0058,2025-03-03,Mar 2025,2025,3,Q1,Product Sales,Inflow,Sales,Central,Nova Technologies,ORD-7876,48681.26,49122.35,49122.35,441.09,0.9,Actual,Yes
+CF-0059,2025-03-04,Mar 2025,2025,3,Q1,Service Revenue,Inflow,Sales,North,Nova Technologies,SVC-1731,52387.2,58730.3,58730.3,6343.1,12.1,Actual,Yes
+CF-0066,2025-03-07,Mar 2025,2025,3,Q1,AP Payments,Outflow,Finance,West,CloudSys Inc.,PO-71495,16939.5,17487.6,17487.6,548.1,3.2,Actual,No
+CF-0069,2025-03-07,Mar 2025,2025,3,Q1,Payroll,Outflow,HR,North,Payroll Processing,PAY-202503-1,147279.57,135139.63,135139.63,-12139.94,-8.2,Actual,Yes
+CF-0068,2025-03-10,Mar 2025,2025,3,Q1,AP Payments,Outflow,Finance,South,OfficePro Services,PO-63506,29718.63,28608.26,28608.26,-1110.37,-3.7,Actual,Yes
+CF-0050,2025-03-14,Mar 2025,2025,3,Q1,AR Collections,Inflow,Finance,South,Redwood Consulting,INV-11267,49445.78,50478.99,50478.99,1033.21,2.1,Actual,Yes
+CF-0060,2025-03-14,Mar 2025,2025,3,Q1,Service Revenue,Inflow,Sales,Central,Summit Enterprises,SVC-3984,16661.31,17088.79,17088.79,427.48,2.6,Actual,Yes
+CF-0077,2025-03-14,Mar 2025,2025,3,Q1,Tax Payments,Outflow,Finance,South,IRS / Tax Authority,TAX-2025-Q1,83530.09,78074.32,78074.32,-5455.77,-6.5,Actual,Yes
+CF-0076,2025-03-17,Mar 2025,2025,3,Q1,CAPEX,Outflow,Operations,South,BuildRight Materials,CAP-2124,97049.74,100183.29,100183.29,3133.55,3.2,Actual,No
+CF-0053,2025-03-18,Mar 2025,2025,3,Q1,AR Collections,Inflow,Finance,South,Pacific Distributors,INV-91351,38159.68,44157.52,44157.52,5997.84,15.7,Actual,Yes
+CF-0073,2025-03-18,Mar 2025,2025,3,Q1,Operating Expenses,Outflow,Operations,Central,TechCore Solutions,EXP-6739,15684.65,14452.6,14452.6,-1232.05,-7.9,Actual,Yes
+CF-0074,2025-03-20,Mar 2025,2025,3,Q1,Operating Expenses,Outflow,HR,West,MetalWorks Ltd.,EXP-8018,27721.53,32734.89,32734.89,5013.36,18.1,Actual,No
+CF-0070,2025-03-21,Mar 2025,2025,3,Q1,Payroll,Outflow,HR,North,Payroll Processing,PAY-202503-2,84621.37,88563.05,88563.05,3941.68,4.7,Actual,No
+CF-0071,2025-03-21,Mar 2025,2025,3,Q1,Operating Expenses,Outflow,IT,South,BuildRight Materials,EXP-8884,14532.14,15284.57,15284.57,752.43,5.2,Actual,No
+CF-0067,2025-03-22,Mar 2025,2025,3,Q1,AP Payments,Outflow,Finance,South,BuildRight Materials,PO-53500,21904.3,23569.41,23569.41,1665.11,7.6,Actual,No
+CF-0064,2025-03-23,Mar 2025,2025,3,Q1,AP Payments,Outflow,Finance,West,PowerGrid Utilities,PO-56333,17742.58,16299.51,16299.51,-1443.07,-8.1,Actual,Yes
+CF-0072,2025-03-23,Mar 2025,2025,3,Q1,Operating Expenses,Outflow,Finance,Central,TechCore Solutions,EXP-9376,8394.14,7691.12,7691.12,-703.02,-8.4,Actual,Yes
+CF-0054,2025-03-26,Mar 2025,2025,3,Q1,AR Collections,Inflow,Finance,East,Blue Sky Solutions,INV-64040,67282.52,64344.74,64344.74,-2937.78,-4.4,Actual,No
+CF-0057,2025-03-26,Mar 2025,2025,3,Q1,Product Sales,Inflow,Sales,East,Harmon Industries,ORD-6826,50941.22,41794.74,41794.74,-9146.48,-18.0,Actual,No
+CF-0051,2025-03-27,Mar 2025,2025,3,Q1,AR Collections,Inflow,Finance,North,Summit Enterprises,INV-86350,49098.65,48778.37,48778.37,-320.28,-0.7,Actual,No
+CF-0062,2025-03-27,Mar 2025,2025,3,Q1,Interest Income,Inflow,Finance,East,Bank of Commerce,INT-202503,3339.64,2954.3,2954.3,-385.34,-11.5,Actual,No
+CF-0055,2025-03-28,Mar 2025,2025,3,Q1,Product Sales,Inflow,Sales,West,Harmon Industries,ORD-7185,93189.99,89701.24,89701.24,-3488.75,-3.7,Actual,No
+CF-0056,2025-03-28,Mar 2025,2025,3,Q1,Product Sales,Inflow,Sales,East,ClearPath LLC,ORD-6822,99134.18,101224.4,101224.4,2090.22,2.1,Actual,Yes
+CF-0063,2025-03-28,Mar 2025,2025,3,Q1,AP Payments,Outflow,Finance,West,TechCore Solutions,PO-67169,17300.96,17971.87,17971.87,670.91,3.9,Actual,No
+CF-0052,2025-03-29,Mar 2025,2025,3,Q1,AR Collections,Inflow,Finance,North,Apex Retail Group,INV-56898,35570.73,31493.9,31493.9,-4076.83,-11.5,Actual,No
+CF-0061,2025-03-29,Mar 2025,2025,3,Q1,Service Revenue,Inflow,Sales,North,Titan Manufacturing,SVC-1778,16972.77,16858.12,16858.12,-114.65,-0.7,Actual,No
+CF-0065,2025-03-29,Mar 2025,2025,3,Q1,AP Payments,Outflow,Finance,North,FastShip Logistics,PO-60338,30383.45,29519.87,29519.87,-863.58,-2.8,Actual,Yes
+CF-0075,2025-03-29,Mar 2025,2025,3,Q1,CAPEX,Outflow,IT,East,MetalWorks Ltd.,CAP-2843,75691.45,65963.39,65963.39,-9728.06,-12.9,Actual,Yes
+CF-0095,2025-04-01,Apr 2025,2025,4,Q2,Operating Expenses,Outflow,Sales,West,MetalWorks Ltd.,EXP-3864,19893.49,19146.56,19146.56,-746.93,-3.8,Actual,Yes
+CF-0078,2025-04-05,Apr 2025,2025,4,Q2,AR Collections,Inflow,Finance,West,Harmon Industries,INV-18418,39833.01,37565.56,37565.56,-2267.45,-5.7,Actual,No
+CF-0079,2025-04-07,Apr 2025,2025,4,Q2,AR Collections,Inflow,Finance,North,Pacific Distributors,INV-61049,41699.13,45984.99,45984.99,4285.86,10.3,Actual,Yes
+CF-0088,2025-04-07,Apr 2025,2025,4,Q2,AP Payments,Outflow,Finance,North,Acme Supplies Co.,PO-60719,40186.02,34379.23,34379.23,-5806.79,-14.4,Actual,Yes
+CF-0089,2025-04-07,Apr 2025,2025,4,Q2,AP Payments,Outflow,Finance,Central,MetalWorks Ltd.,PO-65840,26302.9,24285.88,24285.88,-2017.02,-7.7,Actual,Yes
+CF-0092,2025-04-07,Apr 2025,2025,4,Q2,Payroll,Outflow,HR,South,Payroll Processing,PAY-202504-1,174147.06,175848.47,175848.47,1701.41,1.0,Actual,No
+CF-0082,2025-04-09,Apr 2025,2025,4,Q2,Product Sales,Inflow,Sales,West,Pacific Distributors,ORD-8978,66499.51,56663.07,56663.07,-9836.44,-14.8,Actual,No
+CF-0085,2025-04-13,Apr 2025,2025,4,Q2,Service Revenue,Inflow,Sales,West,Summit Enterprises,SVC-1866,14162.24,13362.84,13362.84,-799.4,-5.6,Actual,No
+CF-0096,2025-04-14,Apr 2025,2025,4,Q2,Operating Expenses,Outflow,Operations,Central,OfficePro Services,EXP-8328,21268.1,21914.31,21914.31,646.21,3.0,Actual,No
+CF-0098,2025-04-15,Apr 2025,2025,4,Q2,CAPEX,Outflow,Operations,West,ProStaff Services,CAP-1117,45898.62,43895.93,43895.93,-2002.69,-4.4,Actual,Yes
+CF-0094,2025-04-19,Apr 2025,2025,4,Q2,Operating Expenses,Outflow,Finance,Central,ProStaff Services,EXP-7364,23313.23,22459.01,22459.01,-854.22,-3.7,Actual,Yes
+CF-0093,2025-04-21,Apr 2025,2025,4,Q2,Payroll,Outflow,HR,Central,Payroll Processing,PAY-202504-2,90190.13,98838.09,98838.09,8647.96,9.6,Actual,No
+CF-0084,2025-04-22,Apr 2025,2025,4,Q2,Product Sales,Inflow,Sales,West,Apex Retail Group,ORD-5687,75310.89,71080.85,71080.85,-4230.04,-5.6,Actual,No
+CF-0090,2025-04-24,Apr 2025,2025,4,Q2,AP Payments,Outflow,Finance,North,TechCore Solutions,PO-70973,27860.91,31789.26,31789.26,3928.35,14.1,Actual,No
+CF-0080,2025-04-25,Apr 2025,2025,4,Q2,AR Collections,Inflow,Finance,East,Titan Manufacturing,INV-59857,66833.73,73594.94,73594.94,6761.21,10.1,Actual,Yes
+CF-0083,2025-04-27,Apr 2025,2025,4,Q2,Product Sales,Inflow,Sales,West,ClearPath LLC,ORD-6045,86555.42,97332.24,97332.24,10776.82,12.5,Actual,Yes
+CF-0086,2025-04-27,Apr 2025,2025,4,Q2,Service Revenue,Inflow,Sales,Central,Pacific Distributors,SVC-2033,23965.03,24990.72,24990.72,1025.69,4.3,Actual,Yes
+CF-0097,2025-04-27,Apr 2025,2025,4,Q2,CAPEX,Outflow,Operations,West,ProStaff Services,CAP-2005,67557.63,66893.93,66893.93,-663.7,-1.0,Actual,Yes
+CF-0081,2025-04-28,Apr 2025,2025,4,Q2,AR Collections,Inflow,Finance,Central,Pacific Distributors,INV-80545,60948.08,64673.41,64673.41,3725.33,6.1,Actual,Yes
+CF-0087,2025-04-28,Apr 2025,2025,4,Q2,Interest Income,Inflow,Finance,North,Bank of Commerce,INT-202504,1234.39,1076.07,1076.07,-158.32,-12.8,Actual,No
+CF-0091,2025-04-30,Apr 2025,2025,4,Q2,AP Payments,Outflow,Finance,West,PowerGrid Utilities,PO-57735,26832.65,30023.12,30023.12,3190.47,11.9,Actual,No
+CF-0122,2025-05-01,May 2025,2025,5,Q2,Operating Expenses,Outflow,HR,Central,SafetyFirst Supplies,EXP-3329,18503.83,18219.57,18219.57,-284.26,-1.5,Actual,Yes
+CF-0110,2025-05-03,May 2025,2025,5,Q2,Service Revenue,Inflow,Sales,Central,Titan Manufacturing,SVC-3578,29230.42,27418.32,27418.32,-1812.1,-6.2,Actual,No
+CF-0111,2025-05-03,May 2025,2025,5,Q2,Service Revenue,Inflow,Sales,Central,Harmon Industries,SVC-1485,52812.4,51773.36,51773.36,-1039.04,-2.0,Actual,No
+CF-0104,2025-05-04,May 2025,2025,5,Q2,Product Sales,Inflow,Sales,South,Harmon Industries,ORD-7584,46369.31,42498.15,42498.15,-3871.16,-8.3,Actual,No
+CF-0106,2025-05-04,May 2025,2025,5,Q2,Product Sales,Inflow,Sales,North,Harmon Industries,ORD-7426,75727.21,65329.39,65329.39,-10397.82,-13.7,Actual,No
+CF-0107,2025-05-05,May 2025,2025,5,Q2,Product Sales,Inflow,Sales,South,Nova Technologies,ORD-5372,85181.57,96092.88,96092.88,10911.31,12.8,Actual,Yes
+CF-0109,2025-05-06,May 2025,2025,5,Q2,Service Revenue,Inflow,Sales,North,Apex Retail Group,SVC-2034,30940.16,32910.29,32910.29,1970.13,6.4,Actual,Yes
+CF-0115,2025-05-06,May 2025,2025,5,Q2,AP Payments,Outflow,Finance,East,Acme Supplies Co.,PO-46772,25871.72,25887.18,25887.18,15.46,0.1,Actual,No
+CF-0114,2025-05-07,May 2025,2025,5,Q2,AP Payments,Outflow,Finance,South,BuildRight Materials,PO-37343,40113.25,37027.23,37027.23,-3086.02,-7.7,Actual,Yes
+CF-0118,2025-05-07,May 2025,2025,5,Q2,Payroll,Outflow,HR,South,Payroll Processing,PAY-202505-1,134456.24,148507.31,148507.31,14051.07,10.5,Actual,No
+CF-0102,2025-05-08,May 2025,2025,5,Q2,AR Collections,Inflow,Finance,West,Pacific Distributors,INV-41890,23304.04,22839.26,22839.26,-464.78,-2.0,Actual,No
+CF-0099,2025-05-09,May 2025,2025,5,Q2,AR Collections,Inflow,Finance,East,Summit Enterprises,INV-46655,38225.02,43118.62,43118.62,4893.6,12.8,Actual,Yes
+CF-0116,2025-05-10,May 2025,2025,5,Q2,AP Payments,Outflow,Finance,South,PowerGrid Utilities,PO-66070,7175.03,6640.96,6640.96,-534.07,-7.4,Actual,Yes
+CF-0124,2025-05-11,May 2025,2025,5,Q2,CAPEX,Outflow,IT,West,FastShip Logistics,CAP-2350,62018.11,60308.58,60308.58,-1709.53,-2.8,Actual,Yes
+CF-0103,2025-05-14,May 2025,2025,5,Q2,Product Sales,Inflow,Sales,East,Redwood Consulting,ORD-7709,70128.36,66883.4,66883.4,-3244.96,-4.6,Actual,No
+CF-0113,2025-05-14,May 2025,2025,5,Q2,AP Payments,Outflow,Finance,North,PowerGrid Utilities,PO-57265,36966.0,37966.46,37966.46,1000.46,2.7,Actual,No
+CF-0120,2025-05-15,May 2025,2025,5,Q2,Operating Expenses,Outflow,HR,North,CloudSys Inc.,EXP-5230,15100.53,15230.39,15230.39,129.86,0.9,Actual,No
+CF-0108,2025-05-16,May 2025,2025,5,Q2,Service Revenue,Inflow,Sales,West,Meridian Corp,SVC-4574,49343.83,42214.18,42214.18,-7129.65,-14.4,Actual,No
+CF-0100,2025-05-17,May 2025,2025,5,Q2,AR Collections,Inflow,Finance,Central,Harmon Industries,INV-21221,49680.09,46052.23,46052.23,-3627.86,-7.3,Actual,No
+CF-0119,2025-05-21,May 2025,2025,5,Q2,Payroll,Outflow,HR,Central,Payroll Processing,PAY-202505-2,87140.98,82006.7,82006.7,-5134.28,-5.9,Actual,Yes
+CF-0101,2025-05-23,May 2025,2025,5,Q2,AR Collections,Inflow,Finance,North,ClearPath LLC,INV-94659,61215.39,63015.33,63015.33,1799.94,2.9,Actual,Yes
+CF-0105,2025-05-24,May 2025,2025,5,Q2,Product Sales,Inflow,Sales,Central,ClearPath LLC,ORD-7265,41280.98,48482.51,48482.51,7201.53,17.4,Actual,Yes
+CF-0117,2025-05-26,May 2025,2025,5,Q2,AP Payments,Outflow,Finance,North,SafetyFirst Supplies,PO-63331,39260.8,37305.88,37305.88,-1954.92,-5.0,Actual,Yes
+CF-0112,2025-05-27,May 2025,2025,5,Q2,Interest Income,Inflow,Finance,West,Bank of Commerce,INT-202505,4558.33,4549.53,4549.53,-8.8,-0.2,Actual,No
+CF-0121,2025-05-29,May 2025,2025,5,Q2,Operating Expenses,Outflow,Sales,Central,ProStaff Services,EXP-7945,18754.84,16155.52,16155.52,-2599.32,-13.9,Actual,Yes
+CF-0123,2025-05-30,May 2025,2025,5,Q2,Operating Expenses,Outflow,HR,North,FastShip Logistics,EXP-7795,19984.72,21403.71,21403.71,1418.99,7.1,Actual,No
+CF-0125,2025-06-03,Jun 2025,2025,6,Q2,AR Collections,Inflow,Finance,West,Summit Enterprises,INV-43082,20091.74,21568.69,21568.69,1476.95,7.4,Actual,Yes
+CF-0128,2025-06-05,Jun 2025,2025,6,Q2,AR Collections,Inflow,Finance,North,Nova Technologies,INV-67424,33222.21,35621.54,35621.54,2399.33,7.2,Actual,Yes
+CF-0149,2025-06-06,Jun 2025,2025,6,Q2,CAPEX,Outflow,IT,West,MetalWorks Ltd.,CAP-2415,88405.87,96454.39,96454.39,8048.52,9.1,Actual,No
+CF-0143,2025-06-07,Jun 2025,2025,6,Q2,Payroll,Outflow,HR,North,Payroll Processing,PAY-202506-1,143116.1,162898.96,162898.96,19782.86,13.8,Actual,No
+CF-0146,2025-06-08,Jun 2025,2025,6,Q2,Operating Expenses,Outflow,IT,South,CloudSys Inc.,EXP-7636,14905.8,14449.24,14449.24,-456.56,-3.1,Actual,Yes
+CF-0133,2025-06-09,Jun 2025,2025,6,Q2,Product Sales,Inflow,Sales,North,Pacific Distributors,ORD-7784,98442.29,108903.77,108903.77,10461.48,10.6,Actual,Yes
+CF-0131,2025-06-10,Jun 2025,2025,6,Q2,Product Sales,Inflow,Sales,West,Redwood Consulting,ORD-7239,104275.51,101731.48,101731.48,-2544.03,-2.4,Actual,No
+CF-0134,2025-06-10,Jun 2025,2025,6,Q2,Product Sales,Inflow,Sales,South,Titan Manufacturing,ORD-9750,49041.31,54776.82,54776.82,5735.51,11.7,Actual,Yes
+CF-0145,2025-06-10,Jun 2025,2025,6,Q2,Operating Expenses,Outflow,Finance,East,Acme Supplies Co.,EXP-5657,8826.39,9019.1,9019.1,192.71,2.2,Actual,No
+CF-0142,2025-06-11,Jun 2025,2025,6,Q2,AP Payments,Outflow,Finance,South,MetalWorks Ltd.,PO-77172,19680.34,20039.5,20039.5,359.16,1.8,Actual,No
+CF-0127,2025-06-12,Jun 2025,2025,6,Q2,AR Collections,Inflow,Finance,South,Titan Manufacturing,INV-75338,28692.2,31247.09,31247.09,2554.89,8.9,Actual,Yes
+CF-0135,2025-06-12,Jun 2025,2025,6,Q2,Service Revenue,Inflow,Sales,East,Summit Enterprises,SVC-3260,35158.96,35396.21,35396.21,237.25,0.7,Actual,Yes
+CF-0141,2025-06-13,Jun 2025,2025,6,Q2,AP Payments,Outflow,Finance,Central,TechCore Solutions,PO-75821,28437.34,28522.62,28522.62,85.28,0.3,Actual,No
+CF-0139,2025-06-15,Jun 2025,2025,6,Q2,AP Payments,Outflow,Finance,South,TechCore Solutions,PO-54468,37470.85,34382.48,34382.48,-3088.37,-8.2,Actual,Yes
+CF-0150,2025-06-15,Jun 2025,2025,6,Q2,CAPEX,Outflow,Operations,West,BuildRight Materials,CAP-2575,89650.72,89793.32,89793.32,142.6,0.2,Actual,No
+CF-0151,2025-06-16,Jun 2025,2025,6,Q2,Tax Payments,Outflow,Finance,North,IRS / Tax Authority,TAX-2025-Q2,115051.88,118093.62,118093.62,3041.74,2.6,Actual,No
+CF-0132,2025-06-18,Jun 2025,2025,6,Q2,Product Sales,Inflow,Sales,South,Blue Sky Solutions,ORD-8142,45717.13,43331.89,43331.89,-2385.24,-5.2,Actual,No
+CF-0129,2025-06-20,Jun 2025,2025,6,Q2,AR Collections,Inflow,Finance,West,Harmon Industries,INV-30758,73469.37,62437.92,62437.92,-11031.45,-15.0,Actual,No
+CF-0140,2025-06-21,Jun 2025,2025,6,Q2,AP Payments,Outflow,Finance,East,FastShip Logistics,PO-24903,20759.23,22658.84,22658.84,1899.61,9.2,Actual,No
+CF-0144,2025-06-21,Jun 2025,2025,6,Q2,Payroll,Outflow,HR,North,Payroll Processing,PAY-202506-2,123397.15,125312.47,125312.47,1915.32,1.6,Actual,No
+CF-0148,2025-06-21,Jun 2025,2025,6,Q2,Operating Expenses,Outflow,HR,West,MetalWorks Ltd.,EXP-5091,10340.33,11859.48,11859.48,1519.15,14.7,Actual,No
+CF-0136,2025-06-23,Jun 2025,2025,6,Q2,Service Revenue,Inflow,Sales,West,Harmon Industries,SVC-3342,49392.87,51947.65,51947.65,2554.78,5.2,Actual,Yes
+CF-0137,2025-06-24,Jun 2025,2025,6,Q2,Service Revenue,Inflow,Sales,South,ClearPath LLC,SVC-3888,13876.83,14349.71,14349.71,472.88,3.4,Actual,Yes
+CF-0138,2025-06-26,Jun 2025,2025,6,Q2,Interest Income,Inflow,Finance,East,Bank of Commerce,INT-202506,3228.98,3455.44,3455.44,226.46,7.0,Actual,Yes
+CF-0126,2025-06-27,Jun 2025,2025,6,Q2,AR Collections,Inflow,Finance,North,Apex Retail Group,INV-96200,67299.9,71612.06,71612.06,4312.16,6.4,Actual,Yes
+CF-0130,2025-06-27,Jun 2025,2025,6,Q2,AR Collections,Inflow,Finance,South,Meridian Corp,INV-70482,23312.92,26297.73,26297.73,2984.81,12.8,Actual,Yes
+CF-0147,2025-06-28,Jun 2025,2025,6,Q2,Operating Expenses,Outflow,Sales,South,SafetyFirst Supplies,EXP-8596,6816.27,7139.38,7139.38,323.11,4.7,Actual,No
+CF-0152,2025-07-01,Jul 2025,2025,7,Q3,AR Collections,Inflow,Finance,Central,Titan Manufacturing,INV-99889,40560.93,47685.61,47685.61,7124.68,17.6,Actual,Yes
+CF-0177,2025-07-01,Jul 2025,2025,7,Q3,CAPEX,Outflow,IT,West,MetalWorks Ltd.,CAP-2645,85047.39,75341.27,75341.27,-9706.12,-11.4,Actual,Yes
+CF-0160,2025-07-04,Jul 2025,2025,7,Q3,Product Sales,Inflow,Sales,Central,ClearPath LLC,ORD-8019,47478.98,51493.62,51493.62,4014.64,8.5,Actual,Yes
+CF-0163,2025-07-04,Jul 2025,2025,7,Q3,Service Revenue,Inflow,Sales,West,Blue Sky Solutions,SVC-1185,39917.3,40718.54,40718.54,801.24,2.0,Actual,Yes
+CF-0170,2025-07-07,Jul 2025,2025,7,Q3,AP Payments,Outflow,Finance,South,TechCore Solutions,PO-74382,34331.21,32539.8,32539.8,-1791.41,-5.2,Actual,Yes
+CF-0172,2025-07-07,Jul 2025,2025,7,Q3,Payroll,Outflow,HR,Central,Payroll Processing,PAY-202507-1,107727.48,122662.08,122662.08,14934.6,13.9,Actual,No
+CF-0164,2025-07-08,Jul 2025,2025,7,Q3,Service Revenue,Inflow,Sales,Central,Redwood Consulting,SVC-1555,16993.18,15972.38,15972.38,-1020.8,-6.0,Actual,No
+CF-0171,2025-07-08,Jul 2025,2025,7,Q3,AP Payments,Outflow,Finance,North,ProStaff Services,PO-70749,35269.91,36309.07,36309.07,1039.16,2.9,Actual,No
+CF-0168,2025-07-09,Jul 2025,2025,7,Q3,AP Payments,Outflow,Finance,North,BuildRight Materials,PO-28005,8179.8,9198.61,9198.61,1018.81,12.5,Actual,No
+CF-0158,2025-07-11,Jul 2025,2025,7,Q3,Product Sales,Inflow,Sales,South,Meridian Corp,ORD-8836,88457.54,89810.74,89810.74,1353.2,1.5,Actual,Yes
+CF-0156,2025-07-14,Jul 2025,2025,7,Q3,AR Collections,Inflow,Finance,East,Blue Sky Solutions,INV-36318,36622.99,34249.6,34249.6,-2373.39,-6.5,Actual,No
+CF-0155,2025-07-15,Jul 2025,2025,7,Q3,AR Collections,Inflow,Finance,East,Apex Retail Group,INV-85965,35609.17,31581.85,31581.85,-4027.32,-11.3,Actual,No
+CF-0175,2025-07-17,Jul 2025,2025,7,Q3,Operating Expenses,Outflow,Finance,Central,TechCore Solutions,EXP-6901,22059.52,21299.69,21299.69,-759.83,-3.4,Actual,Yes
+CF-0176,2025-07-17,Jul 2025,2025,7,Q3,Operating Expenses,Outflow,Operations,Central,SafetyFirst Supplies,EXP-3355,7508.24,8739.44,8739.44,1231.2,16.4,Actual,No
+CF-0162,2025-07-20,Jul 2025,2025,7,Q3,Service Revenue,Inflow,Sales,East,Harmon Industries,SVC-3652,26104.27,25640.04,25640.04,-464.23,-1.8,Actual,No
+CF-0161,2025-07-21,Jul 2025,2025,7,Q3,Product Sales,Inflow,Sales,Central,Summit Enterprises,ORD-5887,57387.17,59385.85,59385.85,1998.68,3.5,Actual,Yes
+CF-0169,2025-07-21,Jul 2025,2025,7,Q3,AP Payments,Outflow,Finance,South,SafetyFirst Supplies,PO-21399,29859.67,26561.71,26561.71,-3297.96,-11.0,Actual,Yes
+CF-0173,2025-07-21,Jul 2025,2025,7,Q3,Payroll,Outflow,HR,North,Payroll Processing,PAY-202507-2,105065.42,107705.76,107705.76,2640.34,2.5,Actual,No
+CF-0154,2025-07-22,Jul 2025,2025,7,Q3,AR Collections,Inflow,Finance,North,Blue Sky Solutions,INV-92345,53390.8,50590.89,50590.89,-2799.91,-5.2,Actual,No
+CF-0159,2025-07-24,Jul 2025,2025,7,Q3,Product Sales,Inflow,Sales,North,Pacific Distributors,ORD-9565,98111.95,101575.53,101575.53,3463.58,3.5,Actual,Yes
+CF-0165,2025-07-24,Jul 2025,2025,7,Q3,Service Revenue,Inflow,Sales,West,Blue Sky Solutions,SVC-4626,30022.45,26446.21,26446.21,-3576.24,-11.9,Actual,No
+CF-0174,2025-07-26,Jul 2025,2025,7,Q3,Operating Expenses,Outflow,Operations,South,SafetyFirst Supplies,EXP-5652,5341.79,4554.39,4554.39,-787.4,-14.7,Actual,Yes
+CF-0153,2025-07-27,Jul 2025,2025,7,Q3,AR Collections,Inflow,Finance,South,Nova Technologies,INV-40162,60474.81,59580.46,59580.46,-894.35,-1.5,Actual,No
+CF-0166,2025-07-28,Jul 2025,2025,7,Q3,Interest Income,Inflow,Finance,West,Bank of Commerce,INT-202507,3770.43,3482.57,3482.57,-287.86,-7.6,Actual,No
+CF-0167,2025-07-28,Jul 2025,2025,7,Q3,AP Payments,Outflow,Finance,East,ProStaff Services,PO-26511,40219.99,40789.82,40789.82,569.83,1.4,Actual,No
+CF-0157,2025-07-30,Jul 2025,2025,7,Q3,AR Collections,Inflow,Finance,West,Nova Technologies,INV-31567,48258.59,49490.72,49490.72,1232.13,2.6,Actual,Yes
+CF-0195,2025-08-04,Aug 2025,2025,8,Q3,AP Payments,Outflow,Finance,Central,ProStaff Services,PO-48174,33177.95,32328.03,32328.03,-849.92,-2.6,Actual,Yes
+CF-0191,2025-08-05,Aug 2025,2025,8,Q3,AP Payments,Outflow,Finance,West,Acme Supplies Co.,PO-26013,20428.24,19355.03,19355.03,-1073.21,-5.3,Actual,Yes
+CF-0192,2025-08-06,Aug 2025,2025,8,Q3,AP Payments,Outflow,Finance,Central,ProStaff Services,PO-40423,22331.25,24143.77,24143.77,1812.52,8.1,Actual,No
+CF-0197,2025-08-07,Aug 2025,2025,8,Q3,Payroll,Outflow,HR,South,Payroll Processing,PAY-202508-1,80768.71,74574.03,74574.03,-6194.68,-7.7,Actual,Yes
+CF-0178,2025-08-11,Aug 2025,2025,8,Q3,AR Collections,Inflow,Finance,Central,Titan Manufacturing,INV-29442,69258.21,59827.36,59827.36,-9430.85,-13.6,Actual,No
+CF-0179,2025-08-11,Aug 2025,2025,8,Q3,AR Collections,Inflow,Finance,Central,Pacific Distributors,INV-88301,49256.32,49006.84,49006.84,-249.48,-0.5,Actual,No
+CF-0187,2025-08-12,Aug 2025,2025,8,Q3,Service Revenue,Inflow,Sales,West,Meridian Corp,SVC-4123,48351.06,42921.1,42921.1,-5429.96,-11.2,Actual,No
+CF-0199,2025-08-13,Aug 2025,2025,8,Q3,Operating Expenses,Outflow,IT,East,BuildRight Materials,EXP-7098,9040.98,9621.19,9621.19,580.21,6.4,Actual,No
+CF-0182,2025-08-14,Aug 2025,2025,8,Q3,Product Sales,Inflow,Sales,West,Summit Enterprises,ORD-7088,33082.3,29409.52,29409.52,-3672.78,-11.1,Actual,No
+CF-0186,2025-08-17,Aug 2025,2025,8,Q3,Product Sales,Inflow,Sales,North,Harmon Industries,ORD-6267,33806.05,32756.23,32756.23,-1049.82,-3.1,Actual,No
+CF-0184,2025-08-18,Aug 2025,2025,8,Q3,Product Sales,Inflow,Sales,North,Apex Retail Group,ORD-9804,94000.39,105845.97,105845.97,11845.58,12.6,Actual,Yes
+CF-0201,2025-08-19,Aug 2025,2025,8,Q3,Operating Expenses,Outflow,Sales,East,CloudSys Inc.,EXP-5371,18242.46,14939.29,14939.29,-3303.17,-18.1,Actual,Yes
+CF-0203,2025-08-19,Aug 2025,2025,8,Q3,CAPEX,Outflow,Operations,East,OfficePro Services,CAP-1322,45845.01,42389.21,42389.21,-3455.8,-7.5,Actual,Yes
+CF-0198,2025-08-21,Aug 2025,2025,8,Q3,Payroll,Outflow,HR,West,Payroll Processing,PAY-202508-2,156416.09,140953.15,140953.15,-15462.94,-9.9,Actual,Yes
+CF-0194,2025-08-22,Aug 2025,2025,8,Q3,AP Payments,Outflow,Finance,South,CloudSys Inc.,PO-51828,15795.7,15453.67,15453.67,-342.03,-2.2,Actual,Yes
+CF-0196,2025-08-22,Aug 2025,2025,8,Q3,AP Payments,Outflow,Finance,North,PowerGrid Utilities,PO-22976,23518.78,24905.59,24905.59,1386.81,5.9,Actual,No
+CF-0188,2025-08-25,Aug 2025,2025,8,Q3,Service Revenue,Inflow,Sales,Central,Titan Manufacturing,SVC-3513,48341.67,50053.26,50053.26,1711.59,3.5,Actual,Yes
+CF-0204,2025-08-25,Aug 2025,2025,8,Q3,CAPEX,Outflow,IT,South,TechCore Solutions,CAP-3090,43714.06,45795.12,45795.12,2081.06,4.8,Actual,No
+CF-0180,2025-08-26,Aug 2025,2025,8,Q3,AR Collections,Inflow,Finance,South,Meridian Corp,INV-95814,42521.36,46632.44,46632.44,4111.08,9.7,Actual,Yes
+CF-0183,2025-08-27,Aug 2025,2025,8,Q3,Product Sales,Inflow,Sales,East,Meridian Corp,ORD-5763,30706.33,31977.33,31977.33,1271.0,4.1,Actual,Yes
+CF-0189,2025-08-27,Aug 2025,2025,8,Q3,Service Revenue,Inflow,Sales,East,Nova Technologies,SVC-1118,51950.62,50799.28,50799.28,-1151.34,-2.2,Actual,No
+CF-0185,2025-08-28,Aug 2025,2025,8,Q3,Product Sales,Inflow,Sales,East,Pacific Distributors,ORD-5421,59918.73,68260.81,68260.81,8342.08,13.9,Actual,Yes
+CF-0190,2025-08-28,Aug 2025,2025,8,Q3,Interest Income,Inflow,Finance,Central,Bank of Commerce,INT-202508,5146.92,5327.03,5327.03,180.11,3.5,Actual,Yes
+CF-0200,2025-08-28,Aug 2025,2025,8,Q3,Operating Expenses,Outflow,Finance,East,CloudSys Inc.,EXP-3153,6657.74,5990.08,5990.08,-667.66,-10.0,Actual,Yes
+CF-0181,2025-08-29,Aug 2025,2025,8,Q3,AR Collections,Inflow,Finance,West,Harmon Industries,INV-64239,42513.99,40685.27,40685.27,-1828.72,-4.3,Actual,No
+CF-0193,2025-08-29,Aug 2025,2025,8,Q3,AP Payments,Outflow,Finance,North,Acme Supplies Co.,PO-30196,27464.06,26559.41,26559.41,-904.65,-3.3,Actual,Yes
+CF-0202,2025-08-31,Aug 2025,2025,8,Q3,Operating Expenses,Outflow,IT,West,MetalWorks Ltd.,EXP-9815,8953.08,9103.89,9103.89,150.81,1.7,Actual,No
+CF-0222,2025-09-05,Sep 2025,2025,9,Q3,Operating Expenses,Outflow,Operations,Central,TechCore Solutions,EXP-5423,10210.49,10025.04,10025.04,-185.45,-1.8,Actual,Yes
+CF-0224,2025-09-05,Sep 2025,2025,9,Q3,Operating Expenses,Outflow,Operations,South,FastShip Logistics,EXP-9810,18736.67,20309.3,20309.3,1572.63,8.4,Actual,No
+CF-0220,2025-09-07,Sep 2025,2025,9,Q3,Payroll,Outflow,HR,North,Payroll Processing,PAY-202509-1,89345.3,90137.73,90137.73,792.43,0.9,Actual,No
+CF-0218,2025-09-10,Sep 2025,2025,9,Q3,AP Payments,Outflow,Finance,East,CloudSys Inc.,PO-28450,39002.87,42988.88,42988.88,3986.01,10.2,Actual,No
+CF-0225,2025-09-12,Sep 2025,2025,9,Q3,CAPEX,Outflow,IT,West,MetalWorks Ltd.,CAP-3500,26281.86,26052.64,26052.64,-229.22,-0.9,Actual,Yes
+CF-0226,2025-09-13,Sep 2025,2025,9,Q3,Tax Payments,Outflow,Finance,West,IRS / Tax Authority,TAX-2025-Q3,79570.31,83835.7,83835.7,4265.39,5.4,Actual,No
+CF-0214,2025-09-15,Sep 2025,2025,9,Q3,Service Revenue,Inflow,Sales,East,ClearPath LLC,SVC-3146,22652.98,20674.86,20674.86,-1978.12,-8.7,Actual,No
+CF-0211,2025-09-17,Sep 2025,2025,9,Q3,Product Sales,Inflow,Sales,North,Pacific Distributors,ORD-8790,77275.71,87352.18,87352.18,10076.47,13.0,Actual,Yes
+CF-0209,2025-09-19,Sep 2025,2025,9,Q3,AR Collections,Inflow,Finance,West,Apex Retail Group,INV-56129,63390.79,60595.16,60595.16,-2795.63,-4.4,Actual,No
+CF-0208,2025-09-21,Sep 2025,2025,9,Q3,AR Collections,Inflow,Finance,East,Summit Enterprises,INV-29786,36422.87,35715.66,35715.66,-707.21,-1.9,Actual,No
+CF-0216,2025-09-21,Sep 2025,2025,9,Q3,AP Payments,Outflow,Finance,West,ProStaff Services,PO-24319,34412.17,33595.03,33595.03,-817.14,-2.4,Actual,Yes
+CF-0219,2025-09-21,Sep 2025,2025,9,Q3,AP Payments,Outflow,Finance,Central,ProStaff Services,PO-73292,26121.19,25656.42,25656.42,-464.77,-1.8,Actual,Yes
+CF-0221,2025-09-21,Sep 2025,2025,9,Q3,Payroll,Outflow,HR,West,Payroll Processing,PAY-202509-2,116259.77,106900.16,106900.16,-9359.61,-8.1,Actual,Yes
+CF-0217,2025-09-24,Sep 2025,2025,9,Q3,AP Payments,Outflow,Finance,South,SafetyFirst Supplies,PO-77231,16229.29,13716.68,13716.68,-2512.61,-15.5,Actual,Yes
+CF-0206,2025-09-25,Sep 2025,2025,9,Q3,AR Collections,Inflow,Finance,West,Meridian Corp,INV-33218,52336.74,58812.77,58812.77,6476.03,12.4,Actual,Yes
+CF-0207,2025-09-25,Sep 2025,2025,9,Q3,AR Collections,Inflow,Finance,Central,Titan Manufacturing,INV-68838,61003.41,69009.5,69009.5,8006.09,13.1,Actual,Yes
+CF-0212,2025-09-26,Sep 2025,2025,9,Q3,Product Sales,Inflow,Sales,South,Titan Manufacturing,ORD-6542,63227.36,60165.13,60165.13,-3062.23,-4.8,Actual,No
+CF-0213,2025-09-26,Sep 2025,2025,9,Q3,Service Revenue,Inflow,Sales,North,Summit Enterprises,SVC-3925,31372.49,29718.38,29718.38,-1654.11,-5.3,Actual,No
+CF-0205,2025-09-27,Sep 2025,2025,9,Q3,AR Collections,Inflow,Finance,South,Blue Sky Solutions,INV-40968,38012.68,32943.54,32943.54,-5069.14,-13.3,Actual,No
+CF-0210,2025-09-27,Sep 2025,2025,9,Q3,Product Sales,Inflow,Sales,North,Nova Technologies,ORD-5628,29835.65,34408.45,34408.45,4572.8,15.3,Actual,Yes
+CF-0215,2025-09-29,Sep 2025,2025,9,Q3,Interest Income,Inflow,Finance,Central,Bank of Commerce,INT-202509,5130.72,4886.69,4886.69,-244.03,-4.8,Actual,No
+CF-0223,2025-09-29,Sep 2025,2025,9,Q3,Operating Expenses,Outflow,IT,South,Acme Supplies Co.,EXP-8422,24207.76,25087.61,25087.61,879.85,3.6,Actual,No
+CF-0242,2025-10-07,Oct 2025,2025,10,Q4,Payroll,Outflow,HR,North,Payroll Processing,PAY-202510-1,115709.39,106643.24,106643.24,-9066.15,-7.8,Actual,Yes
+CF-0230,2025-10-10,Oct 2025,2025,10,Q4,AR Collections,Inflow,Finance,South,Meridian Corp,INV-31012,66516.46,69670.11,69670.11,3153.65,4.7,Actual,Yes
+CF-0236,2025-10-10,Oct 2025,2025,10,Q4,Service Revenue,Inflow,Sales,Central,Harmon Industries,SVC-2233,16781.03,14499.8,14499.8,-2281.23,-13.6,Actual,No
+CF-0246,2025-10-10,Oct 2025,2025,10,Q4,Operating Expenses,Outflow,IT,South,CloudSys Inc.,EXP-9679,12258.7,11757.44,11757.44,-501.26,-4.1,Actual,Yes
+CF-0248,2025-10-13,Oct 2025,2025,10,Q4,CAPEX,Outflow,Operations,Central,FastShip Logistics,CAP-3032,109674.47,112301.11,112301.11,2626.64,2.4,Actual,No
+CF-0228,2025-10-14,Oct 2025,2025,10,Q4,AR Collections,Inflow,Finance,East,Blue Sky Solutions,INV-36174,46665.68,45183.51,45183.51,-1482.17,-3.2,Actual,No
+CF-0229,2025-10-16,Oct 2025,2025,10,Q4,AR Collections,Inflow,Finance,Central,Summit Enterprises,INV-82684,20974.25,23952.63,23952.63,2978.38,14.2,Actual,Yes
+CF-0234,2025-10-16,Oct 2025,2025,10,Q4,Product Sales,Inflow,Sales,North,Blue Sky Solutions,ORD-8842,102978.67,89631.54,89631.54,-13347.13,-13.0,Actual,No
+CF-0241,2025-10-16,Oct 2025,2025,10,Q4,AP Payments,Outflow,Finance,North,Acme Supplies Co.,PO-61659,20056.33,18868.81,18868.81,-1187.52,-5.9,Actual,Yes
+CF-0232,2025-10-17,Oct 2025,2025,10,Q4,Product Sales,Inflow,Sales,South,Summit Enterprises,ORD-6931,29526.84,25836.23,25836.23,-3690.61,-12.5,Actual,No
+CF-0240,2025-10-17,Oct 2025,2025,10,Q4,AP Payments,Outflow,Finance,North,OfficePro Services,PO-53248,8436.46,8639.81,8639.81,203.35,2.4,Actual,No
+CF-0238,2025-10-19,Oct 2025,2025,10,Q4,AP Payments,Outflow,Finance,Central,BuildRight Materials,PO-67090,28750.38,26528.66,26528.66,-2221.72,-7.7,Actual,Yes
+CF-0239,2025-10-19,Oct 2025,2025,10,Q4,AP Payments,Outflow,Finance,East,CloudSys Inc.,PO-32275,18701.38,16948.73,16948.73,-1752.65,-9.4,Actual,Yes
+CF-0243,2025-10-21,Oct 2025,2025,10,Q4,Payroll,Outflow,HR,North,Payroll Processing,PAY-202510-2,157150.14,152252.37,152252.37,-4897.77,-3.1,Actual,Yes
+CF-0245,2025-10-25,Oct 2025,2025,10,Q4,Operating Expenses,Outflow,Sales,North,Acme Supplies Co.,EXP-5403,6451.31,6517.94,6517.94,66.63,1.0,Actual,No
+CF-0237,2025-10-26,Oct 2025,2025,10,Q4,Interest Income,Inflow,Finance,Central,Bank of Commerce,INT-202510,3057.01,3159.81,3159.81,102.8,3.4,Actual,Yes
+CF-0235,2025-10-27,Oct 2025,2025,10,Q4,Service Revenue,Inflow,Sales,West,Blue Sky Solutions,SVC-3247,23004.73,25240.36,25240.36,2235.63,9.7,Actual,Yes
+CF-0244,2025-10-27,Oct 2025,2025,10,Q4,Operating Expenses,Outflow,Operations,South,MetalWorks Ltd.,EXP-8696,17558.32,16305.02,16305.02,-1253.3,-7.1,Actual,Yes
+CF-0247,2025-10-28,Oct 2025,2025,10,Q4,Operating Expenses,Outflow,Finance,West,ProStaff Services,EXP-5238,11580.55,10399.44,10399.44,-1181.11,-10.2,Actual,Yes
+CF-0231,2025-10-30,Oct 2025,2025,10,Q4,Product Sales,Inflow,Sales,West,Harmon Industries,ORD-8695,32795.65,39524.05,39524.05,6728.4,20.5,Actual,Yes
+CF-0233,2025-10-30,Oct 2025,2025,10,Q4,Product Sales,Inflow,Sales,East,Meridian Corp,ORD-7746,27395.94,26762.35,26762.35,-633.59,-2.3,Actual,No
+CF-0227,2025-10-31,Oct 2025,2025,10,Q4,AR Collections,Inflow,Finance,West,Titan Manufacturing,INV-67749,38966.93,36643.05,36643.05,-2323.88,-6.0,Actual,No
+CF-0257,2025-11-04,Nov 2025,2025,11,Q4,Service Revenue,Inflow,Sales,Central,Apex Retail Group,SVC-4013,23983.66,22483.82,22483.82,-1499.84,-6.3,Actual,No
+CF-0268,2025-11-05,Nov 2025,2025,11,Q4,Operating Expenses,Outflow,Sales,East,OfficePro Services,EXP-3453,22658.98,24644.15,24644.15,1985.17,8.8,Actual,No
+CF-0266,2025-11-07,Nov 2025,2025,11,Q4,Payroll,Outflow,HR,West,Payroll Processing,PAY-202511-1,87375.07,92067.28,92067.28,4692.21,5.4,Actual,No
+CF-0263,2025-11-08,Nov 2025,2025,11,Q4,AP Payments,Outflow,Finance,West,MetalWorks Ltd.,PO-21722,34514.36,33951.41,33951.41,-562.95,-1.6,Actual,Yes
+CF-0250,2025-11-11,Nov 2025,2025,11,Q4,AR Collections,Inflow,Finance,West,Meridian Corp,INV-20494,49092.04,45077.57,45077.57,-4014.47,-8.2,Actual,No
+CF-0269,2025-11-11,Nov 2025,2025,11,Q4,Operating Expenses,Outflow,Operations,East,ProStaff Services,EXP-7250,8787.11,10438.66,10438.66,1651.55,18.8,Actual,No
+CF-0253,2025-11-13,Nov 2025,2025,11,Q4,AR Collections,Inflow,Finance,North,Summit Enterprises,INV-77251,56257.48,62213.5,62213.5,5956.02,10.6,Actual,Yes
+CF-0251,2025-11-14,Nov 2025,2025,11,Q4,AR Collections,Inflow,Finance,East,Blue Sky Solutions,INV-68183,52349.43,45216.07,45216.07,-7133.36,-13.6,Actual,No
+CF-0252,2025-11-14,Nov 2025,2025,11,Q4,AR Collections,Inflow,Finance,North,Nova Technologies,INV-93816,53046.53,64389.09,64389.09,11342.56,21.4,Actual,Yes
+CF-0260,2025-11-15,Nov 2025,2025,11,Q4,Service Revenue,Inflow,Sales,East,Meridian Corp,SVC-4319,50643.2,56090.31,56090.31,5447.11,10.8,Actual,Yes
+CF-0259,2025-11-16,Nov 2025,2025,11,Q4,Service Revenue,Inflow,Sales,South,Harmon Industries,SVC-1502,41841.17,34725.19,34725.19,-7115.98,-17.0,Actual,No
+CF-0264,2025-11-18,Nov 2025,2025,11,Q4,AP Payments,Outflow,Finance,West,FastShip Logistics,PO-60104,34931.82,32384.9,32384.9,-2546.92,-7.3,Actual,Yes
+CF-0270,2025-11-18,Nov 2025,2025,11,Q4,Operating Expenses,Outflow,HR,Central,FastShip Logistics,EXP-8120,9514.94,9271.25,9271.25,-243.69,-2.6,Actual,Yes
+CF-0255,2025-11-19,Nov 2025,2025,11,Q4,Product Sales,Inflow,Sales,East,Apex Retail Group,ORD-9956,55782.8,50528.41,50528.41,-5254.39,-9.4,Actual,No
+CF-0271,2025-11-19,Nov 2025,2025,11,Q4,CAPEX,Outflow,IT,East,FastShip Logistics,CAP-3698,79997.23,90991.0,90991.0,10993.77,13.7,Actual,No
+CF-0267,2025-11-21,Nov 2025,2025,11,Q4,Payroll,Outflow,HR,Central,Payroll Processing,PAY-202511-2,126583.32,115372.19,115372.19,-11211.13,-8.9,Actual,Yes
+CF-0254,2025-11-22,Nov 2025,2025,11,Q4,Product Sales,Inflow,Sales,East,ClearPath LLC,ORD-5285,97136.89,82820.65,82820.65,-14316.24,-14.7,Actual,No
+CF-0249,2025-11-24,Nov 2025,2025,11,Q4,AR Collections,Inflow,Finance,South,Pacific Distributors,INV-20345,63665.44,70241.82,70241.82,6576.38,10.3,Actual,Yes
+CF-0265,2025-11-24,Nov 2025,2025,11,Q4,AP Payments,Outflow,Finance,Central,MetalWorks Ltd.,PO-54451,41985.42,39980.43,39980.43,-2004.99,-4.8,Actual,Yes
+CF-0256,2025-11-25,Nov 2025,2025,11,Q4,Product Sales,Inflow,Sales,East,Meridian Corp,ORD-9701,56621.14,50046.94,50046.94,-6574.2,-11.6,Actual,No
+CF-0258,2025-11-25,Nov 2025,2025,11,Q4,Service Revenue,Inflow,Sales,East,Nova Technologies,SVC-3883,17063.72,18720.84,18720.84,1657.12,9.7,Actual,Yes
+CF-0261,2025-11-26,Nov 2025,2025,11,Q4,Interest Income,Inflow,Finance,East,Bank of Commerce,INT-202511,4005.28,3822.78,3822.78,-182.5,-4.6,Actual,No
+CF-0262,2025-11-30,Nov 2025,2025,11,Q4,AP Payments,Outflow,Finance,South,FastShip Logistics,PO-72015,31625.13,28557.38,28557.38,-3067.75,-9.7,Actual,Yes
+CF-0295,2025-12-01,Dec 2025,2025,12,Q4,CAPEX,Outflow,Operations,West,ProStaff Services,CAP-2715,32769.76,30684.57,30684.57,-2085.19,-6.4,Actual,Yes
+CF-0288,2025-12-02,Dec 2025,2025,12,Q4,AP Payments,Outflow,Finance,West,Acme Supplies Co.,PO-22550,20449.94,18409.77,18409.77,-2040.17,-10.0,Actual,Yes
+CF-0275,2025-12-03,Dec 2025,2025,12,Q4,AR Collections,Inflow,Finance,South,Apex Retail Group,INV-30719,34953.73,34401.01,34401.01,-552.72,-1.6,Actual,No
+CF-0276,2025-12-05,Dec 2025,2025,12,Q4,AR Collections,Inflow,Finance,West,Summit Enterprises,INV-51853,37390.98,42531.57,42531.57,5140.59,13.7,Actual,Yes
+CF-0278,2025-12-05,Dec 2025,2025,12,Q4,Product Sales,Inflow,Sales,Central,Meridian Corp,ORD-5414,63215.66,58363.65,58363.65,-4852.01,-7.7,Actual,No
+CF-0273,2025-12-07,Dec 2025,2025,12,Q4,AR Collections,Inflow,Finance,Central,Titan Manufacturing,INV-64602,33085.39,30049.05,30049.05,-3036.34,-9.2,Actual,No
+CF-0289,2025-12-07,Dec 2025,2025,12,Q4,Payroll,Outflow,HR,South,Payroll Processing,PAY-202512-1,131933.27,142353.93,142353.93,10420.66,7.9,Actual,No
+CF-0293,2025-12-09,Dec 2025,2025,12,Q4,Operating Expenses,Outflow,IT,South,SafetyFirst Supplies,EXP-4864,18728.92,20225.93,20225.93,1497.01,8.0,Actual,No
+CF-0285,2025-12-10,Dec 2025,2025,12,Q4,AP Payments,Outflow,Finance,East,TechCore Solutions,PO-45319,19050.86,19967.08,19967.08,916.22,4.8,Actual,No
+CF-0287,2025-12-11,Dec 2025,2025,12,Q4,AP Payments,Outflow,Finance,Central,OfficePro Services,PO-43960,34616.3,32698.86,32698.86,-1917.44,-5.5,Actual,Yes
+CF-0277,2025-12-12,Dec 2025,2025,12,Q4,AR Collections,Inflow,Finance,North,Redwood Consulting,INV-83616,25453.67,21995.43,21995.43,-3458.24,-13.6,Actual,No
+CF-0281,2025-12-13,Dec 2025,2025,12,Q4,Product Sales,Inflow,Sales,East,Redwood Consulting,ORD-8745,32654.17,33829.14,33829.14,1174.97,3.6,Actual,Yes
+CF-0297,2025-12-15,Dec 2025,2025,12,Q4,Tax Payments,Outflow,Finance,South,IRS / Tax Authority,TAX-2025-Q4,159802.9,153048.74,153048.74,-6754.16,-4.2,Actual,Yes
+CF-0280,2025-12-16,Dec 2025,2025,12,Q4,Product Sales,Inflow,Sales,North,Redwood Consulting,ORD-8824,89865.32,85710.46,85710.46,-4154.86,-4.6,Actual,No
+CF-0282,2025-12-16,Dec 2025,2025,12,Q4,Service Revenue,Inflow,Sales,East,Titan Manufacturing,SVC-4614,14173.24,15523.37,15523.37,1350.13,9.5,Actual,Yes
+CF-0291,2025-12-17,Dec 2025,2025,12,Q4,Operating Expenses,Outflow,IT,North,OfficePro Services,EXP-7012,18655.67,18752.4,18752.4,96.73,0.5,Actual,No
+CF-0286,2025-12-20,Dec 2025,2025,12,Q4,AP Payments,Outflow,Finance,East,SafetyFirst Supplies,PO-27786,35711.21,30213.63,30213.63,-5497.58,-15.4,Actual,Yes
+CF-0296,2025-12-20,Dec 2025,2025,12,Q4,CAPEX,Outflow,Operations,East,Acme Supplies Co.,CAP-3890,71178.31,58993.5,58993.5,-12184.81,-17.1,Actual,Yes
+CF-0290,2025-12-21,Dec 2025,2025,12,Q4,Payroll,Outflow,HR,Central,Payroll Processing,PAY-202512-2,112796.58,104128.94,104128.94,-8667.64,-7.7,Actual,Yes
+CF-0292,2025-12-22,Dec 2025,2025,12,Q4,Operating Expenses,Outflow,Finance,North,CloudSys Inc.,EXP-7781,13472.23,14284.62,14284.62,812.39,6.0,Actual,No
+CF-0294,2025-12-24,Dec 2025,2025,12,Q4,Operating Expenses,Outflow,IT,Central,CloudSys Inc.,EXP-4210,17057.34,17294.36,17294.36,237.02,1.4,Actual,No
+CF-0272,2025-12-28,Dec 2025,2025,12,Q4,AR Collections,Inflow,Finance,Central,Apex Retail Group,INV-20646,20348.08,19126.28,19126.28,-1221.8,-6.0,Actual,No
+CF-0283,2025-12-28,Dec 2025,2025,12,Q4,Service Revenue,Inflow,Sales,East,Meridian Corp,SVC-2765,35077.7,30583.26,30583.26,-4494.44,-12.8,Actual,No
+CF-0284,2025-12-28,Dec 2025,2025,12,Q4,Interest Income,Inflow,Finance,Central,Bank of Commerce,INT-202512,4437.36,3779.3,3779.3,-658.06,-14.8,Actual,No
+CF-0274,2025-12-31,Dec 2025,2025,12,Q4,AR Collections,Inflow,Finance,West,Nova Technologies,INV-73300,34511.28,35166.16,35166.16,654.88,1.9,Actual,Yes
+CF-0279,2025-12-31,Dec 2025,2025,12,Q4,Product Sales,Inflow,Sales,South,Blue Sky Solutions,ORD-7682,60541.45,70391.3,70391.3,9849.85,16.3,Actual,Yes
+CF-0319,2026-01-04,Jan 2026,2026,1,Q1,Operating Expenses,Outflow,Sales,East,PowerGrid Utilities,EXP-4308,6428.86,6363.22,6363.22,-65.64,-1.0,Actual,Yes
+CF-0313,2026-01-05,Jan 2026,2026,1,Q1,AP Payments,Outflow,Finance,East,OfficePro Services,PO-50672,38013.36,39012.49,39012.49,999.13,2.6,Actual,No
+CF-0299,2026-01-07,Jan 2026,2026,1,Q1,AR Collections,Inflow,Finance,East,Harmon Industries,INV-46569,52774.37,49862.19,49862.19,-2912.18,-5.5,Actual,No
+CF-0315,2026-01-07,Jan 2026,2026,1,Q1,Payroll,Outflow,HR,West,Payroll Processing,PAY-202601-1,136778.12,127423.67,127423.67,-9354.45,-6.8,Actual,Yes
+CF-0318,2026-01-10,Jan 2026,2026,1,Q1,Operating Expenses,Outflow,IT,South,SafetyFirst Supplies,EXP-3093,26942.8,24929.24,24929.24,-2013.56,-7.5,Actual,Yes
+CF-0298,2026-01-11,Jan 2026,2026,1,Q1,AR Collections,Inflow,Finance,East,Redwood Consulting,INV-56437,69991.08,78845.96,78845.96,8854.88,12.7,Actual,Yes
+CF-0312,2026-01-11,Jan 2026,2026,1,Q1,AP Payments,Outflow,Finance,West,PowerGrid Utilities,PO-49776,9862.82,10449.46,10449.46,586.64,5.9,Actual,No
+CF-0314,2026-01-15,Jan 2026,2026,1,Q1,AP Payments,Outflow,Finance,East,PowerGrid Utilities,PO-67094,11849.79,11824.03,11824.03,-25.76,-0.2,Actual,Yes
+CF-0306,2026-01-16,Jan 2026,2026,1,Q1,Product Sales,Inflow,Sales,South,Meridian Corp,ORD-6126,53074.96,47337.19,47337.19,-5737.77,-10.8,Actual,No
+CF-0317,2026-01-16,Jan 2026,2026,1,Q1,Operating Expenses,Outflow,HR,East,BuildRight Materials,EXP-3055,27578.76,24727.22,24727.22,-2851.54,-10.3,Actual,Yes
+CF-0301,2026-01-19,Jan 2026,2026,1,Q1,AR Collections,Inflow,Finance,East,Redwood Consulting,INV-59767,34403.99,36187.37,36187.37,1783.38,5.2,Actual,Yes
+CF-0303,2026-01-21,Jan 2026,2026,1,Q1,Product Sales,Inflow,Sales,East,Nova Technologies,ORD-8924,103540.82,104023.57,104023.57,482.75,0.5,Actual,Yes
+CF-0308,2026-01-21,Jan 2026,2026,1,Q1,Service Revenue,Inflow,Sales,South,Apex Retail Group,SVC-4718,25810.21,27780.17,27780.17,1969.96,7.6,Actual,Yes
+CF-0316,2026-01-21,Jan 2026,2026,1,Q1,Payroll,Outflow,HR,North,Payroll Processing,PAY-202601-2,162698.98,146651.6,146651.6,-16047.38,-9.9,Actual,Yes
+CF-0305,2026-01-22,Jan 2026,2026,1,Q1,Product Sales,Inflow,Sales,West,Redwood Consulting,ORD-6848,45608.93,42058.22,42058.22,-3550.71,-7.8,Actual,No
+CF-0300,2026-01-23,Jan 2026,2026,1,Q1,AR Collections,Inflow,Finance,East,Harmon Industries,INV-74094,61956.93,57523.84,57523.84,-4433.09,-7.2,Actual,No
+CF-0304,2026-01-23,Jan 2026,2026,1,Q1,Product Sales,Inflow,Sales,South,Nova Technologies,ORD-6124,104307.03,99989.36,99989.36,-4317.67,-4.1,Actual,No
+CF-0309,2026-01-24,Jan 2026,2026,1,Q1,Service Revenue,Inflow,Sales,South,Apex Retail Group,SVC-4740,35011.55,36582.14,36582.14,1570.59,4.5,Actual,Yes
+CF-0302,2026-01-26,Jan 2026,2026,1,Q1,AR Collections,Inflow,Finance,North,Blue Sky Solutions,INV-48070,72412.71,72968.87,72968.87,556.16,0.8,Actual,Yes
+CF-0310,2026-01-26,Jan 2026,2026,1,Q1,Interest Income,Inflow,Finance,West,Bank of Commerce,INT-202601,5202.65,5326.3,5326.3,123.65,2.4,Actual,Yes
+CF-0307,2026-01-29,Jan 2026,2026,1,Q1,Service Revenue,Inflow,Sales,East,ClearPath LLC,SVC-2955,40074.39,43262.94,43262.94,3188.55,8.0,Actual,Yes
+CF-0311,2026-01-31,Jan 2026,2026,1,Q1,AP Payments,Outflow,Finance,Central,PowerGrid Utilities,PO-77458,39717.91,34956.53,34956.53,-4761.38,-12.0,Actual,Yes
+CF-0320,2026-01-31,Jan 2026,2026,1,Q1,CAPEX,Outflow,Operations,West,ProStaff Services,CAP-3517,84593.71,86017.33,86017.33,1423.62,1.7,Actual,No
+CF-0336,2026-02-03,Feb 2026,2026,2,Q1,AP Payments,Outflow,Finance,North,TechCore Solutions,PO-58924,14663.99,13872.99,13872.99,-791.0,-5.4,Actual,Yes
+CF-0340,2026-02-05,Feb 2026,2026,2,Q1,Operating Expenses,Outflow,IT,Central,BuildRight Materials,EXP-6387,10448.79,9031.01,9031.01,-1417.78,-13.6,Actual,Yes
+CF-0341,2026-02-06,Feb 2026,2026,2,Q1,Operating Expenses,Outflow,Sales,West,OfficePro Services,EXP-7060,25233.42,22112.62,22112.62,-3120.8,-12.4,Actual,Yes
+CF-0324,2026-02-07,Feb 2026,2026,2,Q1,AR Collections,Inflow,Finance,Central,Titan Manufacturing,INV-80341,69464.63,61935.18,61935.18,-7529.45,-10.8,Actual,No
+CF-0325,2026-02-07,Feb 2026,2026,2,Q1,Product Sales,Inflow,Sales,North,Titan Manufacturing,ORD-9004,34880.4,31534.38,31534.38,-3346.02,-9.6,Actual,No
+CF-0337,2026-02-07,Feb 2026,2026,2,Q1,Payroll,Outflow,HR,Central,Payroll Processing,PAY-202602-1,104473.42,101066.29,101066.29,-3407.13,-3.3,Actual,Yes
+CF-0334,2026-02-08,Feb 2026,2026,2,Q1,AP Payments,Outflow,Finance,North,MetalWorks Ltd.,PO-42685,35640.98,31003.18,31003.18,-4637.8,-13.0,Actual,Yes
+CF-0333,2026-02-10,Feb 2026,2026,2,Q1,AP Payments,Outflow,Finance,West,MetalWorks Ltd.,PO-64138,33222.46,33057.26,33057.26,-165.2,-0.5,Actual,Yes
+CF-0343,2026-02-10,Feb 2026,2026,2,Q1,CAPEX,Outflow,IT,Central,MetalWorks Ltd.,CAP-1236,105235.41,119240.74,119240.74,14005.33,13.3,Actual,No
+CF-0342,2026-02-11,Feb 2026,2026,2,Q1,Operating Expenses,Outflow,Sales,Central,CloudSys Inc.,EXP-4222,23073.51,20597.44,20597.44,-2476.07,-10.7,Actual,Yes
+CF-0327,2026-02-13,Feb 2026,2026,2,Q1,Product Sales,Inflow,Sales,North,Nova Technologies,ORD-5024,86478.81,93301.69,93301.69,6822.88,7.9,Actual,Yes
+CF-0330,2026-02-13,Feb 2026,2026,2,Q1,Service Revenue,Inflow,Sales,North,ClearPath LLC,SVC-4561,28101.82,29050.72,29050.72,948.9,3.4,Actual,Yes
+CF-0329,2026-02-14,Feb 2026,2026,2,Q1,Service Revenue,Inflow,Sales,West,Blue Sky Solutions,SVC-4149,13364.6,12773.54,12773.54,-591.06,-4.4,Actual,No
+CF-0323,2026-02-17,Feb 2026,2026,2,Q1,AR Collections,Inflow,Finance,Central,Summit Enterprises,INV-20237,47953.88,47120.08,47120.08,-833.8,-1.7,Actual,No
+CF-0326,2026-02-17,Feb 2026,2026,2,Q1,Product Sales,Inflow,Sales,East,Pacific Distributors,ORD-8742,63541.75,65426.8,65426.8,1885.05,3.0,Actual,Yes
+CF-0321,2026-02-20,Feb 2026,2026,2,Q1,AR Collections,Inflow,Finance,Central,Summit Enterprises,INV-64505,43933.78,50236.56,50236.56,6302.78,14.3,Actual,Yes
+CF-0338,2026-02-21,Feb 2026,2026,2,Q1,Payroll,Outflow,HR,Central,Payroll Processing,PAY-202602-2,101726.92,92220.23,92220.23,-9506.69,-9.3,Actual,Yes
+CF-0331,2026-02-22,Feb 2026,2026,2,Q1,Service Revenue,Inflow,Sales,South,Redwood Consulting,SVC-1544,41357.41,40549.14,40549.14,-808.27,-2.0,Actual,No
+CF-0335,2026-02-22,Feb 2026,2026,2,Q1,AP Payments,Outflow,Finance,North,CloudSys Inc.,PO-60299,7159.82,7972.41,7972.41,812.59,11.3,Actual,No
+CF-0328,2026-02-23,Feb 2026,2026,2,Q1,Product Sales,Inflow,Sales,North,Meridian Corp,ORD-9433,61014.28,75368.4,75368.4,14354.12,23.5,Actual,Yes
+CF-0339,2026-02-24,Feb 2026,2026,2,Q1,Operating Expenses,Outflow,IT,East,ProStaff Services,EXP-7730,10385.71,11156.91,11156.91,771.2,7.4,Actual,No
+CF-0322,2026-02-27,Feb 2026,2026,2,Q1,AR Collections,Inflow,Finance,North,Harmon Industries,INV-42435,63713.71,67529.74,67529.74,3816.03,6.0,Actual,Yes
+CF-0332,2026-03-01,Mar 2026,2026,3,Q1,Interest Income,Inflow,Finance,South,Bank of Commerce,INT-202602,5467.81,5783.46,5783.46,315.65,5.8,Actual,Yes
+CF-0352,2026-03-01,Mar 2026,2026,3,Q1,Product Sales,Inflow,Sales,West,Nova Technologies,ORD-9532,88006.45,99035.26,99035.26,11028.81,12.5,Actual,Yes
+CF-0359,2026-03-01,Mar 2026,2026,3,Q1,AP Payments,Outflow,Finance,Central,Acme Supplies Co.,PO-54879,29734.24,26033.18,26033.18,-3701.06,-12.4,Actual,Yes
+CF-0368,2026-03-02,Mar 2026,2026,3,Q1,Operating Expenses,Outflow,Finance,East,PowerGrid Utilities,EXP-7448,15936.51,14489.17,14489.17,-1447.34,-9.1,Actual,Yes
+CF-0345,2026-03-03,Mar 2026,2026,3,Q1,AR Collections,Inflow,Finance,Central,Redwood Consulting,INV-34966,66286.6,58562.34,58562.34,-7724.26,-11.7,Actual,No
+CF-0366,2026-03-03,Mar 2026,2026,3,Q1,Operating Expenses,Outflow,Sales,North,CloudSys Inc.,EXP-8283,21165.44,23060.07,23060.07,1894.63,9.0,Actual,No
+CF-0348,2026-03-04,Mar 2026,2026,3,Q1,AR Collections,Inflow,Finance,West,ClearPath LLC,INV-41797,72838.42,79389.74,79389.74,6551.32,9.0,Actual,Yes
+CF-0347,2026-03-07,Mar 2026,2026,3,Q1,AR Collections,Inflow,Finance,South,Summit Enterprises,INV-49739,30369.94,29290.35,29290.35,-1079.59,-3.6,Actual,No
+CF-0353,2026-03-07,Mar 2026,2026,3,Q1,Product Sales,Inflow,Sales,West,Summit Enterprises,ORD-6884,50091.34,52538.87,52538.87,2447.53,4.9,Actual,Yes
+CF-0364,2026-03-07,Mar 2026,2026,3,Q1,Payroll,Outflow,HR,North,Payroll Processing,PAY-202603-1,148404.16,156020.96,156020.96,7616.8,5.1,Actual,No
+CF-0344,2026-03-08,Mar 2026,2026,3,Q1,AR Collections,Inflow,Finance,West,Nova Technologies,INV-36651,25643.29,22270.14,22270.14,-3373.15,-13.2,Actual,No
+CF-0351,2026-03-11,Mar 2026,2026,3,Q1,Product Sales,Inflow,Sales,South,Harmon Industries,ORD-8036,89738.46,76364.58,76364.58,-13373.88,-14.9,Actual,No
+CF-0363,2026-03-13,Mar 2026,2026,3,Q1,AP Payments,Outflow,Finance,East,MetalWorks Ltd.,PO-57027,19429.86,19365.03,19365.03,-64.83,-0.3,Actual,Yes
+CF-0369,2026-03-13,Mar 2026,2026,3,Q1,Tax Payments,Outflow,Finance,West,IRS / Tax Authority,TAX-2026-Q1,76751.6,82704.76,82704.76,5953.16,7.8,Actual,No
+CF-0357,2026-03-14,Mar 2026,2026,3,Q1,Service Revenue,Inflow,Sales,South,Blue Sky Solutions,SVC-4451,44866.57,40758.41,40758.41,-4108.16,-9.2,Actual,No
+CF-0350,2026-03-17,Mar 2026,2026,3,Q1,Product Sales,Inflow,Sales,West,ClearPath LLC,ORD-8817,47232.74,47613.16,47613.16,380.42,0.8,Actual,Yes
+CF-0362,2026-03-17,Mar 2026,2026,3,Q1,AP Payments,Outflow,Finance,North,PowerGrid Utilities,PO-73425,12909.55,13354.43,13354.43,444.88,3.4,Actual,No
+CF-0349,2026-03-18,Mar 2026,2026,3,Q1,AR Collections,Inflow,Finance,East,Summit Enterprises,INV-47101,70162.21,69040.71,69040.71,-1121.5,-1.6,Actual,No
+CF-0356,2026-03-18,Mar 2026,2026,3,Q1,Service Revenue,Inflow,Sales,North,Apex Retail Group,SVC-3146,51426.67,50474.33,50474.33,-952.34,-1.9,Actual,No
+CF-0360,2026-03-18,Mar 2026,2026,3,Q1,AP Payments,Outflow,Finance,West,PowerGrid Utilities,PO-21123,31998.94,33025.32,33025.32,1026.38,3.2,Actual,No
+CF-0365,2026-03-21,Mar 2026,2026,3,Q1,Payroll,Outflow,HR,North,Payroll Processing,PAY-202603-2,89350.05,90043.21,90043.21,693.16,0.8,Actual,No
+CF-0354,2026-03-22,Mar 2026,2026,3,Q1,Service Revenue,Inflow,Sales,West,Summit Enterprises,SVC-2054,40148.14,41536.14,41536.14,1388.0,3.5,Actual,Yes
+CF-0355,2026-03-24,Mar 2026,2026,3,Q1,Service Revenue,Inflow,Sales,South,Summit Enterprises,SVC-1693,31815.65,29764.43,29764.43,-2051.22,-6.4,Actual,No
+CF-0346,2026-03-28,Mar 2026,2026,3,Q1,AR Collections,Inflow,Finance,Central,Meridian Corp,INV-34662,52366.56,56725.08,56725.08,4358.52,8.3,Actual,Yes
+CF-0358,2026-03-29,Mar 2026,2026,3,Q1,Interest Income,Inflow,Finance,Central,Bank of Commerce,INT-202603,1041.14,1057.01,1057.01,15.87,1.5,Actual,Yes
+CF-0361,2026-03-30,Mar 2026,2026,3,Q1,AP Payments,Outflow,Finance,South,FastShip Logistics,PO-27013,35022.04,36613.06,36613.06,1591.02,4.5,Actual,No
+CF-0367,2026-03-30,Mar 2026,2026,3,Q1,Operating Expenses,Outflow,Finance,Central,BuildRight Materials,EXP-4731,25580.2,29390.74,29390.74,3810.54,14.9,Actual,No
+CF-0391,2026-04-05,Apr 2026,2026,4,Q2,Operating Expenses,Outflow,Sales,Central,CloudSys Inc.,EXP-3605,10811.68,11052.46,11052.46,240.78,2.2,Actual,No
+CF-0382,2026-04-06,Apr 2026,2026,4,Q2,AP Payments,Outflow,Finance,North,CloudSys Inc.,PO-38085,11253.65,10927.91,10927.91,-325.74,-2.9,Actual,Yes
+CF-0386,2026-04-06,Apr 2026,2026,4,Q2,AP Payments,Outflow,Finance,West,CloudSys Inc.,PO-40915,23244.35,23307.29,23307.29,62.94,0.3,Actual,No
+CF-0387,2026-04-07,Apr 2026,2026,4,Q2,Payroll,Outflow,HR,East,Payroll Processing,PAY-202604-1,176776.31,171299.84,171299.84,-5476.47,-3.1,Actual,Yes
+CF-0372,2026-04-08,Apr 2026,2026,4,Q2,AR Collections,Inflow,Finance,Central,Meridian Corp,INV-54642,23568.09,24721.42,24721.42,1153.33,4.9,Actual,Yes
+CF-0383,2026-04-08,Apr 2026,2026,4,Q2,AP Payments,Outflow,Finance,South,MetalWorks Ltd.,PO-58915,19000.5,18811.48,18811.48,-189.02,-1.0,Actual,Yes
+CF-0390,2026-04-10,Apr 2026,2026,4,Q2,Operating Expenses,Outflow,Finance,South,CloudSys Inc.,EXP-8513,15084.46,15720.46,15720.46,636.0,4.2,Actual,No
+CF-0384,2026-04-13,Apr 2026,2026,4,Q2,AP Payments,Outflow,Finance,East,ProStaff Services,PO-75155,16967.69,18217.34,18217.34,1249.65,7.4,Actual,No
+CF-0385,2026-04-14,Apr 2026,2026,4,Q2,AP Payments,Outflow,Finance,South,SafetyFirst Supplies,PO-28921,21848.03,21472.53,21472.53,-375.5,-1.7,Actual,Yes
+CF-0377,2026-04-15,Apr 2026,2026,4,Q2,Product Sales,Inflow,Sales,West,Summit Enterprises,ORD-7209,105151.62,85692.52,85692.52,-19459.1,-18.5,Actual,No
+CF-0378,2026-04-17,Apr 2026,2026,4,Q2,Service Revenue,Inflow,Sales,North,Pacific Distributors,SVC-1423,35950.36,31384.91,31384.91,-4565.45,-12.7,Actual,No
+CF-0374,2026-04-18,Apr 2026,2026,4,Q2,Product Sales,Inflow,Sales,West,Pacific Distributors,ORD-8537,44391.76,41889.52,41889.52,-2502.24,-5.6,Actual,No
+CF-0389,2026-04-18,Apr 2026,2026,4,Q2,Operating Expenses,Outflow,Operations,South,OfficePro Services,EXP-3220,18621.22,20472.92,20472.92,1851.7,9.9,Actual,No
+CF-0370,2026-04-19,Apr 2026,2026,4,Q2,AR Collections,Inflow,Finance,Central,Harmon Industries,INV-84277,35058.78,36410.2,36410.2,1351.42,3.9,Actual,Yes
+CF-0375,2026-04-20,Apr 2026,2026,4,Q2,Product Sales,Inflow,Sales,South,Nova Technologies,ORD-7018,32284.0,30531.13,30531.13,-1752.87,-5.4,Actual,No
+CF-0388,2026-04-21,Apr 2026,2026,4,Q2,Payroll,Outflow,HR,Central,Payroll Processing,PAY-202604-2,161649.45,146041.77,146041.77,-15607.68,-9.7,Actual,Yes
+CF-0380,2026-04-24,Apr 2026,2026,4,Q2,Service Revenue,Inflow,Sales,Central,Redwood Consulting,SVC-4707,45504.27,46054.47,46054.47,550.2,1.2,Actual,Yes
+CF-0371,2026-04-25,Apr 2026,2026,4,Q2,AR Collections,Inflow,Finance,North,Blue Sky Solutions,INV-20279,36908.6,41116.71,41116.71,4208.11,11.4,Actual,Yes
+CF-0373,2026-04-25,Apr 2026,2026,4,Q2,AR Collections,Inflow,Finance,West,Summit Enterprises,INV-13883,40612.07,44539.33,44539.33,3927.26,9.7,Actual,Yes
+CF-0376,2026-04-26,Apr 2026,2026,4,Q2,Product Sales,Inflow,Sales,North,Blue Sky Solutions,ORD-8191,57300.0,49606.3,49606.3,-7693.7,-13.4,Actual,No
+CF-0379,2026-04-26,Apr 2026,2026,4,Q2,Service Revenue,Inflow,Sales,West,Summit Enterprises,SVC-4537,37667.76,34688.9,34688.9,-2978.86,-7.9,Actual,No
+CF-0381,2026-04-29,Apr 2026,2026,4,Q2,Interest Income,Inflow,Finance,East,Bank of Commerce,INT-202604,1763.12,1610.3,1610.3,-152.82,-8.7,Actual,No
+CF-0392,2026-04-30,Apr 2026,2026,4,Q2,CAPEX,Outflow,Operations,Central,OfficePro Services,CAP-1150,71648.04,75270.78,75270.78,3622.74,5.1,Actual,No
+CF-0393,2026-05-03,May 2026,2026,5,Q2,AR Collections,Inflow,Finance,Central,Meridian Corp,INV-42536,54376.28,54138.42,54138.42,-237.86,-0.4,Actual,No
+CF-0419,2026-05-04,May 2026,2026,5,Q2,Operating Expenses,Outflow,Operations,Central,BuildRight Materials,EXP-9641,15098.61,16766.91,16766.91,1668.3,11.0,Actual,No
+CF-0420,2026-05-05,May 2026,2026,5,Q2,CAPEX,Outflow,IT,Central,BuildRight Materials,CAP-1243,38266.2,39373.34,39373.34,1107.14,2.9,Actual,No
+CF-0410,2026-05-06,May 2026,2026,5,Q2,AP Payments,Outflow,Finance,South,MetalWorks Ltd.,PO-61648,19813.56,21585.64,21585.64,1772.08,8.9,Actual,No
+CF-0405,2026-05-07,May 2026,2026,5,Q2,Service Revenue,Inflow,Sales,Central,ClearPath LLC,SVC-1466,27729.1,28551.63,28551.63,822.53,3.0,Actual,Yes
+CF-0414,2026-05-07,May 2026,2026,5,Q2,Payroll,Outflow,HR,South,Payroll Processing,PAY-202605-1,128869.95,112451.01,112451.01,-16418.94,-12.7,Actual,Yes
+CF-0395,2026-05-08,May 2026,2026,5,Q2,AR Collections,Inflow,Finance,South,Redwood Consulting,INV-77999,23620.57,24970.74,24970.74,1350.17,5.7,Actual,Yes
+CF-0404,2026-05-09,May 2026,2026,5,Q2,Service Revenue,Inflow,Sales,South,Meridian Corp,SVC-3364,21236.23,21242.56,21242.56,6.33,0.0,Actual,Yes
+CF-0406,2026-05-11,May 2026,2026,5,Q2,Service Revenue,Inflow,Sales,East,Titan Manufacturing,SVC-2591,53534.41,55200.73,55200.73,1666.32,3.1,Actual,Yes
+CF-0409,2026-05-12,May 2026,2026,5,Q2,AP Payments,Outflow,Finance,Central,FastShip Logistics,PO-53477,10210.16,10138.28,10138.28,-71.88,-0.7,Actual,Yes
+CF-0412,2026-05-12,May 2026,2026,5,Q2,AP Payments,Outflow,Finance,Central,Acme Supplies Co.,PO-51759,7930.01,7998.93,7998.93,68.92,0.9,Actual,No
+CF-0417,2026-05-12,May 2026,2026,5,Q2,Operating Expenses,Outflow,IT,West,Acme Supplies Co.,EXP-9225,23935.5,25609.74,25609.74,1674.24,7.0,Actual,No
+CF-0396,2026-05-13,May 2026,2026,5,Q2,AR Collections,Inflow,Finance,East,ClearPath LLC,INV-99070,43409.38,44183.44,44183.44,774.06,1.8,Actual,Yes
+CF-0402,2026-05-15,May 2026,2026,5,Q2,Product Sales,Inflow,Sales,West,Harmon Industries,ORD-8318,61241.4,58395.59,58395.59,-2845.81,-4.6,Actual,No
+CF-0407,2026-05-15,May 2026,2026,5,Q2,Service Revenue,Inflow,Sales,East,Titan Manufacturing,SVC-1706,27135.35,29800.25,29800.25,2664.9,9.8,Actual,Yes
+CF-0397,2026-05-16,May 2026,2026,5,Q2,AR Collections,Inflow,Finance,North,Meridian Corp,INV-48722,74869.06,81768.05,81768.05,6898.99,9.2,Actual,Yes
+CF-0399,2026-05-16,May 2026,2026,5,Q2,Product Sales,Inflow,Sales,North,Meridian Corp,ORD-8589,66048.71,68773.74,68773.74,2725.03,4.1,Actual,Yes
+CF-0411,2026-05-16,May 2026,2026,5,Q2,AP Payments,Outflow,Finance,Central,PowerGrid Utilities,PO-29194,25976.85,26543.91,26543.91,567.06,2.2,Actual,No
+CF-0413,2026-05-16,May 2026,2026,5,Q2,AP Payments,Outflow,Finance,West,CloudSys Inc.,PO-64872,24195.77,25007.48,25007.48,811.71,3.4,Actual,No
+CF-0394,2026-05-21,May 2026,2026,5,Q2,AR Collections,Inflow,Finance,North,Pacific Distributors,INV-53463,20524.91,22062.19,22062.19,1537.28,7.5,Actual,Yes
+CF-0415,2026-05-21,May 2026,2026,5,Q2,Payroll,Outflow,HR,South,Payroll Processing,PAY-202605-2,109208.99,109202.32,109202.32,-6.67,-0.0,Actual,Yes
+CF-0398,2026-05-24,May 2026,2026,5,Q2,AR Collections,Inflow,Finance,South,Blue Sky Solutions,INV-55656,65385.11,62250.63,62250.63,-3134.48,-4.8,Actual,No
+CF-0401,2026-05-24,May 2026,2026,5,Q2,Product Sales,Inflow,Sales,Central,Harmon Industries,ORD-9227,104043.41,88090.88,88090.88,-15952.53,-15.3,Actual,No
+CF-0403,2026-05-24,May 2026,2026,5,Q2,Product Sales,Inflow,Sales,North,Titan Manufacturing,ORD-6616,58624.5,56935.84,56935.84,-1688.66,-2.9,Actual,No
+CF-0416,2026-05-25,May 2026,2026,5,Q2,Operating Expenses,Outflow,Sales,Central,OfficePro Services,EXP-7184,18009.96,15115.2,15115.2,-2894.76,-16.1,Actual,Yes
+CF-0400,2026-05-26,May 2026,2026,5,Q2,Product Sales,Inflow,Sales,South,Meridian Corp,ORD-5185,50522.45,56700.94,56700.94,6178.49,12.2,Actual,Yes
+CF-0408,2026-05-26,May 2026,2026,5,Q2,Interest Income,Inflow,Finance,South,Bank of Commerce,INT-202605,5134.07,4988.28,4988.28,-145.79,-2.8,Actual,No
+CF-0418,2026-05-27,May 2026,2026,5,Q2,Operating Expenses,Outflow,Operations,North,PowerGrid Utilities,EXP-3264,7355.58,7080.76,7080.76,-274.82,-3.7,Actual,Yes
+CF-0425,2026-06-03,Jun 2026,2026,6,Q2,AR Collections,Inflow,Finance,East,Meridian Corp,INV-62802,39384.82,0.0,38105.92,0.0,0.0,Forecast,
+CF-0436,2026-06-03,Jun 2026,2026,6,Q2,AP Payments,Outflow,Finance,South,TechCore Solutions,PO-26763,14242.09,0.0,14516.97,0.0,0.0,Forecast,
+CF-0444,2026-06-04,Jun 2026,2026,6,Q2,Operating Expenses,Outflow,Operations,North,MetalWorks Ltd.,EXP-8227,16382.42,0.0,16961.19,0.0,0.0,Forecast,
+CF-0445,2026-06-05,Jun 2026,2026,6,Q2,CAPEX,Outflow,Operations,West,SafetyFirst Supplies,CAP-2723,113524.59,0.0,112129.67,0.0,0.0,Forecast,
+CF-0439,2026-06-07,Jun 2026,2026,6,Q2,Payroll,Outflow,HR,South,Payroll Processing,PAY-202606-1,171989.41,0.0,171195.11,0.0,0.0,Forecast,
+CF-0432,2026-06-09,Jun 2026,2026,6,Q2,Service Revenue,Inflow,Sales,North,Meridian Corp,SVC-2523,40147.28,0.0,41909.93,0.0,0.0,Forecast,
+CF-0433,2026-06-10,Jun 2026,2026,6,Q2,Service Revenue,Inflow,Sales,North,Harmon Industries,SVC-2758,29042.69,0.0,30528.66,0.0,0.0,Forecast,
+CF-0435,2026-06-11,Jun 2026,2026,6,Q2,AP Payments,Outflow,Finance,North,TechCore Solutions,PO-76383,6290.25,0.0,5771.47,0.0,0.0,Forecast,
+CF-0431,2026-06-14,Jun 2026,2026,6,Q2,Product Sales,Inflow,Sales,East,Harmon Industries,ORD-6080,63804.04,0.0,67447.66,0.0,0.0,Forecast,
+CF-0441,2026-06-14,Jun 2026,2026,6,Q2,Operating Expenses,Outflow,HR,Central,FastShip Logistics,EXP-5029,13085.32,0.0,11737.68,0.0,0.0,Forecast,
+CF-0426,2026-06-16,Jun 2026,2026,6,Q2,AR Collections,Inflow,Finance,North,Summit Enterprises,INV-86278,43917.65,0.0,41282.23,0.0,0.0,Forecast,
+CF-0428,2026-06-16,Jun 2026,2026,6,Q2,Product Sales,Inflow,Sales,Central,Nova Technologies,ORD-7644,95112.05,0.0,99943.52,0.0,0.0,Forecast,
+CF-0447,2026-06-18,Jun 2026,2026,6,Q2,Tax Payments,Outflow,Finance,Central,IRS / Tax Authority,TAX-2026-Q2,151870.83,0.0,145186.09,0.0,0.0,Forecast,
+CF-0438,2026-06-20,Jun 2026,2026,6,Q2,AP Payments,Outflow,Finance,South,FastShip Logistics,PO-48842,26278.48,0.0,24210.9,0.0,0.0,Forecast,
+CF-0443,2026-06-20,Jun 2026,2026,6,Q2,Operating Expenses,Outflow,IT,South,BuildRight Materials,EXP-9126,9725.25,0.0,9815.2,0.0,0.0,Forecast,
+CF-0427,2026-06-21,Jun 2026,2026,6,Q2,Product Sales,Inflow,Sales,West,Summit Enterprises,ORD-5518,107632.77,0.0,113384.23,0.0,0.0,Forecast,
+CF-0440,2026-06-21,Jun 2026,2026,6,Q2,Payroll,Outflow,HR,Central,Payroll Processing,PAY-202606-2,88668.8,0.0,90775.96,0.0,0.0,Forecast,
+CF-0422,2026-06-22,Jun 2026,2026,6,Q2,AR Collections,Inflow,Finance,North,Meridian Corp,INV-27771,74172.83,0.0,84742.14,0.0,0.0,Forecast,
+CF-0424,2026-06-22,Jun 2026,2026,6,Q2,AR Collections,Inflow,Finance,West,Pacific Distributors,INV-74154,61403.99,0.0,58217.29,0.0,0.0,Forecast,
+CF-0421,2026-06-23,Jun 2026,2026,6,Q2,AR Collections,Inflow,Finance,Central,Nova Technologies,INV-47923,27597.51,0.0,30025.64,0.0,0.0,Forecast,
+CF-0442,2026-06-24,Jun 2026,2026,6,Q2,Operating Expenses,Outflow,IT,East,PowerGrid Utilities,EXP-9381,18822.98,0.0,19260.92,0.0,0.0,Forecast,
+CF-0446,2026-06-25,Jun 2026,2026,6,Q2,CAPEX,Outflow,IT,North,Acme Supplies Co.,CAP-3405,115536.39,0.0,96720.84,0.0,0.0,Forecast,
+CF-0430,2026-06-26,Jun 2026,2026,6,Q2,Product Sales,Inflow,Sales,West,ClearPath LLC,ORD-5133,33463.85,0.0,32188.23,0.0,0.0,Forecast,
+CF-0434,2026-06-26,Jun 2026,2026,6,Q2,Interest Income,Inflow,Finance,West,Bank of Commerce,INT-202606,1960.4,0.0,1805.66,0.0,0.0,Forecast,
+CF-0437,2026-06-27,Jun 2026,2026,6,Q2,AP Payments,Outflow,Finance,Central,FastShip Logistics,PO-62046,19777.96,0.0,19563.05,0.0,0.0,Forecast,
+CF-0423,2026-06-28,Jun 2026,2026,6,Q2,AR Collections,Inflow,Finance,South,Blue Sky Solutions,INV-27392,74571.71,0.0,73234.29,0.0,0.0,Forecast,
+CF-0429,2026-06-28,Jun 2026,2026,6,Q2,Product Sales,Inflow,Sales,North,ClearPath LLC,ORD-7815,36100.51,0.0,41173.61,0.0,0.0,Forecast,
+CF-0449,2026-07-03,Jul 2026,2026,7,Q3,AR Collections,Inflow,Finance,East,Redwood Consulting,INV-36633,22765.03,0.0,23550.25,0.0,0.0,Forecast,
+CF-0451,2026-07-03,Jul 2026,2026,7,Q3,AR Collections,Inflow,Finance,East,Pacific Distributors,INV-25202,21300.64,0.0,21469.45,0.0,0.0,Forecast,
+CF-0455,2026-07-03,Jul 2026,2026,7,Q3,Product Sales,Inflow,Sales,Central,Nova Technologies,ORD-9723,48118.35,0.0,49560.58,0.0,0.0,Forecast,
+CF-0468,2026-07-05,Jul 2026,2026,7,Q3,Operating Expenses,Outflow,HR,Central,TechCore Solutions,EXP-3359,27107.26,0.0,31790.67,0.0,0.0,Forecast,
+CF-0465,2026-07-07,Jul 2026,2026,7,Q3,Payroll,Outflow,HR,Central,Payroll Processing,PAY-202607-1,95056.64,0.0,89334.61,0.0,0.0,Forecast,
+CF-0462,2026-07-10,Jul 2026,2026,7,Q3,AP Payments,Outflow,Finance,South,ProStaff Services,PO-25661,33846.99,0.0,30929.87,0.0,0.0,Forecast,
+CF-0453,2026-07-12,Jul 2026,2026,7,Q3,Product Sales,Inflow,Sales,South,Redwood Consulting,ORD-9237,67195.1,0.0,74293.48,0.0,0.0,Forecast,
+CF-0448,2026-07-13,Jul 2026,2026,7,Q3,AR Collections,Inflow,Finance,East,Meridian Corp,INV-93956,42143.79,0.0,43240.21,0.0,0.0,Forecast,
+CF-0467,2026-07-13,Jul 2026,2026,7,Q3,Operating Expenses,Outflow,HR,West,TechCore Solutions,EXP-4680,22455.37,0.0,21870.91,0.0,0.0,Forecast,
+CF-0458,2026-07-16,Jul 2026,2026,7,Q3,Service Revenue,Inflow,Sales,North,Summit Enterprises,SVC-2568,22515.71,0.0,22761.2,0.0,0.0,Forecast,
+CF-0461,2026-07-17,Jul 2026,2026,7,Q3,AP Payments,Outflow,Finance,East,Acme Supplies Co.,PO-46275,14034.66,0.0,12964.83,0.0,0.0,Forecast,
+CF-0460,2026-07-19,Jul 2026,2026,7,Q3,AP Payments,Outflow,Finance,South,ProStaff Services,PO-27825,35735.89,0.0,37473.67,0.0,0.0,Forecast,
+CF-0470,2026-07-19,Jul 2026,2026,7,Q3,CAPEX,Outflow,IT,East,CloudSys Inc.,CAP-3713,60646.43,0.0,66182.45,0.0,0.0,Forecast,
+CF-0450,2026-07-21,Jul 2026,2026,7,Q3,AR Collections,Inflow,Finance,South,Meridian Corp,INV-50654,40271.7,0.0,43412.51,0.0,0.0,Forecast,
+CF-0466,2026-07-21,Jul 2026,2026,7,Q3,Payroll,Outflow,HR,East,Payroll Processing,PAY-202607-2,114642.37,0.0,123212.4,0.0,0.0,Forecast,
+CF-0452,2026-07-22,Jul 2026,2026,7,Q3,AR Collections,Inflow,Finance,North,Blue Sky Solutions,INV-25655,55966.54,0.0,47579.64,0.0,0.0,Forecast,
+CF-0457,2026-07-22,Jul 2026,2026,7,Q3,Service Revenue,Inflow,Sales,North,Meridian Corp,SVC-1935,50453.54,0.0,47986.25,0.0,0.0,Forecast,
+CF-0454,2026-07-24,Jul 2026,2026,7,Q3,Product Sales,Inflow,Sales,West,Nova Technologies,ORD-5967,56608.9,0.0,55756.08,0.0,0.0,Forecast,
+CF-0464,2026-07-25,Jul 2026,2026,7,Q3,AP Payments,Outflow,Finance,South,BuildRight Materials,PO-68002,40986.88,0.0,44277.27,0.0,0.0,Forecast,
+CF-0463,2026-07-26,Jul 2026,2026,7,Q3,AP Payments,Outflow,Finance,Central,PowerGrid Utilities,PO-68468,16497.42,0.0,16417.84,0.0,0.0,Forecast,
+CF-0456,2026-07-28,Jul 2026,2026,7,Q3,Service Revenue,Inflow,Sales,North,Titan Manufacturing,SVC-1683,14383.88,0.0,13352.95,0.0,0.0,Forecast,
+CF-0459,2026-07-29,Jul 2026,2026,7,Q3,Interest Income,Inflow,Finance,East,Bank of Commerce,INT-202607,3487.89,0.0,3255.19,0.0,0.0,Forecast,
+CF-0469,2026-07-29,Jul 2026,2026,7,Q3,Operating Expenses,Outflow,HR,South,MetalWorks Ltd.,EXP-9126,14500.31,0.0,12459.14,0.0,0.0,Forecast,
+CF-0478,2026-08-02,Aug 2026,2026,8,Q3,Product Sales,Inflow,Sales,North,Harmon Industries,ORD-6070,35323.53,0.0,32243.22,0.0,0.0,Forecast,
+CF-0484,2026-08-03,Aug 2026,2026,8,Q3,AP Payments,Outflow,Finance,Central,PowerGrid Utilities,PO-45101,23245.11,0.0,20751.91,0.0,0.0,Forecast,
+CF-0473,2026-08-04,Aug 2026,2026,8,Q3,AR Collections,Inflow,Finance,East,Redwood Consulting,INV-56961,35899.9,0.0,37400.58,0.0,0.0,Forecast,
+CF-0487,2026-08-07,Aug 2026,2026,8,Q3,Payroll,Outflow,HR,North,Payroll Processing,PAY-202608-1,107043.57,0.0,106646.07,0.0,0.0,Forecast,
+CF-0489,2026-08-08,Aug 2026,2026,8,Q3,Operating Expenses,Outflow,Operations,North,TechCore Solutions,EXP-5030,22637.37,0.0,22761.69,0.0,0.0,Forecast,
+CF-0479,2026-08-09,Aug 2026,2026,8,Q3,Product Sales,Inflow,Sales,West,Meridian Corp,ORD-5178,74497.52,0.0,79353.91,0.0,0.0,Forecast,
+CF-0471,2026-08-13,Aug 2026,2026,8,Q3,AR Collections,Inflow,Finance,South,Summit Enterprises,INV-51688,70784.39,0.0,67127.11,0.0,0.0,Forecast,
+CF-0481,2026-08-14,Aug 2026,2026,8,Q3,Service Revenue,Inflow,Sales,South,Pacific Distributors,SVC-3032,51737.66,0.0,48211.49,0.0,0.0,Forecast,
+CF-0477,2026-08-18,Aug 2026,2026,8,Q3,Product Sales,Inflow,Sales,South,Redwood Consulting,ORD-7046,97641.11,0.0,82529.64,0.0,0.0,Forecast,
+CF-0491,2026-08-19,Aug 2026,2026,8,Q3,Operating Expenses,Outflow,HR,Central,ProStaff Services,EXP-7846,9050.31,0.0,8464.62,0.0,0.0,Forecast,
+CF-0492,2026-08-19,Aug 2026,2026,8,Q3,Operating Expenses,Outflow,Operations,North,MetalWorks Ltd.,EXP-7441,17962.95,0.0,17361.38,0.0,0.0,Forecast,
+CF-0483,2026-08-20,Aug 2026,2026,8,Q3,AP Payments,Outflow,Finance,Central,BuildRight Materials,PO-62420,28107.84,0.0,26558.22,0.0,0.0,Forecast,
+CF-0488,2026-08-21,Aug 2026,2026,8,Q3,Payroll,Outflow,HR,West,Payroll Processing,PAY-202608-2,169576.48,0.0,159355.98,0.0,0.0,Forecast,
+CF-0476,2026-08-22,Aug 2026,2026,8,Q3,Product Sales,Inflow,Sales,West,Nova Technologies,ORD-7131,68644.07,0.0,70060.32,0.0,0.0,Forecast,
+CF-0472,2026-08-25,Aug 2026,2026,8,Q3,AR Collections,Inflow,Finance,West,Titan Manufacturing,INV-24283,25758.38,0.0,22695.27,0.0,0.0,Forecast,
+CF-0485,2026-08-26,Aug 2026,2026,8,Q3,AP Payments,Outflow,Finance,East,OfficePro Services,PO-72091,14969.32,0.0,13550.15,0.0,0.0,Forecast,
+CF-0486,2026-08-26,Aug 2026,2026,8,Q3,AP Payments,Outflow,Finance,West,MetalWorks Ltd.,PO-42546,23268.64,0.0,24177.18,0.0,0.0,Forecast,
+CF-0475,2026-08-27,Aug 2026,2026,8,Q3,AR Collections,Inflow,Finance,East,Summit Enterprises,INV-29441,20298.8,0.0,17888.34,0.0,0.0,Forecast,
+CF-0482,2026-08-27,Aug 2026,2026,8,Q3,Interest Income,Inflow,Finance,South,Bank of Commerce,INT-202608,2592.74,0.0,2512.51,0.0,0.0,Forecast,
+CF-0474,2026-08-28,Aug 2026,2026,8,Q3,AR Collections,Inflow,Finance,Central,Meridian Corp,INV-21851,44410.76,0.0,42601.17,0.0,0.0,Forecast,
+CF-0480,2026-08-28,Aug 2026,2026,8,Q3,Service Revenue,Inflow,Sales,South,Summit Enterprises,SVC-1501,15955.08,0.0,14391.81,0.0,0.0,Forecast,
+CF-0490,2026-08-31,Aug 2026,2026,8,Q3,Operating Expenses,Outflow,Operations,South,SafetyFirst Supplies,EXP-9934,22573.14,0.0,24746.03,0.0,0.0,Forecast,
+CF-0499,2026-09-01,Sep 2026,2026,9,Q3,Product Sales,Inflow,Sales,Central,Titan Manufacturing,ORD-8207,40105.2,0.0,45365.5,0.0,0.0,Forecast,
+CF-0513,2026-09-01,Sep 2026,2026,9,Q3,Operating Expenses,Outflow,Operations,North,FastShip Logistics,EXP-8228,9592.52,0.0,8630.42,0.0,0.0,Forecast,
+CF-0494,2026-09-06,Sep 2026,2026,9,Q3,AR Collections,Inflow,Finance,South,Summit Enterprises,INV-17806,37423.27,0.0,34313.95,0.0,0.0,Forecast,
+CF-0511,2026-09-07,Sep 2026,2026,9,Q3,Payroll,Outflow,HR,South,Payroll Processing,PAY-202609-1,84963.54,0.0,89840.76,0.0,0.0,Forecast,
+CF-0498,2026-09-08,Sep 2026,2026,9,Q3,AR Collections,Inflow,Finance,East,Titan Manufacturing,INV-32983,62858.53,0.0,63625.74,0.0,0.0,Forecast,
+CF-0496,2026-09-11,Sep 2026,2026,9,Q3,AR Collections,Inflow,Finance,West,Nova Technologies,INV-52284,51402.95,0.0,45053.42,0.0,0.0,Forecast,
+CF-0514,2026-09-13,Sep 2026,2026,9,Q3,Operating Expenses,Outflow,Sales,West,MetalWorks Ltd.,EXP-8415,12092.13,0.0,11850.93,0.0,0.0,Forecast,
+CF-0509,2026-09-14,Sep 2026,2026,9,Q3,AP Payments,Outflow,Finance,South,FastShip Logistics,PO-23509,27863.43,0.0,24776.18,0.0,0.0,Forecast,
+CF-0497,2026-09-16,Sep 2026,2026,9,Q3,AR Collections,Inflow,Finance,Central,Summit Enterprises,INV-32833,63135.02,0.0,66403.14,0.0,0.0,Forecast,
+CF-0505,2026-09-16,Sep 2026,2026,9,Q3,Service Revenue,Inflow,Sales,West,Titan Manufacturing,SVC-3666,16361.43,0.0,16213.77,0.0,0.0,Forecast,
+CF-0517,2026-09-16,Sep 2026,2026,9,Q3,Tax Payments,Outflow,Finance,South,IRS / Tax Authority,TAX-2026-Q3,91098.1,0.0,94020.42,0.0,0.0,Forecast,
+CF-0493,2026-09-17,Sep 2026,2026,9,Q3,AR Collections,Inflow,Finance,South,ClearPath LLC,INV-10089,30472.11,0.0,29984.37,0.0,0.0,Forecast,
+CF-0510,2026-09-18,Sep 2026,2026,9,Q3,AP Payments,Outflow,Finance,North,OfficePro Services,PO-37384,20734.08,0.0,20179.88,0.0,0.0,Forecast,
+CF-0500,2026-09-20,Sep 2026,2026,9,Q3,Product Sales,Inflow,Sales,West,Summit Enterprises,ORD-6809,27752.53,0.0,26865.84,0.0,0.0,Forecast,
+CF-0508,2026-09-20,Sep 2026,2026,9,Q3,AP Payments,Outflow,Finance,South,MetalWorks Ltd.,PO-66170,18166.22,0.0,17974.42,0.0,0.0,Forecast,
+CF-0512,2026-09-21,Sep 2026,2026,9,Q3,Payroll,Outflow,HR,Central,Payroll Processing,PAY-202609-2,85450.49,0.0,78228.44,0.0,0.0,Forecast,
+CF-0501,2026-09-24,Sep 2026,2026,9,Q3,Product Sales,Inflow,Sales,North,Meridian Corp,ORD-6949,36954.69,0.0,34568.12,0.0,0.0,Forecast,
+CF-0502,2026-09-24,Sep 2026,2026,9,Q3,Service Revenue,Inflow,Sales,North,Summit Enterprises,SVC-2829,40811.06,0.0,35103.65,0.0,0.0,Forecast,
+CF-0503,2026-09-26,Sep 2026,2026,9,Q3,Service Revenue,Inflow,Sales,West,Meridian Corp,SVC-3950,27070.69,0.0,23925.11,0.0,0.0,Forecast,
+CF-0506,2026-09-26,Sep 2026,2026,9,Q3,Interest Income,Inflow,Finance,North,Bank of Commerce,INT-202609,1331.69,0.0,1266.55,0.0,0.0,Forecast,
+CF-0516,2026-09-27,Sep 2026,2026,9,Q3,Operating Expenses,Outflow,HR,North,SafetyFirst Supplies,EXP-3504,11058.22,0.0,10644.48,0.0,0.0,Forecast,
+CF-0495,2026-09-28,Sep 2026,2026,9,Q3,AR Collections,Inflow,Finance,West,Redwood Consulting,INV-57826,62138.89,0.0,66490.06,0.0,0.0,Forecast,
+CF-0504,2026-09-29,Sep 2026,2026,9,Q3,Service Revenue,Inflow,Sales,West,Pacific Distributors,SVC-3019,53671.38,0.0,55470.34,0.0,0.0,Forecast,
+CF-0507,2026-09-29,Sep 2026,2026,9,Q3,AP Payments,Outflow,Finance,North,CloudSys Inc.,PO-30545,18305.1,0.0,18722.44,0.0,0.0,Forecast,
+CF-0515,2026-09-29,Sep 2026,2026,9,Q3,Operating Expenses,Outflow,Sales,West,ProStaff Services,EXP-4528,9252.27,0.0,8884.68,0.0,0.0,Forecast,
+CF-0522,2026-10-03,Oct 2026,2026,10,Q4,AR Collections,Inflow,Finance,Central,Pacific Distributors,INV-36465,20432.53,0.0,22921.91,0.0,0.0,Forecast,
+CF-0532,2026-10-03,Oct 2026,2026,10,Q4,AP Payments,Outflow,Finance,West,BuildRight Materials,PO-48948,27779.25,0.0,27684.62,0.0,0.0,Forecast,
+CF-0526,2026-10-04,Oct 2026,2026,10,Q4,Product Sales,Inflow,Sales,East,Nova Technologies,ORD-9387,72828.12,0.0,84277.56,0.0,0.0,Forecast,
+CF-0535,2026-10-07,Oct 2026,2026,10,Q4,Payroll,Outflow,HR,North,Payroll Processing,PAY-202610-1,82894.82,0.0,86237.52,0.0,0.0,Forecast,
+CF-0540,2026-10-07,Oct 2026,2026,10,Q4,Operating Expenses,Outflow,Operations,Central,BuildRight Materials,EXP-8551,22936.09,0.0,22211.6,0.0,0.0,Forecast,
+CF-0519,2026-10-08,Oct 2026,2026,10,Q4,AR Collections,Inflow,Finance,North,ClearPath LLC,INV-49171,50644.71,0.0,49368.9,0.0,0.0,Forecast,
+CF-0539,2026-10-09,Oct 2026,2026,10,Q4,Operating Expenses,Outflow,Finance,Central,PowerGrid Utilities,EXP-3224,24266.04,0.0,22613.91,0.0,0.0,Forecast,
+CF-0518,2026-10-13,Oct 2026,2026,10,Q4,AR Collections,Inflow,Finance,West,Redwood Consulting,INV-64870,21476.07,0.0,24178.7,0.0,0.0,Forecast,
+CF-0521,2026-10-15,Oct 2026,2026,10,Q4,AR Collections,Inflow,Finance,South,Blue Sky Solutions,INV-31910,72107.52,0.0,82811.69,0.0,0.0,Forecast,
+CF-0537,2026-10-15,Oct 2026,2026,10,Q4,Operating Expenses,Outflow,IT,South,CloudSys Inc.,EXP-8205,13472.09,0.0,15291.53,0.0,0.0,Forecast,
+CF-0527,2026-10-16,Oct 2026,2026,10,Q4,Product Sales,Inflow,Sales,West,Titan Manufacturing,ORD-9988,57558.7,0.0,54187.05,0.0,0.0,Forecast,
+CF-0529,2026-10-16,Oct 2026,2026,10,Q4,Service Revenue,Inflow,Sales,East,Nova Technologies,SVC-4674,14119.51,0.0,13299.92,0.0,0.0,Forecast,
+CF-0534,2026-10-17,Oct 2026,2026,10,Q4,AP Payments,Outflow,Finance,Central,CloudSys Inc.,PO-28889,17200.43,0.0,17637.95,0.0,0.0,Forecast,
+CF-0525,2026-10-19,Oct 2026,2026,10,Q4,Product Sales,Inflow,Sales,North,Titan Manufacturing,ORD-9773,37719.6,0.0,42876.49,0.0,0.0,Forecast,
+CF-0538,2026-10-20,Oct 2026,2026,10,Q4,Operating Expenses,Outflow,Sales,South,FastShip Logistics,EXP-6887,13566.74,0.0,13626.1,0.0,0.0,Forecast,
+CF-0536,2026-10-21,Oct 2026,2026,10,Q4,Payroll,Outflow,HR,South,Payroll Processing,PAY-202610-2,104949.03,0.0,111773.48,0.0,0.0,Forecast,
+CF-0528,2026-10-22,Oct 2026,2026,10,Q4,Service Revenue,Inflow,Sales,South,Pacific Distributors,SVC-1158,38584.51,0.0,39747.15,0.0,0.0,Forecast,
+CF-0531,2026-10-24,Oct 2026,2026,10,Q4,AP Payments,Outflow,Finance,West,MetalWorks Ltd.,PO-70726,16817.3,0.0,16639.96,0.0,0.0,Forecast,
+CF-0533,2026-10-28,Oct 2026,2026,10,Q4,AP Payments,Outflow,Finance,North,ProStaff Services,PO-73806,33341.76,0.0,32360.01,0.0,0.0,Forecast,
+CF-0520,2026-10-29,Oct 2026,2026,10,Q4,AR Collections,Inflow,Finance,North,Redwood Consulting,INV-84905,46619.78,0.0,49204.1,0.0,0.0,Forecast,
+CF-0530,2026-10-29,Oct 2026,2026,10,Q4,Interest Income,Inflow,Finance,South,Bank of Commerce,INT-202610,2399.27,0.0,2558.73,0.0,0.0,Forecast,
+CF-0523,2026-10-30,Oct 2026,2026,10,Q4,AR Collections,Inflow,Finance,East,Meridian Corp,INV-21406,32699.52,0.0,31442.69,0.0,0.0,Forecast,
+CF-0524,2026-10-30,Oct 2026,2026,10,Q4,Product Sales,Inflow,Sales,West,Apex Retail Group,ORD-9813,69173.5,0.0,68653.33,0.0,0.0,Forecast,
+CF-0544,2026-11-01,Nov 2026,2026,11,Q4,AR Collections,Inflow,Finance,Central,Redwood Consulting,INV-96816,51315.77,0.0,59149.82,0.0,0.0,Forecast,
+CF-0559,2026-11-02,Nov 2026,2026,11,Q4,AP Payments,Outflow,Finance,South,Acme Supplies Co.,PO-49625,17282.91,0.0,17205.0,0.0,0.0,Forecast,
+CF-0562,2026-11-02,Nov 2026,2026,11,Q4,Operating Expenses,Outflow,IT,East,BuildRight Materials,EXP-8985,13816.28,0.0,12513.79,0.0,0.0,Forecast,
+CF-0565,2026-11-02,Nov 2026,2026,11,Q4,Operating Expenses,Outflow,HR,East,PowerGrid Utilities,EXP-6734,6501.6,0.0,6998.77,0.0,0.0,Forecast,
+CF-0552,2026-11-05,Nov 2026,2026,11,Q4,Service Revenue,Inflow,Sales,South,Nova Technologies,SVC-3970,16196.93,0.0,17646.28,0.0,0.0,Forecast,
+CF-0566,2026-11-05,Nov 2026,2026,11,Q4,CAPEX,Outflow,Operations,West,MetalWorks Ltd.,CAP-2471,89304.46,0.0,90857.71,0.0,0.0,Forecast,
+CF-0543,2026-11-07,Nov 2026,2026,11,Q4,AR Collections,Inflow,Finance,West,ClearPath LLC,INV-49602,44162.89,0.0,48100.8,0.0,0.0,Forecast,
+CF-0557,2026-11-07,Nov 2026,2026,11,Q4,AP Payments,Outflow,Finance,West,ProStaff Services,PO-46816,10945.15,0.0,12195.39,0.0,0.0,Forecast,
+CF-0560,2026-11-07,Nov 2026,2026,11,Q4,Payroll,Outflow,HR,North,Payroll Processing,PAY-202611-1,137627.89,0.0,141942.21,0.0,0.0,Forecast,
+CF-0550,2026-11-08,Nov 2026,2026,11,Q4,Service Revenue,Inflow,Sales,East,Redwood Consulting,SVC-3614,43241.64,0.0,47955.45,0.0,0.0,Forecast,
+CF-0548,2026-11-11,Nov 2026,2026,11,Q4,Product Sales,Inflow,Sales,East,Blue Sky Solutions,ORD-5208,59348.37,0.0,66461.85,0.0,0.0,Forecast,
+CF-0564,2026-11-12,Nov 2026,2026,11,Q4,Operating Expenses,Outflow,HR,South,FastShip Logistics,EXP-3841,20951.07,0.0,20916.43,0.0,0.0,Forecast,
+CF-0549,2026-11-13,Nov 2026,2026,11,Q4,Product Sales,Inflow,Sales,South,Pacific Distributors,ORD-5289,102087.48,0.0,112363.98,0.0,0.0,Forecast,
+CF-0554,2026-11-14,Nov 2026,2026,11,Q4,AP Payments,Outflow,Finance,North,ProStaff Services,PO-44358,37371.56,0.0,34473.05,0.0,0.0,Forecast,
+CF-0563,2026-11-17,Nov 2026,2026,11,Q4,Operating Expenses,Outflow,Operations,South,Acme Supplies Co.,EXP-8543,22407.5,0.0,20941.6,0.0,0.0,Forecast,
+CF-0545,2026-11-20,Nov 2026,2026,11,Q4,AR Collections,Inflow,Finance,East,Nova Technologies,INV-49121,54898.5,0.0,56756.98,0.0,0.0,Forecast,
+CF-0546,2026-11-21,Nov 2026,2026,11,Q4,AR Collections,Inflow,Finance,East,Summit Enterprises,INV-46291,74336.58,0.0,73176.25,0.0,0.0,Forecast,
+CF-0561,2026-11-21,Nov 2026,2026,11,Q4,Payroll,Outflow,HR,West,Payroll Processing,PAY-202611-2,92940.6,0.0,91647.23,0.0,0.0,Forecast,
+CF-0547,2026-11-25,Nov 2026,2026,11,Q4,Product Sales,Inflow,Sales,Central,Harmon Industries,ORD-5465,37743.99,0.0,42470.58,0.0,0.0,Forecast,
+CF-0542,2026-11-26,Nov 2026,2026,11,Q4,AR Collections,Inflow,Finance,East,Nova Technologies,INV-94245,32386.26,0.0,32888.58,0.0,0.0,Forecast,
+CF-0551,2026-11-28,Nov 2026,2026,11,Q4,Service Revenue,Inflow,Sales,East,Blue Sky Solutions,SVC-4443,33814.54,0.0,34756.66,0.0,0.0,Forecast,
+CF-0553,2026-11-28,Nov 2026,2026,11,Q4,Interest Income,Inflow,Finance,South,Bank of Commerce,INT-202611,5261.16,0.0,5104.99,0.0,0.0,Forecast,
+CF-0555,2026-11-28,Nov 2026,2026,11,Q4,AP Payments,Outflow,Finance,South,SafetyFirst Supplies,PO-58031,22939.32,0.0,22279.13,0.0,0.0,Forecast,
+CF-0556,2026-11-28,Nov 2026,2026,11,Q4,AP Payments,Outflow,Finance,South,CloudSys Inc.,PO-54723,24017.19,0.0,21384.34,0.0,0.0,Forecast,
+CF-0558,2026-11-28,Nov 2026,2026,11,Q4,AP Payments,Outflow,Finance,South,FastShip Logistics,PO-71048,11156.07,0.0,10102.79,0.0,0.0,Forecast,
+CF-0541,2026-11-30,Nov 2026,2026,11,Q4,AR Collections,Inflow,Finance,South,Blue Sky Solutions,INV-94852,18507.19,0.0,18130.23,0.0,0.0,Forecast,
+CF-0573,2026-12-04,Dec 2026,2026,12,Q4,Product Sales,Inflow,Sales,East,Meridian Corp,ORD-9077,35007.44,0.0,30915.4,0.0,0.0,Forecast,
+CF-0577,2026-12-04,Dec 2026,2026,12,Q4,Service Revenue,Inflow,Sales,East,Nova Technologies,SVC-3639,43113.24,0.0,43769.85,0.0,0.0,Forecast,
+CF-0580,2026-12-05,Dec 2026,2026,12,Q4,AP Payments,Outflow,Finance,Central,FastShip Logistics,PO-41539,6348.2,0.0,6074.26,0.0,0.0,Forecast,
+CF-0584,2026-12-07,Dec 2026,2026,12,Q4,Payroll,Outflow,HR,Central,Payroll Processing,PAY-202612-1,90371.31,0.0,91603.2,0.0,0.0,Forecast,
+CF-0588,2026-12-08,Dec 2026,2026,12,Q4,Operating Expenses,Outflow,HR,West,OfficePro Services,EXP-7285,21646.79,0.0,23190.3,0.0,0.0,Forecast,
+CF-0574,2026-12-12,Dec 2026,2026,12,Q4,Service Revenue,Inflow,Sales,South,Pacific Distributors,SVC-2209,53844.15,0.0,50399.28,0.0,0.0,Forecast,
+CF-0589,2026-12-12,Dec 2026,2026,12,Q4,CAPEX,Outflow,Operations,North,FastShip Logistics,CAP-3286,46360.55,0.0,52749.48,0.0,0.0,Forecast,
+CF-0590,2026-12-13,Dec 2026,2026,12,Q4,Tax Payments,Outflow,Finance,West,IRS / Tax Authority,TAX-2026-Q4,122556.87,0.0,122022.55,0.0,0.0,Forecast,
+CF-0570,2026-12-14,Dec 2026,2026,12,Q4,AR Collections,Inflow,Finance,South,ClearPath LLC,INV-59840,57315.74,0.0,50904.13,0.0,0.0,Forecast,
+CF-0582,2026-12-15,Dec 2026,2026,12,Q4,AP Payments,Outflow,Finance,West,PowerGrid Utilities,PO-74768,20409.01,0.0,20910.56,0.0,0.0,Forecast,
+CF-0575,2026-12-16,Dec 2026,2026,12,Q4,Service Revenue,Inflow,Sales,North,Summit Enterprises,SVC-1960,41592.77,0.0,38482.53,0.0,0.0,Forecast,
+CF-0569,2026-12-20,Dec 2026,2026,12,Q4,AR Collections,Inflow,Finance,North,Apex Retail Group,INV-96765,53518.68,0.0,51976.64,0.0,0.0,Forecast,
+CF-0572,2026-12-20,Dec 2026,2026,12,Q4,Product Sales,Inflow,Sales,Central,Blue Sky Solutions,ORD-8431,47948.06,0.0,48481.55,0.0,0.0,Forecast,
+CF-0571,2026-12-21,Dec 2026,2026,12,Q4,Product Sales,Inflow,Sales,Central,Apex Retail Group,ORD-7466,84091.32,0.0,77227.65,0.0,0.0,Forecast,
+CF-0585,2026-12-21,Dec 2026,2026,12,Q4,Payroll,Outflow,HR,East,Payroll Processing,PAY-202612-2,147839.31,0.0,143146.28,0.0,0.0,Forecast,
+CF-0587,2026-12-21,Dec 2026,2026,12,Q4,Operating Expenses,Outflow,HR,Central,Acme Supplies Co.,EXP-8771,6456.73,0.0,7072.48,0.0,0.0,Forecast,
+CF-0576,2026-12-22,Dec 2026,2026,12,Q4,Service Revenue,Inflow,Sales,North,ClearPath LLC,SVC-1610,47914.98,0.0,53607.06,0.0,0.0,Forecast,
+CF-0579,2026-12-22,Dec 2026,2026,12,Q4,AP Payments,Outflow,Finance,North,ProStaff Services,PO-47918,18967.73,0.0,18022.61,0.0,0.0,Forecast,
+CF-0568,2026-12-23,Dec 2026,2026,12,Q4,AR Collections,Inflow,Finance,Central,Apex Retail Group,INV-59177,25020.23,0.0,25853.22,0.0,0.0,Forecast,
+CF-0567,2026-12-24,Dec 2026,2026,12,Q4,AR Collections,Inflow,Finance,South,Blue Sky Solutions,INV-37681,31019.84,0.0,32938.05,0.0,0.0,Forecast,
+CF-0581,2026-12-24,Dec 2026,2026,12,Q4,AP Payments,Outflow,Finance,West,TechCore Solutions,PO-44420,15659.14,0.0,15250.25,0.0,0.0,Forecast,
+CF-0578,2026-12-26,Dec 2026,2026,12,Q4,Interest Income,Inflow,Finance,North,Bank of Commerce,INT-202612,2188.56,0.0,1991.63,0.0,0.0,Forecast,
+CF-0583,2026-12-26,Dec 2026,2026,12,Q4,AP Payments,Outflow,Finance,South,FastShip Logistics,PO-27409,29358.47,0.0,28512.31,0.0,0.0,Forecast,
+CF-0586,2026-12-29,Dec 2026,2026,12,Q4,Operating Expenses,Outflow,Operations,North,MetalWorks Ltd.,EXP-6998,24839.24,0.0,22646.4,0.0,0.0,Forecast,

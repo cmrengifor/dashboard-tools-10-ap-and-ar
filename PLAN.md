@@ -103,7 +103,7 @@ dashboard-tools-10-ap-and-ar/
 
 | # | Dashboard | Herramienta | Estado |
 |---|---|---|---|
-| 06 | Cash Flow Forecasting | Power BI + Excel | ⬜ Pendiente |
+| 06 | Cash Flow Forecasting | Power BI + Excel | ✅ Completado |
 | 07 | Expense vs. Revenue Dashboard | Power BI | ⬜ Pendiente |
 | 08 | Vendor Performance Dashboard | Power BI | ⬜ Pendiente |
 
